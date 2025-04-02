@@ -1,9 +1,11 @@
 <div align="center">
-    <img src="static/logo.jpeg" alt="渡一视频集合" width="150" height="150" border="radio:50%"/>
+    <img src="static/logo.jpeg" alt="渡一视频集合" width="150" height="150" border-radius="50% 10%"/>
 </div>
 <h1 align="center">📰 渡一视频集合</h1>
+<p align="center">是一份专注于收集全网渡一教学视频的集合。以简洁易懂的形式呈现，快速掌握关键信息，节省查阅时间。</p>
 
-📋 简介
+## 📋 简介
+
 此集合目前涵盖以下账户内容：
 
 - [抖音 - 渡一前端提薪课](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
