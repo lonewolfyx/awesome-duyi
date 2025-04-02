@@ -1,0 +1,13 @@
+{
+	"semi": false,
+	"singleQuote": true,
+	"trailingComma": "none",
+	"tabWidth": 4,
+	"endOfLine": "auto",
+	"printWidth": 120,
+	"plugins": [
+		"prettier-plugin-multiline-arrays"
+	],
+	"multilineArraysWrapThreshold": 1,
+	"useTabs": true
+}
