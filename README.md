@@ -1,7 +1,7 @@
-<div style="text-align: center">
+<div align="center">
     <img src="static/logo.jpeg" alt="渡一视频集合" style="width:150px;height:150px;border-radius:50%"/>
 </div>
-<h1 style="text-align: center">📰 渡一视频集合</h1>
+<h1 align="center">📰 渡一视频集合</h1>
 
 📋 简介
 此集合目前涵盖以下账户内容：
