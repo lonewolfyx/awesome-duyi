@@ -5,7 +5,7 @@
 	"description": "",
 	"type": "module",
 	"scripts": {
-		"dev": "tsx ./src/index.ts",
+		"generate:README": "tsx ./src/generateReadme.ts",
 		"format": "prettier --write ./"
 	},
 	"keywords": [],
