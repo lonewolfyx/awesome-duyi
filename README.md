@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="static/logo.jpeg" alt="渡一视频集合" style="width:150px;height:150px;border-radius:50%"/>
+    <img src="static/logo.jpeg" alt="渡一视频集合" width="150" height="150" border="radio:50%"/>
 </div>
 <h1 align="center">📰 渡一视频集合</h1>
 
