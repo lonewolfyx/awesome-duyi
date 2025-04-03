@@ -97,6 +97,7 @@ const getBiliBiliNewData = async (fileName: string, url: string) => {
 		if (response.url().includes('x/space/wbi/arc/search')) {
 			const text = await response.text()
 			if (text && JSON.parse(text)?.data) {
+                console.log(JSON.parse(text))
 				const vList = JSON.parse(text)['data']['list']['vlist']
 				const row = vList[0]
 				const oldContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
