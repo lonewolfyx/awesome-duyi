@@ -6,7 +6,9 @@
 	"type": "module",
 	"scripts": {
 		"generate:README": "tsx ./src/generateReadme.ts",
-		"format": "prettier --write ./"
+		"format": "prettier --write ./",
+		"dev:bilibili": "tsx ./src/bilibili.ts",
+		"dev:douyin": "tsx ./src/douyin.ts"
 	},
 	"keywords": [],
 	"repository": {
