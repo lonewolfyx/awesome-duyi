@@ -86,9 +86,12 @@ const getBiliBiliDataList = async (fileName: string, url: string) => {
 
 const getBiliBiliNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
+        channel: 'chrome',
 		headless: true
 	})
-	const context = await browser.newContext()
+	const context = await browser.newContext({
+        userAgent:'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
+    })
 	const page = await context.newPage()
 
 	const filePath = resolve(cwd(), `./data/${fileName}.json`)
