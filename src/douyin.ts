@@ -7,7 +7,7 @@ import { user, type UserList } from '@/user.ts'
 
 export const getDouYinNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
-		headless: true
+		headless: false
 	})
 	const context = await browser.newContext()
 	const page = await context.newPage()
