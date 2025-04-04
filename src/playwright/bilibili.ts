@@ -86,12 +86,13 @@ const getBiliBiliDataList = async (fileName: string, url: string) => {
 
 const getBiliBiliNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
-        channel: 'chrome',
+		channel: 'chrome',
 		headless: true
 	})
 	const context = await browser.newContext({
-        userAgent:'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
-    })
+		userAgent:
+			'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
+	})
 	const page = await context.newPage()
 
 	const filePath = resolve(cwd(), `./data/${fileName}.json`)
@@ -100,7 +101,7 @@ const getBiliBiliNewData = async (fileName: string, url: string) => {
 		if (response.url().includes('x/space/wbi/arc/search')) {
 			const text = await response.text()
 			if (text && JSON.parse(text)?.data) {
-                console.log(JSON.parse(text))
+				console.log(JSON.parse(text))
 				const vList = JSON.parse(text)['data']['list']['vlist']
 				const row = vList[0]
 				const oldContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
