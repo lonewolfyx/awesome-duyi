@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [箭头函数的意义](https://www.douyin.com/video/7489296463982333194) - 2025-04-05 11:50:00
 - [css新单位vmin和vmax](https://www.douyin.com/video/7489011515169738035) - 2025-04-04 11:50:00
 - [按钮边框的旋转动画](https://www.douyin.com/video/7488723807738400050) - 2025-04-03 11:50:00
 - [模特换装效果](https://www.douyin.com/video/7488272061199060251) - 2025-04-02 11:50:00
@@ -500,6 +501,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [SVG的描边动画](https://www.douyin.com/video/7489295596671618354) - 2025-04-05 11:50:00
 - [前端各种风骚操作](https://www.douyin.com/video/7489010673817521417) - 2025-04-04 11:50:00
 - [在vite中自动生成路由](https://www.douyin.com/video/7488724020188302619) - 2025-04-03 11:50:00
 - [手写Promise.all](https://www.douyin.com/video/7488271063785278758) - 2025-04-02 11:50:00
@@ -680,6 +682,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [插槽的本质【渡一教育】](https://www.bilibili.com/BV1GKZGY6EEp) - 2025-04-05 11:55:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV13MZGYuEEJ) - 2025-04-04 11:55:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1gMZGYuEm3) - 2025-04-03 11:55:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1gMZGYuEvq) - 2025-04-02 11:55:00
@@ -1846,6 +1849,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1QRoQYjETm) - 2025-04-05 11:55:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1hRoQYjE6e) - 2025-04-04 11:55:00
 - [触发迅雷下载【渡一教育】](https://www.bilibili.com/BV1YSoQYSEai) - 2025-04-03 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1YSoQYSEr3) - 2025-04-02 11:55:00
@@ -2879,6 +2883,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [表单的元素选择【渡一教育】](https://www.bilibili.com/BV1m9ZyYoEWK) - 2025-04-05 11:55:00
 - [光标跟随效果【渡一教育】](https://www.bilibili.com/BV1C3oCYCETN) - 2025-04-04 11:55:00
 - [封装resize指令【渡一教育】](https://www.bilibili.com/BV1MkoCYWEq5) - 2025-04-03 11:55:00
 - [代码着色【渡一教育】](https://www.bilibili.com/BV1bkoCYpEGu) - 2025-04-02 11:55:00
@@ -3577,6 +3582,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [微软算法题-按键映射【渡一教育】](https://www.bilibili.com/BV1k8oQYYEXB) - 2025-04-05 11:55:00
 - [【渡一教育】](https://www.bilibili.com/BV1C8oQYYEAb) - 2025-04-04 11:55:00
 - [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1C8oQYYEFy) - 2025-04-03 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1mJoQYgEoE) - 2025-04-02 11:55:00
