@@ -1303,6 +1303,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1xMoCY2Esu) - 2025-04-05 11:55:00
 - [数字转中文【渡一教育】](https://www.bilibili.com/BV11MoCY1EgA) - 2025-04-04 11:55:00
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1ygoCY5E1Z) - 2025-04-03 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1ygoCY5Emq) - 2025-04-02 11:55:00
@@ -2442,6 +2443,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [SASS中的数学函数【渡一教育】](https://www.bilibili.com/BV1rcovYEEyk) - 2025-04-05 12:00:00
 - [flex+margin【渡一教育】](https://www.bilibili.com/BV1kcovYEEGj) - 2025-04-04 12:00:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV1rcovYEEfF) - 2025-04-03 12:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1rcovYEEyf) - 2025-04-02 12:00:00
