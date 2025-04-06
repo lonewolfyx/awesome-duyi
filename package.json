@@ -10,7 +10,10 @@
 		"dev:bilibili": "tsx src/bilibili/index.ts",
 		"dev:douyin": "tsx src/playwright/douyin.ts",
 		"pw:bilibili": "tsx src/playwright/bilibili.ts",
-		"test": "tsx test/test.ts"
+		"test": "tsx test/test.ts",
+		"docs:dev": "vitepress dev docs",
+		"docs:build": "vitepress build docs",
+		"docs:preview": "vitepress preview docs"
 	},
 	"keywords": [],
 	"repository": {
@@ -33,7 +36,9 @@
 		"prettier": "^3.5.3",
 		"prettier-plugin-multiline-arrays": "^4.0.3",
 		"tsx": "^4.19.3",
-		"typescript": "^5.8.3"
+		"typescript": "^5.8.3",
+		"vitepress": "^1.6.3",
+		"vue": "^3.5.13"
 	},
 	"license": "MIT"
 }
