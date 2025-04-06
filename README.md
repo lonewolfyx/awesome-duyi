@@ -2443,6 +2443,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1rcovYEEeY) - 2025-04-06 12:00:00
 - [SASS中的数学函数【渡一教育】](https://www.bilibili.com/BV1rcovYEEyk) - 2025-04-05 12:00:00
 - [flex+margin【渡一教育】](https://www.bilibili.com/BV1kcovYEEGj) - 2025-04-04 12:00:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV1rcovYEEfF) - 2025-04-03 12:00:00
