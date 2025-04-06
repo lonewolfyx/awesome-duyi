@@ -9,7 +9,7 @@ export default defineConfig({
 		nav: [
 			{ text: '视频集', link: '/videos' },
 			{ text: '代码集', link: '/codes' },
-            { text: '赞助', link: '/sponsor'}
+			{ text: '赞助', link: '/sponsor' }
 		],
 
 		sidebar: [
