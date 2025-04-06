@@ -3,9 +3,8 @@ import fs from 'node:fs'
 import { resolve } from 'node:path'
 import { cwd } from 'node:process'
 import dayjs from 'dayjs'
-import { user, type UserList } from '@/user.ts'
 
-const getBiliBiliDataList = async (fileName: string, url: string) => {
+export const getBiliBiliDataList = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
 		channel: 'chrome',
 		headless: false
@@ -29,7 +28,7 @@ const getBiliBiliDataList = async (fileName: string, url: string) => {
 				vList.forEach((item: any) => {
 					const item_title = item.title
 					const time = dayjs.unix(item.created).format('YYYY-MM-DD HH:mm:ss')
-					const content = `{"title":"${item_title}","url":"https://www.bilibili.com/${item.bvid}","time":"${time}"},\n`
+					const content = `{"title":"${item_title}","url":"https://www.bilibili.com/${item.bvid}","time":"${time}","cover":"${item.pic}"},\n`
 					fs.writeFileSync(filePath, content, {
 						encoding: 'utf8',
 						flag: 'a'
@@ -41,7 +40,7 @@ const getBiliBiliDataList = async (fileName: string, url: string) => {
 
 	await page.goto(url)
 
-	await page.waitForSelector('.be-pager-next', { timeout: 10000 })
+	await page.waitForSelector('.be-pager-next', { timeout: 20000 })
 
 	// 获取分页的数量
 	// 获取 .be-pager-total 元素的内容
@@ -87,7 +86,7 @@ const getBiliBiliDataList = async (fileName: string, url: string) => {
 const getBiliBiliNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
 		channel: 'chrome',
-		headless: true
+		headless: false
 	})
 	const context = await browser.newContext({
 		userAgent:
@@ -138,21 +137,3 @@ const getBiliBiliNewData = async (fileName: string, url: string) => {
 // await getBiliBiliDataList('webqdkf', 'https://space.bilibili.com/384876532/video')
 // await getBiliBiliDataList('qdbxk', 'https://space.bilibili.com/3494367522195464/video')
 // await getBiliBiliNewData('qdjjk', 'https://space.bilibili.com/174874061/video')
-
-async function main(users: UserList[]) {
-	for (const item of users) {
-		if (item.type === 'bilibili') {
-			// 计算当前这次的延迟
-			const delay = 2000
-
-			// 等待当前的总延迟时间
-			await new Promise((resolve) => setTimeout(resolve, delay))
-
-			await getBiliBiliNewData(item.id, item.url)
-		}
-	}
-}
-
-;(async () => {
-	await main(user)
-})()
