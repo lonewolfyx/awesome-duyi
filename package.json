@@ -7,8 +7,10 @@
 	"scripts": {
 		"generate:README": "tsx ./src/generateReadme.ts",
 		"format": "prettier --write ./",
-		"dev:bilibili": "tsx src/playwright/bilibili.ts",
-		"dev:douyin": "tsx ./src/douyin.ts"
+		"dev:bilibili": "tsx src/bilibili/index.ts",
+		"dev:douyin": "tsx src/playwright/douyin.ts",
+		"pw:bilibili": "tsx src/playwright/bilibili.ts",
+		"test": "tsx test/test.ts"
 	},
 	"keywords": [],
 	"repository": {
@@ -16,18 +18,22 @@
 		"url": "git+https://github.com/lonewolfyx/./.git"
 	},
 	"dependencies": {
+		"@lonewolfyx/utils": "^0.0.0",
+		"axios": "^1.8.4",
 		"dayjs": "^1.11.13",
 		"fs-extra": "^11.3.0",
+		"md5-typescript": "^1.0.5",
+		"node-html-parser": "^7.0.1",
 		"playwright": "^1.51.1"
 	},
 	"devDependencies": {
-		"@lonewolfyx/tsconfig": "^0.0.4",
+		"@lonewolfyx/tsconfig": "^0.0.5",
 		"@types/fs-extra": "^11.0.4",
-		"@types/node": "^22.13.10",
+		"@types/node": "^22.14.0",
 		"prettier": "^3.5.3",
 		"prettier-plugin-multiline-arrays": "^4.0.3",
 		"tsx": "^4.19.3",
-		"typescript": "^5.8.2"
+		"typescript": "^5.8.3"
 	},
 	"license": "MIT"
 }

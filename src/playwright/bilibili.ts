@@ -83,7 +83,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
 	}, 2000)
 }
 
-const getBiliBiliNewData = async (fileName: string, url: string) => {
+export const getBiliBiliNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
 		channel: 'chrome',
 		headless: false
@@ -111,7 +111,8 @@ const getBiliBiliNewData = async (fileName: string, url: string) => {
 					oldContent.unshift({
 						title: row.title,
 						url: `https://www.bilibili.com/${row.bvid}`,
-						time: dayjs.unix(row.created).format('YYYY-MM-DD HH:mm:ss')
+						time: dayjs.unix(row.created).format('YYYY-MM-DD HH:mm:ss'),
+						cover: row.pic
 					})
 					fs.writeFileSync(filePath, JSON.stringify(oldContent), {
 						encoding: 'utf8',

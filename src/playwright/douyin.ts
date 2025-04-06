@@ -3,7 +3,6 @@ import * as fs from 'node:fs'
 import { cwd } from 'node:process'
 import { resolve } from 'node:path'
 import dayjs from 'dayjs'
-import { user, type UserList } from '@/user.ts'
 
 export const getDouYinNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
@@ -53,21 +52,3 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 		await browser.close()
 	}, 2000)
 }
-
-async function main(users: UserList[]) {
-	for (const item of users) {
-		if (item.type === 'douyin') {
-			// 计算当前这次的延迟
-			const delay = 2000
-
-			// 等待当前的总延迟时间
-			await new Promise((resolve) => setTimeout(resolve, delay))
-
-			await getDouYinNewData(item.id, item.url)
-		}
-	}
-}
-
-;(async () => {
-	await main(user)
-})()

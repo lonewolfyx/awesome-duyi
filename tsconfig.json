@@ -5,13 +5,17 @@
 		"paths": {
 			"@/*": [
 				"src/*"
+			],
+			"#/*": [
+				"types/*"
 			]
 		},
 		"noUnusedLocals": false,
 		"noUnusedParameters": false
 	},
 	"include": [
-		"src/**/*"
+		"src/**/*",
+		"types/**/*"
 	],
 	"exclude": [
 		"node_modules"
