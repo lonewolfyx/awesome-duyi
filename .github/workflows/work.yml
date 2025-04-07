@@ -1,49 +1,49 @@
-#name: Get the latest video collection
-#
-#on:
-#    push:
-#        branches: ['master']
-#    pull_request:
-#        branches: ['master']
-#    #  schedule:
-#    #    - cron: "0 * * * *"
-#
-#    workflow_dispatch:
-#
-#jobs:
-#    build:
-#        runs-on: ubuntu-latest
-#
-#        strategy:
-#            matrix:
-#                node-version: [22.x]
-#
-#        steps:
-#            - uses: actions/checkout@v4
-#
-#            - name: Use Node.js ${{ matrix.node-version }}
-#              uses: actions/setup-node@v4
-#              with:
-#                  node-version: ${{ matrix.node-version }}
-#
-#            - name: Install dependencies
-#              run: npm install
-#
-#            - name: Install Playwright browsers
-#              run: npx playwright install --with-deps
-#
+name: Get the latest video collection
+
+on:
+    push:
+        branches: ['master']
+    pull_request:
+        branches: ['master']
+    #  schedule:
+    #    - cron: "0 * * * *"
+
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        strategy:
+            matrix:
+                node-version: [22.x]
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v4
+              with:
+                  node-version: ${{ matrix.node-version }}
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Install Playwright browsers
+              run: npx playwright install --with-deps
+
 #            - name: run bilibili
 #              run: npm run dev:bilibili
 #
-#            - name: run douyin
-#              run: npm run dev:douyin
+            - name: run douyin
+              run: npm run test:douyin
 #
 #            - name: Generate README.md
 #              run: npm run generate:README
 #
 #            - name: run douyin
 #              run: npm run format
-#
+
 #            - name: 'Commit'
 #              uses: EndBug/add-and-commit@v4
 #              with:

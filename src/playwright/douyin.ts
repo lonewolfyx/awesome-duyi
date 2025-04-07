@@ -17,24 +17,25 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 		if (response.url().includes('aweme/v1/web/aweme/post')) {
 			const text = await response.text()
 			if (text && JSON.parse(text)?.aweme_list?.[0]) {
-				const video = JSON.parse(text)['aweme_list'][0]
-				const lastTime = video.create_time
-
-				const oldContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
-				const firstContent = oldContent[0]
-				const contentLastTime = dayjs(firstContent.time).valueOf() / 1e3
-
-				if (contentLastTime < lastTime) {
-					oldContent.unshift({
-						title: video.item_title || video.desc.split('\n')[0],
-						url: `https://www.douyin.com/video/${video.aweme_id}`,
-						time: dayjs.unix(lastTime).format('YYYY-MM-DD HH:mm:ss')
-					})
-					fs.writeFileSync(filePath, JSON.stringify(oldContent), {
-						encoding: 'utf8',
-						flag: 'w'
-					})
-				}
+                console.log(text)
+				// const video = JSON.parse(text)['aweme_list'][0]
+				// const lastTime = video.create_time
+                //
+				// const oldContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+				// const firstContent = oldContent[0]
+				// const contentLastTime = dayjs(firstContent.time).valueOf() / 1e3
+                //
+				// if (contentLastTime < lastTime) {
+				// 	oldContent.unshift({
+				// 		title: video.item_title || video.desc.split('\n')[0],
+				// 		url: `https://www.douyin.com/video/${video.aweme_id}`,
+				// 		time: dayjs.unix(lastTime).format('YYYY-MM-DD HH:mm:ss')
+				// 	})
+				// 	fs.writeFileSync(filePath, JSON.stringify(oldContent), {
+				// 		encoding: 'utf8',
+				// 		flag: 'w'
+				// 	})
+				// }
 			}
 		}
 	})
@@ -52,3 +53,7 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 		await browser.close()
 	}, 2000)
 }
+
+(async ()=>{
+    await getDouYinNewData('txk','https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT')
+})()

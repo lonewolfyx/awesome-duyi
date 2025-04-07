@@ -7,13 +7,13 @@
 	"scripts": {
 		"generate:README": "tsx ./src/generateReadme.ts",
 		"format": "prettier --write ./",
-		"dev:bilibili": "tsx src/bilibili/index.ts",
-		"dev:douyin": "tsx src/playwright/douyin.ts",
-		"pw:bilibili": "tsx src/playwright/bilibili.ts",
-		"test": "tsx test/test.ts",
+		"dev:pw:duyi": "tsx src/duyi.ts",
 		"docs:dev": "vitepress dev docs",
 		"docs:build": "vitepress build docs",
-		"docs:preview": "vitepress preview docs"
+		"docs:preview": "vitepress preview docs",
+		"dev": "tsx src/douyin/index.ts",
+		"test": "tsx test/test.ts",
+		"test:douyin": "tsx src/playwright/douyin.ts"
 	},
 	"keywords": [],
 	"repository": {
