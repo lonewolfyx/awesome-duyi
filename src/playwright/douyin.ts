@@ -6,7 +6,7 @@ import dayjs from 'dayjs'
 
 export const getDouYinNewData = async (fileName: string, url: string) => {
 	const browser = await chromium.launch({
-		headless: false
+		headless: true
 	})
 	const context = await browser.newContext()
 	const page = await context.newPage()
