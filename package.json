@@ -12,11 +12,11 @@
 		"test": "tsx test/test.ts",
 		"test:douyin": "tsx src/playwright/douyin.ts"
 	},
-	"keywords": [],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/lonewolfyx/./.git"
-	},
+	"keywords": [
+		"awesome-duyi",
+		"duyi video",
+		"duyi"
+	],
 	"dependencies": {
 		"@lonewolfyx/utils": "^0.0.0",
 		"axios": "^1.8.4",
