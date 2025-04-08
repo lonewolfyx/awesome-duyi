@@ -8,10 +8,10 @@ export default defineConfig({
         logo: '/logo.jpeg',
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Home', link: '/' },
+            { text: '首页', link: '/' },
             { text: '抖音专辑', link: '/douyin' },
             { text: '哔哩哔哩专辑', link: '/bilibili' },
-            { text: '代码专辑', link: '/bilibili' }
+            { text: '代码专辑', link: '/code' }
             // { text: '赞助', link: '/sponsor' }
         ],
 
@@ -26,8 +26,8 @@ export default defineConfig({
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' }],
-
+            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' }
+        ],
         lastUpdated: {
             text: '最后更新于',
             formatOptions: {
@@ -36,5 +36,4 @@ export default defineConfig({
             }
         }
     }
-    // appearance: 'dark'
 })
