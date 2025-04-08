@@ -1,15 +1,14 @@
 import { cwd } from 'node:process'
 import { resolve } from 'node:path'
 import fs from 'node:fs'
-import { user, type UserList } from '@/user.ts'
+import { write } from '@/util.ts'
+import { biliBiliUser, douYinUser } from '@/user.ts'
+import type { BiliBiliChannel, DouYinChannel } from '#/types.ts'
 import { platformType } from '@/constant.ts'
 
 const readmePath = resolve(cwd(), `./README.md`)
 const writeContent = (content: string) => {
-	fs.writeFileSync(readmePath, content, {
-		encoding: 'utf8',
-		flag: 'a'
-	})
+	write(readmePath, content)
 }
 
 const content = [
@@ -32,18 +31,32 @@ content.forEach((item: string) => {
 	writeContent(`${item}\n`)
 })
 
-user.forEach((item: UserList) => {
-	writeContent(`- [${platformType[item.type]} - ${item.name}](${item.url})\n`)
+douYinUser.forEach((item: DouYinChannel) => {
+	writeContent(`- [${platformType.douyin} - ${item.name}](${item.url})\n`)
 })
+biliBiliUser.forEach((item: BiliBiliChannel) => {
+	writeContent(`- [${platformType.bilibili} - ${item.name}](${item.url})\n`)
+})
+
 writeContent(`\n`)
 
 writeContent('> 若有推荐的优质账户可进行 `issues` 提交\n')
 writeContent(`\n`)
 
-user.forEach((item: UserList) => {
-	writeContent(`### ${platformType[item.type]} - ${item.name}\n`)
+douYinUser.forEach((item: DouYinChannel) => {
+	writeContent(`### ${platformType.douyin} - ${item.name}\n`)
 	writeContent(`\n`)
-	const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.id}.json`), 'utf-8'))
+	const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.alias}.json`), 'utf-8'))
+	content.forEach((row: any) => {
+		writeContent(`- [${row.title}](${row.url}) - ${row.time}\n`)
+	})
+	writeContent(`\n`)
+})
+
+biliBiliUser.forEach((item: BiliBiliChannel) => {
+	writeContent(`### ${platformType.bilibili} - ${item.name}\n`)
+	writeContent(`\n`)
+	const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.alias}.json`), 'utf-8'))
 	content.forEach((row: any) => {
 		writeContent(`- [${row.title}](${row.url}) - ${row.time}\n`)
 	})
