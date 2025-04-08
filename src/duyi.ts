@@ -1,6 +1,6 @@
 import { biliBiliUser, douYinUser } from '@/user.ts'
-import { getDouYinNewData } from '@/playwright/douyin.ts'
 import { getBiliBili } from '@/bilibili'
+import { getDouYinData } from '@/douyin'
 
 const runDouYin = async () => {
 	for (const item of douYinUser) {
@@ -10,7 +10,7 @@ const runDouYin = async () => {
 		// 等待当前的总延迟时间
 		await new Promise((resolve) => setTimeout(resolve, delay))
 
-		await getDouYinNewData(item.id, item.url)
+		await getDouYinData(item)
 	}
 }
 
@@ -26,4 +26,7 @@ const runBiliBili = async () => {
 	}
 }
 
-;(async () => await runDouYin())()
+;(async () => {
+	await runDouYin()
+	await runBiliBili()
+})()

@@ -7,8 +7,8 @@ import fs from 'node:fs'
  * @param cover 是否覆盖，默认 false
  */
 export const write = (path: string, content: string, cover: boolean = false) => {
-    fs.writeFileSync(path, content, {
-        encoding: 'utf8',
-        flag: cover ? 'w' : 'a'
-    })
+	fs.writeFileSync(path, content, {
+		encoding: 'utf8',
+		flag: cover ? 'w' : 'a'
+	})
 }
