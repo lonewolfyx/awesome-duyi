@@ -29,7 +29,6 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 
 				video.forEach((row: any) => {
 					const title = row.item_title || row.desc.split('\n')[0]
-					console.log(title)
 					const url = `https://www.douyin.com/video/${row.aweme_id}`
 					const time = dayjs.unix(row.create_time).format('YYYY-MM-DD HH:mm:ss')
 					const cover = row.video?.dynamic_cover?.url_list[0] || row.video?.origin_cover?.url_list[0] || ''
