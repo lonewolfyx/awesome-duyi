@@ -28,7 +28,6 @@
 		"@lonewolfyx/tsconfig": "^0.0.5",
 		"@types/fs-extra": "^11.0.4",
 		"@types/node": "^22.14.0",
-		"@types/sm-crypto": "^0.3.4",
 		"prettier": "^3.5.3",
 		"prettier-plugin-multiline-arrays": "^4.0.3",
 		"sass-embedded": "^1.86.3",
