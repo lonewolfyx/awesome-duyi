@@ -1,38 +1,38 @@
 {
-	"name": "duyi",
-	"author": "lonewolfyx <OldDriver>",
-	"version": "0.0.0",
-	"description": "",
-	"type": "module",
-	"scripts": {
-		"generate:README": "tsx ./src/generateReadme.ts",
-		"format": "prettier --write ./",
-		"dev:pw:duyi": "tsx src/duyi.ts",
-		"dev": "tsx src/douyin/index.ts",
-		"test": "tsx test/test.ts",
-		"test:douyin": "tsx src/playwright/douyin.ts"
-	},
-	"keywords": [
-		"awesome-duyi",
-		"duyi video",
-		"duyi"
-	],
-	"dependencies": {
-		"@lonewolfyx/utils": "^0.0.0",
-		"axios": "^1.8.4",
-		"dayjs": "^1.11.13",
-		"fs-extra": "^11.3.0",
-		"playwright": "^1.51.1"
-	},
-	"devDependencies": {
-		"@lonewolfyx/tsconfig": "^0.0.5",
-		"@types/fs-extra": "^11.0.4",
-		"@types/node": "^22.14.0",
-		"prettier": "^3.5.3",
-		"prettier-plugin-multiline-arrays": "^4.0.3",
-		"sass-embedded": "^1.86.3",
-		"tsx": "^4.19.3",
-		"typescript": "^5.8.3"
-	},
-	"license": "MIT"
+    "name": "duyi",
+    "author": "lonewolfyx <OldDriver>",
+    "version": "0.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "generate:README": "tsx ./src/generateReadme.ts",
+        "format": "prettier --write ./",
+        "dev:pw:duyi": "tsx src/duyi.ts",
+        "dev": "tsx src/douyin/index.ts",
+        "test": "tsx test/test.ts",
+        "test:douyin": "tsx src/playwright/douyin.ts"
+    },
+    "keywords": [
+        "awesome-duyi",
+        "duyi video",
+        "duyi"
+    ],
+    "dependencies": {
+        "@lonewolfyx/utils": "^0.0.0",
+        "axios": "^1.8.4",
+        "dayjs": "^1.11.13",
+        "fs-extra": "^11.3.0",
+        "playwright": "^1.51.1"
+    },
+    "devDependencies": {
+        "@lonewolfyx/tsconfig": "^0.0.5",
+        "@types/fs-extra": "^11.0.4",
+        "@types/node": "^22.14.0",
+        "prettier": "^3.5.3",
+        "prettier-plugin-multiline-arrays": "^4.0.3",
+        "sass-embedded": "^1.86.3",
+        "tsx": "^4.19.3",
+        "typescript": "^5.8.3"
+    },
+    "license": "MIT"
 }

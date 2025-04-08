@@ -1,23 +1,23 @@
 {
-	"extends": "@lonewolfyx/tsconfig/tsconfig.lib.json",
-	"compilerOptions": {
-		"baseUrl": "./",
-		"paths": {
-			"@/*": [
-				"src/*"
-			],
-			"#/*": [
-				"types/*"
-			]
-		},
-		"noUnusedLocals": false,
-		"noUnusedParameters": false
-	},
-	"include": [
-		"src/**/*",
-		"types/**/*"
-	],
-	"exclude": [
-		"node_modules"
-	]
+    "extends": "@lonewolfyx/tsconfig/tsconfig.lib.json",
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*": [
+                "src/*"
+            ],
+            "#/*": [
+                "types/*"
+            ]
+        },
+        "noUnusedLocals": false,
+        "noUnusedParameters": false
+    },
+    "include": [
+        "src/**/*",
+        "types/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
 }
