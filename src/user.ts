@@ -1,27 +1,27 @@
-import type { BiliBiliChannel, UserList } from '#/types.ts'
+import type { BiliBiliChannel, DouYinChannel } from '#/types.ts'
 
-export const douYinUser: UserList[] = [
+export const douYinUser: DouYinChannel[] = [
 	{
-		id: 'txk',
-		type: 'douyin',
+		uid: 'MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT',
+		alias: 'txk',
 		name: '渡一前端提薪课',
 		url: 'https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT'
 	},
 	{
-		id: 'xxpd',
-		type: 'douyin',
+		uid: 'MS4wLjABAAAAi2oukRVcHpgD-HbVdzsxE7tYykr91YuIKukR_X_Yy08EFWRQhRrECDF6FvbvT8Xa',
+		alias: 'xxpd',
 		name: '渡一Web前端学习频道',
 		url: 'https://www.douyin.com/user/MS4wLjABAAAAi2oukRVcHpgD-HbVdzsxE7tYykr91YuIKukR_X_Yy08EFWRQhRrECDF6FvbvT8Xa'
 	},
 	{
-		id: 'jks',
-		type: 'douyin',
+		uid: 'MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi',
+		alias: 'jks',
 		name: '渡一前端教科书',
 		url: 'https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi'
 	},
 	{
-		id: 'bxk',
-		type: 'douyin',
+		uid: 'MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk',
+		alias: 'bxk',
 		name: '渡一前端必修课',
 		url: 'https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk'
 	}
