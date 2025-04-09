@@ -29,10 +29,10 @@ jobs:
             - name: Install dependencies
               run: npm install
 
-            - name: Install Playwright browsers
-              run: npx playwright install --with-deps
+            #            - name: Install Playwright browsers
+            #              run: npx playwright install --with-deps
 
-            - name: run bilibili && douyin video
+            - name: Run bilibili && douyin video
               run: npm run dev:pw:duyi
 
             - name: Generate README.md
@@ -41,7 +41,7 @@ jobs:
             - name: Update Docs
               run: npm run docs:generate
 
-            - name: run douyin
+            - name: Format Code
               run: npm run format
 
             - name: 'Commit'
