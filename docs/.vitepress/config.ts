@@ -37,7 +37,7 @@ export default defineConfig({
             ],
             '/bilibili/': [
                 {
-                    text: '抖音专辑',
+                    text: '哔哩哔哩专辑',
                     items: [
                         { text: '渡一机构', link: '/bilibili/institution' },
                         { text: '渡一教育-前端进阶课', link: '/bilibili/front_end_advanced' },
