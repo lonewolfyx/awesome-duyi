@@ -11,6 +11,25 @@ const writeContent = (content: string) => {
     write(readmePath, content)
 }
 
+const writeAccount = <T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: string) => {
+    account.forEach((item: T) => {
+        writeContent(`- [${platform} - ${item.name}](${item.url})\n`)
+    })
+}
+
+const writeVideos = <T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: keyof typeof platformType) => {
+    account.forEach((item: T) => {
+        writeContent(`### ${platformType[platform]} - ${item.name}\n`)
+        writeContent(`\n`)
+        const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.alias}.json`), 'utf-8'))
+        content.slice(0, 20).forEach((row: any) => {
+            writeContent(`- [${row.title}](${row.url}) - ${row.time}\n`)
+        })
+        writeContent(`\n[查看更多](https://awesome-duyi.vercel.app/${platform}/${item.vpName}.html)\n`)
+        writeContent(`\n`)
+    })
+}
+
 const content = [
     '<div align="center">',
     '    <img src="static/logo.jpeg" alt="渡一视频集合" width="150" height="150" border-radius="50% 10%"/>',
@@ -24,41 +43,24 @@ const content = [
     ''
 ]
 
-// 初始化内容
-fs.writeFileSync(readmePath, '')
+const main = () => {
+    // 初始化内容
+    write(readmePath, '', true)
 
-content.forEach((item: string) => {
-    writeContent(`${item}\n`)
-})
-
-douYinUser.forEach((item: DouYinChannel) => {
-    writeContent(`- [${platformType.douyin} - ${item.name}](${item.url})\n`)
-})
-biliBiliUser.forEach((item: BiliBiliChannel) => {
-    writeContent(`- [${platformType.bilibili} - ${item.name}](${item.url})\n`)
-})
-
-writeContent(`\n`)
-
-writeContent('> 若有推荐的优质账户可进行 `issues` 提交\n')
-writeContent(`\n`)
-
-douYinUser.forEach((item: DouYinChannel) => {
-    writeContent(`### ${platformType.douyin} - ${item.name}\n`)
-    writeContent(`\n`)
-    const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.alias}.json`), 'utf-8'))
-    content.forEach((row: any) => {
-        writeContent(`- [${row.title}](${row.url}) - ${row.time}\n`)
+    content.forEach((item: string) => {
+        writeContent(`${item}\n`)
     })
-    writeContent(`\n`)
-})
 
-biliBiliUser.forEach((item: BiliBiliChannel) => {
-    writeContent(`### ${platformType.bilibili} - ${item.name}\n`)
+    writeAccount(douYinUser, platformType.douyin)
+    writeAccount(biliBiliUser, platformType.bilibili)
+
     writeContent(`\n`)
-    const content = JSON.parse(fs.readFileSync(resolve(cwd(), `./data/${item.alias}.json`), 'utf-8'))
-    content.forEach((row: any) => {
-        writeContent(`- [${row.title}](${row.url}) - ${row.time}\n`)
-    })
+
+    writeContent('> 若有推荐的优质账户可进行 `issues` 提交\n')
     writeContent(`\n`)
-})
+
+    writeVideos(douYinUser, 'douyin')
+    writeVideos(biliBiliUser, 'bilibili')
+}
+
+main()
