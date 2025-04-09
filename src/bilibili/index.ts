@@ -70,6 +70,7 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
     const lastTime = row.created
     const contentLastTime = dayjs(firstContent.time).valueOf() / 1e3
     if (contentLastTime < lastTime) {
+        console.log('有最新视频：', row.author, row.title)
         oldContent.unshift({
             title: row.title,
             url: `https://www.bilibili.com/${row.bvid}`,
@@ -80,6 +81,8 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
             encoding: 'utf8',
             flag: 'w'
         })
+    } else {
+        console.log('暂无最新视频')
     }
 }
 // ;(async () => {

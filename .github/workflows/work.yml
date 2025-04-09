@@ -26,6 +26,12 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
 
+            - name: Set beijing TimeZone
+              uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区
+              with:
+                  timezoneLinux: 'Asia/Shanghai'
+                  timezoneMacos: 'Asia/Singapore'
+
             - name: Install dependencies
               run: npm install
 

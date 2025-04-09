@@ -112,7 +112,7 @@ export const getDouYinData = async (channel: DouYinChannel) => {
         const lastTime = row.create_time
         if (contentLastTime < lastTime) {
             const title = row.item_title || row.desc.split('\n')[0]
-            console.log('有最新视频：', title)
+            console.log('有最新视频：', row.author?.nickname, title)
             oldContent.unshift({
                 title: title,
                 url: `https://www.douyin.com/video/${row.aweme_id}`,
