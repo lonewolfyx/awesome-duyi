@@ -11,10 +11,10 @@ hero:
     actions:
         - theme: brand
           text: 开始学习 ->
-          link: /guide/what-is-vitepress
+          link: /douyin/salary_increase_course.html
         - theme: alt
           text: Github
-          link: https://github.com/vuejs/vitepress
+          link: https://github.com/lonewolfyx/awesome-duyi
 features:
     - icon:
           src: https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_51580dd72ba14ac499f77e93e30012ba~c5_300x300.jpeg
