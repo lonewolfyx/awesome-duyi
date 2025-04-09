@@ -2,6 +2,7 @@ export interface BiliBiliChannel {
     mid: number
     alias: string
     name: string
+    vpName: string
     url: string
 }
 
@@ -9,6 +10,7 @@ export interface DouYinChannel {
     uid: string
     alias: string
     name: string
+    vpName: string
     url: string
 }
 

@@ -5,7 +5,7 @@
     "description": "",
     "type": "module",
     "scripts": {
-        "generate:README": "tsx ./src/generateReadme.ts",
+        "generate:README": "tsx src/generate/readme.ts",
         "format": "prettier --write ./",
         "dev:pw:duyi": "tsx src/duyi.ts",
         "dev": "tsx src/douyin/index.ts",
@@ -13,7 +13,8 @@
         "test:douyin": "tsx src/playwright/douyin.ts",
         "docs:dev": "vitepress dev docs",
         "docs:build": "vitepress build docs",
-        "docs:preview": "vitepress preview docs"
+        "docs:preview": "vitepress preview docs",
+        "docs:generate": "tsx src/generate/docs.ts"
     },
     "keywords": [
         "awesome-duyi",

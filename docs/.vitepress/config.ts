@@ -9,25 +9,49 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: '首页', link: '/' },
-            { text: '抖音专辑', link: '/douyin' },
-            { text: '哔哩哔哩专辑', link: '/bilibili' },
-            { text: '代码专辑', link: '/code' }
+            {
+                text: '抖音专辑',
+                link: '/douyin/salary_increase_course',
+                activeMatch: '/douyin/'
+            },
+            { text: '哔哩哔哩专辑', link: '/bilibili/institution' },
+            {
+                text: '代码专辑',
+                link: '/code',
+                activeMatch: '/code/'
+            }
             // { text: '赞助', link: '/sponsor' }
         ],
 
-        sidebar: [
-            {
-                text: 'Examples',
-                items: [
-                    { text: 'Markdown Examples', link: '/markdown-examples' },
-                    { text: 'Runtime API Examples', link: '/api-examples' }
-                ]
-            }
-        ],
+        sidebar: {
+            '/douyin/': [
+                {
+                    text: '抖音专辑',
+                    items: [
+                        { text: '渡一前端提薪课', link: '/douyin/salary_increase_course' },
+                        { text: '渡一Web前端学习频道', link: '/douyin/learning_channel' },
+                        { text: '渡一前端教科书', link: '/douyin/textbook' },
+                        { text: '渡一前端必修课', link: '/douyin/compulsory_course' }
+                    ]
+                }
+            ],
+            '/bilibili/': [
+                {
+                    text: '抖音专辑',
+                    items: [
+                        { text: '渡一机构', link: '/bilibili/institution' },
+                        { text: '渡一教育-前端进阶课', link: '/bilibili/front_end_advanced' },
+                        { text: '渡一教育编程课堂', link: '/bilibili/programming' },
+                        { text: '渡一前端提薪空间', link: '/bilibili/salary_increase_course' },
+                        { text: '渡一教育-Web前端开发', link: '/bilibili/front_dev' },
+                        { text: '渡一前端必修课', link: '/bilibili/compulsory_course' }
+                    ]
+                }
+            ]
+        },
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' }
-        ],
+            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' }],
         lastUpdated: {
             text: '最后更新于',
             formatOptions: {
