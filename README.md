@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [循环转递归](https://www.douyin.com/video/7490925108911967503) - 2025-04-09 03:50:00
 - [标签页间通信](https://www.douyin.com/video/7490563360811978021) - 2025-04-08 11:50:00
 - [面试中的难点亮点该怎么聊？](https://www.douyin.com/video/7490175110310038821) - 2025-04-07 11:50:00
 - [箭头函数的意义](https://www.douyin.com/video/7489296463982333194) - 2025-04-05 11:50:00
@@ -527,6 +528,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [你不知道的阴影](https://www.douyin.com/video/7490925662916660490) - 2025-04-09 03:50:00
 - [访问文件夹](https://www.douyin.com/video/7490563373621398810) - 2025-04-08 11:50:00
 - [30万年薪需要具备那些前端技术？](https://www.douyin.com/video/7490379793691725065) - 2025-04-07 11:50:01
 - [SVG的描边动画](https://www.douyin.com/video/7489295596671618354) - 2025-04-05 11:50:00
@@ -707,6 +709,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1aKZGY6EHz) - 2025-04-09 03:55:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV13KZGY6Erz) - 2025-04-08 11:55:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV1hKZGY6EZp) - 2025-04-07 11:55:00
 - [插槽的本质【渡一教育】](https://www.bilibili.com/BV1GKZGY6EEp) - 2025-04-05 11:55:00
@@ -1330,6 +1333,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [光标跟随效果【渡一教育】](https://www.bilibili.com/BV12yZmYhEKs) - 2025-04-09 03:55:00
 - [封装resize指令【渡一教育】](https://www.bilibili.com/BV1xyZmYhEaY) - 2025-04-08 11:55:00
 - [代码着色【渡一教育】](https://www.bilibili.com/BV1H9ZmYsEeb) - 2025-04-07 11:55:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1xMoCY2Esu) - 2025-04-05 11:55:00
@@ -1879,6 +1883,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1hRoQYjEi6) - 2025-04-09 03:55:00
 - [制作简易地图【渡一教育】](https://www.bilibili.com/BV1hRoQYjEmN) - 2025-04-08 11:55:00
 - [vscode绘图插件【渡一教育】](https://www.bilibili.com/BV1hRoQYjEWh) - 2025-04-07 11:55:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1QRoQYjETm) - 2025-04-05 11:55:00
@@ -2474,6 +2479,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [SASS中的模块化开发【渡一教育】](https://www.bilibili.com/BV1Y7ovYqEay) - 2025-04-09 04:00:00
 - [浏览器的自动播放策略【渡一教育】](https://www.bilibili.com/BV1Y7ovYqEao) - 2025-04-08 12:00:00
 - [惰性函数【渡一教育】](https://www.bilibili.com/BV1rcovYEEmD) - 2025-04-07 12:00:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1rcovYEEeY) - 2025-04-06 12:00:00
@@ -2919,6 +2925,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1z3Z1YLE8h) - 2025-04-09 03:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1z3Z1YLExo) - 2025-04-08 11:55:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1k3oCYCEDz) - 2025-04-07 11:55:00
 - [表单的元素选择【渡一教育】](https://www.bilibili.com/BV1m9ZyYoEWK) - 2025-04-05 11:55:00
@@ -3620,6 +3627,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [验证回文串【渡一教育】](https://www.bilibili.com/BV1CboQYPEm1) - 2025-04-09 03:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1CboQYPEBR) - 2025-04-08 11:55:00
 - [CSS实现奥林匹克五环【渡一教育】](https://www.bilibili.com/BV1A8oQYeEU7) - 2025-04-07 11:55:00
 - [微软算法题-按键映射【渡一教育】](https://www.bilibili.com/BV1k8oQYYEXB) - 2025-04-05 11:55:00
