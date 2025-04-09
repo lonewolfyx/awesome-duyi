@@ -43,9 +43,8 @@
 - [利用延迟实现复杂动画](https://www.douyin.com/video/7483494472936885515) - 2025-03-20 11:50:00
 - [使用冻结对象提升效率](https://www.douyin.com/video/7483074050193902884) - 2025-03-19 11:50:00
 - [vscode的正则插件](https://www.douyin.com/video/7482761763306442036) - 2025-03-18 11:50:00
-- [绝对路径和相对路径](https://www.douyin.com/video/7481591211581558055) - 2025-03-17 11:50:00
 
-[查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course)
+[查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
 ### 抖音 - 渡一Web前端学习频道
 
@@ -70,7 +69,7 @@
 - [网络的正确学习方式](https://www.douyin.com/video/7483874630613142834) - 2025-03-21 11:50:00
 - [使用defer优化白屏时间](https://www.douyin.com/video/7483494538053422347) - 2025-03-20 11:50:00
 
-[查看更多](https://awesome-duyi.vercel.app/douyin/learning_channel)
+[查看更多](https://awesome-duyi.vercel.app/douyin/learning_channel.html)
 
 ### 抖音 - 渡一前端教科书
 
@@ -95,7 +94,7 @@
 - [漂亮的文字阴影](https://www.douyin.com/video/7254540863211113728) - 2023-07-12 11:50:00
 - [实现一棵随机树](https://www.douyin.com/video/7254167483404340512) - 2023-07-11 11:50:00
 
-[查看更多](https://awesome-duyi.vercel.app/douyin/textbook)
+[查看更多](https://awesome-duyi.vercel.app/douyin/textbook.html)
 
 ### 抖音 - 渡一前端必修课
 
@@ -119,9 +118,8 @@
 - [使用代理实现单例](https://www.douyin.com/video/7483494510861815052) - 2025-03-20 11:50:00
 - [跟随系统的主题切换](https://www.douyin.com/video/7483073742051003667) - 2025-03-19 11:50:00
 - [高阶函数应用-函数防抖](https://www.douyin.com/video/7482761318278139136) - 2025-03-18 11:50:00
-- [用发布订阅模式解耦](https://www.douyin.com/video/7481589143621946663) - 2025-03-17 11:50:00
 
-[查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course)
+[查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 哔哩哔哩 - 渡一机构
 
@@ -145,9 +143,8 @@
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1PHXVYDEJ7) - 2025-03-20 11:55:00
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1WWXVYJEyn) - 2025-03-19 11:55:00
 - [全组合判断【渡一教育】](https://www.bilibili.com/BV1sS9iY9Ekk) - 2025-03-18 11:55:00
-- [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1PQ9iYpEjF) - 2025-03-17 11:55:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/institution)
+[查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
@@ -171,9 +168,8 @@
 - [never类型的妙用2【渡一教育】](https://www.bilibili.com/BV1FPR3YGEr8) - 2025-03-20 11:55:00
 - [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1rPR3YGEgX) - 2025-03-19 11:55:00
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1FPR3YGEk2) - 2025-03-18 11:55:00
-- [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1FNR3YrEJK) - 2025-03-17 11:55:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced)
+[查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
@@ -197,9 +193,8 @@
 - [属性不可遍历【渡一教育】](https://www.bilibili.com/BV1XUXVYwEVo) - 2025-03-19 11:55:00
 - [闭包代码的提权漏洞【渡一教育】](https://www.bilibili.com/BV1FP9qY5EL8) - 2025-03-18 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1fP9qYVE9H) - 2025-03-17 11:55:00
-- [随机数的求整函数【渡一教育】](https://www.bilibili.com/BV1fP9qYVEXf) - 2025-03-15 11:55:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/programming)
+[查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
@@ -223,9 +218,8 @@
 - [01背包问题【渡一教育】](https://www.bilibili.com/BV16wRnYeEvk) - 2025-03-23 12:00:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV16wRnYeEPQ) - 2025-03-22 12:00:00
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV16wRnYeEYq) - 2025-03-21 12:00:00
-- [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV16wRnYeENa) - 2025-03-20 12:00:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course)
+[查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
@@ -249,9 +243,8 @@
 - [实现拼音标注【渡一教育】](https://www.bilibili.com/BV1DHR3YfEjd) - 2025-03-21 11:55:00
 - [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1hpR3YFEsq) - 2025-03-20 11:55:00
 - [色彩的差值混合【渡一教育】](https://www.bilibili.com/BV13pR3YFEJ9) - 2025-03-19 11:55:00
-- [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV15a9iYKEk9) - 2025-03-18 11:55:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev)
+[查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
@@ -275,7 +268,5 @@
 - [小数运算不精确的根源【渡一教育】](https://www.bilibili.com/BV11eR3YDEyZ) - 2025-03-21 11:55:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV11iR3YJEAT) - 2025-03-20 11:55:00
 - [监听元素的重叠度【渡一教育】](https://www.bilibili.com/BV1yiR3YJEYT) - 2025-03-19 11:55:00
-- [2024最好的面试题【渡一教育】](https://www.bilibili.com/BV12hR3YXEyq) - 2025-03-17 11:55:00
 
-[查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course)
-
+[查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
