@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-12 10:11:15</p>
+<p>更新时间：2025-04-12 14:47:14</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [无缝轮播【渡一教育】](https://www.bilibili.com/BV1CNZ1YJEff) - 2025-04-12 11:55:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1aXoQYmEpb) - 2025-04-11 11:55:00
 - [打包结果分析工具【渡一教育】](https://www.bilibili.com/BV1hRoQYjEtp) - 2025-04-10 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1hRoQYjEi6) - 2025-04-09 11:55:00
