@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [什么是Web API【渡一教育】](https://www.bilibili.com/BV1zuZnY6EhT) - 2025-04-13 12:00:00
 - [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1JuZnY6ELh) - 2025-04-12 12:00:00
 - [canvas动画【渡一教育】](https://www.bilibili.com/BV1JuZnY6EjS) - 2025-04-11 12:00:00
 - [页面可见度API【渡一教育】](https://www.bilibili.com/BV1e7ovYqEFE) - 2025-04-10 12:00:00
@@ -217,7 +218,6 @@
 - [访问器成员【渡一教育】](https://www.bilibili.com/BV1rcovYEE9L) - 2025-03-27 12:00:00
 - [ES6函数的常见面试题【渡一教育】](https://www.bilibili.com/BV1rcRnYNEnP) - 2025-03-26 12:00:00
 - [数据分组引发的思考【渡一教育】](https://www.bilibili.com/BV16wRnYeE3d) - 2025-03-25 12:00:00
-- [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV16wRnYeEwb) - 2025-03-24 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
