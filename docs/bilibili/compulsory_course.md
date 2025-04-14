@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-14 10:18:49</p>
+<p>更新时间：2025-04-14 14:50:41</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [重复渐变的边框【渡一教育】](https://www.bilibili.com/BV1T4ZtYGEkD) - 2025-04-14 11:55:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV12tZtY6Epg) - 2025-04-12 11:55:00
 - [使用chrome调试工具解决问题【渡一教育】](https://www.bilibili.com/BV1CboQYPE6X) - 2025-04-11 11:55:00
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1CboQYPEgX) - 2025-04-10 11:55:00

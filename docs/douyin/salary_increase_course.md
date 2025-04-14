@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-14 10:18:49</p>
+<p>更新时间：2025-04-14 14:50:41</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [脚本加载失败如何重试](https://www.douyin.com/video/7492395750157012287) - 2025-04-14 11:50:00
 - [文字视差背景](https://www.douyin.com/video/7492047190790098227) - 2025-04-12 11:50:00
 - [监听元素的重叠度](https://www.douyin.com/video/7491669692290059554) - 2025-04-11 11:50:00
 - [RTT最短时间](https://www.douyin.com/video/7491322650246024457) - 2025-04-10 11:50:00
