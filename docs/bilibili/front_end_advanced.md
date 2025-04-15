@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-15 10:17:37</p>
+<p>更新时间：2025-04-15 14:49:41</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1xyZmYhEmB) - 2025-04-15 11:55:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV11yZmYhEZj) - 2025-04-14 11:55:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV12yZmYhE1o) - 2025-04-11 11:55:00
 - [表单的元素选择【渡一教育】](https://www.bilibili.com/BV14yZmYhEHA) - 2025-04-10 11:55:00
