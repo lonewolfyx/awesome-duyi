@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [宽度适应内容](https://www.douyin.com/video/7493540004594076965) - 2025-04-16 11:50:00
 - [脚本加载失败如何重试](https://www.douyin.com/video/7492395750157012287) - 2025-04-14 11:50:00
 - [文字视差背景](https://www.douyin.com/video/7492047190790098227) - 2025-04-12 11:50:00
 - [监听元素的重叠度](https://www.douyin.com/video/7491669692290059554) - 2025-04-11 11:50:00
@@ -42,7 +43,6 @@
 - [如何封装命令式组件](https://www.douyin.com/video/7485736590640303412) - 2025-03-26 11:50:00
 - [字典顺序和编码顺序](https://www.douyin.com/video/7485360640593366322) - 2025-03-25 11:50:00
 - [实现元素平滑上升](https://www.douyin.com/video/7484840114040982825) - 2025-03-24 11:50:00
-- [JS中的文档注释](https://www.douyin.com/video/7484236970726608167) - 2025-03-22 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [文字智能适配背景](https://www.douyin.com/video/7493539729560931610) - 2025-04-16 11:50:00
 - [小数运算不精确的根源](https://www.douyin.com/video/7492393499627703563) - 2025-04-14 11:50:00
 - [青蛙跳台阶问题](https://www.douyin.com/video/7492048281749540105) - 2025-04-12 11:50:00
 - [鼠标移动的高亮边框效果](https://www.douyin.com/video/7491670348262329610) - 2025-04-11 11:50:00
@@ -117,7 +118,6 @@
 - [AJAX进度监控](https://www.douyin.com/video/7485736934778686754) - 2025-03-26 11:50:00
 - [打印三角形的面试题](https://www.douyin.com/video/7485360295511067954) - 2025-03-25 11:50:00
 - [多元素组合动画](https://www.douyin.com/video/7484839854963002635) - 2025-03-24 11:50:00
-- [JS实现函数重载](https://www.douyin.com/video/7484237402555321639) - 2025-03-22 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
