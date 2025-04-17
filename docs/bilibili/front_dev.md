@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-17 10:15:58</p>
+<p>更新时间：2025-04-17 14:49:31</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1FuZ1YmEid) - 2025-04-17 11:55:00
 - [判断函数是否标记为async【渡一教育】](https://www.bilibili.com/BV1FuZ1YmEuw) - 2025-04-16 11:55:00
 - [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV16uZ1Y2EFq) - 2025-04-15 11:55:00
 - [使用computed拦截v-model【渡一教育】](https://www.bilibili.com/BV16uZ1Y2ENR) - 2025-04-14 11:55:00
