@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-19 10:10:23</p>
+<p>更新时间：2025-04-19 14:47:32</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV1E6doYMEtN) - 2025-04-19 11:55:00
 - [使用computed拦截v-model【渡一教育】](https://www.bilibili.com/BV14CZmYwEJN) - 2025-04-18 11:55:00
 - [文字的交融展开【渡一教育】](https://www.bilibili.com/BV1tCZmYwEKG) - 2025-04-17 11:55:00
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1tCZmYwEcG) - 2025-04-16 11:55:00
