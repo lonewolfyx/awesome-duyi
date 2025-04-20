@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [布尔判定和短路规则【渡一教育】](https://www.bilibili.com/BV1ofdgYBEWD) - 2025-04-20 12:00:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1qcd3YMETm) - 2025-04-19 12:00:00
 - [层叠规则【渡一教育】](https://www.bilibili.com/BV1XMd3YaEon) - 2025-04-18 12:00:00
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV1VMd3YYExE) - 2025-04-17 12:00:00
@@ -217,7 +218,6 @@
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV1rcovYEEfF) - 2025-04-03 12:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1rcovYEEyf) - 2025-04-02 12:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1pcovYJEgx) - 2025-04-01 12:00:00
-- [封装动画函数【渡一教育】](https://www.bilibili.com/BV1kcovYEEGh) - 2025-03-31 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
