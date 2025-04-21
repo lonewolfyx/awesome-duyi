@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-21 10:20:56</p>
+<p>更新时间：2025-04-21 14:51:19</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [Promise的终极面试题](https://www.douyin.com/video/7494614730657647912) - 2025-04-21 11:50:00
 - [表单的元素选择](https://www.douyin.com/video/7494577599608392969) - 2025-04-19 11:50:00
 - [漩涡型二维数组](https://www.douyin.com/video/7494274931862097188) - 2025-04-18 11:50:00
 - [视差滚动](https://www.douyin.com/video/7493875867605617972) - 2025-04-17 11:50:00
