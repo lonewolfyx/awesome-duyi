@@ -1,6 +1,5 @@
 import type { BiliBiliChannel } from '#/types.ts'
 import axios from 'axios'
-import { getWebId } from '@/bilibili/webid.ts'
 import { getBiliBiliCookies } from '@/bilibili/cookie.ts'
 import { getBiliBiliRequestRid } from '@/bilibili/rid.ts'
 import fs from 'node:fs'
@@ -22,7 +21,7 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
     }
 
     const cookies = await getBiliBiliCookies()
-    const webId = await getWebId(channel.mid.toString())
+    // const webId = await getWebId(channel.mid.toString())
     const now = Math.round(Date.now() / 1e3)
 
     const queryParams = {
@@ -40,7 +39,7 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
         dm_cover_img_str:
             'QU5HTEUgKE5WSURJQSwgTlZJRElBIEdlRm9yY2UgR1RYIDE2NTAgKDB4MDAwMDFGOTEpIERpcmVjdDNEMTEgdnNfNV8wIHBzXzVfMCwgRDNEMTEpR29vZ2xlIEluYy4gKE5WSURJQS',
         dm_img_inter: '{"ds":[],"wh":[0,0,0],"of":[0,0,0]}',
-        w_webid: webId,
+        // w_webid: webId,
         wts: now.toString()
     }
 
