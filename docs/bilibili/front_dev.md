@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-04-24 10:17:38</p>
+<p>更新时间：2025-04-24 14:50:27</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1TcdZY9ETf) - 2025-04-24 11:55:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1TcdZY9EWj) - 2025-04-23 11:55:00
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1MZdoYdEAg) - 2025-04-22 11:55:00
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1bZdoYdEjQ) - 2025-04-21 11:55:00
