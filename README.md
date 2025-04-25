@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [行盒的截断样式【渡一教育】](https://www.bilibili.com/BV1BGoNYbENj) - 2025-04-25 11:55:00
 - [调试上传接口【渡一教育】](https://www.bilibili.com/BV1ZGoNYbEEB) - 2025-04-24 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1hudpYhEty) - 2025-04-23 11:55:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1hudpYhEGR) - 2025-04-22 11:55:00
@@ -142,12 +143,12 @@
 - [插槽的本质【渡一教育】](https://www.bilibili.com/BV1GKZGY6EEp) - 2025-04-05 11:55:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV13MZGYuEEJ) - 2025-04-04 11:55:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1gMZGYuEm3) - 2025-04-03 11:55:00
-- [幻影依赖【渡一教育】](https://www.bilibili.com/BV1gMZGYuEvq) - 2025-04-02 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1jydoYvE5Q) - 2025-04-25 11:55:00
 - [全组合判断【渡一教育】](https://www.bilibili.com/BV1jydoYvEs7) - 2025-04-24 11:55:00
 - [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1jydoYvEks) - 2025-04-23 11:55:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1jydoYvEHV) - 2025-04-22 11:55:00
@@ -167,12 +168,12 @@
 - [数字转中文【渡一教育】](https://www.bilibili.com/BV11MoCY1EgA) - 2025-04-04 11:55:00
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1ygoCY5E1Z) - 2025-04-03 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1ygoCY5Emq) - 2025-04-02 11:55:00
-- [漩涡型二维数组【渡一教育】](https://www.bilibili.com/BV1ygoCY5E2R) - 2025-04-01 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1faoPYdEgQ) - 2025-04-25 11:55:00
 - [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1JaoPYoEAo) - 2025-04-24 11:55:00
 - [依赖倒置原则【渡一教育】](https://www.bilibili.com/BV1faoPYdEiW) - 2025-04-23 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1R6oPYnEgK) - 2025-04-22 11:55:00
@@ -192,12 +193,12 @@
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1QRoQYjETm) - 2025-04-05 11:55:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1hRoQYjE6e) - 2025-04-04 11:55:00
 - [触发迅雷下载【渡一教育】](https://www.bilibili.com/BV1YSoQYSEai) - 2025-04-03 11:55:00
-- [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1YSoQYSEr3) - 2025-04-02 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [妙用位运算【渡一教育】](https://www.bilibili.com/BV1RPd3YNEDY) - 2025-04-25 12:00:00
 - [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1RPd3YNEaD) - 2025-04-24 12:00:00
 - [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1ofdgYBEWy) - 2025-04-23 12:00:00
 - [数据类型和typeof【渡一教育】](https://www.bilibili.com/BV1ZfdgYBEuS) - 2025-04-22 12:00:00
@@ -217,12 +218,12 @@
 - [浏览器的自动播放策略【渡一教育】](https://www.bilibili.com/BV1Y7ovYqEao) - 2025-04-08 12:00:00
 - [惰性函数【渡一教育】](https://www.bilibili.com/BV1rcovYEEmD) - 2025-04-07 12:00:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1rcovYEEeY) - 2025-04-06 12:00:00
-- [SASS中的数学函数【渡一教育】](https://www.bilibili.com/BV1rcovYEEyk) - 2025-04-05 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1TcdZY9EJ4) - 2025-04-25 11:55:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1TcdZY9ETf) - 2025-04-24 11:55:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1TcdZY9EWj) - 2025-04-23 11:55:00
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1MZdoYdEAg) - 2025-04-22 11:55:00
@@ -242,12 +243,12 @@
 - [表单的元素选择【渡一教育】](https://www.bilibili.com/BV1m9ZyYoEWK) - 2025-04-05 11:55:00
 - [光标跟随效果【渡一教育】](https://www.bilibili.com/BV1C3oCYCETN) - 2025-04-04 11:55:00
 - [封装resize指令【渡一教育】](https://www.bilibili.com/BV1MkoCYWEq5) - 2025-04-03 11:55:00
-- [代码着色【渡一教育】](https://www.bilibili.com/BV1bkoCYpEGu) - 2025-04-02 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1cLdZY5Eqh) - 2025-04-25 11:55:00
 - [Application选项卡【渡一教育】](https://www.bilibili.com/BV1cLdZYLECu) - 2025-04-24 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV1wLdZY5EHu) - 2025-04-23 11:55:00
 - [JS引擎线程并不存在【渡一教育】](https://www.bilibili.com/BV1WgdZYmEn5) - 2025-04-22 11:55:00
@@ -267,6 +268,5 @@
 - [【渡一教育】](https://www.bilibili.com/BV1C8oQYYEAb) - 2025-04-04 11:55:00
 - [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1C8oQYYEFy) - 2025-04-03 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1yxoQYKEZy) - 2025-04-02 11:55:00
-- [块级函数【渡一教育】](https://www.bilibili.com/BV1mnoQYzEJ8) - 2025-04-01 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
