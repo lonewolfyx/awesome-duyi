@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [token无感刷新](https://www.douyin.com/video/7497916768275467539) - 2025-04-28 11:50:00
 - [Promise的终极面试题](https://www.douyin.com/video/7494614730657647912) - 2025-04-21 11:50:00
 - [表单的元素选择](https://www.douyin.com/video/7494577599608392969) - 2025-04-19 11:50:00
 - [漩涡型二维数组](https://www.douyin.com/video/7494274931862097188) - 2025-04-18 11:50:00
@@ -42,7 +43,6 @@
 - [文字浮雕效果](https://www.douyin.com/video/7487965863778307379) - 2025-04-01 11:50:00
 - [动态规划代码实现](https://www.douyin.com/video/7487577335894396195) - 2025-03-31 11:50:00
 - [从字段到函数的推导](https://www.douyin.com/video/7486786401682328883) - 2025-03-29 11:50:00
-- [模拟 material 文本框](https://www.douyin.com/video/7486489353066138895) - 2025-03-28 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [内存泄漏和闭包](https://www.douyin.com/video/7497916097694289206) - 2025-04-28 11:50:00
 - [数字转中文](https://www.douyin.com/video/7494582477005147443) - 2025-04-21 11:50:00
 - [CSS实现奥林匹克五环](https://www.douyin.com/video/7494577053388360997) - 2025-04-19 11:50:00
 - [蜂巢布局](https://www.douyin.com/video/7494274030950796583) - 2025-04-18 11:50:00
@@ -117,7 +118,6 @@
 - [git大小写规则造成的问题](https://www.douyin.com/video/7487965431039413554) - 2025-04-01 11:50:00
 - [模块自动导入](https://www.douyin.com/video/7487574943136369957) - 2025-03-31 11:50:00
 - [vue方法中属性丢失的问题](https://www.douyin.com/video/7486786319050444083) - 2025-03-29 11:50:00
-- [使用泛型和keyof约束参数](https://www.douyin.com/video/7486489068868537635) - 2025-03-28 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
