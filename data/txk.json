@@ -1,5 +1,11 @@
 [
     {
+        "title": "组件级权限控制的最佳实践",
+        "url": "https://www.douyin.com/video/7498356049594830132",
+        "time": "2025-04-29 11:50:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/60b5b90f0acc43b4bcf86158d65df47e?lk3s=138a59ce&x-expires=1747116000&x-signature=UiLNJRTEnOmRRjbKb544n0o4keU%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20250429144945B856C4FCCAC3F8052981"
+    },
+    {
         "title": "token无感刷新",
         "url": "https://www.douyin.com/video/7497916768275467539",
         "time": "2025-04-28 11:50:00",
