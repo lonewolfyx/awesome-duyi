@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [可缓存的方法](https://www.douyin.com/video/7498980946528537875) - 2025-05-01 11:50:00
 - [useTemplateRef](https://www.douyin.com/video/7498660145430367524) - 2025-04-30 11:50:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7498356049594830132) - 2025-04-29 11:50:00
 - [token无感刷新](https://www.douyin.com/video/7497916768275467539) - 2025-04-28 11:50:00
@@ -42,7 +43,6 @@
 - [css新单位vmin和vmax](https://www.douyin.com/video/7489011515169738035) - 2025-04-04 11:50:00
 - [按钮边框的旋转动画](https://www.douyin.com/video/7488723807738400050) - 2025-04-03 11:50:00
 - [模特换装效果](https://www.douyin.com/video/7488272061199060251) - 2025-04-02 11:50:00
-- [文字浮雕效果](https://www.douyin.com/video/7487965863778307379) - 2025-04-01 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [UI组件的二次封装](https://www.douyin.com/video/7498980384353291574) - 2025-05-01 11:50:00
 - [console.log导致的内存泄露](https://www.douyin.com/video/7498659109642751244) - 2025-04-30 11:50:00
 - [大量任务执行的调度](https://www.douyin.com/video/7498356143509523727) - 2025-04-29 11:50:00
 - [内存泄漏和闭包](https://www.douyin.com/video/7497916097694289206) - 2025-04-28 11:50:00
@@ -117,7 +118,6 @@
 - [前端各种风骚操作](https://www.douyin.com/video/7489010673817521417) - 2025-04-04 11:50:00
 - [在vite中自动生成路由](https://www.douyin.com/video/7488724020188302619) - 2025-04-03 11:50:00
 - [手写Promise.all](https://www.douyin.com/video/7488271063785278758) - 2025-04-02 11:50:00
-- [git大小写规则造成的问题](https://www.douyin.com/video/7487965431039413554) - 2025-04-01 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
