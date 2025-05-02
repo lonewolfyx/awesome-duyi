@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-02 10:18:51</p>
+<p>更新时间：2025-05-02 14:50:00</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [大文件分片](https://www.douyin.com/video/7498990718208199955) - 2025-05-02 11:50:00
 - [可缓存的方法](https://www.douyin.com/video/7498980946528537875) - 2025-05-01 11:50:00
 - [useTemplateRef](https://www.douyin.com/video/7498660145430367524) - 2025-04-30 11:50:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7498356049594830132) - 2025-04-29 11:50:00

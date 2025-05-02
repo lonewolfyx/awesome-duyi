@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-02 10:18:51</p>
+<p>更新时间：2025-05-02 14:50:00</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [async和await的面试题](https://www.douyin.com/video/7498984147667471628) - 2025-05-02 11:50:00
 - [UI组件的二次封装](https://www.douyin.com/video/7498980384353291574) - 2025-05-01 11:50:00
 - [console.log导致的内存泄露](https://www.douyin.com/video/7498659109642751244) - 2025-04-30 11:50:00
 - [大量任务执行的调度](https://www.douyin.com/video/7498356143509523727) - 2025-04-29 11:50:00
