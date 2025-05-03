@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-03 10:15:49</p>
+<p>更新时间：2025-05-03 14:47:21</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [随机数的求整函数【渡一教育】](https://www.bilibili.com/BV1TLjPz2EK8) - 2025-05-03 11:55:00
 - [优化代码分支【渡一教育】](https://www.bilibili.com/BV1vfjAztE89) - 2025-05-02 11:55:00
 - [中文输入法导致的高频事件【渡一教育】](https://www.bilibili.com/BV1LfjAztEVH) - 2025-05-01 11:55:00
 - [统计字符频率的风骚写法【渡一教育】](https://www.bilibili.com/BV1eFjPzoEd3) - 2025-04-30 11:55:00
