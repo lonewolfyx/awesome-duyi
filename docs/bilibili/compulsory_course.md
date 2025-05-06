@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-06 10:19:56</p>
+<p>更新时间：2025-05-06 14:50:29</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [闭包代码的提权漏洞【渡一教育】](https://www.bilibili.com/BV1TLjPz2EH9) - 2025-05-06 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1TLjPz2EEB) - 2025-05-05 11:55:00
 - [随机数的求整函数【渡一教育】](https://www.bilibili.com/BV1TLjPz2EK8) - 2025-05-03 11:55:00
 - [优化代码分支【渡一教育】](https://www.bilibili.com/BV1vfjAztE89) - 2025-05-02 11:55:00

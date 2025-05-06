@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-06 10:19:56</p>
+<p>更新时间：2025-05-06 14:50:29</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1LdjAz8EVb) - 2025-05-06 11:55:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1LdjAz8E4J) - 2025-05-05 11:55:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV15ojAzfEpW) - 2025-05-03 11:55:00
 - [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV15ojAzfEWr) - 2025-05-02 11:55:00

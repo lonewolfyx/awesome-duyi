@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-06 10:19:56</p>
+<p>更新时间：2025-05-06 14:50:29</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1BRLJz3EPJ) - 2025-05-06 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1odLJz6EDW) - 2025-05-05 11:55:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV1qdLJz6EWp) - 2025-05-03 11:55:00
 - [使用canvas完成基本绘图【渡一教育】](https://www.bilibili.com/BV1qdLJz6Epd) - 2025-05-02 11:55:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-06 10:19:56</p>
+<p>更新时间：2025-05-06 14:50:29</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1ZTL7zvEyq) - 2025-05-06 11:55:00
 - [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1FAL7zuEpU) - 2025-05-05 11:55:00
 - [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1fAL7zMEdT) - 2025-05-03 11:55:00
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1FAL7zuEQP) - 2025-05-02 11:55:00
