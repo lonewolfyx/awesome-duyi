@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-07 10:20:26</p>
+<p>更新时间：2025-05-07 14:51:10</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1BRLJz3EUx) - 2025-05-07 11:55:00
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1BRLJz3EPJ) - 2025-05-06 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1odLJz6EDW) - 2025-05-05 11:55:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV1qdLJz6EWp) - 2025-05-03 11:55:00
