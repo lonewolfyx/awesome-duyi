@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [函数防抖【渡一教育】](https://www.bilibili.com/BV177V8z8EGv) - 2025-05-11 12:00:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV1j7V8z8EJ9) - 2025-05-10 12:00:00
 - [HTMLCollection & NodeList【渡一教育】](https://www.bilibili.com/BV1j7V8z8E8H) - 2025-05-09 12:00:00
 - [逐帧动画【渡一教育】](https://www.bilibili.com/BV1ydLtzkEUJ) - 2025-05-08 12:00:00
@@ -217,7 +218,6 @@
 - [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1RPd3YNEaD) - 2025-04-24 12:00:00
 - [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1ofdgYBEWy) - 2025-04-23 12:00:00
 - [数据类型和typeof【渡一教育】](https://www.bilibili.com/BV1ZfdgYBEuS) - 2025-04-22 12:00:00
-- [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1BfdgYzETR) - 2025-04-21 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
