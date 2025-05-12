@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-12 10:24:37</p>
+<p>更新时间：2025-05-12 14:52:37</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1XK5Nz9Ekn) - 2025-05-12 11:55:00
 - [动态规划问题的一般解题思路【渡一教育】](https://www.bilibili.com/BV1XK5Nz9EtX) - 2025-05-10 11:55:00
 - [二进制格式上传文件【渡一教育】](https://www.bilibili.com/BV1wZLjzkEmQ) - 2025-05-09 11:55:00
 - [在canvas中绘制和拖动【渡一教育】](https://www.bilibili.com/BV1ZKL7zKEUt) - 2025-05-08 11:55:00

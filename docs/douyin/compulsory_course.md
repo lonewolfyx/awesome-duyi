@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-12 10:24:37</p>
+<p>更新时间：2025-05-12 14:52:37</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [资源提示符](https://www.douyin.com/video/7502468571172212019) - 2025-05-12 11:50:00
 - [代码片段工具](https://www.douyin.com/video/7502465135173307686) - 2025-05-10 11:50:00
 - [字符串的异步替换封装](https://www.douyin.com/video/7501998906943802658) - 2025-05-09 11:50:00
 - [判断数组的准确方法](https://www.douyin.com/video/7501699994508987657) - 2025-05-08 11:50:00
