@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [弹性盒均分布局](https://www.douyin.com/video/7504220210656726326) - 2025-05-15 11:50:00
 - [闭包代码的提权漏洞](https://www.douyin.com/video/7502466755424488742) - 2025-05-12 11:50:00
 - [生成渐变背景小工具](https://www.douyin.com/video/7502465555656396083) - 2025-05-10 11:50:00
 - [优化代码分支](https://www.douyin.com/video/7501999523640675599) - 2025-05-09 11:50:00
@@ -42,7 +43,6 @@
 - [视差滚动](https://www.douyin.com/video/7493875867605617972) - 2025-04-17 11:50:00
 - [宽度适应内容](https://www.douyin.com/video/7493540004594076965) - 2025-04-16 11:50:00
 - [脚本加载失败如何重试](https://www.douyin.com/video/7492395750157012287) - 2025-04-14 11:50:00
-- [文字视差背景](https://www.douyin.com/video/7492047190790098227) - 2025-04-12 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [彻底理解JWT](https://www.douyin.com/video/7504219445817036073) - 2025-05-15 11:50:00
 - [资源提示符](https://www.douyin.com/video/7502468571172212019) - 2025-05-12 11:50:00
 - [代码片段工具](https://www.douyin.com/video/7502465135173307686) - 2025-05-10 11:50:00
 - [字符串的异步替换封装](https://www.douyin.com/video/7501998906943802658) - 2025-05-09 11:50:00
@@ -117,7 +118,6 @@
 - [从视频文件提取画面帧](https://www.douyin.com/video/7493876271668153651) - 2025-04-17 11:50:00
 - [文字智能适配背景](https://www.douyin.com/video/7493539729560931610) - 2025-04-16 11:50:00
 - [小数运算不精确的根源](https://www.douyin.com/video/7492393499627703563) - 2025-04-14 11:50:00
-- [青蛙跳台阶问题](https://www.douyin.com/video/7492048281749540105) - 2025-04-12 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
