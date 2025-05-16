@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-16 10:22:16</p>
+<p>更新时间：2025-05-16 14:51:19</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [封装统计函数【渡一教育】](https://www.bilibili.com/BV1S35NznEdj) - 2025-05-16 11:55:00
 - [Intersection Observer【渡一教育】](https://www.bilibili.com/BV1D35NznE72) - 2025-05-15 11:55:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1D35NznEYU) - 2025-05-14 11:55:00
 - [如何防截屏防录制【渡一教育】](https://www.bilibili.com/BV1XK5Nz9EvD) - 2025-05-13 11:55:00
