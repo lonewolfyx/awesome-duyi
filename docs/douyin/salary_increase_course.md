@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-17 10:18:28</p>
+<p>更新时间：2025-05-17 14:47:56</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [唤起本地应用](https://www.douyin.com/video/7504967268804381964) - 2025-05-17 11:50:00
 - [call和apply的链式调用](https://www.douyin.com/video/7504688698856885538) - 2025-05-16 11:50:00
 - [弹性盒均分布局](https://www.douyin.com/video/7504220210656726326) - 2025-05-15 11:50:00
 - [闭包代码的提权漏洞](https://www.douyin.com/video/7502466755424488742) - 2025-05-12 11:50:00
