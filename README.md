@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [元素的尺寸【渡一教育】](https://www.bilibili.com/BV1inV8ztE4u) - 2025-05-18 12:00:00
 - [手写call【渡一教育】](https://www.bilibili.com/BV1vnV8ztEHX) - 2025-05-17 12:00:00
 - [无法取消的默认行为【渡一教育】](https://www.bilibili.com/BV17jV8zcEA6) - 2025-05-16 12:00:00
 - [手写bind函数【渡一教育】](https://www.bilibili.com/BV1fjV8zcENq) - 2025-05-15 12:00:00
@@ -217,7 +218,6 @@
 - [零宽字符【渡一教育】](https://www.bilibili.com/BV11dLtzkEA9) - 2025-05-01 12:00:00
 - [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1PdLtzCERz) - 2025-04-30 12:00:00
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV11dLtzkEHN) - 2025-04-29 12:00:00
-- [JSLabel语法【渡一教育】](https://www.bilibili.com/BV11dLtzkE7Q) - 2025-04-28 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
