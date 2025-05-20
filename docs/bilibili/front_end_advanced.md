@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-20 10:22:50</p>
+<p>更新时间：2025-05-20 14:52:01</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [手写Promise-微队列【渡一教育】](https://www.bilibili.com/BV1J7Ekz2Eg5) - 2025-05-20 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1f7Ekz1Efy) - 2025-05-19 11:55:00
 - [CSS下划线动画【渡一教育】](https://www.bilibili.com/BV1d553zkEDj) - 2025-05-17 11:55:00
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1Rj53z3Eo6) - 2025-05-16 11:55:00
