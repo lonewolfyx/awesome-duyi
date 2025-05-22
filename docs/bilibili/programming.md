@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-22 10:21:52</p>
+<p>更新时间：2025-05-22 14:51:20</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1rXEkzQEik) - 2025-05-22 11:55:00
 - [FLIP动画【渡一教育】](https://www.bilibili.com/BV1yUEkzsEuy) - 2025-05-21 11:55:00
 - [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1yUEkzsEnW) - 2025-05-20 11:55:00
 - [打印三角形的面试题【渡一教育】](https://www.bilibili.com/BV1yUEkzsE7i) - 2025-05-19 11:55:00

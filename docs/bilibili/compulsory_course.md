@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-22 10:21:52</p>
+<p>更新时间：2025-05-22 14:51:20</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [触发迅雷下载【渡一教育】](https://www.bilibili.com/BV19bEkzMEkf) - 2025-05-22 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV15bEkzuEsC) - 2025-05-21 11:55:00
 - [拖拽排序【渡一教育】](https://www.bilibili.com/BV1jWEkzkEHM) - 2025-05-20 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1dWEkzrEVj) - 2025-05-19 11:55:00
