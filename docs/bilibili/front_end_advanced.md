@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-24 10:16:58</p>
+<p>更新时间：2025-05-24 14:47:29</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1f7Ekz1EtR) - 2025-05-24 11:55:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV1J7Ekz2EL4) - 2025-05-23 11:55:00
 - [常用工具推荐【渡一教育】](https://www.bilibili.com/BV1f7Ekz1Evf) - 2025-05-22 11:55:00
 - [纵向控制的横向滚动【渡一教育】](https://www.bilibili.com/BV1J7Ekz2Eg3) - 2025-05-21 11:55:00
