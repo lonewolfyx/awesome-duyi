@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-26 10:25:56</p>
+<p>更新时间：2025-05-26 14:52:49</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [vscode绘图插件【渡一教育】](https://www.bilibili.com/BV19bEkzMEP6) - 2025-05-26 11:55:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1VbEkzuEoa) - 2025-05-24 11:55:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV19bEkzMERC) - 2025-05-23 11:55:00
 - [触发迅雷下载【渡一教育】](https://www.bilibili.com/BV19bEkzMEkf) - 2025-05-22 11:55:00
