@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-27 10:21:13</p>
+<p>更新时间：2025-05-27 14:51:40</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1f7Ekz1E29) - 2025-05-27 11:55:00
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1f7Ekz1Ed7) - 2025-05-26 11:55:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1f7Ekz1EtR) - 2025-05-24 11:55:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV1J7Ekz2EL4) - 2025-05-23 11:55:00

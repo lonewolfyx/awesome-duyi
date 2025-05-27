@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-27 10:21:12</p>
+<p>更新时间：2025-05-27 14:51:40</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [使用void 0 替换undefined](https://www.douyin.com/video/7508675187282382090) - 2025-05-27 11:50:00
 - [canvas动画](https://www.douyin.com/video/7507964372753452340) - 2025-05-26 11:50:00
 - [Promise.try](https://www.douyin.com/video/7507569422408682789) - 2025-05-24 11:50:00
 - [制作简易地图](https://www.douyin.com/video/7507197362192796978) - 2025-05-23 11:50:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-27 10:21:13</p>
+<p>更新时间：2025-05-27 14:51:40</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [制作简易地图【渡一教育】](https://www.bilibili.com/BV15bEkzuET9) - 2025-05-27 11:55:00
 - [vscode绘图插件【渡一教育】](https://www.bilibili.com/BV19bEkzMEP6) - 2025-05-26 11:55:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1VbEkzuEoa) - 2025-05-24 11:55:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV19bEkzMERC) - 2025-05-23 11:55:00
