@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-28 10:23:11</p>
+<p>更新时间：2025-05-28 14:52:03</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV1kQEkzpEyb) - 2025-05-28 11:55:00
 - [手写Promise.all【渡一教育】](https://www.bilibili.com/BV1kQEkzpED4) - 2025-05-27 11:55:00
 - [git大小写规则造成的问题【渡一教育】](https://www.bilibili.com/BV1CQEkzpEg4) - 2025-05-26 11:55:00
 - [模块自动导入【渡一教育】](https://www.bilibili.com/BV1kXEkzQE5V) - 2025-05-24 11:55:00
