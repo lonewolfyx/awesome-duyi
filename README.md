@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [数字格式化](https://www.douyin.com/video/7509748478923361546) - 2025-05-29 14:21:27
 - [什么是Web API](https://www.douyin.com/video/7509115037387148559) - 2025-05-28 11:50:00
 - [使用void 0 替换undefined](https://www.douyin.com/video/7508675187282382090) - 2025-05-27 11:50:00
 - [canvas动画](https://www.douyin.com/video/7507964372753452340) - 2025-05-26 11:50:00
@@ -42,7 +43,6 @@
 - [copy的监听和解禁](https://www.douyin.com/video/7501252764991819058) - 2025-05-07 11:50:00
 - [并发请求](https://www.douyin.com/video/7499002647752543524) - 2025-05-06 11:50:00
 - [单点登录的模式](https://www.douyin.com/video/7499001085810593065) - 2025-05-05 11:50:00
-- [你不知道的HTML属性](https://www.douyin.com/video/7498999057604447551) - 2025-05-03 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [你不知道的数字字面量](https://www.douyin.com/video/7509415838022126884) - 2025-05-29 11:50:00
 - [页面可见度API](https://www.douyin.com/video/7509114867140267279) - 2025-05-28 11:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7508675112980188467) - 2025-05-27 11:50:00
 - [为什么需要虚拟DOM？](https://www.douyin.com/video/7507964657097870644) - 2025-05-26 11:50:00
@@ -117,7 +118,6 @@
 - [下载的流式传输](https://www.douyin.com/video/7501252277194231066) - 2025-05-07 11:50:00
 - [五子棋的胜负判定逻辑](https://www.douyin.com/video/7498986431285644555) - 2025-05-06 11:50:00
 - [右键菜单组件的封装](https://www.douyin.com/video/7498985607146851620) - 2025-05-05 11:50:00
-- [一道丧心病狂的面试题](https://www.douyin.com/video/7498984667643759911) - 2025-05-03 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
