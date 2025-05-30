@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-30 10:20:38</p>
+<p>更新时间：2025-05-30 14:52:03</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [在canvas中绘制和拖动](https://www.douyin.com/video/7509839847650020620) - 2025-05-30 11:50:00
 - [你不知道的数字字面量](https://www.douyin.com/video/7509415838022126884) - 2025-05-29 11:50:00
 - [页面可见度API](https://www.douyin.com/video/7509114867140267279) - 2025-05-28 11:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7508675112980188467) - 2025-05-27 11:50:00
