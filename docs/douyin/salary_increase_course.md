@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-05-31 10:19:48</p>
+<p>更新时间：2025-05-31 14:48:44</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [数据类型和typeof](https://www.douyin.com/video/7510158361342561547) - 2025-05-31 11:50:00
 - [布尔判定和短路规则](https://www.douyin.com/video/7509839814959664447) - 2025-05-30 11:50:00
 - [数字格式化](https://www.douyin.com/video/7509748478923361546) - 2025-05-29 14:21:27
 - [什么是Web API](https://www.douyin.com/video/7509115037387148559) - 2025-05-28 11:50:00
