@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-04 10:25:44</p>
+<p>更新时间：2025-06-04 14:52:15</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [封装统计函数](https://www.douyin.com/video/7511688991998053673) - 2025-06-04 11:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7511233302569717027) - 2025-06-03 11:50:00
 - [永远不要用inline-block布局](https://www.douyin.com/video/7510947123345509684) - 2025-06-02 11:50:00
 - [数据类型和typeof](https://www.douyin.com/video/7510158361342561547) - 2025-05-31 11:50:00
