@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-05 10:23:49</p>
+<p>更新时间：2025-06-05 14:54:12</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [给fetch添加超时功能](https://www.douyin.com/video/7512015677247606079) - 2025-06-05 11:50:00
 - [上传OSS的正确姿势](https://www.douyin.com/video/7511689767268994315) - 2025-06-04 11:50:00
 - [Intersection Observer](https://www.douyin.com/video/7511232409883479296) - 2025-06-03 11:50:00
 - [动态规划问题的一般解题思路](https://www.douyin.com/video/7510946955997007154) - 2025-06-02 11:50:00
