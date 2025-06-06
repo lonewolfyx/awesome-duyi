@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-06 10:23:32</p>
+<p>更新时间：2025-06-06 14:54:15</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [小数运算不精确的根源【渡一教育】](https://www.bilibili.com/BV1Nkjjz2ETu) - 2025-06-06 11:55:00
 - [青蛙跳台阶问题【渡一教育】](https://www.bilibili.com/BV1NyjjzLEJt) - 2025-06-05 11:55:00
 - [鼠标移动的高亮边框效果【渡一教育】](https://www.bilibili.com/BV1PyjjzLELa) - 2025-06-04 11:55:00
 - [前置的不定量参数【渡一教育】](https://www.bilibili.com/BV1NyjjzLE7q) - 2025-06-03 11:55:00

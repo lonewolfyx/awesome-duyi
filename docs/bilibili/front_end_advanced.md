@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-06 10:23:32</p>
+<p>更新时间：2025-06-06 14:54:15</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1QWj2z3EGX) - 2025-06-06 11:55:00
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1aWj2z3ETM) - 2025-06-05 11:55:00
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV13Wj2z3EzJ) - 2025-06-04 11:55:00
 - [交通灯问题【渡一教育】](https://www.bilibili.com/BV13sj2z6E7b) - 2025-06-03 11:55:00
