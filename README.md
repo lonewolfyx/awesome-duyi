@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [代码雨效果【渡一教育】](https://www.bilibili.com/BV1Fm7nzXEbg) - 2025-06-08 12:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1od7nzjEme) - 2025-06-07 12:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1jd7nz7ExL) - 2025-06-06 12:00:00
 - [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV1U7JizLEGZ) - 2025-06-05 12:00:00
@@ -217,7 +218,6 @@
 - [青蛙跳台阶问题【渡一教育】](https://www.bilibili.com/BV17JV8zFEGc) - 2025-05-22 12:00:00
 - [高亮关键字【渡一教育】](https://www.bilibili.com/BV1jEV8zfErL) - 2025-05-21 12:00:00
 - [FLIP动画【渡一教育】](https://www.bilibili.com/BV1LEV8zfEQN) - 2025-05-20 12:00:00
-- [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV1jnV8ztEwW) - 2025-05-19 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
