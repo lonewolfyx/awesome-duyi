@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-09 10:31:19</p>
+<p>更新时间：2025-06-09 14:54:19</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [实现抖音的“刚刚看过”功能](https://www.douyin.com/video/7512749288531758374) - 2025-06-09 11:50:00
 - [网络状态监控](https://www.douyin.com/video/7512747862137031945) - 2025-06-07 11:50:00
 - [使用SASS实现主题切换](https://www.douyin.com/video/7512453213535178035) - 2025-06-06 11:50:00
 - [给fetch添加超时功能](https://www.douyin.com/video/7512015677247606079) - 2025-06-05 11:50:00

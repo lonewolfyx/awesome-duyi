@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-09 10:31:19</p>
+<p>更新时间：2025-06-09 14:54:19</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [黏性定位【渡一教育】](https://www.bilibili.com/BV19b7BzZECY) - 2025-06-09 11:55:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1M5j7zREKQ) - 2025-06-07 11:55:00
 - [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1ypj7zEE22) - 2025-06-06 11:55:00
 - [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1ypj7zEEok) - 2025-06-05 11:55:00
