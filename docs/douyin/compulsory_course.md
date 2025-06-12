@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-12 10:24:51</p>
+<p>更新时间：2025-06-12 14:53:04</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [SASS中的继承](https://www.douyin.com/video/7514677337015782695) - 2025-06-12 11:50:00
 - [CSS Tricks](https://www.douyin.com/video/7514240974743227685) - 2025-06-11 11:50:00
 - [监控页面卡顿](https://www.douyin.com/video/7513940669749153033) - 2025-06-10 11:50:00
 - [实现抖音的“刚刚看过”功能](https://www.douyin.com/video/7512749288531758374) - 2025-06-09 11:50:00

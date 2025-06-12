@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-12 10:24:51</p>
+<p>更新时间：2025-06-12 14:53:04</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [HTMLCollection & NodeList](https://www.douyin.com/video/7514677546521300260) - 2025-06-12 11:50:00
 - [Cookie中的SameSite](https://www.douyin.com/video/7514241730204454154) - 2025-06-11 11:50:00
 - [map和parseInt](https://www.douyin.com/video/7513940858698321178) - 2025-06-10 11:50:00
 - [用位运算实现权限组合](https://www.douyin.com/video/7512751366314478885) - 2025-06-09 11:50:00
