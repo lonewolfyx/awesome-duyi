@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-14 10:21:21</p>
+<p>更新时间：2025-06-14 14:49:18</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [以同步的方式实现事件监听【渡一教育】](https://www.bilibili.com/BV1Rt7BzbEL9) - 2025-06-14 11:55:00
 - [WeakSet的垃圾回收问题【渡一教育】](https://www.bilibili.com/BV15t7Bz8EfZ) - 2025-06-13 11:55:00
 - [动态表单的实现【渡一教育】](https://www.bilibili.com/BV1Lt7Bz8Euy) - 2025-06-12 11:55:00
 - [利用贝塞尔曲线实现复杂动画【渡一教育】](https://www.bilibili.com/BV1A37Bz3EhS) - 2025-06-11 11:55:00
