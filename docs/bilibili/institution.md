@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-16 10:30:17</p>
+<p>更新时间：2025-06-16 14:54:49</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [语义化版本【渡一教育】](https://www.bilibili.com/BV1anM7z3Em6) - 2025-06-16 11:55:00
 - [以同步的方式实现事件监听【渡一教育】](https://www.bilibili.com/BV1Rt7BzbEL9) - 2025-06-14 11:55:00
 - [WeakSet的垃圾回收问题【渡一教育】](https://www.bilibili.com/BV15t7Bz8EfZ) - 2025-06-13 11:55:00
 - [动态表单的实现【渡一教育】](https://www.bilibili.com/BV1Lt7Bz8Euy) - 2025-06-12 11:55:00

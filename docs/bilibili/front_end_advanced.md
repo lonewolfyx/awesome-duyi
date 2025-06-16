@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-16 10:30:17</p>
+<p>更新时间：2025-06-16 14:54:49</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [封装多边形组件【渡一教育】](https://www.bilibili.com/BV1uLMnzGEju) - 2025-06-16 11:55:00
 - [Proxy比defineProperty到底好在哪【渡一教育】](https://www.bilibili.com/BV1WXT7zxE1q) - 2025-06-14 11:55:00
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1p9T7zRE6C) - 2025-06-13 11:55:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1C9T7zREgX) - 2025-06-12 11:55:00
