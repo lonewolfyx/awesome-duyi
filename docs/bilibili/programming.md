@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-19 10:26:23</p>
+<p>更新时间：2025-06-19 14:53:41</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [withResolvers语法糖【渡一教育】](https://www.bilibili.com/BV1h4M7zTE5j) - 2025-06-19 11:55:00
 - [使用chrome调试工具解决问题【渡一教育】](https://www.bilibili.com/BV18tM7ziEYv) - 2025-06-18 11:55:00
 - [封装resize指令【渡一教育】](https://www.bilibili.com/BV12iM7zcE1s) - 2025-06-17 11:55:00
 - [文字的交融展开【渡一教育】](https://www.bilibili.com/BV12iM7zcEWJ) - 2025-06-16 11:55:00
