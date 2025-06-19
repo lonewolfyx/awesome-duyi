@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [实现Optional](https://www.douyin.com/video/7517207382355692836) - 2025-06-19 11:50:00
 - [以同步的方式实现事件监听](https://www.douyin.com/video/7515783859997379852) - 2025-06-16 11:50:00
 - [文本溢出处理](https://www.douyin.com/video/7515358632733691186) - 2025-06-14 11:50:00
 - [不要使用计时器做动画](https://www.douyin.com/video/7514978862879624475) - 2025-06-13 11:50:00
@@ -42,7 +43,6 @@
 - [什么是Web API](https://www.douyin.com/video/7509115037387148559) - 2025-05-28 11:50:00
 - [使用void 0 替换undefined](https://www.douyin.com/video/7508675187282382090) - 2025-05-27 11:50:00
 - [canvas动画](https://www.douyin.com/video/7507964372753452340) - 2025-05-26 11:50:00
-- [Promise.try](https://www.douyin.com/video/7507569422408682789) - 2025-05-24 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [目录结构到对象结构](https://www.douyin.com/video/7517207023969193257) - 2025-06-19 11:50:00
 - [利用贝塞尔曲线实现复杂动画](https://www.douyin.com/video/7515783890468900159) - 2025-06-16 11:50:00
 - [Animation调试工具的使用](https://www.douyin.com/video/7515358672818539827) - 2025-06-14 11:50:00
 - [双向绑定造成的效率问题](https://www.douyin.com/video/7514977136474639642) - 2025-06-13 11:50:00
@@ -117,7 +118,6 @@
 - [页面可见度API](https://www.douyin.com/video/7509114867140267279) - 2025-05-28 11:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7508675112980188467) - 2025-05-27 11:50:00
 - [为什么需要虚拟DOM？](https://www.douyin.com/video/7507964657097870644) - 2025-05-26 11:50:00
-- [上传OSS的正确做法](https://www.douyin.com/video/7507566309371170098) - 2025-05-24 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
