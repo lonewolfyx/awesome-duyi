@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-20 10:25:40</p>
+<p>更新时间：2025-06-20 14:52:59</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [使用canvas完成基本绘图【渡一教育】](https://www.bilibili.com/BV1GTMnzmEdT) - 2025-06-20 11:55:00
 - [好用的vscode插件【渡一教育】](https://www.bilibili.com/BV1GTMnzmEJ2) - 2025-06-19 11:55:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1GTMnzmEyw) - 2025-06-18 11:55:00
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1GTMnzmE6i) - 2025-06-17 11:55:00
