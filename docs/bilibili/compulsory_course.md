@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-21 10:22:43</p>
+<p>更新时间：2025-06-21 14:49:33</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [封装动画函数【渡一教育】](https://www.bilibili.com/BV1SVMnzCEWU) - 2025-06-21 11:55:00
 - [文件上传的技术纲要【渡一教育】](https://www.bilibili.com/BV1gVMnzCEFe) - 2025-06-20 11:55:00
 - [Headless CMS【渡一教育】](https://www.bilibili.com/BV18VMnzCEJp) - 2025-06-19 11:55:00
 - [粒子时钟【渡一教育】](https://www.bilibili.com/BV1S8M7zNEp9) - 2025-06-18 11:55:00
