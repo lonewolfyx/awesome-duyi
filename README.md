@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [使用二进制散列值【渡一教育】](https://www.bilibili.com/BV15RTrzGE6w) - 2025-06-22 12:00:00
 - [立体文字特效【渡一教育】](https://www.bilibili.com/BV1vRTrzGEEg) - 2025-06-21 12:00:00
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1hwTkzqEHg) - 2025-06-20 12:00:00
 - [小数运算不精确的根源【渡一教育】](https://www.bilibili.com/BV13wTkzqE3G) - 2025-06-19 12:00:00
@@ -217,7 +218,6 @@
 - [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV1U7JizLEGZ) - 2025-06-05 12:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1m7JizLEfU) - 2025-06-04 12:00:00
 - [卡片翻转效果【渡一教育】](https://www.bilibili.com/BV1m7JizLEJb) - 2025-06-03 12:00:00
-- [手写Promise.all【渡一教育】](https://www.bilibili.com/BV1U7JizLEuJ) - 2025-06-02 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
