@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-23 10:34:47</p>
+<p>更新时间：2025-06-23 14:55:01</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [使用data url预览图片](https://www.douyin.com/video/7517947512288808228) - 2025-06-23 11:50:00
 - [React代码执行分析工具](https://www.douyin.com/video/7517947152140684598) - 2025-06-21 11:50:00
 - [项目问题的表述结构](https://www.douyin.com/video/7517647774440082724) - 2025-06-20 11:50:00
 - [目录结构到对象结构](https://www.douyin.com/video/7517207023969193257) - 2025-06-19 11:50:00
