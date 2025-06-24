@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-24 10:27:38</p>
+<p>更新时间：2025-06-24 14:54:13</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV1gdNszSE6t) - 2025-06-24 11:55:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1gdNszSEqP) - 2025-06-23 11:55:00
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1h4M7zTEPk) - 2025-06-21 11:55:00
 - [内存泄漏和闭包【渡一教育】](https://www.bilibili.com/BV1h4M7zTEpg) - 2025-06-20 11:55:00
