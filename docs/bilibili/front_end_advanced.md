@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-25 02:52:37</p>
+<p>更新时间：2025-06-25 10:28:18</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1p8NszqEDs) - 2025-06-25 09:00:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1WbNszMEHU) - 2025-06-24 15:27:14
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1MwNxz2E8w) - 2025-06-24 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1KPNxz5EHf) - 2025-06-23 11:55:00

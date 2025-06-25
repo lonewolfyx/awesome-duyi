@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [联合类型和交叉类型【渡一教育】](https://www.bilibili.com/BV1KZNpz6EJM) - 2025-06-25 09:00:00
 - [如何获取组件的类型【渡一教育】](https://www.bilibili.com/BV1AKNWzNEuF) - 2025-06-24 15:02:54
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1wKNWzNEbM) - 2025-06-24 11:55:00
 - [旋转切换的轮播图【渡一教育】](https://www.bilibili.com/BV1wKNWzNEov) - 2025-06-23 11:55:00
@@ -142,12 +143,12 @@
 - [Animation调试工具的使用【渡一教育】](https://www.bilibili.com/BV1Rcj7zYE5R) - 2025-06-06 11:55:00
 - [SASS中的继承【渡一教育】](https://www.bilibili.com/BV1dcj7zYEKS) - 2025-06-05 11:55:00
 - [监控页面卡顿【渡一教育】](https://www.bilibili.com/BV19Aj7zwEnq) - 2025-06-04 11:55:00
-- [Cookie中的SameSite【渡一教育】](https://www.bilibili.com/BV1RAj7zwEp6) - 2025-06-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1p8NszqEDs) - 2025-06-25 09:00:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1WbNszMEHU) - 2025-06-24 15:27:14
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1MwNxz2E8w) - 2025-06-24 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1KPNxz5EHf) - 2025-06-23 11:55:00
@@ -167,12 +168,12 @@
 - [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1QWj2z3EGX) - 2025-06-06 11:55:00
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1aWj2z3ETM) - 2025-06-05 11:55:00
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV13Wj2z3EzJ) - 2025-06-04 11:55:00
-- [交通灯问题【渡一教育】](https://www.bilibili.com/BV13sj2z6E7b) - 2025-06-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1GvK3zDEqs) - 2025-06-25 09:00:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1gdNszSEXb) - 2025-06-24 15:05:32
 - [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV1gdNszSE6t) - 2025-06-24 11:55:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1gdNszSEqP) - 2025-06-23 11:55:00
@@ -192,12 +193,12 @@
 - [小数运算不精确的根源【渡一教育】](https://www.bilibili.com/BV1Nkjjz2ETu) - 2025-06-06 11:55:00
 - [青蛙跳台阶问题【渡一教育】](https://www.bilibili.com/BV1NyjjzLEJt) - 2025-06-05 11:55:00
 - [鼠标移动的高亮边框效果【渡一教育】](https://www.bilibili.com/BV1PyjjzLELa) - 2025-06-04 11:55:00
-- [前置的不定量参数【渡一教育】](https://www.bilibili.com/BV1NyjjzLE7q) - 2025-06-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [色彩空间【渡一教育】](https://www.bilibili.com/BV1MeKtzxEb4) - 2025-06-25 09:00:00
 - [标签化模板【渡一教育】](https://www.bilibili.com/BV15RTrzGEzP) - 2025-06-24 14:27:40
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV15RTrzGEaN) - 2025-06-23 12:00:00
 - [使用二进制散列值【渡一教育】](https://www.bilibili.com/BV15RTrzGE6w) - 2025-06-22 12:00:00
@@ -217,12 +218,12 @@
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1Fm7nzXEbg) - 2025-06-08 12:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1od7nzjEme) - 2025-06-07 12:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1jd7nz7ExL) - 2025-06-06 12:00:00
-- [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV1U7JizLEGZ) - 2025-06-05 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [使用SASS实现主题切换【渡一教育】](https://www.bilibili.com/BV12CNxz2EcD) - 2025-06-25 09:00:00
 - [Clipboard API【渡一教育】](https://www.bilibili.com/BV12CNxz2E3X) - 2025-06-24 15:13:42
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV12CNxz2EPw) - 2025-06-24 11:55:00
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1xFNWzuEhv) - 2025-06-23 11:55:00
@@ -242,12 +243,12 @@
 - [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1ypj7zEE22) - 2025-06-06 11:55:00
 - [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1ypj7zEEok) - 2025-06-05 11:55:00
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1ypj7zEEjG) - 2025-06-04 11:55:00
-- [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1yWj7zmEGC) - 2025-06-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [惰性函数【渡一教育】](https://www.bilibili.com/BV1NTNxzGEhG) - 2025-06-25 09:00:00
 - [浏览器的自动播放策略【渡一教育】](https://www.bilibili.com/BV1VSNsz9E53) - 2025-06-24 15:25:07
 - [SASS中的数学函数【渡一教育】](https://www.bilibili.com/BV1VSNsz9Ee7) - 2025-06-24 11:55:00
 - [flex+margin【渡一教育】](https://www.bilibili.com/BV1VSNsz9EUY) - 2025-06-23 11:55:00
@@ -267,6 +268,5 @@
 - [数据响应式的本质【渡一教育】](https://www.bilibili.com/BV1TijjzDESp) - 2025-06-06 11:55:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1MBjjzJETA) - 2025-06-05 11:55:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1MBjjzJEM3) - 2025-06-04 11:55:00
-- [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1MBjjzJEwK) - 2025-06-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
