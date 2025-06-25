@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-25 10:28:18</p>
+<p>更新时间：2025-06-25 14:54:04</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [联合类型转交叉类型【渡一教育】](https://www.bilibili.com/BV1KZNpz6EEN) - 2025-06-25 11:55:00
 - [联合类型和交叉类型【渡一教育】](https://www.bilibili.com/BV1KZNpz6EJM) - 2025-06-25 09:00:00
 - [如何获取组件的类型【渡一教育】](https://www.bilibili.com/BV1AKNWzNEuF) - 2025-06-24 15:02:54
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1wKNWzNEbM) - 2025-06-24 11:55:00
