@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-26 02:53:10</p>
+<p>更新时间：2025-06-26 10:27:18</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [用发布订阅模式解耦【渡一教育】](https://www.bilibili.com/BV1NTNxzGEtR) - 2025-06-26 09:00:00
 - [DTO和VO【渡一教育】](https://www.bilibili.com/BV1NTNxzGEQU) - 2025-06-25 11:55:00
 - [惰性函数【渡一教育】](https://www.bilibili.com/BV1NTNxzGEhG) - 2025-06-25 09:00:00
 - [浏览器的自动播放策略【渡一教育】](https://www.bilibili.com/BV1VSNsz9E53) - 2025-06-24 15:25:07
