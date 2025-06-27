@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-27 10:27:53</p>
+<p>更新时间：2025-06-27 14:53:34</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [任务队列的中断和恢复](https://www.douyin.com/video/7520179428488383753) - 2025-06-27 11:50:00
 - [前端部分常见笔面试题点评](https://www.douyin.com/video/7519865096215088424) - 2025-06-26 11:50:00
 - [不规则的文字环绕](https://www.douyin.com/video/7519435109410409747) - 2025-06-25 11:50:00
 - [自动注入Less全局变量](https://www.douyin.com/video/7519130398199221558) - 2025-06-24 11:50:00

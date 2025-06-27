@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-27 10:27:53</p>
+<p>更新时间：2025-06-27 14:53:34</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV19eK3znEuZ) - 2025-06-27 11:55:00
 - [判断数组的准确方法【渡一教育】](https://www.bilibili.com/BV19eK3znE3T) - 2025-06-27 09:00:00
 - [下载的流式传输【渡一教育】](https://www.bilibili.com/BV1YeK3znEWV) - 2025-06-26 11:55:00
 - [五子棋的胜负判定逻辑【渡一教育】](https://www.bilibili.com/BV1YeK3znEwA) - 2025-06-26 09:00:00
