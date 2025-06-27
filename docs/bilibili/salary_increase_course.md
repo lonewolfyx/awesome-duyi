@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-27 02:52:10</p>
+<p>更新时间：2025-06-27 10:27:53</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1JPKZztExd) - 2025-06-27 09:00:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1gEKdzgEvc) - 2025-06-26 12:00:57
 - [块级函数【渡一教育】](https://www.bilibili.com/BV1MeKtzxEJm) - 2025-06-26 09:00:00
 - [多重变形的顺序问题【渡一教育】](https://www.bilibili.com/BV1xSK3zgErf) - 2025-06-25 12:00:00
