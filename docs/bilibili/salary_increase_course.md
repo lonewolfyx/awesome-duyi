@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-06-30 10:33:13</p>
+<p>更新时间：2025-06-30 14:54:40</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [验证回文串【渡一教育】](https://www.bilibili.com/BV1ENKZzoExc) - 2025-06-30 12:00:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV17TKZzxEiF) - 2025-06-30 09:00:00
 - [CSS实现奥林匹克五环【渡一教育】](https://www.bilibili.com/BV1FAKZzFEDa) - 2025-06-28 12:00:00
 - [微软算法题-按键映射【渡一教育】](https://www.bilibili.com/BV16wKZzfEv3) - 2025-06-28 09:00:00
