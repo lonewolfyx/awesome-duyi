@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-01 10:39:57</p>
+<p>更新时间：2025-07-01 14:54:20</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [链式调用和延迟执行](https://www.douyin.com/video/7521664433064660274) - 2025-07-01 11:50:00
 - [什么是Promise](https://www.douyin.com/video/7520958193313369363) - 2025-06-30 11:50:00
 - [色彩的差值混合](https://www.douyin.com/video/7520552722064559410) - 2025-06-28 11:50:00
 - [任务队列的中断和恢复](https://www.douyin.com/video/7520179428488383753) - 2025-06-27 11:50:00
