@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-01 02:52:20</p>
+<p>更新时间：2025-07-01 10:39:57</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1rVKRz9EZK) - 2025-07-01 09:00:00
 - [打印三角形的面试题【渡一教育】](https://www.bilibili.com/BV1pgKRzdEei) - 2025-06-30 11:55:00
 - [多元素组合动画【渡一教育】](https://www.bilibili.com/BV1CgKRzdEPH) - 2025-06-30 09:00:00
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1yuK3zqEoW) - 2025-06-28 11:55:00

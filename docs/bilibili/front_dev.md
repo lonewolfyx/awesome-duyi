@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-01 02:52:20</p>
+<p>更新时间：2025-07-01 10:39:57</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [SASS中的继承【渡一教育】](https://www.bilibili.com/BV1PSKRzFEM5) - 2025-07-01 09:00:00
 - [监控页面卡顿【渡一教育】](https://www.bilibili.com/BV1PSKRzFEKX) - 2025-06-30 11:55:00
 - [Cookie中的SameSite【渡一教育】](https://www.bilibili.com/BV1PSKRzFEG3) - 2025-06-30 09:00:00
 - [利用延迟实现复杂动画【渡一教育】](https://www.bilibili.com/BV1k3K3zKEUy) - 2025-06-28 11:55:00
