@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-02 10:27:23</p>
+<p>更新时间：2025-07-02 14:53:36</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [交错排列的文字【渡一教育】](https://www.bilibili.com/BV1LKKdzEEyB) - 2025-07-02 11:55:00
 - [对科里化进行类型标注【渡一教育】](https://www.bilibili.com/BV1LKKdzEEVm) - 2025-07-02 09:00:00
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1RKKdz7ED7) - 2025-07-01 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1RKKdz7EDw) - 2025-07-01 09:00:00
