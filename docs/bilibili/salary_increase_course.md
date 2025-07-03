@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-03 10:28:25</p>
+<p>更新时间：2025-07-03 14:54:26</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [Console调试面板【渡一教育】](https://www.bilibili.com/BV1cFKZzcEfi) - 2025-07-03 12:00:00
 - [B站智能弹幕效果实现原理【渡一教育】](https://www.bilibili.com/BV1ccKZz8EVP) - 2025-07-03 09:00:00
 - [重复渐变的边框【渡一教育】](https://www.bilibili.com/BV1AoKozAELZ) - 2025-07-02 12:00:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV1wZKozaEj8) - 2025-07-02 09:00:00
