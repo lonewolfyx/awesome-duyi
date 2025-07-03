@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-03 02:52:32</p>
+<p>更新时间：2025-07-03 10:28:25</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1RKKdz7EmH) - 2025-07-03 09:00:00
 - [交错排列的文字【渡一教育】](https://www.bilibili.com/BV1LKKdzEEyB) - 2025-07-02 11:55:00
 - [对科里化进行类型标注【渡一教育】](https://www.bilibili.com/BV1LKKdzEEVm) - 2025-07-02 09:00:00
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1RKKdz7ED7) - 2025-07-01 11:55:00
