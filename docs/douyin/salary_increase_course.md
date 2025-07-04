@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-04 10:27:01</p>
+<p>更新时间：2025-07-04 14:54:47</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [用CSS自定义咖啡](https://www.douyin.com/video/7522819201694747950) - 2025-07-04 11:50:00
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7522095973754080539) - 2025-07-02 11:50:00
 - [使用infer封装通用类型工具](https://www.douyin.com/video/7521665062939954478) - 2025-07-01 11:50:00
