@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [JS中的计时是否精确](https://www.douyin.com/video/7523146825830829354) - 2025-07-04 16:52:06
 - [用CSS自定义咖啡](https://www.douyin.com/video/7522819201694747950) - 2025-07-04 11:50:00
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7522095973754080539) - 2025-07-02 11:50:00
@@ -42,7 +43,6 @@
 - [不要使用计时器做动画](https://www.douyin.com/video/7514978862879624475) - 2025-06-13 11:50:00
 - [HTMLCollection & NodeList](https://www.douyin.com/video/7514677546521300260) - 2025-06-12 11:50:00
 - [Cookie中的SameSite](https://www.douyin.com/video/7514241730204454154) - 2025-06-11 11:50:00
-- [map和parseInt](https://www.douyin.com/video/7513940858698321178) - 2025-06-10 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
