@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-05 10:22:38</p>
+<p>更新时间：2025-07-05 14:50:15</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1HFKZzcE4g) - 2025-07-05 12:00:00
 - [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV1cFKZzcES9) - 2025-07-05 09:00:00
 - [使用sources进行断点调试【渡一教育】](https://www.bilibili.com/BV1wFKZzcEFG) - 2025-07-04 12:00:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1HFKZzcEN7) - 2025-07-04 09:00:00

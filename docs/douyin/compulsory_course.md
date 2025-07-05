@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-05 10:22:38</p>
+<p>更新时间：2025-07-05 14:50:15</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [never类型的妙用2](https://www.douyin.com/video/7523143797216267574) - 2025-07-05 11:50:00
 - [gitignore的匹配规则](https://www.douyin.com/video/7522818556946435337) - 2025-07-04 11:50:00
 - [这是在考原型吗](https://www.douyin.com/video/7522404750176898330) - 2025-07-03 11:50:00
 - [never类型的妙用](https://www.douyin.com/video/7522095963490520358) - 2025-07-02 11:50:00

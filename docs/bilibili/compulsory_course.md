@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-05 10:22:38</p>
+<p>更新时间：2025-07-05 14:50:15</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [SVG的描边动画【渡一教育】](https://www.bilibili.com/BV1xNKRzFEza) - 2025-07-05 11:55:00
 - [前端各种风骚操作【渡一教育】](https://www.bilibili.com/BV12NKRzFExr) - 2025-07-05 09:00:00
 - [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV12NKRzFEu7) - 2025-07-04 11:55:00
 - [手写Promise.all【渡一教育】](https://www.bilibili.com/BV11KKRzbEjZ) - 2025-07-04 09:00:00

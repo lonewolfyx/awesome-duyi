@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-05 10:22:38</p>
+<p>更新时间：2025-07-05 14:50:15</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [对防抖函数进行类型标注](https://www.douyin.com/video/7523145037690031423) - 2025-07-05 11:50:00
 - [JS中的计时是否精确](https://www.douyin.com/video/7523146825830829354) - 2025-07-04 16:52:06
 - [用CSS自定义咖啡](https://www.douyin.com/video/7522819201694747950) - 2025-07-04 11:50:00
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
