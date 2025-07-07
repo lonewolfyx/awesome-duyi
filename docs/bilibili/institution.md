@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-07 10:33:46</p>
+<p>更新时间：2025-07-07 14:55:02</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [服务监控与数据埋点【渡一教育】](https://www.bilibili.com/BV1gf3azWENw) - 2025-07-07 11:55:00
 - [交融动画效果【渡一教育】](https://www.bilibili.com/BV1MF3YzQEQu) - 2025-07-07 09:00:00
 - [对防抖函数进行类型标注【渡一教育】](https://www.bilibili.com/BV19uKdzLEsc) - 2025-07-05 11:55:00
 - [前置的不定量参数【渡一教育】](https://www.bilibili.com/BV1XgKdzyEJV) - 2025-07-05 09:00:00
