@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-08 10:28:52</p>
+<p>更新时间：2025-07-08 14:54:25</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [故障波纹动效【渡一教育】](https://www.bilibili.com/BV1bf3azpE2T) - 2025-07-08 11:55:00
 - [元素倒影【渡一教育】](https://www.bilibili.com/BV1uf3azpEFe) - 2025-07-08 09:00:00
 - [服务监控与数据埋点【渡一教育】](https://www.bilibili.com/BV1gf3azWENw) - 2025-07-07 11:55:00
 - [交融动画效果【渡一教育】](https://www.bilibili.com/BV1MF3YzQEQu) - 2025-07-07 09:00:00
