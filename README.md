@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Web性能指标](https://www.douyin.com/video/7525372905480359204) - 2025-07-10 16:50:24
 - [Web性能指标](https://www.douyin.com/video/7525050882254277888) - 2025-07-10 11:50:00
 - [获取参数和返回值类型](https://www.douyin.com/video/7524631575988849963) - 2025-07-09 11:50:00
 - [交融动画效果](https://www.douyin.com/video/7524326000033844515) - 2025-07-08 11:50:00
@@ -42,7 +43,6 @@
 - [如何获取组件的类型](https://www.douyin.com/video/7517948379750468900) - 2025-06-23 11:50:00
 - [图片边框](https://www.douyin.com/video/7517947945128348967) - 2025-06-21 11:50:00
 - [实现GetOptionals](https://www.douyin.com/video/7517649331470486803) - 2025-06-20 11:50:00
-- [实现Optional](https://www.douyin.com/video/7517207382355692836) - 2025-06-19 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
