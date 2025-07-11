@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [解决组件库类型丢失的问题](https://www.douyin.com/video/7525729585250585897) - 2025-07-11 15:54:31
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7525378339616329003) - 2025-07-11 11:50:00
 - [Web性能指标](https://www.douyin.com/video/7525372905480359204) - 2025-07-10 16:50:24
 - [Web性能指标](https://www.douyin.com/video/7525050882254277888) - 2025-07-10 11:50:00
@@ -42,7 +43,6 @@
 - [谢谢你发明了JS](https://www.douyin.com/video/7519435497131871500) - 2025-06-25 11:50:00
 - [如何画一棵随机「树」](https://www.douyin.com/video/7519130396009762084) - 2025-06-24 11:50:00
 - [如何获取组件的类型](https://www.douyin.com/video/7517948379750468900) - 2025-06-23 11:50:00
-- [图片边框](https://www.douyin.com/video/7517947945128348967) - 2025-06-21 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-11 14:54:43</p>
+<p>更新时间：2025-07-11 21:10:10</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [解决组件库类型丢失的问题](https://www.douyin.com/video/7525729585250585897) - 2025-07-11 15:54:31
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7525378339616329003) - 2025-07-11 11:50:00
 - [Web性能指标](https://www.douyin.com/video/7525372905480359204) - 2025-07-10 16:50:24
 - [Web性能指标](https://www.douyin.com/video/7525050882254277888) - 2025-07-10 11:50:00
