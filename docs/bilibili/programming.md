@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-11 02:53:09</p>
+<p>更新时间：2025-07-11 10:33:43</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1pe3azzEjP) - 2025-07-11 09:00:00
 - [上传OSS的正确姿势【渡一教育】](https://www.bilibili.com/BV1ri3azME9G) - 2025-07-10 11:55:00
 - [Intersection Observer【渡一教育】](https://www.bilibili.com/BV1Hi3azME4G) - 2025-07-10 09:00:00
 - [动态规划问题的一般解题思路【渡一教育】](https://www.bilibili.com/BV1Hi3azMERo) - 2025-07-09 11:55:00
