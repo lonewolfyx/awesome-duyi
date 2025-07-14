@@ -1,7 +1,7 @@
 import { biliBiliUser } from '@/user.ts'
 import { getBiliBiliDataList } from '@/playwright/bilibili.ts'
 
-(async () => {
+;(async () => {
     for (const { alias, url } of douYinUser) {
         // 计算当前这次的延迟
         const delay = 2000
@@ -11,7 +11,6 @@ import { getBiliBiliDataList } from '@/playwright/bilibili.ts'
 
         await getDouYinNewData(alias, url)
     }
-
 
     for (const { alias, url } of biliBiliUser) {
         // 计算当前这次的延迟
