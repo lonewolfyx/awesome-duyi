@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-14 14:57:13</p>
+<p>更新时间：2025-07-14 21:32:58</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
@@ -111,10 +111,9 @@
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1CboQYPEBR) - 2025-04-08 11:55:00
 - [CSS实现奥林匹克五环【渡一教育】](https://www.bilibili.com/BV1A8oQYeEU7) - 2025-04-07 11:55:00
 - [微软算法题-按键映射【渡一教育】](https://www.bilibili.com/BV1k8oQYYEXB) - 2025-04-05 11:55:00
-- [【渡一教育】](https://www.bilibili.com/BV1C8oQYYEAb) - 2025-04-04 11:55:00
+- [promise的终极面试题【渡一教育】](https://www.bilibili.com/BV1C8oQYYEAb) - 2025-04-04 11:55:00
 - [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1C8oQYYEFy) - 2025-04-03 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1yxoQYKEZy) - 2025-04-02 11:55:00
-- [块级函数【渡一教育】](https://www.bilibili.com/BV1mnoQYzEJ8) - 2025-04-01 11:55:00
 - [块级函数【渡一教育】](https://www.bilibili.com/BV1CXXzYsEin) - 2025-04-01 11:55:00
 - [多重变形的顺序问题【渡一教育】](https://www.bilibili.com/BV1CXXzYsE7d) - 2025-03-31 11:55:00
 - [色彩空间【渡一教育】](https://www.bilibili.com/BV1k9XzY9EkB) - 2025-03-29 11:55:00
@@ -164,7 +163,7 @@
 - [不要使用计时器做动画【渡一教育】](https://www.bilibili.com/BV1HSfbYuEGG) - 2025-02-05 11:55:00
 - [函数防抖【渡一教育】](https://www.bilibili.com/BV1cSfbYuEmE) - 2025-02-04 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV17ofbYeEzL) - 2025-02-03 11:55:00
-- [HTMLCollection & NodeList（引流）【渡一教育】](https://www.bilibili.com/BV1ZofbYYEN8) - 2025-02-01 11:55:00
+- [HTMLCollection & NodeList【渡一教育】](https://www.bilibili.com/BV1ZofbYYEN8) - 2025-02-01 11:55:00
 - [逐帧动画【渡一教育】](https://www.bilibili.com/BV1ZofbYYEsM) - 2025-01-31 11:55:00
 - [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV1ZofbYYExt) - 2025-01-30 11:55:00
 - [map和parseInt【渡一教育】](https://www.bilibili.com/BV1GfwueGEEy) - 2025-01-29 11:55:00
@@ -609,10 +608,10 @@
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV1Cj41127mf) - 2023-09-03 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV11N411q7Zo) - 2023-09-02 11:55:00
 - [你不知道的数字字面量【渡一教育】](https://www.bilibili.com/BV1594y147DD) - 2023-09-01 16:55:00
-- [使用void 0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
-- [提问：call apply bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
+- [使用void  0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
+- [提问：call apply  bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
 - [不懂面向对象的前端不是好前端【渡一教育】](https://www.bilibili.com/BV1Th4y1m7YA) - 2023-08-31 16:55:00
-- [传参数的时候可以设置“默认值”了， 你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
+- [传参数的时候可以设置“默认值”了，  你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
 - [有了剩余参数，arguments以后可别再用了【渡一教育】](https://www.bilibili.com/BV1Eu411K7Pe) - 2023-08-30 19:55:00
 - [使用箭头函数是，你需要注意这些【渡一教育】](https://www.bilibili.com/BV1mu411A7vy) - 2023-08-30 16:55:00
 - [这款简便的声明方式我直接吹爆【渡一教育】](https://www.bilibili.com/BV1Dz4y1M7qF) - 2023-08-30 11:55:00

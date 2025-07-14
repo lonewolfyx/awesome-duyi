@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-14 14:57:13</p>
+<p>更新时间：2025-07-14 21:32:58</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
@@ -105,6 +105,7 @@
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1tCZmYwEcG) - 2025-04-16 11:55:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1xyZmYhEmB) - 2025-04-15 11:55:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV11yZmYhEZj) - 2025-04-14 11:55:00
+- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV14yZmYhET4) - 2025-04-14 11:55:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV12yZmYhE1o) - 2025-04-11 11:55:00
 - [表单的元素选择【渡一教育】](https://www.bilibili.com/BV14yZmYhEHA) - 2025-04-10 11:55:00
 - [光标跟随效果【渡一教育】](https://www.bilibili.com/BV12yZmYhEKs) - 2025-04-09 11:55:00
@@ -651,6 +652,6 @@
 - [经过一周的学习，原型链形成了！【渡一教育】](https://www.bilibili.com/BV1J14y1i71F) - 2023-08-18 16:55:00
 - [注意看，原型链的完整形态已经要呼之欲出了【渡一教育】](https://www.bilibili.com/BV18X4y1W7Su) - 2023-08-18 11:55:00
 - [使用原型链的知识，完成一道简单的笔试题吧【渡一教育】](https://www.bilibili.com/BV1X84y1f7EK) - 2023-08-17 16:55:00
-- [快速了解隐式原型，**proto**【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
-- [快速了解函数的原型对象 prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
+- [快速了解隐式原型，__proto__【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
+- [快速了解函数的原型对象  prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
 - [揭秘前端大牛必会的原型链问题【渡一教育】](https://www.bilibili.com/BV1Km4y1W7Ht) - 2023-08-16 12:02:08

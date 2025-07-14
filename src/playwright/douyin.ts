@@ -28,6 +28,9 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
                 const video = JSON.parse(text)['aweme_list']
 
                 video.forEach((row: any) => {
+                    if (row.is_top) {
+                        return ''
+                    }
                     const title = row.item_title || row.desc.split('\n')[0]
                     const url = `https://www.douyin.com/video/${row.aweme_id}`
                     const time = dayjs.unix(row.create_time).format('YYYY-MM-DD HH:mm:ss')
@@ -76,8 +79,8 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 
     let status = true
     while (status) {
-        const pageText = await page.locator('.B_mbw29p').count()
-        console.log(pageText)
+        const pageText = await page.locator('.E5QmyeTo').count()
+        console.log('是否还有页面', pageText)
         await page.waitForTimeout(2000)
         // 触发 end 键盘事件，页面滚动至底部
         await page.keyboard.press('End')

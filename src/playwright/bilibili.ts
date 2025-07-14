@@ -15,7 +15,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
     const filePath = resolve(cwd(), `./data/${fileName}.json`)
     fs.writeFileSync(filePath, '[\n', {
         encoding: 'utf8',
-        flag: 'a'
+        flag: 'w'
     })
 
     // 监听请求数据
@@ -40,11 +40,15 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
 
     await page.goto(url)
 
-    await page.waitForSelector('.be-pager-next', { timeout: 20000 })
+    await page.waitForTimeout(2000)
+
+    await page.keyboard.press('End')
+    // await page.waitForSelector('.vui_pagenation-go__count:text("下一页")', { timeout: 20000 })
+    await page.getByRole('button', { name: '下一页' })
 
     // 获取分页的数量
     // 获取 .be-pager-total 元素的内容
-    const totalText = (await page.textContent('.be-pager-total')) || ''
+    const totalText = (await page.textContent('.vui_pagenation-go__count')) || ''
     // 使用正则提取数字
     const match = totalText.match(/共\s*(\d+)\s*页/)
 
@@ -54,7 +58,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
     for (let i = 1; i < pages; i++) {
         console.log(`正在执行第 ${i} 次翻页...`)
         // 等待 "下一页" 按钮出现
-        const nextPageButton = await page.waitForSelector('.be-pager-next', { timeout: 10000 })
+        const nextPageButton = await page.getByRole('button', { name: '下一页' })
         // 如果按钮不存在或者被禁用，则跳出循环
         if (!nextPageButton) {
             console.log('未找到下一页按钮，结束循环')
@@ -66,7 +70,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
         // 停顿2秒
         await page.waitForTimeout(2000)
         // 触发 下一页 按钮事件
-        await page.getByRole('listitem', { name: '下一页' }).click()
+        await page.getByRole('button', { name: '下一页' }).click()
         // 额外等待，确保新页面加载完成
         await page.waitForTimeout(3000)
     }

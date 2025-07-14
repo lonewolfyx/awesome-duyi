@@ -26,14 +26,12 @@
 - [ESModule的工作原理](https://www.douyin.com/video/7526165146746522930) - 2025-07-14 11:50:00
 - [手动解析DOM树](https://www.douyin.com/video/7525793870462930203) - 2025-07-12 11:50:00
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7525729585250585897) - 2025-07-11 15:54:31
-- [解决组件库类型丢失的问题](https://www.douyin.com/video/7525378339616329003) - 2025-07-11 11:50:00
 - [Web性能指标](https://www.douyin.com/video/7525372905480359204) - 2025-07-10 16:50:24
-- [Web性能指标](https://www.douyin.com/video/7525050882254277888) - 2025-07-10 11:50:00
 - [获取参数和返回值类型](https://www.douyin.com/video/7524631575988849963) - 2025-07-09 11:50:00
 - [交融动画效果](https://www.douyin.com/video/7524326000033844515) - 2025-07-08 11:50:00
 - [环绕式照片墙](https://www.douyin.com/video/7524208754804526355) - 2025-07-07 13:32:59
+- [JS中的计时是否精确](https://www.douyin.com/video/7524164246935080246) - 2025-07-07 10:40:16
 - [对防抖函数进行类型标注](https://www.douyin.com/video/7523145037690031423) - 2025-07-05 11:50:00
-- [JS中的计时是否精确](https://www.douyin.com/video/7523146825830829354) - 2025-07-04 16:52:06
 - [用CSS自定义咖啡](https://www.douyin.com/video/7522819201694747950) - 2025-07-04 11:50:00
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7522095973754080539) - 2025-07-02 11:50:00
@@ -41,33 +39,35 @@
 - [3D渐变的轮播图](https://www.douyin.com/video/7520958090477341994) - 2025-06-30 11:50:00
 - [元素倒影](https://www.douyin.com/video/7520552686756842803) - 2025-06-28 11:50:00
 - [协变和逆变](https://www.douyin.com/video/7520179860396969253) - 2025-06-27 11:50:00
-- [JS中的计时是否精确](https://www.douyin.com/video/7519864999242697984) - 2025-06-26 11:50:00
 - [谢谢你发明了JS](https://www.douyin.com/video/7519435497131871500) - 2025-06-25 11:50:00
+- [如何画一棵随机「树」](https://www.douyin.com/video/7519130396009762084) - 2025-06-24 11:50:00
+- [如何获取组件的类型](https://www.douyin.com/video/7517948379750468900) - 2025-06-23 11:50:00
+- [图片边框](https://www.douyin.com/video/7517947945128348967) - 2025-06-21 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
 ### 抖音 - 渡一Web前端学习频道
 
-- [奇妙的头像特效](https://www.douyin.com/video/7477576339998952739) - 2025-03-04 11:50:00
-- [袁老师加更小课堂：关于长期信心](https://www.douyin.com/video/7429521189040622882) - 2024-10-25 09:40:44
-- [最风骚的HelloWorld](https://www.douyin.com/video/7204714283991698746) - 2023-02-28 11:50:00
-- [GSAP的滚动插件](https://www.douyin.com/video/7490563055869283594) - 2025-04-08 11:50:00
-- [半年经验，如何应聘大城市中低岗位？](https://www.douyin.com/video/7490169813734673716) - 2025-04-07 11:50:00
-- [黑白小球交替的loading效果](https://www.douyin.com/video/7489294935871458569) - 2025-04-05 11:50:00
-- [如何轻松实现粒子效果](https://www.douyin.com/video/7489010634865003803) - 2025-04-04 11:50:00
-- [保持元素宽高比](https://www.douyin.com/video/7488723971626568986) - 2025-04-03 11:50:00
-- [自动检测更新](https://www.douyin.com/video/7488269914046844170) - 2025-04-02 11:50:00
-- [无法取消的默认行为](https://www.douyin.com/video/7487966213117578505) - 2025-04-01 11:50:00
-- [游离节点造成的内存泄露](https://www.douyin.com/video/7487573812188335370) - 2025-03-31 11:50:00
-- [利用自定义ref实现防抖](https://www.douyin.com/video/7486785261343411465) - 2025-03-29 11:50:00
-- [SASS中的颜色函数](https://www.douyin.com/video/7486488936307592448) - 2025-03-28 11:50:00
-- [卡片翻动效果](https://www.douyin.com/video/7486084493317524787) - 2025-03-27 11:50:00
-- [动态表单的实现](https://www.douyin.com/video/7485736478790815011) - 2025-03-26 11:50:00
-- [大整数相加](https://www.douyin.com/video/7485360986828836147) - 2025-03-25 11:50:00
-- [浏览器原生弹窗](https://www.douyin.com/video/7484839945014725951) - 2025-03-24 11:50:00
-- [俄罗斯方块是如何实现的](https://www.douyin.com/video/7484236967186648339) - 2025-03-22 11:50:00
-- [网络的正确学习方式](https://www.douyin.com/video/7483874630613142834) - 2025-03-21 11:50:00
-- [使用defer优化白屏时间](https://www.douyin.com/video/7483494538053422347) - 2025-03-20 11:50:00
+- [ESM中的符号绑定](https://www.douyin.com/video/7526163391287676186) - 2025-07-14 11:50:00
+- [滚动元素到可视区域](https://www.douyin.com/video/7525793011746278682) - 2025-07-12 11:50:00
+- [可以重试的请求](https://www.douyin.com/video/7525728232059030823) - 2025-07-11 15:49:15
+- [数据响应式的bug](https://www.douyin.com/video/7525050647205416192) - 2025-07-10 11:50:00
+- [锥形渐变](https://www.douyin.com/video/7524630483301338409) - 2025-07-09 11:50:00
+- [彻底搞懂时间函数](https://www.douyin.com/video/7524327632473836852) - 2025-07-08 11:50:00
+- [标签化模板](https://www.douyin.com/video/7524229850626968875) - 2025-07-07 14:54:43
+- [再谈多行文本溢出](https://www.douyin.com/video/7524170121296842027) - 2025-07-07 11:03:05
+- [字符串比较](https://www.douyin.com/video/7524166856899415337) - 2025-07-07 10:50:22
+- [视频文字特效](https://www.douyin.com/video/7524163517964995883) - 2025-07-07 10:37:26
+- [文字连续光影特效](https://www.douyin.com/video/7523142072220568851) - 2025-07-05 11:50:00
+- [OPPO2024面试题](https://www.douyin.com/video/7522095814672502054) - 2025-07-02 11:50:00
+- [代码雨效果](https://www.douyin.com/video/7521664000543755570) - 2025-07-01 11:50:00
+- [鼠标位置信息](https://www.douyin.com/video/7520552823138913562) - 2025-06-28 11:50:00
+- [环形旋转效果](https://www.douyin.com/video/7520179035712851209) - 2025-06-27 11:50:00
+- [倾斜按钮](https://www.douyin.com/video/7519865206709767424) - 2025-06-26 11:50:00
+- [属性读取方式](https://www.douyin.com/video/7519434694006492435) - 2025-06-25 11:50:00
+- [原型链的全貌图](https://www.douyin.com/video/7519130285506628883) - 2025-06-24 11:50:00
+- [瀑布流布局](https://www.douyin.com/video/7517946815921130815) - 2025-06-23 11:50:00
+- [推荐一篇介绍SVG滤镜的博客](https://www.douyin.com/video/7517946361623383335) - 2025-06-21 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/learning_channel.html)
 
@@ -270,3 +270,4 @@
 - [模块自动导入【渡一教育】](https://www.bilibili.com/BV1sKKRzbE9A) - 2025-07-03 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
+
