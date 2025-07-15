@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-15 10:37:18</p>
+<p>更新时间：2025-07-15 14:56:15</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [Proxy和DefineProperty](https://www.douyin.com/video/7526914254352469282) - 2025-07-15 11:50:00
 - [mac docker效果](https://www.douyin.com/video/7526164035604368667) - 2025-07-14 11:50:00
 - [GSAP已全部免费](https://www.douyin.com/video/7525793452848631091) - 2025-07-12 11:50:00
 - [CSS下划线动画](https://www.douyin.com/video/7525377823087889727) - 2025-07-11 11:50:00
