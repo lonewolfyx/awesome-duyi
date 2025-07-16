@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-16 02:55:42</p>
+<p>更新时间：2025-07-16 10:34:11</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [call和apply的链式调用【渡一教育】](https://www.bilibili.com/BV1k4uBzDEaj) - 2025-07-16 09:00:00
 - [弹性盒均分布局【渡一教育】](https://www.bilibili.com/BV1gn31zdEdC) - 2025-07-15 12:00:00
 - [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1gn31zdERU) - 2025-07-15 09:00:00
 - [属性不可遍历【渡一教育】](https://www.bilibili.com/BV18n31zdEZ1) - 2025-07-14 12:00:00
