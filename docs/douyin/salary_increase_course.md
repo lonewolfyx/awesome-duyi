@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-17 10:34:56</p>
+<p>更新时间：2025-07-17 14:56:47</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [状态仓库持久化](https://www.douyin.com/video/7527647924587629876) - 2025-07-17 11:50:00
 - [使用元祖生成联合类型](https://www.douyin.com/video/7527238586391924011) - 2025-07-16 11:50:00
 - [srcset和sizes](https://www.douyin.com/video/7526912616476757288) - 2025-07-15 11:50:00
 - [ESModule的工作原理](https://www.douyin.com/video/7526165146746522930) - 2025-07-14 11:50:00
