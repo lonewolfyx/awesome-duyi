@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-17 02:55:29</p>
+<p>更新时间：2025-07-17 10:34:56</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [图片边框【渡一教育】](https://www.bilibili.com/BV1KQGuzXEgn) - 2025-07-17 09:00:00
 - [丝滑的标题动画【渡一教育】](https://www.bilibili.com/BV11QGuzQEfz) - 2025-07-16 11:55:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV119GuznEyW) - 2025-07-16 09:00:00
 - [SVG的描边动画【渡一教育】](https://www.bilibili.com/BV1y9GuznEdA) - 2025-07-15 11:55:00
