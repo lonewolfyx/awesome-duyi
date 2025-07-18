@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-18 02:55:48</p>
+<p>更新时间：2025-07-18 10:36:42</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV11QGuzQEbB) - 2025-07-18 09:00:00
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1KQGuzXEVf) - 2025-07-17 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1KQGuzXEgn) - 2025-07-17 09:00:00
 - [丝滑的标题动画【渡一教育】](https://www.bilibili.com/BV11QGuzQEfz) - 2025-07-16 11:55:00
