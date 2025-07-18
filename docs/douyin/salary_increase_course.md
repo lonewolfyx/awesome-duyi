@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-18 10:36:42</p>
+<p>更新时间：2025-07-18 14:57:39</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [你不知道的CSS选择器](https://www.douyin.com/video/7527923667032886571) - 2025-07-18 11:50:00
 - [状态仓库持久化](https://www.douyin.com/video/7527647924587629876) - 2025-07-17 11:50:00
 - [使用元祖生成联合类型](https://www.douyin.com/video/7527238586391924011) - 2025-07-16 11:50:00
 - [srcset和sizes](https://www.douyin.com/video/7526912616476757288) - 2025-07-15 11:50:00
