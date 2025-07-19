@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [页面图标Badge如何实现](https://www.douyin.com/video/7528384472023108883) - 2025-07-19 15:30:00
 - [盛水最大的容器](https://www.douyin.com/video/7527923942351211818) - 2025-07-18 11:50:00
 - [大O表示法](https://www.douyin.com/video/7527648785279831296) - 2025-07-17 11:50:00
 - [最长递增子序列](https://www.douyin.com/video/7527238078243654975) - 2025-07-16 11:50:00
@@ -117,7 +118,6 @@
 - [什么是Promise](https://www.douyin.com/video/7520958193313369363) - 2025-06-30 11:50:00
 - [色彩的差值混合](https://www.douyin.com/video/7520552722064559410) - 2025-06-28 11:50:00
 - [任务队列的中断和恢复](https://www.douyin.com/video/7520179428488383753) - 2025-06-27 11:50:00
-- [前端部分常见笔面试题点评](https://www.douyin.com/video/7519865096215088424) - 2025-06-26 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
