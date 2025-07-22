@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [调试上传接口](https://www.douyin.com/video/7529465064575831359) - 2025-07-22 15:30:00
 - [故障波纹动效](https://www.douyin.com/video/7528759801354915115) - 2025-07-21 15:30:00
 - [页面图标Badge如何实现](https://www.douyin.com/video/7528384472023108883) - 2025-07-19 15:30:00
 - [盛水最大的容器](https://www.douyin.com/video/7527923942351211818) - 2025-07-18 11:50:00
@@ -117,7 +118,6 @@
 - [never类型的妙用](https://www.douyin.com/video/7522095963490520358) - 2025-07-02 11:50:00
 - [链式调用和延迟执行](https://www.douyin.com/video/7521664433064660274) - 2025-07-01 11:50:00
 - [什么是Promise](https://www.douyin.com/video/7520958193313369363) - 2025-06-30 11:50:00
-- [色彩的差值混合](https://www.douyin.com/video/7520552722064559410) - 2025-06-28 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
