@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Houdini](https://www.douyin.com/video/7529486653228944655) - 2025-07-22 23:50:00
 - [node的模块查找策略](https://www.douyin.com/video/7528759894359559443) - 2025-07-21 23:50:00
 - [interact.js](https://www.douyin.com/video/7528385007031684371) - 2025-07-19 23:50:00
 - [你不知道的CSS选择器](https://www.douyin.com/video/7527923667032886571) - 2025-07-18 11:50:00
@@ -42,7 +43,6 @@
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7522095973754080539) - 2025-07-02 11:50:00
 - [使用infer封装通用类型工具](https://www.douyin.com/video/7521665062939954478) - 2025-07-01 11:50:00
-- [3D渐变的轮播图](https://www.douyin.com/video/7520958090477341994) - 2025-06-30 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
