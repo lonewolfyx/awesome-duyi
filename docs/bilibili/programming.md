@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-22 10:35:56</p>
+<p>更新时间：2025-07-22 14:56:52</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1PbgAz4EWk) - 2025-07-22 11:55:00
 - [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1sbgAz4EUx) - 2025-07-22 09:00:00
 - [不规则的文字环绕【渡一教育】](https://www.bilibili.com/BV1NbgAz4EhA) - 2025-07-21 11:55:00
 - [自动注入Less全局变量【渡一教育】](https://www.bilibili.com/BV1NbgAz4Ei4) - 2025-07-21 09:00:00
