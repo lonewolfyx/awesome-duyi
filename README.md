@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [import-cost插件](https://www.douyin.com/video/7529831566751616295) - 2025-07-23 23:50:00
 - [Houdini](https://www.douyin.com/video/7529486653228944655) - 2025-07-22 23:50:00
 - [node的模块查找策略](https://www.douyin.com/video/7528759894359559443) - 2025-07-21 23:50:00
 - [interact.js](https://www.douyin.com/video/7528385007031684371) - 2025-07-19 23:50:00
@@ -42,7 +43,6 @@
 - [用CSS自定义咖啡](https://www.douyin.com/video/7522819201694747950) - 2025-07-04 11:50:00
 - [对柯里化进行类型标注](https://www.douyin.com/video/7522405204461931785) - 2025-07-03 11:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7522095973754080539) - 2025-07-02 11:50:00
-- [使用infer封装通用类型工具](https://www.douyin.com/video/7521665062939954478) - 2025-07-01 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
