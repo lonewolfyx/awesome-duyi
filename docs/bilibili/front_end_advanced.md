@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-23 10:36:53</p>
+<p>更新时间：2025-07-23 14:57:28</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [闭包代码的提权漏洞【渡一教育】](https://www.bilibili.com/BV1jPgAzCEhP) - 2025-07-23 11:55:00
 - [生成渐变背景小工具【渡一教育】](https://www.bilibili.com/BV1iPgAzCEeb) - 2025-07-23 09:00:00
 - [优化代码分支【渡一教育】](https://www.bilibili.com/BV1LPgAzCEok) - 2025-07-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1iPgAzCEv5) - 2025-07-22 09:00:00

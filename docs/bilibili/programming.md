@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-23 10:36:53</p>
+<p>更新时间：2025-07-23 14:57:28</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [什么是Promise【渡一教育】](https://www.bilibili.com/BV1AYgAz9EHe) - 2025-07-23 11:55:00
 - [色彩的差值混合【渡一教育】](https://www.bilibili.com/BV1PbgAz4EBT) - 2025-07-23 09:00:00
 - [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1PbgAz4EWk) - 2025-07-22 11:55:00
 - [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1sbgAz4EUx) - 2025-07-22 09:00:00

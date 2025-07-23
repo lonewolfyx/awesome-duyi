@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-23 10:36:53</p>
+<p>更新时间：2025-07-23 14:57:28</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [资源提示符【渡一教育】](https://www.bilibili.com/BV1LmgAz5EsX) - 2025-07-23 11:55:00
 - [代码片段工具【渡一教育】](https://www.bilibili.com/BV1LmgAz5EXN) - 2025-07-23 09:00:00
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1RmgAzVEQZ) - 2025-07-22 11:55:00
 - [判断数组的准确方法【渡一教育】](https://www.bilibili.com/BV1RmgAzVE9w) - 2025-07-22 09:00:00
