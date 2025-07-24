@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-24 14:57:23</p>
+<p>更新时间：2025-07-24 21:21:04</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [参数归一化](https://www.douyin.com/video/7530255759016348964) - 2025-07-24 15:30:00
 - [cspell](https://www.douyin.com/video/7529831019483057450) - 2025-07-23 15:30:00
 - [调试上传接口](https://www.douyin.com/video/7529465064575831359) - 2025-07-22 15:30:00
 - [故障波纹动效](https://www.douyin.com/video/7528759801354915115) - 2025-07-21 15:30:00
