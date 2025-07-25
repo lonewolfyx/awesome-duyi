@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-25 10:36:01</p>
+<p>更新时间：2025-07-25 14:57:29</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [gitignore的匹配规则【渡一教育】](https://www.bilibili.com/BV1HYgAz9ECt) - 2025-07-25 11:55:00
 - [这是在考原型吗【渡一教育】](https://www.bilibili.com/BV1wYgAz9Ebo) - 2025-07-25 09:00:00
 - [never类型的妙用【渡一教育】](https://www.bilibili.com/BV1wYgAz9E74) - 2025-07-24 11:55:00
 - [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1pYgAz9EWE) - 2025-07-24 09:00:00
