@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [封装全屏功能](https://www.douyin.com/video/7530948448191909183) - 2025-07-26 15:30:00
 - [精妙的算法题](https://www.douyin.com/video/7530619103057415459) - 2025-07-25 15:30:00
 - [参数归一化](https://www.douyin.com/video/7530255759016348964) - 2025-07-24 15:30:00
 - [cspell](https://www.douyin.com/video/7529831019483057450) - 2025-07-23 15:30:00
@@ -117,7 +118,6 @@
 - [实现拼音标注](https://www.douyin.com/video/7523144640418073892) - 2025-07-07 11:50:00
 - [never类型的妙用2](https://www.douyin.com/video/7523143797216267574) - 2025-07-05 11:50:00
 - [gitignore的匹配规则](https://www.douyin.com/video/7522818556946435337) - 2025-07-04 11:50:00
-- [这是在考原型吗](https://www.douyin.com/video/7522404750176898330) - 2025-07-03 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
