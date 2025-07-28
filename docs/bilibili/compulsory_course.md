@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-28 02:53:39</p>
+<p>更新时间：2025-07-28 10:42:50</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1bR8Fz6Eua) - 2025-07-28 09:00:00
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1RDgAz3EaX) - 2025-07-26 11:55:00
 - [最小栈问题【渡一教育】](https://www.bilibili.com/BV1XQgAz6Em5) - 2025-07-26 09:00:00
 - [插槽的本质【渡一教育】](https://www.bilibili.com/BV15QgAzrE3m) - 2025-07-25 11:55:00
