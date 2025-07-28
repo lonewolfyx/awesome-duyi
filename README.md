@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [CSS原子化](https://www.douyin.com/video/7531282353088466215) - 2025-07-28 23:50:00
 - [vitepress](https://www.douyin.com/video/7530948984668540202) - 2025-07-26 23:50:00
 - [数据分组引发的思考](https://www.douyin.com/video/7530625676509039922) - 2025-07-25 23:50:00
 - [最优解问题的典型思路](https://www.douyin.com/video/7530255835692322102) - 2025-07-24 23:50:00
@@ -42,7 +43,6 @@
 - [交融动画效果](https://www.douyin.com/video/7524326000033844515) - 2025-07-08 11:50:00
 - [环绕式照片墙](https://www.douyin.com/video/7524208754804526355) - 2025-07-07 13:32:59
 - [JS中的计时是否精确](https://www.douyin.com/video/7524164246935080246) - 2025-07-07 10:40:16
-- [对防抖函数进行类型标注](https://www.douyin.com/video/7523145037690031423) - 2025-07-05 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
