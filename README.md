@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1GHbfz5EsW) - 2025-07-29 11:55:00
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV1aHbfz5EBL) - 2025-07-29 09:00:00
 - [判断数组的准确方法【渡一教育】](https://www.bilibili.com/BV1ejbfzmEor) - 2025-07-28 11:55:00
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV15jbfzmEeT) - 2025-07-28 09:00:00
@@ -142,12 +143,12 @@
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1ubGgztEGs) - 2025-07-19 09:00:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1MbGgztELM) - 2025-07-18 11:55:00
 - [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV148GgzdEmF) - 2025-07-18 09:00:00
-- [mac docker效果【渡一教育】](https://www.bilibili.com/BV1m8GgzdEyt) - 2025-07-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [制作简易地图【渡一教育】](https://www.bilibili.com/BV1CP8czeEoc) - 2025-07-29 11:55:00
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1sP8czeEEq) - 2025-07-29 09:00:00
 - [NProgress插件【渡一教育】](https://www.bilibili.com/BV1CP8czeEUM) - 2025-07-28 11:55:00
 - [拖拽排序【渡一教育】](https://www.bilibili.com/BV1WK8czAENF) - 2025-07-28 09:00:00
@@ -167,12 +168,12 @@
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1DyGuz4EUA) - 2025-07-19 09:00:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1X6GuzFEyd) - 2025-07-18 11:55:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1Y6GuzcEXY) - 2025-07-18 09:00:00
-- [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1X6GuzFEf1) - 2025-07-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [代码着色【渡一教育】](https://www.bilibili.com/BV17VbfzSED8) - 2025-07-29 11:55:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1ZVbfzSEPn) - 2025-07-28 11:55:00
 - [实现拼音标注【渡一教育】](https://www.bilibili.com/BV1yagAzsETp) - 2025-07-26 11:55:00
 - [never类型的妙用2【渡一教育】](https://www.bilibili.com/BV1HYgAz9EU4) - 2025-07-26 09:00:00
@@ -192,12 +193,12 @@
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1rPGgzCEhr) - 2025-07-18 09:00:00
 - [WeakSet的垃圾回收问题【渡一教育】](https://www.bilibili.com/BV16KGgzGE1W) - 2025-07-17 11:55:00
 - [如何封装组件【渡一教育】](https://www.bilibili.com/BV16KGgzGEDD) - 2025-07-17 09:00:00
-- [利用贝塞尔曲线实现复杂动画【渡一教育】](https://www.bilibili.com/BV16KGgzGEvA) - 2025-07-16 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [数据响应式的本质【渡一教育】](https://www.bilibili.com/BV1g3bUz3ETq) - 2025-07-29 12:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1S3bUz3E5L) - 2025-07-29 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1KfgHzUEBK) - 2025-07-28 12:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1Kcgpz7EUu) - 2025-07-28 09:00:00
@@ -217,12 +218,12 @@
 - [非严格相等【渡一教育】](https://www.bilibili.com/BV1KpuBzsEGZ) - 2025-07-19 09:00:00
 - [Vue中的类型问题【渡一教育】](https://www.bilibili.com/BV1xpuBzsEUc) - 2025-07-18 12:00:00
 - [让文字立起来【渡一教育】](https://www.bilibili.com/BV1ypuBzWErn) - 2025-07-18 09:00:00
-- [可以重试的请求【渡一教育】](https://www.bilibili.com/BV11puBzWEBV) - 2025-07-17 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1LJ8czWEHq) - 2025-07-29 11:55:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV15vbZz2EoS) - 2025-07-29 09:00:00
 - [从视频文件提取画面帧【渡一教育】](https://www.bilibili.com/BV1hCbZzgEiB) - 2025-07-28 11:55:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1QCbZzgEwT) - 2025-07-28 09:00:00
@@ -242,12 +243,12 @@
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1CoGuzEE8o) - 2025-07-19 09:00:00
 - [交错排列的文字【渡一教育】](https://www.bilibili.com/BV1CoGuzEEi7) - 2025-07-18 11:55:00
 - [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV11QGuzQEbB) - 2025-07-18 09:00:00
-- [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1KQGuzXEVf) - 2025-07-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1xF8czTEaq) - 2025-07-29 11:55:00
 - [纵向控制的横向滚动【渡一教育】](https://www.bilibili.com/BV1tR8Fz6Evp) - 2025-07-29 09:00:00
 - [rAF和rIC的先后问题【渡一教育】](https://www.bilibili.com/BV1UR8Fz6EgN) - 2025-07-28 11:55:00
 - [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1bR8Fz6Eua) - 2025-07-28 09:00:00
@@ -267,6 +268,5 @@
 - [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1ZhGuzKE3G) - 2025-07-19 09:00:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1oaGuzvEWm) - 2025-07-18 11:55:00
 - [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV1jaGuziEDL) - 2025-07-18 09:00:00
-- [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1oaGuzvE4C) - 2025-07-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
