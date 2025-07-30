@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [系统级取色器](https://www.douyin.com/video/7532469543470452004) - 2025-07-30 15:30:00
 - [01背包问题](https://www.douyin.com/video/7532056636219821348) - 2025-07-29 15:30:00
 - [拖拽上传](https://www.douyin.com/video/7531282182799641898) - 2025-07-28 15:30:00
 - [封装全屏功能](https://www.douyin.com/video/7530948448191909183) - 2025-07-26 15:30:00
@@ -117,7 +118,6 @@
 - [Promise的状态吸收](https://www.douyin.com/video/7525050707217534242) - 2025-07-10 11:50:00
 - [代码着色](https://www.douyin.com/video/7524630968926358826) - 2025-07-09 11:50:00
 - [CodeReview中的常见问题](https://www.douyin.com/video/7524325846744567074) - 2025-07-08 11:50:00
-- [实现拼音标注](https://www.douyin.com/video/7523144640418073892) - 2025-07-07 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
