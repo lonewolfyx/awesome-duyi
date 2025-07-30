@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-30 02:58:14</p>
+<p>更新时间：2025-07-30 10:39:36</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [Promise.try【渡一教育】](https://www.bilibili.com/BV1NP8czvEE2) - 2025-07-30 09:00:00
 - [制作简易地图【渡一教育】](https://www.bilibili.com/BV1CP8czeEoc) - 2025-07-29 11:55:00
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1sP8czeEEq) - 2025-07-29 09:00:00
 - [NProgress插件【渡一教育】](https://www.bilibili.com/BV1CP8czeEUM) - 2025-07-28 11:55:00

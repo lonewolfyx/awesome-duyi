@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-30 02:58:14</p>
+<p>更新时间：2025-07-30 10:39:36</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1VW8czDEiY) - 2025-07-30 09:00:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1LJ8czWEHq) - 2025-07-29 11:55:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV15vbZz2EoS) - 2025-07-29 09:00:00
 - [从视频文件提取画面帧【渡一教育】](https://www.bilibili.com/BV1hCbZzgEiB) - 2025-07-28 11:55:00
