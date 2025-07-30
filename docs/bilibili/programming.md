@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-30 10:39:36</p>
+<p>更新时间：2025-07-30 14:59:53</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1qVbfzSEYq) - 2025-07-30 11:55:00
 - [代码着色【渡一教育】](https://www.bilibili.com/BV17VbfzSED8) - 2025-07-29 11:55:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1ZVbfzSEPn) - 2025-07-28 11:55:00
 - [实现拼音标注【渡一教育】](https://www.bilibili.com/BV1yagAzsETp) - 2025-07-26 11:55:00
