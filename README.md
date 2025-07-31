@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [分时函数的封装](https://www.douyin.com/video/7532801481125285154) - 2025-07-31 23:50:00
 - [数组新增的纯函数API](https://www.douyin.com/video/7532471537937550628) - 2025-07-30 23:50:00
 - [访问器成员](https://www.douyin.com/video/7532057048121396522) - 2025-07-29 23:50:00
 - [CSS原子化](https://www.douyin.com/video/7531282353088466215) - 2025-07-28 23:50:00
@@ -42,7 +43,6 @@
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7525729585250585897) - 2025-07-11 15:54:31
 - [Web性能指标](https://www.douyin.com/video/7525372905480359204) - 2025-07-10 16:50:24
 - [获取参数和返回值类型](https://www.douyin.com/video/7524631575988849963) - 2025-07-09 11:50:00
-- [交融动画效果](https://www.douyin.com/video/7524326000033844515) - 2025-07-08 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 

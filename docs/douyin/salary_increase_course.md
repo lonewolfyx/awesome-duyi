@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-31 21:21:57</p>
+<p>更新时间：2025-08-01 02:56:52</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [分时函数的封装](https://www.douyin.com/video/7532801481125285154) - 2025-07-31 23:50:00
 - [数组新增的纯函数API](https://www.douyin.com/video/7532471537937550628) - 2025-07-30 23:50:00
 - [访问器成员](https://www.douyin.com/video/7532057048121396522) - 2025-07-29 23:50:00
 - [CSS原子化](https://www.douyin.com/video/7531282353088466215) - 2025-07-28 23:50:00
