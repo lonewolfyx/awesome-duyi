@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-07-31 10:38:42</p>
+<p>更新时间：2025-07-31 14:58:33</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [什么是Web API【渡一教育】](https://www.bilibili.com/BV1za8FzxE7T) - 2025-07-31 11:55:00
 - [使用void 0 替换undefined【渡一教育】](https://www.bilibili.com/BV1za8FzxEoJ) - 2025-07-31 09:00:00
 - [canvas动画【渡一教育】](https://www.bilibili.com/BV1sP8czeELt) - 2025-07-30 11:55:00
 - [Promise.try【渡一教育】](https://www.bilibili.com/BV1NP8czvEE2) - 2025-07-30 09:00:00
