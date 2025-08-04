@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-04 02:53:48</p>
+<p>更新时间：2025-08-04 11:00:01</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [DTO和VO【渡一教育】](https://www.bilibili.com/BV1g3bUz3E7i) - 2025-08-04 09:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1u3bUz3E5c) - 2025-08-02 12:00:00
 - [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1D3bUz3Ejr) - 2025-08-01 12:00:00
 - [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1b3bUz3EB6) - 2025-08-01 09:00:00

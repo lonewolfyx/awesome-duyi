@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-04 02:53:48</p>
+<p>更新时间：2025-08-04 11:00:01</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1ut8kzFEV5) - 2025-08-04 09:00:00
 - [mac docker效果【渡一教育】](https://www.bilibili.com/BV1ep8czHEM9) - 2025-08-02 11:55:00
 - [大O表示法【渡一教育】](https://www.bilibili.com/BV1Vp8czHEHR) - 2025-08-01 11:55:00
 - [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1Vp8czHEDb) - 2025-08-01 09:00:00
