@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-05 10:41:54</p>
+<p>更新时间：2025-08-05 14:59:56</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV1XJ8kzeE7m) - 2025-08-05 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1XJ8kzeEKi) - 2025-08-05 09:00:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1U48kzfEJC) - 2025-08-04 11:55:00
 - [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1ut8kzFEV5) - 2025-08-04 09:00:00
