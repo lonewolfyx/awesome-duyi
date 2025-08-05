@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-05 02:57:38</p>
+<p>更新时间：2025-08-05 10:41:54</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1JYh7zkENC) - 2025-08-05 09:00:00
 - [用发布订阅模式解耦【渡一教育】](https://www.bilibili.com/BV1hubUzkEti) - 2025-08-04 12:00:00
 - [DTO和VO【渡一教育】](https://www.bilibili.com/BV1g3bUz3E7i) - 2025-08-04 09:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1u3bUz3E5c) - 2025-08-02 12:00:00
