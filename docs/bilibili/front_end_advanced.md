@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-06 02:59:20</p>
+<p>更新时间：2025-08-06 10:40:12</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [Clipboard API【渡一教育】](https://www.bilibili.com/BV1Xx8yzMEpz) - 2025-08-06 09:00:00
 - [无限视差滚动【渡一教育】](https://www.bilibili.com/BV19x8yzMEFB) - 2025-08-05 11:55:00
 - [++运算符【渡一教育】](https://www.bilibili.com/BV19x8yzME7o) - 2025-08-05 09:00:00
 - [封装统计函数【渡一教育】](https://www.bilibili.com/BV19x8yzMEJc) - 2025-08-04 11:55:00

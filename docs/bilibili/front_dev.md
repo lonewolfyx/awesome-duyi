@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-06 02:59:20</p>
+<p>更新时间：2025-08-06 10:40:12</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [Proxy和DefineProperty【渡一教育】](https://www.bilibili.com/BV1VE8kzKEyw) - 2025-08-06 09:00:00
 - [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV1XJ8kzeE7m) - 2025-08-05 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1XJ8kzeEKi) - 2025-08-05 09:00:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1U48kzfEJC) - 2025-08-04 11:55:00

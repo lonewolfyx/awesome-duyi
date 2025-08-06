@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-06 02:59:20</p>
+<p>更新时间：2025-08-06 10:40:12</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1wzhAzGEqn) - 2025-08-06 09:00:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1pzhAzGETM) - 2025-08-05 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1wzhAzGEPn) - 2025-08-05 09:00:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV18WhAzpEFn) - 2025-08-04 11:55:00

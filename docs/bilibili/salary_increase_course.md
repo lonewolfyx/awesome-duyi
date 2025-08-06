@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-06 02:59:20</p>
+<p>更新时间：2025-08-06 10:40:12</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [为什么需要虚拟DOM？【渡一教育】](https://www.bilibili.com/BV17Bh7zuEFz) - 2025-08-06 09:00:00
 - [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV16Yh7zkEwU) - 2025-08-05 12:00:00
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1JYh7zkENC) - 2025-08-05 09:00:00
 - [用发布订阅模式解耦【渡一教育】](https://www.bilibili.com/BV1hubUzkEti) - 2025-08-04 12:00:00
