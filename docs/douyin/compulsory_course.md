@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-06 10:40:12</p>
+<p>更新时间：2025-08-06 14:59:47</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [以同步的方式实现事件监听](https://www.douyin.com/video/7534718495976688947) - 2025-08-05 15:30:00
 - [SASS中的颜色函数](https://www.douyin.com/video/7533538860559519012) - 2025-08-02 15:30:00
 - [交通灯问题](https://www.douyin.com/video/7532800685335661859) - 2025-07-31 15:30:00
 - [系统级取色器](https://www.douyin.com/video/7532469543470452004) - 2025-07-30 15:30:00
