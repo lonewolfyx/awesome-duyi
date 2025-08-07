@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1FChAzzEwN) - 2025-08-07 09:00:00
 - [最近距离排序【渡一教育】](https://www.bilibili.com/BV1JChAzzEro) - 2025-08-06 11:55:00
 - [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1wzhAzGEqn) - 2025-08-06 09:00:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1pzhAzGETM) - 2025-08-05 11:55:00
@@ -142,12 +143,12 @@
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV15jbfzmEeT) - 2025-07-28 09:00:00
 - [最长递增子序列【渡一教育】](https://www.bilibili.com/BV11KgPzcEwZ) - 2025-07-26 11:55:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1NKgPzwE6M) - 2025-07-26 09:00:00
-- [五子棋的胜负判定逻辑【渡一教育】](https://www.bilibili.com/BV1xKgPzwEsP) - 2025-07-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [map和parseInt【渡一教育】](https://www.bilibili.com/BV1eW8yz6EY7) - 2025-08-07 09:00:00
 - [用位运算实现权限组合【渡一教育】](https://www.bilibili.com/BV19W8yzzEfG) - 2025-08-06 11:55:00
 - [Clipboard API【渡一教育】](https://www.bilibili.com/BV1Xx8yzMEpz) - 2025-08-06 09:00:00
 - [无限视差滚动【渡一教育】](https://www.bilibili.com/BV19x8yzMEFB) - 2025-08-05 11:55:00
@@ -167,7 +168,6 @@
 - [拖拽排序【渡一教育】](https://www.bilibili.com/BV1WK8czAENF) - 2025-07-28 09:00:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV15ugAzgEne) - 2025-07-26 11:55:00
 - [唤起本地应用【渡一教育】](https://www.bilibili.com/BV1VugAzgER5) - 2025-07-26 09:00:00
-- [call和apply的链式调用【渡一教育】](https://www.bilibili.com/BV15ugAzgE9u) - 2025-07-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [深拷贝的循环引用问题【渡一教育】](https://www.bilibili.com/BV17ih7z6E62) - 2025-08-07 09:00:00
 - [字典顺序和编码属顺序【渡一教育】](https://www.bilibili.com/BV17Bh7zuEPW) - 2025-08-06 12:00:00
 - [为什么需要虚拟DOM？【渡一教育】](https://www.bilibili.com/BV17Bh7zuEFz) - 2025-08-06 09:00:00
 - [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV16Yh7zkEwU) - 2025-08-05 12:00:00
@@ -217,12 +218,12 @@
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1Kcgpz7EUu) - 2025-07-28 09:00:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV1CxuBzHEx8) - 2025-07-26 12:00:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV1CxuBzHE85) - 2025-07-26 09:00:00
-- [let和var的区别【渡一教育】](https://www.bilibili.com/BV1xnuBzdEh7) - 2025-07-25 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1VE8kzKEte) - 2025-08-07 09:00:00
 - [内存泄漏和闭包【渡一教育】](https://www.bilibili.com/BV1VE8kzKE3A) - 2025-08-06 11:55:00
 - [Proxy和DefineProperty【渡一教育】](https://www.bilibili.com/BV1VE8kzKEyw) - 2025-08-06 09:00:00
 - [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV1XJ8kzeE7m) - 2025-08-05 11:55:00
@@ -242,12 +243,12 @@
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1QCbZzgEwT) - 2025-07-28 09:00:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1ZzgAzUELh) - 2025-07-26 11:55:00
 - [对等依赖报错问题【渡一教育】](https://www.bilibili.com/BV1EzgAzSEH4) - 2025-07-26 09:00:00
-- [国际化、本地化、全球化【渡一教育】](https://www.bilibili.com/BV17zgAzSE1F) - 2025-07-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [监控页面卡顿【渡一教育】](https://www.bilibili.com/BV1G48yzBEhY) - 2025-08-07 09:00:00
 - [实现抖音的“刚刚看过”功能【渡一教育】](https://www.bilibili.com/BV1G48yzBEyn) - 2025-08-06 11:55:00
 - [网络状态监控【渡一教育】](https://www.bilibili.com/BV1X48yzqEvZ) - 2025-08-06 09:00:00
 - [使用SASS实现主题切换【渡一教育】](https://www.bilibili.com/BV1Y48yzBE85) - 2025-08-05 11:55:00
@@ -267,6 +268,5 @@
 - [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1bR8Fz6Eua) - 2025-07-28 09:00:00
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1RDgAz3EaX) - 2025-07-26 11:55:00
 - [最小栈问题【渡一教育】](https://www.bilibili.com/BV1XQgAz6Em5) - 2025-07-26 09:00:00
-- [插槽的本质【渡一教育】](https://www.bilibili.com/BV15QgAzrE3m) - 2025-07-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)

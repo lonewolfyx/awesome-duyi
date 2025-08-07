@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-07 02:56:49</p>
+<p>更新时间：2025-08-07 10:40:11</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1FChAzzEwN) - 2025-08-07 09:00:00
 - [最近距离排序【渡一教育】](https://www.bilibili.com/BV1JChAzzEro) - 2025-08-06 11:55:00
 - [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1wzhAzGEqn) - 2025-08-06 09:00:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1pzhAzGETM) - 2025-08-05 11:55:00
