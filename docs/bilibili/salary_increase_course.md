@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-07 10:40:11</p>
+<p>更新时间：2025-08-07 14:59:40</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [使用defer优化白屏时间【渡一教育】](https://www.bilibili.com/BV17ih7z6Erg) - 2025-08-07 12:00:00
 - [深拷贝的循环引用问题【渡一教育】](https://www.bilibili.com/BV17ih7z6E62) - 2025-08-07 09:00:00
 - [字典顺序和编码属顺序【渡一教育】](https://www.bilibili.com/BV17Bh7zuEPW) - 2025-08-06 12:00:00
 - [为什么需要虚拟DOM？【渡一教育】](https://www.bilibili.com/BV17Bh7zuEFz) - 2025-08-06 09:00:00
