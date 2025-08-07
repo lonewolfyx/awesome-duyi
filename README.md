@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [如何获取组件的类型](https://www.douyin.com/video/7535422643831311656) - 2025-08-07 15:30:00
 - [旋转切换的轮播图](https://www.douyin.com/video/7535024654214253867) - 2025-08-06 15:30:00
 - [以同步的方式实现事件监听](https://www.douyin.com/video/7534718495976688947) - 2025-08-05 15:30:00
 - [SASS中的颜色函数](https://www.douyin.com/video/7533538860559519012) - 2025-08-02 15:30:00
@@ -117,7 +118,6 @@
 - [最长递增子序列](https://www.douyin.com/video/7527238078243654975) - 2025-07-16 11:50:00
 - [Proxy和DefineProperty](https://www.douyin.com/video/7526914254352469282) - 2025-07-15 11:50:00
 - [mac docker效果](https://www.douyin.com/video/7526164035604368667) - 2025-07-14 11:50:00
-- [GSAP已全部免费](https://www.douyin.com/video/7525793452848631091) - 2025-07-12 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

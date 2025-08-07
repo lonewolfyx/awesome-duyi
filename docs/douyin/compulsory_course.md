@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-07 14:59:40</p>
+<p>更新时间：2025-08-07 21:24:09</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [如何获取组件的类型](https://www.douyin.com/video/7535422643831311656) - 2025-08-07 15:30:00
 - [旋转切换的轮播图](https://www.douyin.com/video/7535024654214253867) - 2025-08-06 15:30:00
 - [以同步的方式实现事件监听](https://www.douyin.com/video/7534718495976688947) - 2025-08-05 15:30:00
 - [SASS中的颜色函数](https://www.douyin.com/video/7533538860559519012) - 2025-08-02 15:30:00
