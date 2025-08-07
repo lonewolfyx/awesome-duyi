@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [瀑布流布局](https://www.douyin.com/video/7535423041170361640) - 2025-08-07 23:50:00
 - [鼠标和键盘事件的常见问题](https://www.douyin.com/video/7535025107840912679) - 2025-08-06 23:50:00
 - [青蛙跳台阶问题](https://www.douyin.com/video/7534718646552186122) - 2025-08-05 23:50:00
 - [妙用位运算](https://www.douyin.com/video/7533542308860448063) - 2025-08-02 23:50:00
@@ -42,7 +43,6 @@
 - [使用元祖生成联合类型](https://www.douyin.com/video/7527238586391924011) - 2025-07-16 11:50:00
 - [srcset和sizes](https://www.douyin.com/video/7526912616476757288) - 2025-07-15 11:50:00
 - [ESModule的工作原理](https://www.douyin.com/video/7526165146746522930) - 2025-07-14 11:50:00
-- [手动解析DOM树](https://www.douyin.com/video/7525793870462930203) - 2025-07-12 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
