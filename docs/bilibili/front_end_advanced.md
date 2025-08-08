@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-08 10:40:01</p>
+<p>更新时间：2025-08-08 14:59:43</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [不要使用计时器做动画【渡一教育】](https://www.bilibili.com/BV19W8yzzEbg) - 2025-08-08 11:55:00
 - [HTMLCollection & NodeList【渡一教育】](https://www.bilibili.com/BV15W8yz6EGG) - 2025-08-08 09:00:00
 - [Cookie中的SameSite【渡一教育】](https://www.bilibili.com/BV19W8yzzEvb) - 2025-08-07 11:55:00
 - [map和parseInt【渡一教育】](https://www.bilibili.com/BV1eW8yz6EY7) - 2025-08-07 09:00:00
