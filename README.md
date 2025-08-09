@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [联合类型转交叉类型](https://www.douyin.com/video/7536142611342576959) - 2025-08-09 15:30:00
 - [联合类型和交叉类型](https://www.douyin.com/video/7535768498480385321) - 2025-08-08 15:30:00
 - [如何获取组件的类型](https://www.douyin.com/video/7535422643831311656) - 2025-08-07 15:30:00
 - [旋转切换的轮播图](https://www.douyin.com/video/7535024654214253867) - 2025-08-06 15:30:00
@@ -117,7 +118,6 @@
 - [盛水最大的容器](https://www.douyin.com/video/7527923942351211818) - 2025-07-18 11:50:00
 - [大O表示法](https://www.douyin.com/video/7527648785279831296) - 2025-07-17 11:50:00
 - [最长递增子序列](https://www.douyin.com/video/7527238078243654975) - 2025-07-16 11:50:00
-- [Proxy和DefineProperty](https://www.douyin.com/video/7526914254352469282) - 2025-07-15 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
