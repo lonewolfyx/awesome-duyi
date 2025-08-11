@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-11 21:21:29</p>
+<p>更新时间：2025-08-12 02:56:00</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [原型链的全貌图](https://www.douyin.com/video/7536497020497055002) - 2025-08-11 23:50:00
 - [变量交换的骚操作](https://www.douyin.com/video/7536143410319691062) - 2025-08-09 23:50:00
 - [无法预测的大数运算](https://www.douyin.com/video/7535769150455598379) - 2025-08-08 23:50:00
 - [瀑布流布局](https://www.douyin.com/video/7535423041170361640) - 2025-08-07 23:50:00

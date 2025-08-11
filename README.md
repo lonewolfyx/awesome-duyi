@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [原型链的全貌图](https://www.douyin.com/video/7536497020497055002) - 2025-08-11 23:50:00
 - [变量交换的骚操作](https://www.douyin.com/video/7536143410319691062) - 2025-08-09 23:50:00
 - [无法预测的大数运算](https://www.douyin.com/video/7535769150455598379) - 2025-08-08 23:50:00
 - [瀑布流布局](https://www.douyin.com/video/7535423041170361640) - 2025-08-07 23:50:00
@@ -42,7 +43,6 @@
 - [interact.js](https://www.douyin.com/video/7528385007031684371) - 2025-07-19 23:50:00
 - [你不知道的CSS选择器](https://www.douyin.com/video/7527923667032886571) - 2025-07-18 11:50:00
 - [状态仓库持久化](https://www.douyin.com/video/7527647924587629876) - 2025-07-17 11:50:00
-- [使用元祖生成联合类型](https://www.douyin.com/video/7527238586391924011) - 2025-07-16 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
