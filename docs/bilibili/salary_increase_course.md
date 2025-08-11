@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-10 14:52:57</p>
+<p>更新时间：2025-08-11 14:58:35</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1ajtqz5Eb5) - 2025-08-11 12:00:00
 - [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1Zih7z6EvT) - 2025-08-09 12:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1Bih7z6E89) - 2025-08-09 09:00:00
 - [使用代理实现单例【渡一教育】](https://www.bilibili.com/BV17ih7z6Egf) - 2025-08-08 12:00:00
