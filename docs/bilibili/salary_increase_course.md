@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-12 10:26:12</p>
+<p>更新时间：2025-08-12 14:54:43</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1Y5tqz1EHK) - 2025-08-12 12:00:00
 - [大整数相加【渡一教育】](https://www.bilibili.com/BV1Y5tqz1E62) - 2025-08-12 09:00:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1ajtqz5Eb5) - 2025-08-11 12:00:00
 - [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1Zih7z6EvT) - 2025-08-09 12:00:00
