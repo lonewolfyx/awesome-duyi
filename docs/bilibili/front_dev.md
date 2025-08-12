@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-12 02:56:00</p>
+<p>更新时间：2025-08-12 10:26:12</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1gatFzzEri) - 2025-08-12 09:00:00
 - [五子棋的胜负判定逻辑【渡一教育】](https://www.bilibili.com/BV1SatFzBEa9) - 2025-08-11 11:55:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1QH8kzAEHG) - 2025-08-09 11:55:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1Dp8kzaEDi) - 2025-08-09 09:00:00
