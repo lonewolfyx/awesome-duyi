@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [如何画一棵随机「树」](https://www.douyin.com/video/7537247535262420275) - 2025-08-12 15:30:00
 - [模特换装效果](https://www.douyin.com/video/7536496441775115566) - 2025-08-11 15:30:00
 - [联合类型转交叉类型](https://www.douyin.com/video/7536142611342576959) - 2025-08-09 15:30:00
 - [联合类型和交叉类型](https://www.douyin.com/video/7535768498480385321) - 2025-08-08 15:30:00
@@ -117,7 +118,6 @@
 - [故障波纹动效](https://www.douyin.com/video/7528759801354915115) - 2025-07-21 15:30:00
 - [页面图标Badge如何实现](https://www.douyin.com/video/7528384472023108883) - 2025-07-19 15:30:00
 - [盛水最大的容器](https://www.douyin.com/video/7527923942351211818) - 2025-07-18 11:50:00
-- [大O表示法](https://www.douyin.com/video/7527648785279831296) - 2025-07-17 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
