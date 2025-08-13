@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-13 10:27:54</p>
+<p>更新时间：2025-08-13 14:55:05</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [如何获取组件的类型【渡一教育】](https://www.bilibili.com/BV1kutFzsEm5) - 2025-08-13 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1putFzsEWq) - 2025-08-13 09:00:00
 - [实现GetOptionals【渡一教育】](https://www.bilibili.com/BV1AutFzsEKj) - 2025-08-12 11:55:00
 - [实现Optional【渡一教育】](https://www.bilibili.com/BV1kgtFz9Ei9) - 2025-08-12 09:00:00
