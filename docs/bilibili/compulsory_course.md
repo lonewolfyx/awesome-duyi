@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-13 14:55:05</p>
+<p>更新时间：2025-08-13 20:50:08</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
@@ -13,6 +13,7 @@
 - [项目问题的表述结构【渡一教育】](https://www.bilibili.com/BV13X4fzKEwZ) - 2025-08-12 11:55:00
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV13X4fzKEAp) - 2025-08-12 09:00:00
 - [WeakSet的垃圾回收问题【渡一教育】](https://www.bilibili.com/BV1gX4fzKE1k) - 2025-08-11 11:55:00
+- [如何封装组件【渡一教育】](https://www.bilibili.com/BV1TFtFzhE3i) - 2025-08-11 09:00:00
 - [利用贝塞尔曲线实现复杂动画【渡一教育】](https://www.bilibili.com/BV1D88yzvECD) - 2025-08-09 11:55:00
 - [Animation调试工具的使用【渡一教育】](https://www.bilibili.com/BV1Da8yzPEK7) - 2025-08-09 09:00:00
 - [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1Da8yzPEPc) - 2025-08-08 11:55:00
@@ -26,6 +27,7 @@
 - [上传OSS的正确姿势【渡一教育】](https://www.bilibili.com/BV1Qb8yzKEYg) - 2025-08-04 11:55:00
 - [Intersection Observer【渡一教育】](https://www.bilibili.com/BV1Qb8yzKEqE) - 2025-08-04 09:00:00
 - [动态规划问题的一般解题思路【渡一教育】](https://www.bilibili.com/BV18Q8FzkEuh) - 2025-08-02 11:55:00
+- [二进制格式上传文件【渡一教育】](https://www.bilibili.com/BV18Q8FzCE4u) - 2025-08-02 09:00:00
 - [在canvas中绘制和拖动【渡一教育】](https://www.bilibili.com/BV1aU8FzyEaW) - 2025-08-01 11:55:00
 - [你不知道的数字字面量【渡一教育】](https://www.bilibili.com/BV1QU8FzyE8U) - 2025-08-01 09:00:00
 - [页面可见度API【渡一教育】](https://www.bilibili.com/BV18D8FzVEC6) - 2025-07-31 11:55:00
@@ -658,10 +660,10 @@
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV1Cj41127mf) - 2023-09-03 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV11N411q7Zo) - 2023-09-02 11:55:00
 - [你不知道的数字字面量【渡一教育】](https://www.bilibili.com/BV1594y147DD) - 2023-09-01 16:55:00
-- [使用void 0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
-- [提问：call apply bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
+- [使用void  0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
+- [提问：call apply  bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
 - [不懂面向对象的前端不是好前端【渡一教育】](https://www.bilibili.com/BV1Th4y1m7YA) - 2023-08-31 16:55:00
-- [传参数的时候可以设置“默认值”了， 你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
+- [传参数的时候可以设置“默认值”了，  你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
 - [有了剩余参数，arguments以后可别再用了【渡一教育】](https://www.bilibili.com/BV1Eu411K7Pe) - 2023-08-30 19:55:00
 - [使用箭头函数是，你需要注意这些【渡一教育】](https://www.bilibili.com/BV1mu411A7vy) - 2023-08-30 16:55:00
 - [这款简便的声明方式我直接吹爆【渡一教育】](https://www.bilibili.com/BV1Dz4y1M7qF) - 2023-08-30 11:55:00

@@ -38,3 +38,4 @@ package-lock.json
 /test/
 /docs/.vitepress/cache/
 /docs/.vitepress/dist/
+/storageState.json

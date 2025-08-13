@@ -1,0 +1,14 @@
+[
+    {
+        "title": "告别if...else，使用适配器模式优雅实现",
+        "url": "https://www.douyin.com/video/7537978312073776435",
+        "time": "2025-08-13 16:05:50",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/c834224adf3e4bc98b7ccfd1c5f47e18?lk3s=138a59ce&x-expires=1756296000&x-signature=cTFDywzOshPWAA7n9IN2IIyCylo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20250813203932327E885784D70E206840"
+    },
+    {
+        "title": "if...else的冗余消除与插件化设计解构",
+        "url": "https://www.douyin.com/video/7537595334101372186",
+        "time": "2025-08-13 04:00:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/54d3f44c22274c1bbf4ce880a9809550?lk3s=138a59ce&x-expires=1756296000&x-signature=6aho89Tm%2FZtfZdEk00k0H6kQtUs%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20250813203932327E885784D70E206840"
+    }
+]
