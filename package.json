@@ -7,14 +7,17 @@
     "scripts": {
         "generate:README": "tsx src/generate/readme.ts",
         "format": "prettier --write ./",
-        "dev:pw:duyi": "tsx src/duyi.ts",
+        "douyin:duyi": "tsx src/schedule/douyin.ts",
+        "bilibili:duyi": "tsx src/schedule/bilibili.ts",
         "dev": "tsx src/douyin/index.ts",
         "test": "tsx test/test.ts",
         "test:douyin": "tsx src/playwright/douyin.ts",
         "docs:dev": "vitepress dev docs",
         "docs:build": "vitepress build docs",
         "docs:preview": "vitepress preview docs",
-        "docs:generate": "tsx src/generate/docs.ts"
+        "docs:generate": "tsx src/generate/docs.ts",
+        "correct:data": "tsx src/correct.ts",
+        "gen:douyin:cookies": "npx playwright codegen https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT --save-storage=storageState.json"
     },
     "keywords": [
         "awesome-duyi",
@@ -33,14 +36,22 @@
         "@types/fs-extra": "^11.0.4",
         "@types/node": "^22.14.0",
         "autoprefixer": "^10.4.21",
+        "lint-staged": "^16.1.5",
         "postcss": "^8.5.3",
         "prettier": "^3.5.3",
         "prettier-plugin-multiline-arrays": "^4.0.3",
         "sass-embedded": "^1.86.3",
+        "simple-git-hooks": "^2.13.1",
         "tailwindcss": "^3.4.17",
         "tsx": "^4.19.3",
         "typescript": "^5.8.3",
         "vitepress": "^1.6.3"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "simple-git-hooks": {
+        "pre-commit": "npm lint-staged"
+    },
+    "lint-staged": {
+        "*": "prettier --write ./"
+    }
 }
