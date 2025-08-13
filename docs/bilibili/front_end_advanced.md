@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-13 14:55:05</p>
+<p>更新时间：2025-08-13 20:50:08</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
@@ -13,6 +13,7 @@
 - [实现GetOptionals【渡一教育】](https://www.bilibili.com/BV1AutFzsEKj) - 2025-08-12 11:55:00
 - [实现Optional【渡一教育】](https://www.bilibili.com/BV1kgtFz9Ei9) - 2025-08-12 09:00:00
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1cgtFz9Emf) - 2025-08-11 11:55:00
+- [语义化版本【渡一教育】](https://www.bilibili.com/BV1wgtFz9EGE) - 2025-08-11 09:00:00
 - [以同步的方式实现事件监听【渡一教育】](https://www.bilibili.com/BV1268yzZEP7) - 2025-08-09 11:55:00
 - [文本溢出处理【渡一教育】](https://www.bilibili.com/BV1168yzZEDz) - 2025-08-09 09:00:00
 - [不要使用计时器做动画【渡一教育】](https://www.bilibili.com/BV19W8yzzEbg) - 2025-08-08 11:55:00
@@ -26,6 +27,7 @@
 - [封装统计函数【渡一教育】](https://www.bilibili.com/BV19x8yzMEJc) - 2025-08-04 11:55:00
 - [一道高端的面试题【渡一教育】](https://www.bilibili.com/BV19x8yzMEAN) - 2025-08-04 09:00:00
 - [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1688FzoEB9) - 2025-08-02 11:55:00
+- [数据类型和typeof【渡一教育】](https://www.bilibili.com/BV1r88FzoE3i) - 2025-08-02 09:00:00
 - [布尔判定和短路规则【渡一教育】](https://www.bilibili.com/BV1688FzoE3d) - 2025-08-01 11:55:00
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV16a8FzxEsJ) - 2025-08-01 09:00:00
 - [什么是Web API【渡一教育】](https://www.bilibili.com/BV1za8FzxE7T) - 2025-07-31 11:55:00
@@ -702,6 +704,6 @@
 - [经过一周的学习，原型链形成了！【渡一教育】](https://www.bilibili.com/BV1J14y1i71F) - 2023-08-18 16:55:00
 - [注意看，原型链的完整形态已经要呼之欲出了【渡一教育】](https://www.bilibili.com/BV18X4y1W7Su) - 2023-08-18 11:55:00
 - [使用原型链的知识，完成一道简单的笔试题吧【渡一教育】](https://www.bilibili.com/BV1X84y1f7EK) - 2023-08-17 16:55:00
-- [快速了解隐式原型，**proto**【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
-- [快速了解函数的原型对象 prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
+- [快速了解隐式原型，__proto__【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
+- [快速了解函数的原型对象  prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
 - [揭秘前端大牛必会的原型链问题【渡一教育】](https://www.bilibili.com/BV1Km4y1W7Ht) - 2023-08-16 12:02:08
