@@ -53,7 +53,15 @@ features:
       title: 哔哩哔哩 · 渡一教育-Web前端开发
       link: https://space.bilibili.com/384876532
     - icon:
-          src: /logo.jpeg
+        src: /logo.jpeg
       title: 哔哩哔哩 · 渡一前端必修课
       link: https://space.bilibili.com/3494367522195464
+    - icon:
+        src: https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_oYNA2CiTAEBxR8AAHtAgf7iE0aIMeIIACA6VoC~c5_300x300.jpeg
+      title: 渡一前端讲书频道
+      link: https://www.douyin.com/user/MS4wLjABAAAAwR3-LqNrLALJDVcylV58rAM_DK6B_yHN2cRwrwhq-Yi7TWjFRPz2ir-jMtpuB0F2
+    - icon:
+        src: https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c001_ogDPawfsAhnqoFAA7inCAECJEmIAqEeg9vCAQM~c5_300x300.jpeg
+      title: 渡一前端代码优化CodeReview
+      link: https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0
 ---

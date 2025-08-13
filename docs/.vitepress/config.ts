@@ -31,7 +31,9 @@ export default defineConfig({
                         { text: '渡一前端提薪课', link: '/douyin/salary_increase_course' },
                         { text: '渡一Web前端学习频道', link: '/douyin/learning_channel' },
                         { text: '渡一前端教科书', link: '/douyin/textbook' },
-                        { text: '渡一前端必修课', link: '/douyin/compulsory_course' }
+                        { text: '渡一前端必修课', link: '/douyin/compulsory_course' },
+                        { text: '渡一前端讲书频道', link: '/douyin/book_talk_channel' },
+                        { text: '渡一前端代码优化CodeReview', link: '/douyin/code_review' },
                     ]
                 }
             ],
