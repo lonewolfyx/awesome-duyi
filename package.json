@@ -5,7 +5,9 @@
     "description": "",
     "type": "module",
     "scripts": {
+        "dev:pw:duyi": "tsx src/duyi.ts",
         "generate:README": "tsx src/generate/readme.ts",
+        "docs:generate": "tsx src/generate/docs.ts",
         "format": "prettier --write ./",
         "douyin:duyi": "tsx src/schedule/douyin.ts",
         "bilibili:duyi": "tsx src/schedule/bilibili.ts",
@@ -15,7 +17,6 @@
         "docs:dev": "vitepress dev docs",
         "docs:build": "vitepress build docs",
         "docs:preview": "vitepress preview docs",
-        "docs:generate": "tsx src/generate/docs.ts",
         "correct:data": "tsx src/correct.ts",
         "gen:douyin:cookies": "npx playwright codegen https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT --save-storage=storageState.json"
     },
