@@ -21,12 +21,13 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
         flag: 'w'
     })
 
+    let status = true
+
     page.on('response', async (response) => {
         if (response.url().includes('aweme/v1/web/aweme/post')) {
             const text = await response.text()
-            if (text && JSON.parse(text)?.aweme_list) {
+            if (text && JSON.parse(text)?.aweme_list.length) {
                 const video = JSON.parse(text)['aweme_list']
-
                 video.forEach((row: any) => {
                     if (row.is_top) {
                         return ''
@@ -41,6 +42,9 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
                         flag: 'a'
                     })
                 })
+            } else {
+                console.log('无数据')
+                status = false
             }
 
             // if (text && JSON.parse(text)?.aweme_list?.[0]) {
@@ -77,7 +81,6 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
     // await page.locator('._CwbZHXv > svg').click()
     //
 
-    let status = true
     while (status) {
         const pageText = await page.locator('.E5QmyeTo').count()
         console.log('是否还有页面', pageText)

@@ -2,12 +2,19 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-08-13 20:50:08</p>
+<p>更新时间：2025-08-29 19:19:35</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [关于前端职业的未来-真正的问题](https://www.douyin.com/video/7540131529448525098) - 2025-08-25 12:00:00
+- [关于前端职业的未来-职业的选择](https://www.douyin.com/video/7540203667589287222) - 2025-08-22 12:00:00
+- [关于前端职业的未来-岗位的变化](https://www.douyin.com/video/7540129452949359913) - 2025-08-22 12:00:00
+- [关于前端职业的未来-市场的噪音](https://www.douyin.com/video/7540126249687993639) - 2025-08-21 12:00:00
+- [火爆全网的MCP全解读，MCP项目助你就业涨薪](https://www.douyin.com/video/7540125372214480182) - 2025-08-20 12:00:00
+- [火爆全网的MCP全解读，从开发到应用透彻理解](https://www.douyin.com/video/7539848929630883114) - 2025-08-19 12:00:00
+- [火爆全网的MCP全解读，前置知识先知道](https://www.douyin.com/video/7539770382912474409) - 2025-08-18 12:00:04
 - [水波进度样式](https://www.douyin.com/video/7276419940410740027) - 2023-09-09 11:50:00
 - [3D Hover Effect](https://www.douyin.com/video/7273833137283632395) - 2023-09-02 11:50:00
 - [mac docker效果](https://www.douyin.com/video/7269026898640899387) - 2023-08-21 11:50:00

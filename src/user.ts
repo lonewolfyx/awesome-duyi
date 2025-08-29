@@ -28,7 +28,7 @@ export const douYinUser: DouYinChannel[] = [
         name: '渡一前端必修课',
         vpName: 'compulsory_course',
         url: 'https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk'
-    },
+    }
     // {
     //     uid: 'MS4wLjABAAAAwR3-LqNrLALJDVcylV58rAM_DK6B_yHN2cRwrwhq-Yi7TWjFRPz2ir-jMtpuB0F2',
     //     alias: 'jspd',

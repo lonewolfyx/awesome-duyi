@@ -1,7 +1,6 @@
 import { biliBiliUser, douYinUser } from '@/user.ts'
 import { getBiliBiliDataList } from '@/playwright/bilibili.ts'
 import { getDouYinNewData } from '@/playwright/douyin.ts'
-
 ;(async () => {
     for (const { alias, url } of douYinUser) {
         // 计算当前这次的延迟
