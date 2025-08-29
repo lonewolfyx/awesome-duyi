@@ -36,13 +36,13 @@ export const douYinUser: DouYinChannel[] = [
     //     vpName: 'book_talk_channel',
     //     url: 'https://www.douyin.com/user/MS4wLjABAAAAwR3-LqNrLALJDVcylV58rAM_DK6B_yHN2cRwrwhq-Yi7TWjFRPz2ir-jMtpuB0F2'
     // },
-    {
-        uid: 'MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0',
-        alias: 'dmyh',
-        name: '渡一前端代码优化CodeReview',
-        vpName: 'code_review',
-        url: 'https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0'
-    }
+    // {
+    //     uid: 'MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0',
+    //     alias: 'dmyh',
+    //     name: '渡一前端代码优化CodeReview',
+    //     vpName: 'code_review',
+    //     url: 'https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0'
+    // }
 ]
 
 export const biliBiliUser: BiliBiliChannel[] = [
