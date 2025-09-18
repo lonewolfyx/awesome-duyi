@@ -270,4 +270,3 @@
 - [旋转切换的轮播图【渡一教育】](https://www.bilibili.com/BV1rzekzxEom) - 2025-09-04 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
-
