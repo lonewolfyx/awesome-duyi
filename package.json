@@ -48,11 +48,5 @@
         "typescript": "^5.8.3",
         "vitepress": "^1.6.3"
     },
-    "license": "MIT",
-    "simple-git-hooks": {
-        "pre-commit": "npm lint-staged"
-    },
-    "lint-staged": {
-        "*": "prettier --write ./"
-    }
+    "license": "MIT"
 }
