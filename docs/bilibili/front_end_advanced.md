@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-09-19 10:12:57</p>
+<p>更新时间：2025-09-19 14:49:26</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [你不知道的console【渡一教育】](https://www.bilibili.com/BV146HSzREna) - 2025-09-19 11:55:00
 - [使用chrome调试工具解决问题【渡一教育】](https://www.bilibili.com/BV1T6HSzRExP) - 2025-09-18 11:55:00
 - [验证回文串【渡一教育】](https://www.bilibili.com/BV1T6HSzREnb) - 2025-09-17 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV146HSzRE1d) - 2025-09-16 11:55:00
