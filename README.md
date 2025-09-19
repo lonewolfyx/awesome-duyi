@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1zeHDzmE9P) - 2025-09-19 09:00:00
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV16eHDzmE5t) - 2025-09-18 11:55:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1qzHDz5E8j) - 2025-09-18 09:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1qzHDz5EfA) - 2025-09-17 11:55:00
@@ -142,7 +143,6 @@
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1q5awzYETA) - 2025-09-09 11:55:00
 - [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1q5awzYEie) - 2025-09-09 09:00:00
 - [并发任务控制【渡一教育】](https://www.bilibili.com/BV1ijawzwEh2) - 2025-09-08 11:55:00
-- [一道解构的面试题【渡一教育】](https://www.bilibili.com/BV1qjawzwEPb) - 2025-09-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [文字的交融展开【渡一教育】](https://www.bilibili.com/BV1rPHezPEJx) - 2025-09-19 09:00:00
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1NiHezVEJp) - 2025-09-18 12:00:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1yiHezGERH) - 2025-09-18 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1siHezGE47) - 2025-09-17 12:00:00
@@ -217,12 +218,12 @@
 - [视差滚动【渡一教育】](https://www.bilibili.com/BV1N6a1zvEns) - 2025-09-09 12:00:00
 - [文字视差背景【渡一教育】](https://www.bilibili.com/BV116a1zvEZW) - 2025-09-09 09:00:00
 - [实现拼音标注【渡一教育】](https://www.bilibili.com/BV11ka1zPEFG) - 2025-09-08 12:00:00
-- [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1ska1zPEus) - 2025-09-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [游离节点造成的内存泄露【渡一教育】](https://www.bilibili.com/BV1KzHSzxEQF) - 2025-09-19 09:00:00
 - [利用自定义ref实现防抖【渡一教育】](https://www.bilibili.com/BV1MeHSzfExG) - 2025-09-18 11:55:00
 - [SASS中的颜色函数【渡一教育】](https://www.bilibili.com/BV1MeHSzfEnM) - 2025-09-18 09:00:00
 - [卡片翻动效果【渡一教育】](https://www.bilibili.com/BV1MeHSzfEJU) - 2025-09-17 11:55:00
@@ -242,7 +243,6 @@
 - [base64格式的文件上传【渡一教育】](https://www.bilibili.com/BV19YaMzyEEU) - 2025-09-09 11:55:00
 - [如何用面向对象开发程序【渡一教育】](https://www.bilibili.com/BV19YaMzyEnU) - 2025-09-09 09:00:00
 - [工程化学习路线【渡一教育】](https://www.bilibili.com/BV1W9aMzcE5m) - 2025-09-08 11:55:00
-- [使用nvm控制node版本【渡一教育】](https://www.bilibili.com/BV1xDaMzAEVR) - 2025-09-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
