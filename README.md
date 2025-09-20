@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1FYHDzJESe) - 2025-09-20 09:00:00
 - [sources选项卡【渡一教育】](https://www.bilibili.com/BV1JeHDzUEq8) - 2025-09-19 11:55:00
 - [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1zeHDzmE9P) - 2025-09-19 09:00:00
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV16eHDzmE5t) - 2025-09-18 11:55:00
@@ -142,7 +143,6 @@
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1Z5awzYEwf) - 2025-09-10 11:55:00
 - [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1q5awzYEcX) - 2025-09-10 09:00:00
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1q5awzYETA) - 2025-09-09 11:55:00
-- [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1q5awzYEie) - 2025-09-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV16PHezPEW5) - 2025-09-20 09:00:00
 - [使用computed拦截v-model【渡一教育】](https://www.bilibili.com/BV16PHezPExF) - 2025-09-19 12:00:00
 - [文字的交融展开【渡一教育】](https://www.bilibili.com/BV1rPHezPEJx) - 2025-09-19 09:00:00
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1NiHezVEJp) - 2025-09-18 12:00:00
@@ -217,12 +218,12 @@
 - [文字智能适配背景【渡一教育】](https://www.bilibili.com/BV1SYa1zgEhd) - 2025-09-10 12:00:00
 - [蜂巢布局【渡一教育】](https://www.bilibili.com/BV1uYa1zgEGF) - 2025-09-10 09:00:00
 - [视差滚动【渡一教育】](https://www.bilibili.com/BV1N6a1zvEns) - 2025-09-09 12:00:00
-- [文字视差背景【渡一教育】](https://www.bilibili.com/BV116a1zvEZW) - 2025-09-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [自动检测更新【渡一教育】](https://www.bilibili.com/BV1xzHSzxE1p) - 2025-09-20 09:00:00
 - [无法取消的默认行为【渡一教育】](https://www.bilibili.com/BV1KzHSzxE4c) - 2025-09-19 11:55:00
 - [游离节点造成的内存泄露【渡一教育】](https://www.bilibili.com/BV1KzHSzxEQF) - 2025-09-19 09:00:00
 - [利用自定义ref实现防抖【渡一教育】](https://www.bilibili.com/BV1MeHSzfExG) - 2025-09-18 11:55:00
@@ -242,7 +243,6 @@
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV1eaaMzLEq4) - 2025-09-10 11:55:00
 - [上传界面交互【渡一教育】](https://www.bilibili.com/BV1eaaMzLEpD) - 2025-09-10 09:00:00
 - [base64格式的文件上传【渡一教育】](https://www.bilibili.com/BV19YaMzyEEU) - 2025-09-09 11:55:00
-- [如何用面向对象开发程序【渡一教育】](https://www.bilibili.com/BV19YaMzyEnU) - 2025-09-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
