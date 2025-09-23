@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [生成随机图片【渡一教育】](https://www.bilibili.com/BV12sp4z8EnV) - 2025-09-23 09:00:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV12sp4z8E88) - 2025-09-22 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV11xp4zfEoB) - 2025-09-22 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1cYHDzJEMb) - 2025-09-20 11:55:00
@@ -142,7 +143,6 @@
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1bhawzQETs) - 2025-09-12 11:55:00
 - [水波进度样式【渡一教育】](https://www.bilibili.com/BV1ShawzQEui) - 2025-09-12 09:00:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1uhawzXEe1) - 2025-09-11 11:55:00
-- [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1o5awzYECb) - 2025-09-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [全组合判断【渡一教育】](https://www.bilibili.com/BV13ipxzPEmd) - 2025-09-23 09:00:00
 - [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1aipxzPESm) - 2025-09-22 12:00:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1GipxzPEtf) - 2025-09-22 09:00:00
 - [判断函数是否标记为async【渡一教育】](https://www.bilibili.com/BV1FPHezNEXC) - 2025-09-20 12:00:00
@@ -217,12 +218,12 @@
 - [数字转中文【渡一教育】](https://www.bilibili.com/BV1tea1zzEf1) - 2025-09-12 12:00:00
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1Mea1zzEaG) - 2025-09-12 09:00:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1Mea1zzEQg) - 2025-09-11 12:00:00
-- [漩涡型二维数组【渡一教育】](https://www.bilibili.com/BV1Mea1zzEbf) - 2025-09-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1FopxzSEat) - 2025-09-23 09:00:00
 - [黑白小球交替的loading效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEWf) - 2025-09-22 11:55:00
 - [如何轻松实现粒子效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEYR) - 2025-09-22 09:00:00
 - [保持元素宽高比【渡一教育】](https://www.bilibili.com/BV1KzHSzxEML) - 2025-09-20 11:55:00
@@ -242,7 +243,6 @@
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1pfagzvExa) - 2025-09-12 11:55:00
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV1kca3zPEuw) - 2025-09-12 09:00:00
 - [正则中的lastIndex【渡一教育】](https://www.bilibili.com/BV1JMa3z8ENw) - 2025-09-11 11:55:00
-- [如何防截屏防录制【渡一教育】](https://www.bilibili.com/BV1EMa3zbETM) - 2025-09-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
