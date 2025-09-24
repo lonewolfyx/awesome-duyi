@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-09-24 02:49:44</p>
+<p>更新时间：2025-09-24 10:10:42</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1D7p4zNEqd) - 2025-09-24 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Ksp4zhEdu) - 2025-09-23 11:55:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV12sp4z8EnV) - 2025-09-23 09:00:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV12sp4z8E88) - 2025-09-22 11:55:00
