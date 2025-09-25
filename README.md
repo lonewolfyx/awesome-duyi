@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV137p4zKEMt) - 2025-09-25 09:00:00
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV137p4zKEN6) - 2025-09-24 11:55:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1D7p4zNEqd) - 2025-09-24 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Ksp4zhEdu) - 2025-09-23 11:55:00
@@ -142,7 +143,6 @@
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1i6HDzCEfH) - 2025-09-15 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1BiHDzjE8j) - 2025-09-15 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1bhawzQEeb) - 2025-09-13 11:55:00
-- [文字转语音【渡一教育】](https://www.bilibili.com/BV1bhawzQEzz) - 2025-09-13 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1QdpszhE2A) - 2025-09-25 09:00:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1j4pxzgErw) - 2025-09-24 12:00:00
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1j4pxzgEd5) - 2025-09-24 09:00:00
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1Ltpxz6E9x) - 2025-09-23 12:00:00
@@ -217,12 +218,12 @@
 - [光标跟随效果【渡一教育】](https://www.bilibili.com/BV1yqHezrE3h) - 2025-09-15 12:00:00
 - [封装resize指令【渡一教育】](https://www.bilibili.com/BV1yqHezrEV8) - 2025-09-15 09:00:00
 - [代码着色【渡一教育】](https://www.bilibili.com/BV1UEaUzjEh6) - 2025-09-13 12:00:00
-- [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1SEaUzjEFC) - 2025-09-13 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1fFp4z2EVU) - 2025-09-25 09:00:00
 - [并发任务控制【渡一教育】](https://www.bilibili.com/BV17wp4zjEY2) - 2025-09-24 11:55:00
 - [一道解构的面试题【渡一教育】](https://www.bilibili.com/BV1fwp4zLEcM) - 2025-09-24 09:00:00
 - [1KB的JS代码【渡一教育】](https://www.bilibili.com/BV1Zwp4zLEjG) - 2025-09-23 11:55:00
@@ -242,7 +243,6 @@
 - [俄罗斯方块是如何实现的【渡一教育】](https://www.bilibili.com/BV1hgHDzNECR) - 2025-09-15 11:55:00
 - [网络的正确学习方式【渡一教育】](https://www.bilibili.com/BV19NHDzqEh4) - 2025-09-15 09:00:00
 - [使用defer优化白屏时间【渡一教育】](https://www.bilibili.com/BV1pfagzvEn3) - 2025-09-13 11:55:00
-- [深拷贝的循环引用问题【渡一教育】](https://www.bilibili.com/BV1PfagziEgE) - 2025-09-13 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
