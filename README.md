@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [这个表达式是真“nb”](https://www.douyin.com/video/7551725823410179378) - 2025-09-20 23:50:00
 - [可以重试的请求](https://www.douyin.com/video/7550596248953179401) - 2025-09-17 23:50:00
 - [无限递归一定会溢栈吗？](https://www.douyin.com/video/7550299436467965238) - 2025-09-16 23:50:00
 - [ESM中的符号绑定](https://www.douyin.com/video/7549129423061011758) - 2025-09-15 23:50:00
@@ -42,7 +43,6 @@
 - [使用chrome调试工具解决问题](https://www.douyin.com/video/7543599683806055734) - 2025-08-29 23:50:00
 - [验证回文串](https://www.douyin.com/video/7543181272412065087) - 2025-08-28 23:50:00
 - [视频文本化](https://www.douyin.com/video/7542865952002657555) - 2025-08-27 23:50:00
-- [彻底搞懂时间函数](https://www.douyin.com/video/7542445445864377654) - 2025-08-26 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
 - [数组的forEach方法](https://www.douyin.com/video/7550299247854325031) - 2025-09-16 15:30:00
 - [图片裁剪上传原理](https://www.douyin.com/video/7549128431649279241) - 2025-09-15 15:30:00
@@ -117,7 +118,6 @@
 - [服务监控与数据埋点](https://www.douyin.com/video/7543599788671929654) - 2025-08-29 15:30:00
 - [交融动画效果](https://www.douyin.com/video/7543180696928537919) - 2025-08-28 15:30:00
 - [开源库中的package](https://www.douyin.com/video/7542865929655389481) - 2025-08-27 15:30:00
-- [环绕式照片墙](https://www.douyin.com/video/7542444410328321334) - 2025-08-26 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
