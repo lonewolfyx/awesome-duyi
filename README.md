@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1QLp4ziEJn) - 2025-09-26 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1GLp4zqEPW) - 2025-09-25 11:55:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV137p4zKEMt) - 2025-09-25 09:00:00
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV137p4zKEN6) - 2025-09-24 11:55:00
@@ -142,7 +143,6 @@
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV1qzHDz5EbV) - 2025-09-16 11:55:00
 - [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV1ZzHDz5Ewu) - 2025-09-16 09:00:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1i6HDzCEfH) - 2025-09-15 11:55:00
-- [视频文本化【渡一教育】](https://www.bilibili.com/BV1BiHDzjE8j) - 2025-09-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1eQpszPEVD) - 2025-09-26 09:00:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV19QpszPETh) - 2025-09-25 12:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1QdpszhE2A) - 2025-09-25 09:00:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1j4pxzgErw) - 2025-09-24 12:00:00
@@ -217,12 +218,12 @@
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1yiHezGE9y) - 2025-09-16 12:00:00
 - [表单的元素选择【渡一教育】](https://www.bilibili.com/BV1xiHezGEW6) - 2025-09-16 09:00:00
 - [光标跟随效果【渡一教育】](https://www.bilibili.com/BV1yqHezrE3h) - 2025-09-15 12:00:00
-- [封装resize指令【渡一教育】](https://www.bilibili.com/BV1yqHezrEV8) - 2025-09-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1fFp4z2EYR) - 2025-09-26 09:00:00
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1fFp4z2EhE) - 2025-09-25 11:55:00
 - [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1fFp4z2EVU) - 2025-09-25 09:00:00
 - [并发任务控制【渡一教育】](https://www.bilibili.com/BV17wp4zjEY2) - 2025-09-24 11:55:00
@@ -242,7 +243,6 @@
 - [大整数相加【渡一教育】](https://www.bilibili.com/BV1GMHDziEBd) - 2025-09-16 11:55:00
 - [浏览器原生弹窗【渡一教育】](https://www.bilibili.com/BV1QMHDzvErN) - 2025-09-16 09:00:00
 - [俄罗斯方块是如何实现的【渡一教育】](https://www.bilibili.com/BV1hgHDzNECR) - 2025-09-15 11:55:00
-- [网络的正确学习方式【渡一教育】](https://www.bilibili.com/BV19NHDzqEh4) - 2025-09-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
