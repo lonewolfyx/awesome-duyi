@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [文字镂空效果【渡一教育】](https://www.bilibili.com/BV1QLp4ziENE) - 2025-09-27 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1DLp4ziEdL) - 2025-09-26 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1QLp4ziEJn) - 2025-09-26 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1GLp4zqEPW) - 2025-09-25 11:55:00
@@ -142,7 +143,6 @@
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1qzHDz5EfA) - 2025-09-17 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1BzHDz5EAT) - 2025-09-17 09:00:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV1qzHDz5EbV) - 2025-09-16 11:55:00
-- [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV1ZzHDz5Ewu) - 2025-09-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [网格布局中的动画【渡一教育】](https://www.bilibili.com/BV1QRpszwEUV) - 2025-09-27 09:00:00
 - [资源提示符【渡一教育】](https://www.bilibili.com/BV1eSpszvEfy) - 2025-09-26 12:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1eQpszPEVD) - 2025-09-26 09:00:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV19QpszPETh) - 2025-09-25 12:00:00
@@ -217,12 +218,12 @@
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1siHezGE47) - 2025-09-17 12:00:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1yiHezGEUu) - 2025-09-17 09:00:00
 - [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1yiHezGE9y) - 2025-09-16 12:00:00
-- [表单的元素选择【渡一教育】](https://www.bilibili.com/BV1xiHezGEW6) - 2025-09-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1pXpxzpE6B) - 2025-09-27 09:00:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1EFp4zmEet) - 2025-09-26 11:55:00
 - [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1fFp4z2EYR) - 2025-09-26 09:00:00
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1fFp4z2EhE) - 2025-09-25 11:55:00
@@ -242,7 +243,6 @@
 - [卡片翻动效果【渡一教育】](https://www.bilibili.com/BV1MeHSzfEJU) - 2025-09-17 11:55:00
 - [动态表单的实现【渡一教育】](https://www.bilibili.com/BV1TiHSztEkg) - 2025-09-17 09:00:00
 - [大整数相加【渡一教育】](https://www.bilibili.com/BV1GMHDziEBd) - 2025-09-16 11:55:00
-- [浏览器原生弹窗【渡一教育】](https://www.bilibili.com/BV1QMHDzvErN) - 2025-09-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
