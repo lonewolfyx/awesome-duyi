@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [图片调色盘【渡一教育】](https://www.bilibili.com/BV1DLp4ziE1r) - 2025-09-27 11:55:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV1QLp4ziENE) - 2025-09-27 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1DLp4ziEdL) - 2025-09-26 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1QLp4ziEJn) - 2025-09-26 09:00:00
@@ -142,12 +143,12 @@
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1qzHDz5E8j) - 2025-09-18 09:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1qzHDz5EfA) - 2025-09-17 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1BzHDz5EAT) - 2025-09-17 09:00:00
-- [你不知道的console【渡一教育】](https://www.bilibili.com/BV1qzHDz5EbV) - 2025-09-16 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [统计字符频率的风骚写法【渡一教育】](https://www.bilibili.com/BV1eSpszvEdd) - 2025-09-27 11:55:00
 - [使用阴影画图【渡一教育】](https://www.bilibili.com/BV1eSpszvEWv) - 2025-09-26 11:55:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1eQpszPE5B) - 2025-09-25 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV1YQpszPECk) - 2025-09-24 11:55:00
@@ -167,12 +168,12 @@
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1viagznEY8) - 2025-09-11 09:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1RiagznE9s) - 2025-09-10 11:55:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1RiagznEr7) - 2025-09-10 09:00:00
-- [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1D1agz5EQh) - 2025-09-09 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1mypxzZESU) - 2025-09-27 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1typxzZEEu) - 2025-09-26 11:55:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1typxzZEmm) - 2025-09-25 11:55:00
 - [CSS原子化【渡一教育】](https://www.bilibili.com/BV142pxz4EBb) - 2025-09-24 11:55:00
@@ -192,12 +193,12 @@
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1Q2aczQEg7) - 2025-09-08 11:55:00
 - [丝滑的标题动画【渡一教育】](https://www.bilibili.com/BV1Jfvwz5Ezc) - 2025-09-06 11:55:00
 - [vite打包结构控制【渡一教育】](https://www.bilibili.com/BV1fFvAzkEBA) - 2025-09-05 11:55:00
-- [目录的自动高亮【渡一教育】](https://www.bilibili.com/BV1EFvAzCEmd) - 2025-09-04 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1aRpszwEqE) - 2025-09-27 12:00:00
 - [网格布局中的动画【渡一教育】](https://www.bilibili.com/BV1QRpszwEUV) - 2025-09-27 09:00:00
 - [资源提示符【渡一教育】](https://www.bilibili.com/BV1eSpszvEfy) - 2025-09-26 12:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1eQpszPEVD) - 2025-09-26 09:00:00
@@ -217,12 +218,12 @@
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1yiHezGERH) - 2025-09-18 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1siHezGE47) - 2025-09-17 12:00:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1yiHezGEUu) - 2025-09-17 09:00:00
-- [CodeReview中的常见问题【渡一教育】](https://www.bilibili.com/BV1yiHezGE9y) - 2025-09-16 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [base和publicPath【渡一教育】](https://www.bilibili.com/BV1wXpxzpE9e) - 2025-09-27 11:55:00
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1pXpxzpE6B) - 2025-09-27 09:00:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1EFp4zmEet) - 2025-09-26 11:55:00
 - [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1fFp4z2EYR) - 2025-09-26 09:00:00
@@ -242,12 +243,12 @@
 - [SASS中的颜色函数【渡一教育】](https://www.bilibili.com/BV1MeHSzfEnM) - 2025-09-18 09:00:00
 - [卡片翻动效果【渡一教育】](https://www.bilibili.com/BV1MeHSzfEJU) - 2025-09-17 11:55:00
 - [动态表单的实现【渡一教育】](https://www.bilibili.com/BV1TiHSztEkg) - 2025-09-17 09:00:00
-- [大整数相加【渡一教育】](https://www.bilibili.com/BV1GMHDziEBd) - 2025-09-16 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1LtpxzzEm5) - 2025-09-27 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1vtpxzzERD) - 2025-09-26 11:55:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1LtpxzzESy) - 2025-09-25 11:55:00
 - [CSS原子化【渡一教育】](https://www.bilibili.com/BV1EWpxzVEzG) - 2025-09-24 11:55:00
@@ -267,6 +268,5 @@
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1qhagz9EzN) - 2025-09-11 09:00:00
 - [丝滑的标题动画【渡一教育】](https://www.bilibili.com/BV1Zhagz9EFK) - 2025-09-10 11:55:00
 - [vite打包结构控制【渡一教育】](https://www.bilibili.com/BV1qhagz9EHP) - 2025-09-10 09:00:00
-- [目录的自动高亮【渡一教育】](https://www.bilibili.com/BV1iYagzpEz7) - 2025-09-09 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
