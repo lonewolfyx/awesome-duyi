@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [CommonJS的本质](https://www.douyin.com/video/7552086402717076788) - 2025-09-22 23:50:00
 - [这个表达式是真“nb”](https://www.douyin.com/video/7551725823410179378) - 2025-09-20 23:50:00
 - [可以重试的请求](https://www.douyin.com/video/7550596248953179401) - 2025-09-17 23:50:00
 - [无限递归一定会溢栈吗？](https://www.douyin.com/video/7550299436467965238) - 2025-09-16 23:50:00
@@ -42,7 +43,6 @@
 - [你不知道的console](https://www.douyin.com/video/7543919516129053988) - 2025-08-30 23:50:00
 - [使用chrome调试工具解决问题](https://www.douyin.com/video/7543599683806055734) - 2025-08-29 23:50:00
 - [验证回文串](https://www.douyin.com/video/7543181272412065087) - 2025-08-28 23:50:00
-- [视频文本化](https://www.douyin.com/video/7542865952002657555) - 2025-08-27 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
 - [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
 - [数组的forEach方法](https://www.douyin.com/video/7550299247854325031) - 2025-09-16 15:30:00
@@ -117,7 +118,6 @@
 - [元素倒影](https://www.douyin.com/video/7543918569763949887) - 2025-08-30 15:30:00
 - [服务监控与数据埋点](https://www.douyin.com/video/7543599788671929654) - 2025-08-29 15:30:00
 - [交融动画效果](https://www.douyin.com/video/7543180696928537919) - 2025-08-28 15:30:00
-- [开源库中的package](https://www.douyin.com/video/7542865929655389481) - 2025-08-27 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

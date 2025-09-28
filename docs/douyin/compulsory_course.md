@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-09-28 20:59:47</p>
+<p>更新时间：2025-09-29 02:44:46</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
 - [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
 - [数组的forEach方法](https://www.douyin.com/video/7550299247854325031) - 2025-09-16 15:30:00
