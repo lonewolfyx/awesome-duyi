@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-09-29 10:14:38</p>
+<p>更新时间：2025-09-29 14:52:14</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1RSJQzzEyN) - 2025-09-29 11:55:00
 - [水波进度样式【渡一教育】](https://www.bilibili.com/BV1eSJQzzEBG) - 2025-09-29 09:00:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1wXpxzpE9e) - 2025-09-27 11:55:00
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1pXpxzpE6B) - 2025-09-27 09:00:00

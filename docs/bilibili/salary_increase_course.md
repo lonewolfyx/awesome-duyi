@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-09-29 10:14:38</p>
+<p>更新时间：2025-09-29 14:52:14</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1Rtn3zxEDk) - 2025-09-29 12:00:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV15tn3zxEX4) - 2025-09-29 09:00:00
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1aRpszwEqE) - 2025-09-27 12:00:00
 - [网格布局中的动画【渡一教育】](https://www.bilibili.com/BV1QRpszwEUV) - 2025-09-27 09:00:00
