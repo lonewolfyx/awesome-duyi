@@ -1,5 +1,11 @@
 [
     {
+        "title": "手动解析DOM树",
+        "url": "https://www.douyin.com/video/7552832338447633707",
+        "time": "2025-09-23 15:30:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d98c3b9cd195437f81fb77c4b2e99469?lk3s=138a59ce&x-expires=1760378400&x-signature=35vC8pKpXAEtWRjRgpxrSvhPlNo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202509300249148190F923160876CDFAA3"
+    },
+    {
         "title": "组件级权限控制的最佳实践",
         "url": "https://www.douyin.com/video/7552086653322530082",
         "time": "2025-09-22 15:30:00",

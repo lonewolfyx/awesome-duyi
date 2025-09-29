@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [展示组件和容器组件](https://www.douyin.com/video/7552833071360314665) - 2025-09-23 23:50:00
 - [CommonJS的本质](https://www.douyin.com/video/7552086402717076788) - 2025-09-22 23:50:00
 - [这个表达式是真“nb”](https://www.douyin.com/video/7551725823410179378) - 2025-09-20 23:50:00
 - [可以重试的请求](https://www.douyin.com/video/7550596248953179401) - 2025-09-17 23:50:00
@@ -42,7 +43,6 @@
 - [使用sources进行断点调试](https://www.douyin.com/video/7543919931126009127) - 2025-09-01 23:50:00
 - [你不知道的console](https://www.douyin.com/video/7543919516129053988) - 2025-08-30 23:50:00
 - [使用chrome调试工具解决问题](https://www.douyin.com/video/7543599683806055734) - 2025-08-29 23:50:00
-- [验证回文串](https://www.douyin.com/video/7543181272412065087) - 2025-08-28 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
 - [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
@@ -117,7 +118,6 @@
 - [四角线框的跟随移动](https://www.douyin.com/video/7543919059507744039) - 2025-09-01 15:30:00
 - [元素倒影](https://www.douyin.com/video/7543918569763949887) - 2025-08-30 15:30:00
 - [服务监控与数据埋点](https://www.douyin.com/video/7543599788671929654) - 2025-08-29 15:30:00
-- [交融动画效果](https://www.douyin.com/video/7543180696928537919) - 2025-08-28 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
