@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1bZJSzxEmr) - 2025-09-29 09:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1DLp4ziE1r) - 2025-09-27 11:55:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV1QLp4ziENE) - 2025-09-27 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1DLp4ziEdL) - 2025-09-26 11:55:00
@@ -142,7 +143,6 @@
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV16eHDzmE5t) - 2025-09-18 11:55:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1qzHDz5E8j) - 2025-09-18 09:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1qzHDz5EfA) - 2025-09-17 11:55:00
-- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1BzHDz5EAT) - 2025-09-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV15tn3zxEX4) - 2025-09-29 09:00:00
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1aRpszwEqE) - 2025-09-27 12:00:00
 - [网格布局中的动画【渡一教育】](https://www.bilibili.com/BV1QRpszwEUV) - 2025-09-27 09:00:00
 - [资源提示符【渡一教育】](https://www.bilibili.com/BV1eSpszvEfy) - 2025-09-26 12:00:00
@@ -217,12 +218,12 @@
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1NiHezVEJp) - 2025-09-18 12:00:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1yiHezGERH) - 2025-09-18 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1siHezGE47) - 2025-09-17 12:00:00
-- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1yiHezGEUu) - 2025-09-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [水波进度样式【渡一教育】](https://www.bilibili.com/BV1eSJQzzEBG) - 2025-09-29 09:00:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1wXpxzpE9e) - 2025-09-27 11:55:00
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1pXpxzpE6B) - 2025-09-27 09:00:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1EFp4zmEet) - 2025-09-26 11:55:00
@@ -242,7 +243,6 @@
 - [利用自定义ref实现防抖【渡一教育】](https://www.bilibili.com/BV1MeHSzfExG) - 2025-09-18 11:55:00
 - [SASS中的颜色函数【渡一教育】](https://www.bilibili.com/BV1MeHSzfEnM) - 2025-09-18 09:00:00
 - [卡片翻动效果【渡一教育】](https://www.bilibili.com/BV1MeHSzfEJU) - 2025-09-17 11:55:00
-- [动态表单的实现【渡一教育】](https://www.bilibili.com/BV1TiHSztEkg) - 2025-09-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
