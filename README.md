@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1JHJXzmEj6) - 2025-09-30 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1JHJXzmEP4) - 2025-09-29 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1bZJSzxEmr) - 2025-09-29 09:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1DLp4ziE1r) - 2025-09-27 11:55:00
@@ -142,7 +143,6 @@
 - [sources选项卡【渡一教育】](https://www.bilibili.com/BV1JeHDzUEq8) - 2025-09-19 11:55:00
 - [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1zeHDzmE9P) - 2025-09-19 09:00:00
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV16eHDzmE5t) - 2025-09-18 11:55:00
-- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1qzHDz5E8j) - 2025-09-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1g9ngzmEaA) - 2025-09-30 09:00:00
 - [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1Rtn3zxEDk) - 2025-09-29 12:00:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV15tn3zxEX4) - 2025-09-29 09:00:00
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1aRpszwEqE) - 2025-09-27 12:00:00
@@ -217,12 +218,12 @@
 - [使用computed拦截v-model【渡一教育】](https://www.bilibili.com/BV16PHezPExF) - 2025-09-19 12:00:00
 - [文字的交融展开【渡一教育】](https://www.bilibili.com/BV1rPHezPEJx) - 2025-09-19 09:00:00
 - [大量任务执行的调度【渡一教育】](https://www.bilibili.com/BV1NiHezVEJp) - 2025-09-18 12:00:00
-- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1yiHezGERH) - 2025-09-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [文字转语音【渡一教育】](https://www.bilibili.com/BV1xuJXzdENM) - 2025-09-30 09:00:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1RSJQzzEyN) - 2025-09-29 11:55:00
 - [水波进度样式【渡一教育】](https://www.bilibili.com/BV1eSJQzzEBG) - 2025-09-29 09:00:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1wXpxzpE9e) - 2025-09-27 11:55:00
@@ -242,7 +243,6 @@
 - [无法取消的默认行为【渡一教育】](https://www.bilibili.com/BV1KzHSzxE4c) - 2025-09-19 11:55:00
 - [游离节点造成的内存泄露【渡一教育】](https://www.bilibili.com/BV1KzHSzxEQF) - 2025-09-19 09:00:00
 - [利用自定义ref实现防抖【渡一教育】](https://www.bilibili.com/BV1MeHSzfExG) - 2025-09-18 11:55:00
-- [SASS中的颜色函数【渡一教育】](https://www.bilibili.com/BV1MeHSzfEnM) - 2025-09-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
