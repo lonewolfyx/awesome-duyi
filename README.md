@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1zrn2zYEHB) - 2025-09-30 15:14:01
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dhJXz6EGr) - 2025-09-30 11:55:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1vhJXzzEED) - 2025-09-29 11:55:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1mypxzZESU) - 2025-09-27 11:55:00
@@ -192,7 +193,6 @@
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1SQaczJEyo) - 2025-09-11 11:55:00
 - [不可变类型【渡一教育】](https://www.bilibili.com/BV1SQaczEEjJ) - 2025-09-10 11:55:00
 - [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV1Q2aczXEh8) - 2025-09-09 11:55:00
-- [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1Q2aczQEg7) - 2025-09-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
