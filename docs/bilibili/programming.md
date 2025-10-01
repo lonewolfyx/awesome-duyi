@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-01 10:22:10</p>
+<p>更新时间：2025-10-01 14:50:39</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV178JXzGEEJ) - 2025-10-01 11:55:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1zrn2zYEHB) - 2025-09-30 15:14:01
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dhJXz6EGr) - 2025-09-30 11:55:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1vhJXzzEED) - 2025-09-29 11:55:00
