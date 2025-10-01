@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
 - [let和var的区别](https://www.douyin.com/video/7553260944541994275) - 2025-09-24 23:50:00
 - [展示组件和容器组件](https://www.douyin.com/video/7552833071360314665) - 2025-09-23 23:50:00
 - [CommonJS的本质](https://www.douyin.com/video/7552086402717076788) - 2025-09-22 23:50:00
@@ -42,7 +43,6 @@
 - [JS引擎线程并不存在](https://www.douyin.com/video/7545412407812738347) - 2025-09-03 23:50:00
 - [数据响应式的bug](https://www.douyin.com/video/7545117341651045667) - 2025-09-02 23:50:00
 - [使用sources进行断点调试](https://www.douyin.com/video/7543919931126009127) - 2025-09-01 23:50:00
-- [你不知道的console](https://www.douyin.com/video/7543919516129053988) - 2025-08-30 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
 - [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
 - [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
@@ -117,7 +118,6 @@
 - [对等依赖报错问题](https://www.douyin.com/video/7545411968551652627) - 2025-09-03 15:30:00
 - [国际化、本地化、全球化](https://www.douyin.com/video/7545117239347891496) - 2025-09-02 15:30:00
 - [四角线框的跟随移动](https://www.douyin.com/video/7543919059507744039) - 2025-09-01 15:30:00
-- [元素倒影](https://www.douyin.com/video/7543918569763949887) - 2025-08-30 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

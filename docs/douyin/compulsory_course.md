@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-01 21:07:52</p>
+<p>更新时间：2025-10-02 02:49:08</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
 - [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
 - [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
