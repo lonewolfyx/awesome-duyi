@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1fHJXz2Emw) - 2025-10-01 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1zHJXzmEWc) - 2025-09-30 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1JHJXzmEj6) - 2025-09-30 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1JHJXzmEP4) - 2025-09-29 11:55:00
@@ -142,7 +143,6 @@
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1cYHDzJEMb) - 2025-09-20 11:55:00
 - [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1FYHDzJESe) - 2025-09-20 09:00:00
 - [sources选项卡【渡一教育】](https://www.bilibili.com/BV1JeHDzUEq8) - 2025-09-19 11:55:00
-- [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1zeHDzmE9P) - 2025-09-19 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1g9ngzmEaA) - 2025-09-30 09:00:00
 - [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1Rtn3zxEDk) - 2025-09-29 12:00:00
@@ -217,12 +218,12 @@
 - [判断函数是否标记为async【渡一教育】](https://www.bilibili.com/BV1FPHezNEXC) - 2025-09-20 12:00:00
 - [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV16PHezPEW5) - 2025-09-20 09:00:00
 - [使用computed拦截v-model【渡一教育】](https://www.bilibili.com/BV16PHezPExF) - 2025-09-19 12:00:00
-- [文字的交融展开【渡一教育】](https://www.bilibili.com/BV1rPHezPEJx) - 2025-09-19 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1NMJXz4Efm) - 2025-09-30 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1xuJXzdENM) - 2025-09-30 09:00:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1RSJQzzEyN) - 2025-09-29 11:55:00
@@ -242,7 +243,6 @@
 - [保持元素宽高比【渡一教育】](https://www.bilibili.com/BV1KzHSzxEML) - 2025-09-20 11:55:00
 - [自动检测更新【渡一教育】](https://www.bilibili.com/BV1xzHSzxE1p) - 2025-09-20 09:00:00
 - [无法取消的默认行为【渡一教育】](https://www.bilibili.com/BV1KzHSzxE4c) - 2025-09-19 11:55:00
-- [游离节点造成的内存泄露【渡一教育】](https://www.bilibili.com/BV1KzHSzxEQF) - 2025-09-19 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
