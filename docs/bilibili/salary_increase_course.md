@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-02 02:49:08</p>
+<p>更新时间：2025-10-02 10:09:10</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [插槽的本质【渡一教育】](https://www.bilibili.com/BV1Songz2EWf) - 2025-10-02 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1hXngzJE2S) - 2025-10-01 12:00:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00

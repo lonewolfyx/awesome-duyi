@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1FnJXzEEqa) - 2025-10-02 09:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1fHJXz2ErD) - 2025-10-01 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1fHJXz2Emw) - 2025-10-01 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1zHJXzmEWc) - 2025-09-30 11:55:00
@@ -142,7 +143,6 @@
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV12sp4z8E88) - 2025-09-22 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV11xp4zfEoB) - 2025-09-22 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1cYHDzJEMb) - 2025-09-20 11:55:00
-- [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1FYHDzJESe) - 2025-09-20 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [插槽的本质【渡一教育】](https://www.bilibili.com/BV1Songz2EWf) - 2025-10-02 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1hXngzJE2S) - 2025-10-01 12:00:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00
@@ -217,12 +218,12 @@
 - [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1aipxzPESm) - 2025-09-22 12:00:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1GipxzPEtf) - 2025-09-22 09:00:00
 - [判断函数是否标记为async【渡一教育】](https://www.bilibili.com/BV1FPHezNEXC) - 2025-09-20 12:00:00
-- [UI组件的二次封装【渡一教育】](https://www.bilibili.com/BV16PHezPEW5) - 2025-09-20 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV18fJQzYEom) - 2025-10-02 09:00:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV18fJQzYEp3) - 2025-10-01 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1NMJXz4Efm) - 2025-09-30 11:55:00
@@ -242,7 +243,6 @@
 - [黑白小球交替的loading效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEWf) - 2025-09-22 11:55:00
 - [如何轻松实现粒子效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEYR) - 2025-09-22 09:00:00
 - [保持元素宽高比【渡一教育】](https://www.bilibili.com/BV1KzHSzxEML) - 2025-09-20 11:55:00
-- [自动检测更新【渡一教育】](https://www.bilibili.com/BV1xzHSzxE1p) - 2025-09-20 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
