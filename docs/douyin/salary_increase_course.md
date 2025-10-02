@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-02 21:04:29</p>
+<p>更新时间：2025-10-03 02:46:50</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [妙用CSS变量](https://www.douyin.com/video/7554002489838718254) - 2025-09-26 23:50:00
 - [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
 - [let和var的区别](https://www.douyin.com/video/7553260944541994275) - 2025-09-24 23:50:00
 - [展示组件和容器组件](https://www.douyin.com/video/7552833071360314665) - 2025-09-23 23:50:00
