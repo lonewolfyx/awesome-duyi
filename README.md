@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [inspect插件【渡一教育】](https://www.bilibili.com/BV1FnJXzEE7S) - 2025-10-02 11:55:00
 - [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1FnJXzEEqa) - 2025-10-02 09:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1fHJXz2ErD) - 2025-10-01 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1fHJXz2Emw) - 2025-10-01 09:00:00
@@ -142,12 +143,12 @@
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV12sp4z8EnV) - 2025-09-23 09:00:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV12sp4z8E88) - 2025-09-22 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV11xp4zfEoB) - 2025-09-22 09:00:00
-- [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1cYHDzJEMb) - 2025-09-20 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [class转function【渡一教育】](https://www.bilibili.com/BV1SHJQzZE94) - 2025-10-02 11:55:00
 - [属性不可遍历【渡一教育】](https://www.bilibili.com/BV1uHJQzoELM) - 2025-10-01 11:55:00
 - [随机数的求整函数【渡一教育】](https://www.bilibili.com/BV1bHJQzZEz9) - 2025-09-30 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1bWJQz4EGj) - 2025-09-29 11:55:00
@@ -167,12 +168,12 @@
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1deagzQESd) - 2025-09-13 09:00:00
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1ieagzQEtu) - 2025-09-12 11:55:00
 - [一道解构的面试题【渡一教育】](https://www.bilibili.com/BV1ieagzQEVb) - 2025-09-12 09:00:00
-- [圆形放大的hover效果【渡一教育】](https://www.bilibili.com/BV1viagznE7J) - 2025-09-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1o8JXz3E6d) - 2025-10-02 11:55:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV178JXzGEEJ) - 2025-10-01 11:55:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1zrn2zYEHB) - 2025-09-30 15:14:01
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dhJXz6EGr) - 2025-09-30 11:55:00
@@ -192,12 +193,12 @@
 - [用CSS自定义咖啡【渡一教育】](https://www.bilibili.com/BV1DSaczSEAe) - 2025-09-13 11:55:00
 - [改变鼠标样式和指向【渡一教育】](https://www.bilibili.com/BV18SaczDEZU) - 2025-09-12 11:55:00
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1SQaczJEyo) - 2025-09-11 11:55:00
-- [不可变类型【渡一教育】](https://www.bilibili.com/BV1SQaczEEjJ) - 2025-09-10 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18NHczsE7R) - 2025-10-02 12:00:00
 - [插槽的本质【渡一教育】](https://www.bilibili.com/BV1Songz2EWf) - 2025-10-02 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1hXngzJE2S) - 2025-10-01 12:00:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
@@ -217,12 +218,12 @@
 - [全组合判断【渡一教育】](https://www.bilibili.com/BV13ipxzPEmd) - 2025-09-23 09:00:00
 - [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1aipxzPESm) - 2025-09-22 12:00:00
 - [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1GipxzPEtf) - 2025-09-22 09:00:00
-- [判断函数是否标记为async【渡一教育】](https://www.bilibili.com/BV1FPHezNEXC) - 2025-09-20 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [你不知道的console【渡一教育】](https://www.bilibili.com/BV18fJQzYEHM) - 2025-10-02 11:55:00
 - [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV18fJQzYEom) - 2025-10-02 09:00:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV18fJQzYEp3) - 2025-10-01 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
@@ -242,12 +243,12 @@
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1FopxzSEat) - 2025-09-23 09:00:00
 - [黑白小球交替的loading效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEWf) - 2025-09-22 11:55:00
 - [如何轻松实现粒子效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEYR) - 2025-09-22 09:00:00
-- [保持元素宽高比【渡一教育】](https://www.bilibili.com/BV1KzHSzxEML) - 2025-09-20 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1WYJQznEhh) - 2025-10-02 11:55:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV1yYJQznEKQ) - 2025-10-01 11:55:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1sYJQznEWQ) - 2025-09-30 11:55:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV14tJQz9Ejj) - 2025-09-29 11:55:00
@@ -267,6 +268,5 @@
 - [改变鼠标样式和指向【渡一教育】](https://www.bilibili.com/BV1cWagz8EiA) - 2025-09-13 09:00:00
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1rWagzbEMy) - 2025-09-12 11:55:00
 - [不可变类型【渡一教育】](https://www.bilibili.com/BV1Zhagz9E5A) - 2025-09-12 09:00:00
-- [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV1qhagz9EWZ) - 2025-09-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-02 10:09:10</p>
+<p>更新时间：2025-10-02 14:48:40</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [你不知道的console【渡一教育】](https://www.bilibili.com/BV18fJQzYEHM) - 2025-10-02 11:55:00
 - [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV18fJQzYEom) - 2025-10-02 09:00:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV18fJQzYEp3) - 2025-10-01 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
