@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1FnJXzEEvp) - 2025-10-03 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV1FnJXzEE7S) - 2025-10-02 11:55:00
 - [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1FnJXzEEqa) - 2025-10-02 09:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1fHJXz2ErD) - 2025-10-01 11:55:00
@@ -142,7 +143,6 @@
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Ksp4zhEdu) - 2025-09-23 11:55:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV12sp4z8EnV) - 2025-09-23 09:00:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV12sp4z8E88) - 2025-09-22 11:55:00
-- [network选项卡【渡一教育】](https://www.bilibili.com/BV11xp4zfEoB) - 2025-09-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [生成随机图片【渡一教育】](https://www.bilibili.com/BV1kHHczCEP3) - 2025-10-03 09:00:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18NHczsE7R) - 2025-10-02 12:00:00
 - [插槽的本质【渡一教育】](https://www.bilibili.com/BV1Songz2EWf) - 2025-10-02 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1hXngzJE2S) - 2025-10-01 12:00:00
@@ -217,12 +218,12 @@
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1Ltpxz6E9x) - 2025-09-23 12:00:00
 - [全组合判断【渡一教育】](https://www.bilibili.com/BV13ipxzPEmd) - 2025-09-23 09:00:00
 - [右键菜单组件的封装【渡一教育】](https://www.bilibili.com/BV1aipxzPESm) - 2025-09-22 12:00:00
-- [async和await的面试题【渡一教育】](https://www.bilibili.com/BV1GipxzPEtf) - 2025-09-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1gfJQzYEa5) - 2025-10-03 09:00:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV18fJQzYEHM) - 2025-10-02 11:55:00
 - [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV18fJQzYEom) - 2025-10-02 09:00:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV18fJQzYEp3) - 2025-10-01 11:55:00
@@ -242,7 +243,6 @@
 - [1KB的JS代码【渡一教育】](https://www.bilibili.com/BV1Zwp4zLEjG) - 2025-09-23 11:55:00
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1FopxzSEat) - 2025-09-23 09:00:00
 - [黑白小球交替的loading效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEWf) - 2025-09-22 11:55:00
-- [如何轻松实现粒子效果【渡一教育】](https://www.bilibili.com/BV1FopxzSEYR) - 2025-09-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
