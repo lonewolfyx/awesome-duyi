@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [打包结果分析工具](https://www.douyin.com/video/7554313068478614822) - 2025-09-27 23:50:00
 - [妙用CSS变量](https://www.douyin.com/video/7554002489838718254) - 2025-09-26 23:50:00
 - [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
 - [let和var的区别](https://www.douyin.com/video/7553260944541994275) - 2025-09-24 23:50:00
@@ -42,7 +43,6 @@
 - [Performance选项卡](https://www.douyin.com/video/7546154772869467446) - 2025-09-05 23:50:00
 - [network选项卡](https://www.douyin.com/video/7545839561453079834) - 2025-09-04 23:50:00
 - [JS引擎线程并不存在](https://www.douyin.com/video/7545412407812738347) - 2025-09-03 23:50:00
-- [数据响应式的bug](https://www.douyin.com/video/7545117341651045667) - 2025-09-02 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -73,6 +73,7 @@
 
 ### 抖音 - 渡一前端教科书
 
+- [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范](https://www.douyin.com/video/7554233625416355099) - 2025-09-27 12:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格](https://www.douyin.com/video/7549045220403449098) - 2025-09-14 12:00:00
 - [前端终极布局方案——网格布局，如何编排网格](https://www.douyin.com/video/7549044616083918131) - 2025-09-13 12:00:00
 - [实现Promise最复杂的then函数](https://www.douyin.com/video/7545378351192509735) - 2025-09-02 14:41:46
@@ -92,12 +93,12 @@
 - [故障波纹动效](https://www.douyin.com/video/7265247379597675816) - 2023-08-10 11:50:00
 - [色彩的差值混合](https://www.douyin.com/video/7264878248880885027) - 2023-08-09 11:50:00
 - [六边形布局](https://www.douyin.com/video/7261914731206708515) - 2023-08-01 11:50:01
-- [文字视差背景](https://www.douyin.com/video/7260860832890883340) - 2023-07-29 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/textbook.html)
 
 ### 抖音 - 渡一前端必修课
 
+- [最近距离排序](https://www.douyin.com/video/7554692035094072603) - 2025-09-27 17:03:34
 - [动态执行JS](https://www.douyin.com/video/7554322444165582118) - 2025-09-26 17:09:20
 - [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
 - [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
@@ -117,7 +118,6 @@
 - [base和publicPath](https://www.douyin.com/video/7546154307050048811) - 2025-09-05 15:30:00
 - [CSS原子化](https://www.douyin.com/video/7545839388467432742) - 2025-09-04 15:30:00
 - [对等依赖报错问题](https://www.douyin.com/video/7545411968551652627) - 2025-09-03 15:30:00
-- [国际化、本地化、全球化](https://www.douyin.com/video/7545117239347891496) - 2025-09-02 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
