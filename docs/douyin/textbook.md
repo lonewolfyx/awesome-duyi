@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-04 20:59:44</p>
+<p>更新时间：2025-10-05 02:44:49</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布](https://www.douyin.com/video/7554234265781783818) - 2025-09-28 12:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范](https://www.douyin.com/video/7554233625416355099) - 2025-09-27 12:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格](https://www.douyin.com/video/7549045220403449098) - 2025-09-14 12:00:00
 - [前端终极布局方案——网格布局，如何编排网格](https://www.douyin.com/video/7549044616083918131) - 2025-09-13 12:00:00
