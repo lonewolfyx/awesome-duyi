@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1JnJXzEEZa) - 2025-10-04 09:00:00
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1FnJXzEEWD) - 2025-10-03 11:55:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1FnJXzEEvp) - 2025-10-03 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV1FnJXzEE7S) - 2025-10-02 11:55:00
@@ -142,7 +143,6 @@
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV137p4zKEN6) - 2025-09-24 11:55:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1D7p4zNEqd) - 2025-09-24 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Ksp4zhEdu) - 2025-09-23 11:55:00
-- [生成随机图片【渡一教育】](https://www.bilibili.com/BV12sp4z8EnV) - 2025-09-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [CSS下划线动画【渡一教育】](https://www.bilibili.com/BV1pnHcz5Egz) - 2025-10-04 09:00:00
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1wHHczCE5N) - 2025-10-03 12:00:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV1kHHczCEP3) - 2025-10-03 09:00:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18NHczsE7R) - 2025-10-02 12:00:00
@@ -217,12 +218,12 @@
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1j4pxzgErw) - 2025-09-24 12:00:00
 - [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1j4pxzgEd5) - 2025-09-24 09:00:00
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1Ltpxz6E9x) - 2025-09-23 12:00:00
-- [全组合判断【渡一教育】](https://www.bilibili.com/BV13ipxzPEmd) - 2025-09-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1MPJXzFE8D) - 2025-10-04 09:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1gfJQzYE1X) - 2025-10-03 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1gfJQzYEa5) - 2025-10-03 09:00:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV18fJQzYEHM) - 2025-10-02 11:55:00
@@ -242,7 +243,6 @@
 - [并发任务控制【渡一教育】](https://www.bilibili.com/BV17wp4zjEY2) - 2025-09-24 11:55:00
 - [一道解构的面试题【渡一教育】](https://www.bilibili.com/BV1fwp4zLEcM) - 2025-09-24 09:00:00
 - [1KB的JS代码【渡一教育】](https://www.bilibili.com/BV1Zwp4zLEjG) - 2025-09-23 11:55:00
-- [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1FopxzSEat) - 2025-09-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
