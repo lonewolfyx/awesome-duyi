@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-04 10:00:57</p>
+<p>更新时间：2025-10-04 14:46:24</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1bHJQzZEfk) - 2025-10-04 11:55:00
 - [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1bHJQzZEYK) - 2025-10-03 11:55:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1SHJQzZE94) - 2025-10-02 11:55:00
 - [属性不可遍历【渡一教育】](https://www.bilibili.com/BV1uHJQzoELM) - 2025-10-01 11:55:00

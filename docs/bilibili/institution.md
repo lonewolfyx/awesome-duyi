@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-04 10:00:57</p>
+<p>更新时间：2025-10-04 14:46:24</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [用TS构建长属性列表【渡一教育】](https://www.bilibili.com/BV1AGJXz9E9n) - 2025-10-04 11:55:00
 - [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1JnJXzEEZa) - 2025-10-04 09:00:00
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1FnJXzEEWD) - 2025-10-03 11:55:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1FnJXzEEvp) - 2025-10-03 09:00:00
