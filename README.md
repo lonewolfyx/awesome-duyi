@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [弹性盒的异形布局](https://www.douyin.com/video/7555115500250991912) - 2025-09-29 23:50:00
 - [打包结果分析工具](https://www.douyin.com/video/7554313068478614822) - 2025-09-27 23:50:00
 - [妙用CSS变量](https://www.douyin.com/video/7554002489838718254) - 2025-09-26 23:50:00
 - [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
@@ -42,7 +43,6 @@
 - [使用阴影画图](https://www.douyin.com/video/7546529778782768427) - 2025-09-06 23:50:00
 - [Performance选项卡](https://www.douyin.com/video/7546154772869467446) - 2025-09-05 23:50:00
 - [network选项卡](https://www.douyin.com/video/7545839561453079834) - 2025-09-04 23:50:00
-- [JS引擎线程并不存在](https://www.douyin.com/video/7545412407812738347) - 2025-09-03 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [统一vite中的图片转换逻辑](https://www.douyin.com/video/7555422586646269210) - 2025-09-29 16:18:29
 - [最近距离排序](https://www.douyin.com/video/7554692035094072603) - 2025-09-27 17:03:34
 - [动态执行JS](https://www.douyin.com/video/7554322444165582118) - 2025-09-26 17:09:20
 - [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
@@ -117,7 +118,6 @@
 - [数组新增的纯函数API](https://www.douyin.com/video/7546529849981078827) - 2025-09-06 15:30:00
 - [base和publicPath](https://www.douyin.com/video/7546154307050048811) - 2025-09-05 15:30:00
 - [CSS原子化](https://www.douyin.com/video/7545839388467432742) - 2025-09-04 15:30:00
-- [对等依赖报错问题](https://www.douyin.com/video/7545411968551652627) - 2025-09-03 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
