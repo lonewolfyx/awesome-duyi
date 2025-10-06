@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1pun1ziEhv) - 2025-10-06 09:00:00
 - [用TS构建长属性列表【渡一教育】](https://www.bilibili.com/BV1AGJXz9E9n) - 2025-10-04 11:55:00
 - [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1JnJXzEEZa) - 2025-10-04 09:00:00
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1FnJXzEEWD) - 2025-10-03 11:55:00
@@ -142,7 +143,6 @@
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1GLp4zqEPW) - 2025-09-25 11:55:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV137p4zKEMt) - 2025-09-25 09:00:00
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV137p4zKEN6) - 2025-09-24 11:55:00
-- [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1D7p4zNEqd) - 2025-09-24 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV1pnHcz5ErS) - 2025-10-06 09:00:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1AnHcz5E5K) - 2025-10-04 12:00:00
 - [CSS下划线动画【渡一教育】](https://www.bilibili.com/BV1pnHcz5Egz) - 2025-10-04 09:00:00
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1wHHczCE5N) - 2025-10-03 12:00:00
@@ -217,12 +218,12 @@
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV19QpszPETh) - 2025-09-25 12:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1QdpszhE2A) - 2025-09-25 09:00:00
 - [console.log导致的内存泄露【渡一教育】](https://www.bilibili.com/BV1j4pxzgErw) - 2025-09-24 12:00:00
-- [字符串的异步替换封装【渡一教育】](https://www.bilibili.com/BV1j4pxzgEd5) - 2025-09-24 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1P4nyzKEJu) - 2025-10-06 09:00:00
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV1bPJXzFEuM) - 2025-10-04 11:55:00
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1MPJXzFE8D) - 2025-10-04 09:00:00
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1gfJQzYE1X) - 2025-10-03 11:55:00
@@ -242,7 +243,6 @@
 - [消除异步的传染性【渡一教育】](https://www.bilibili.com/BV1fFp4z2EhE) - 2025-09-25 11:55:00
 - [纯CSS实现故障风格图片【渡一教育】](https://www.bilibili.com/BV1fFp4z2EVU) - 2025-09-25 09:00:00
 - [并发任务控制【渡一教育】](https://www.bilibili.com/BV17wp4zjEY2) - 2025-09-24 11:55:00
-- [一道解构的面试题【渡一教育】](https://www.bilibili.com/BV1fwp4zLEcM) - 2025-09-24 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
