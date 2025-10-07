@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [数据响应式的本质](https://www.douyin.com/video/7555421152961711395) - 2025-10-01 23:50:00
 - [极简精妙的JS代码片段](https://www.douyin.com/video/7555418380845600035) - 2025-09-30 23:50:00
 - [弹性盒的异形布局](https://www.douyin.com/video/7555115500250991912) - 2025-09-29 23:50:00
 - [打包结果分析工具](https://www.douyin.com/video/7554313068478614822) - 2025-09-27 23:50:00
@@ -42,7 +43,6 @@
 - [磨砂玻璃效果](https://www.douyin.com/video/7547640517996154155) - 2025-09-09 23:50:00
 - [统计字符频率的风骚写法](https://www.douyin.com/video/7546916234969861417) - 2025-09-08 23:50:00
 - [使用阴影画图](https://www.douyin.com/video/7546529778782768427) - 2025-09-06 23:50:00
-- [Performance选项卡](https://www.douyin.com/video/7546154772869467446) - 2025-09-05 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [阿里云的文件上传](https://www.douyin.com/video/7555427186593778978) - 2025-10-01 15:30:00
 - [判断稀疏数组](https://www.douyin.com/video/7555426720167955747) - 2025-09-30 15:30:00
 - [统一vite中的图片转换逻辑](https://www.douyin.com/video/7555422586646269210) - 2025-09-29 16:18:29
 - [最近距离排序](https://www.douyin.com/video/7554692035094072603) - 2025-09-27 17:03:34
@@ -117,7 +118,6 @@
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7547639879920799012) - 2025-09-09 15:30:00
 - [3D Hover Effect](https://www.douyin.com/video/7546916276862504211) - 2025-09-08 15:30:00
 - [数组新增的纯函数API](https://www.douyin.com/video/7546529849981078827) - 2025-09-06 15:30:00
-- [base和publicPath](https://www.douyin.com/video/7546154307050048811) - 2025-09-05 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
