@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [调整文字方向【渡一教育】](https://www.bilibili.com/BV1fqnyztELp) - 2025-10-08 09:00:00
 - [包含块【渡一教育】](https://www.bilibili.com/BV1pun1ziEB3) - 2025-10-07 11:55:00
 - [零宽字符【渡一教育】](https://www.bilibili.com/BV1kun1ziERz) - 2025-10-07 09:00:00
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1kun1ziESz) - 2025-10-06 11:55:00
@@ -142,7 +143,6 @@
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1DLp4ziE1r) - 2025-09-27 11:55:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV1QLp4ziENE) - 2025-09-27 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1DLp4ziEdL) - 2025-09-26 11:55:00
-- [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1QLp4ziEJn) - 2025-09-26 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1nsHczrEPF) - 2025-10-08 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11Dniz2EGX) - 2025-10-07 12:00:00
 - [常用工具推荐【渡一教育】](https://www.bilibili.com/BV1NDnizmEmL) - 2025-10-07 09:00:00
 - [纵向控制的横向滚动【渡一教育】](https://www.bilibili.com/BV11Dniz2Ebn) - 2025-10-06 12:00:00
@@ -217,12 +218,12 @@
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1aRpszwEqE) - 2025-09-27 12:00:00
 - [网格布局中的动画【渡一教育】](https://www.bilibili.com/BV1QRpszwEUV) - 2025-09-27 09:00:00
 - [资源提示符【渡一教育】](https://www.bilibili.com/BV1eSpszvEfy) - 2025-09-26 12:00:00
-- [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1eQpszPEVD) - 2025-09-26 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [network选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EcU) - 2025-10-08 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1C4nyzNEyX) - 2025-10-07 11:55:00
 - [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1C4nyzNEUy) - 2025-10-07 09:00:00
 - [sources选项卡【渡一教育】](https://www.bilibili.com/BV1C4nyzNEqj) - 2025-10-06 11:55:00
@@ -242,7 +243,6 @@
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1wXpxzpE9e) - 2025-09-27 11:55:00
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1pXpxzpE6B) - 2025-09-27 09:00:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1EFp4zmEet) - 2025-09-26 11:55:00
-- [令人哭笑不得的bug【渡一教育】](https://www.bilibili.com/BV1fFp4z2EYR) - 2025-09-26 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
