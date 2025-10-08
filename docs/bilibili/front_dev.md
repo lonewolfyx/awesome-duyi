@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-08 10:09:30</p>
+<p>更新时间：2025-10-08 14:50:20</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EFw) - 2025-10-08 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EcU) - 2025-10-08 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1C4nyzNEyX) - 2025-10-07 11:55:00
 - [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1C4nyzNEUy) - 2025-10-07 09:00:00

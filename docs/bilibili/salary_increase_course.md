@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-08 10:09:30</p>
+<p>更新时间：2025-10-08 14:50:20</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [系统级取色器【渡一教育】](https://www.bilibili.com/BV1nsHczrE7b) - 2025-10-08 12:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1nsHczrEPF) - 2025-10-08 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11Dniz2EGX) - 2025-10-07 12:00:00
 - [常用工具推荐【渡一教育】](https://www.bilibili.com/BV1NDnizmEmL) - 2025-10-07 09:00:00
