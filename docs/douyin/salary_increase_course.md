@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-09 21:07:40</p>
+<p>更新时间：2025-10-10 02:49:24</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [跨标签页的数据共享](https://www.douyin.com/video/7555422382895205647) - 2025-10-03 23:50:00
 - [import-cost插件](https://www.douyin.com/video/7555421561478565160) - 2025-10-02 23:50:00
 - [数据响应式的本质](https://www.douyin.com/video/7555421152961711395) - 2025-10-01 23:50:00
 - [极简精妙的JS代码片段](https://www.douyin.com/video/7555418380845600035) - 2025-09-30 23:50:00

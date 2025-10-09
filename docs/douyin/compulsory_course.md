@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-09 21:07:40</p>
+<p>更新时间：2025-10-10 02:49:24</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [Promise面试题](https://www.douyin.com/video/7555428501763935488) - 2025-10-03 15:30:00
 - [实现私有字段](https://www.douyin.com/video/7555428078525173032) - 2025-10-02 15:30:00
 - [阿里云的文件上传](https://www.douyin.com/video/7555427186593778978) - 2025-10-01 15:30:00
 - [判断稀疏数组](https://www.douyin.com/video/7555426720167955747) - 2025-09-30 15:30:00
