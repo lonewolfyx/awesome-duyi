@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [this 指向【渡一教育】](https://www.bilibili.com/BV1BqnyztEYd) - 2025-10-10 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV1BqnyztEUo) - 2025-10-10 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1BqnyztEx6) - 2025-10-09 11:55:00
 - [逐帧动画【渡一教育】](https://www.bilibili.com/BV1ZqnyztEQF) - 2025-10-09 09:00:00
@@ -142,12 +143,12 @@
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1fHJXz2Emw) - 2025-10-01 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1zHJXzmEWc) - 2025-09-30 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1JHJXzmEj6) - 2025-09-30 09:00:00
-- [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1JHJXzmEP4) - 2025-09-29 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [这个表达式是真“nb”【渡一教育】](https://www.bilibili.com/BV1qFnyz9Erc) - 2025-10-10 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1oFnyzXEQi) - 2025-10-09 11:55:00
 - [Vue中的类型问题【渡一教育】](https://www.bilibili.com/BV1oFnyzXEyz) - 2025-10-08 11:55:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1oFnyzXEzC) - 2025-10-07 11:55:00
@@ -167,12 +168,12 @@
 - [使用sources进行断点调试【渡一教育】](https://www.bilibili.com/BV1T6HSzRE5P) - 2025-09-20 11:55:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV146HSzREna) - 2025-09-19 11:55:00
 - [使用chrome调试工具解决问题【渡一教育】](https://www.bilibili.com/BV1T6HSzRExP) - 2025-09-18 11:55:00
-- [验证回文串【渡一教育】](https://www.bilibili.com/BV1T6HSzREnb) - 2025-09-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1P2nCzYEGz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1y2nCzYEQD) - 2025-10-09 11:55:00
 - [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1P2nCzYEq4) - 2025-10-08 11:55:00
 - [无后效性【渡一教育】](https://www.bilibili.com/BV1PUnCzwEVC) - 2025-10-07 11:55:00
@@ -192,12 +193,12 @@
 - [国际化、本地化、全球化【渡一教育】](https://www.bilibili.com/BV142pxz4E36) - 2025-09-22 11:55:00
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1owHDzzEHi) - 2025-09-20 11:55:00
 - [元素倒影【渡一教育】](https://www.bilibili.com/BV1dPHDzMED8) - 2025-09-19 11:55:00
-- [服务监控与数据埋点【渡一教育】](https://www.bilibili.com/BV1iPHDzuEH7) - 2025-09-18 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1K5HczEEAj) - 2025-10-10 12:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1N5HczEEUW) - 2025-10-10 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1wHHczCEmH) - 2025-10-09 12:00:00
 - [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1HWHczGEAy) - 2025-10-09 09:00:00
@@ -217,12 +218,12 @@
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1g9ngzmEaA) - 2025-09-30 09:00:00
-- [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1Rtn3zxEDk) - 2025-09-29 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV12Enyz6Eo2) - 2025-10-10 11:55:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1mEnyz6EML) - 2025-10-10 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1mEnyz6EGV) - 2025-10-09 11:55:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV1mEnyz6Eu8) - 2025-10-09 09:00:00
@@ -242,12 +243,12 @@
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1NMJXz4Efm) - 2025-09-30 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1xuJXzdENM) - 2025-09-30 09:00:00
-- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1RSJQzzEyN) - 2025-09-29 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1N1nCzPEzz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1s1nCzPEmN) - 2025-10-09 11:55:00
 - [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1N1nCzPEi8) - 2025-10-08 11:55:00
 - [无后效性【渡一教育】](https://www.bilibili.com/BV1K1nCzNEAZ) - 2025-10-07 11:55:00
@@ -267,6 +268,5 @@
 - [四角线框的跟随移动【渡一教育】](https://www.bilibili.com/BV1AUHSzJE1T) - 2025-09-20 11:55:00
 - [元素倒影【渡一教育】](https://www.bilibili.com/BV13aHSzcE3g) - 2025-09-19 11:55:00
 - [服务监控与数据埋点【渡一教育】](https://www.bilibili.com/BV13aHSzcEJi) - 2025-09-18 11:55:00
-- [交融动画效果【渡一教育】](https://www.bilibili.com/BV1aaHSzcE5A) - 2025-09-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
