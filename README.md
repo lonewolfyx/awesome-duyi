@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [平滑滚动【渡一教育】](https://www.bilibili.com/BV1BqnyztEUo) - 2025-10-10 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1BqnyztEx6) - 2025-10-09 11:55:00
 - [逐帧动画【渡一教育】](https://www.bilibili.com/BV1ZqnyztEQF) - 2025-10-09 09:00:00
 - [你不知道的数组去重【渡一教育】](https://www.bilibili.com/BV1fqnyztEwt) - 2025-10-08 11:55:00
@@ -142,7 +143,6 @@
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1zHJXzmEWc) - 2025-09-30 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1JHJXzmEj6) - 2025-09-30 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1JHJXzmEP4) - 2025-09-29 11:55:00
-- [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1bZJSzxEmr) - 2025-09-29 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [图片调色盘【渡一教育】](https://www.bilibili.com/BV1N5HczEEUW) - 2025-10-10 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1wHHczCEmH) - 2025-10-09 12:00:00
 - [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1HWHczGEAy) - 2025-10-09 09:00:00
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1nsHczrE7b) - 2025-10-08 12:00:00
@@ -217,12 +218,12 @@
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1g9ngzmEaA) - 2025-09-30 09:00:00
 - [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1Rtn3zxEDk) - 2025-09-29 12:00:00
-- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV15tn3zxEX4) - 2025-09-29 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1mEnyz6EML) - 2025-10-10 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1mEnyz6EGV) - 2025-10-09 11:55:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV1mEnyz6Eu8) - 2025-10-09 09:00:00
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EFw) - 2025-10-08 11:55:00
@@ -242,7 +243,6 @@
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1NMJXz4Efm) - 2025-09-30 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1xuJXzdENM) - 2025-09-30 09:00:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1RSJQzzEyN) - 2025-09-29 11:55:00
-- [水波进度样式【渡一教育】](https://www.bilibili.com/BV1eSJQzzEBG) - 2025-09-29 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
