@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [手写bind函数【渡一教育】](https://www.bilibili.com/BV1fqnyztEAt) - 2025-10-11 09:00:00
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1BqnyztEYd) - 2025-10-10 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV1BqnyztEUo) - 2025-10-10 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1BqnyztEx6) - 2025-10-09 11:55:00
@@ -142,7 +143,6 @@
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1fHJXz2ErD) - 2025-10-01 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1fHJXz2Emw) - 2025-10-01 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1zHJXzmEWc) - 2025-09-30 11:55:00
-- [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1JHJXzmEj6) - 2025-09-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [调试上传接口【渡一教育】](https://www.bilibili.com/BV1CEHcz1ERz) - 2025-10-11 09:00:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1K5HczEEAj) - 2025-10-10 12:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1N5HczEEUW) - 2025-10-10 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1wHHczCEmH) - 2025-10-09 12:00:00
@@ -217,12 +218,12 @@
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1hXngzJE2S) - 2025-10-01 12:00:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1hXngzJEzd) - 2025-10-01 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1aXngzJEFy) - 2025-09-30 12:00:00
-- [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1g9ngzmEaA) - 2025-09-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV1TEnyzrEvf) - 2025-10-11 09:00:00
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV12Enyz6Eo2) - 2025-10-10 11:55:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1mEnyz6EML) - 2025-10-10 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1mEnyz6EGV) - 2025-10-09 11:55:00
@@ -242,7 +243,6 @@
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV18fJQzYEp3) - 2025-10-01 11:55:00
 - [视频文本化【渡一教育】](https://www.bilibili.com/BV1hfJQzYEF3) - 2025-10-01 09:00:00
 - [判断奇偶性【渡一教育】](https://www.bilibili.com/BV1NMJXz4Efm) - 2025-09-30 11:55:00
-- [文字转语音【渡一教育】](https://www.bilibili.com/BV1xuJXzdENM) - 2025-09-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
