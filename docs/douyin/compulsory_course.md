@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-12 20:59:43</p>
+<p>更新时间：2025-10-13 02:45:20</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [读取文件原始内容](https://www.douyin.com/video/7555429726815259956) - 2025-10-06 15:30:00
 - [系统级取色器](https://www.douyin.com/video/7555428913527246132) - 2025-10-04 15:30:00
 - [Promise面试题](https://www.douyin.com/video/7555428501763935488) - 2025-10-03 15:30:00
 - [实现私有字段](https://www.douyin.com/video/7555428078525173032) - 2025-10-02 15:30:00
