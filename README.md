@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [数组的交集并集差集](https://www.douyin.com/video/7555424638797368610) - 2025-10-07 23:50:00
 - [依赖倒置原则](https://www.douyin.com/video/7555423513503419683) - 2025-10-06 23:50:00
 - [请求的取消](https://www.douyin.com/video/7555422834768514338) - 2025-10-04 23:50:00
 - [跨标签页的数据共享](https://www.douyin.com/video/7555422382895205647) - 2025-10-03 23:50:00
@@ -42,7 +43,6 @@
 - [ESM中的符号绑定](https://www.douyin.com/video/7549129423061011758) - 2025-09-15 23:50:00
 - [一道丧心病狂的面试题](https://www.douyin.com/video/7549129001680342298) - 2025-09-13 23:50:00
 - [class转function](https://www.douyin.com/video/7548809234578738441) - 2025-09-12 23:50:00
-- [属性不可遍历](https://www.douyin.com/video/7548374244309224731) - 2025-09-11 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [多行文本擦除效果](https://www.douyin.com/video/7555430164524469504) - 2025-10-07 15:30:00
 - [读取文件原始内容](https://www.douyin.com/video/7555429726815259956) - 2025-10-06 15:30:00
 - [系统级取色器](https://www.douyin.com/video/7555428913527246132) - 2025-10-04 15:30:00
 - [Promise面试题](https://www.douyin.com/video/7555428501763935488) - 2025-10-03 15:30:00
@@ -117,7 +118,6 @@
 - [图片裁剪上传原理](https://www.douyin.com/video/7549128431649279241) - 2025-09-15 15:30:00
 - [TS中字符串索引带来的类型问题](https://www.douyin.com/video/7549127683532246299) - 2025-09-13 15:30:00
 - [为什么组件库要加前缀](https://www.douyin.com/video/7548808935927549193) - 2025-09-12 15:30:00
-- [组件循环依赖问题](https://www.douyin.com/video/7548373499547553034) - 2025-09-11 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
