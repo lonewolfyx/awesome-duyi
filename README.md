@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1ayxrz9EX4) - 2025-10-14 09:00:00
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1Yyxrz9E7u) - 2025-10-13 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV19yxrz9Egx) - 2025-10-13 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV1BvnyzfEX4) - 2025-10-11 11:55:00
@@ -142,7 +143,6 @@
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1FnJXzEEWD) - 2025-10-03 11:55:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1FnJXzEEvp) - 2025-10-03 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV1FnJXzEE7S) - 2025-10-02 11:55:00
-- [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1FnJXzEEqa) - 2025-10-02 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1tT4nzpE4L) - 2025-10-14 09:00:00
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV1tT4nzpE1Y) - 2025-10-13 12:00:00
 - [交通灯问题【渡一教育】](https://www.bilibili.com/BV14M4nzQE4U) - 2025-10-13 09:00:00
 - [行盒的截断样式【渡一教育】](https://www.bilibili.com/BV1WEHcz1EKj) - 2025-10-11 12:00:00
@@ -217,12 +218,12 @@
 - [vue响应式的本质【渡一教育】](https://www.bilibili.com/BV1wHHczCE5N) - 2025-10-03 12:00:00
 - [生成随机图片【渡一教育】](https://www.bilibili.com/BV1kHHczCEP3) - 2025-10-03 09:00:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18NHczsE7R) - 2025-10-02 12:00:00
-- [插槽的本质【渡一教育】](https://www.bilibili.com/BV1Songz2EWf) - 2025-10-02 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18SxrznEyW) - 2025-10-14 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV18SxrznED4) - 2025-10-13 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1hSxrznEFA) - 2025-10-13 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1U7nyz3EbQ) - 2025-10-11 11:55:00
@@ -242,7 +243,6 @@
 - [浏览器指纹【渡一教育】](https://www.bilibili.com/BV1gfJQzYE1X) - 2025-10-03 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1gfJQzYEa5) - 2025-10-03 09:00:00
 - [你不知道的console【渡一教育】](https://www.bilibili.com/BV18fJQzYEHM) - 2025-10-02 11:55:00
-- [CSP内容安全策略【渡一教育】](https://www.bilibili.com/BV18fJQzYEom) - 2025-10-02 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
