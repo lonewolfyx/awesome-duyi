@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-15 21:08:35</p>
+<p>更新时间：2025-10-16 02:50:17</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00
 - [最优解问题的典型思路](https://www.douyin.com/video/7555430983391038772) - 2025-10-08 15:30:00
 - [多行文本擦除效果](https://www.douyin.com/video/7555430164524469504) - 2025-10-07 15:30:00
 - [读取文件原始内容](https://www.douyin.com/video/7555429726815259956) - 2025-10-06 15:30:00

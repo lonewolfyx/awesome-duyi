@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
 - [数据的流式获取](https://www.douyin.com/video/7555425161739062562) - 2025-10-08 23:50:00
 - [数组的交集并集差集](https://www.douyin.com/video/7555424638797368610) - 2025-10-07 23:50:00
 - [依赖倒置原则](https://www.douyin.com/video/7555423513503419683) - 2025-10-06 23:50:00
@@ -42,7 +43,6 @@
 - [可以重试的请求](https://www.douyin.com/video/7550596248953179401) - 2025-09-17 23:50:00
 - [无限递归一定会溢栈吗？](https://www.douyin.com/video/7550299436467965238) - 2025-09-16 23:50:00
 - [ESM中的符号绑定](https://www.douyin.com/video/7549129423061011758) - 2025-09-15 23:50:00
-- [一道丧心病狂的面试题](https://www.douyin.com/video/7549129001680342298) - 2025-09-13 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00
 - [最优解问题的典型思路](https://www.douyin.com/video/7555430983391038772) - 2025-10-08 15:30:00
 - [多行文本擦除效果](https://www.douyin.com/video/7555430164524469504) - 2025-10-07 15:30:00
 - [读取文件原始内容](https://www.douyin.com/video/7555429726815259956) - 2025-10-06 15:30:00
@@ -117,7 +118,6 @@
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
 - [数组的forEach方法](https://www.douyin.com/video/7550299247854325031) - 2025-09-16 15:30:00
 - [图片裁剪上传原理](https://www.douyin.com/video/7549128431649279241) - 2025-09-15 15:30:00
-- [TS中字符串索引带来的类型问题](https://www.douyin.com/video/7549127683532246299) - 2025-09-13 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
