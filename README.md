@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [大文件分片【渡一教育】](https://www.bilibili.com/BV1a44qzCEf7) - 2025-10-15 15:35:10
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1oBxrzZEp6) - 2025-10-15 11:55:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV13z4XzDEpV) - 2025-10-14 15:27:50
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV1oBxrzZEbP) - 2025-10-14 11:55:00
@@ -192,7 +193,6 @@
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1vhJXzzEED) - 2025-09-29 11:55:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1mypxzZESU) - 2025-09-27 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1typxzZEEu) - 2025-09-26 11:55:00
-- [base和publicPath【渡一教育】](https://www.bilibili.com/BV1typxzZEmm) - 2025-09-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -248,6 +248,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [大文件分片【渡一教育】](https://www.bilibili.com/BV1Y44qzCEYH) - 2025-10-15 15:37:24
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1RC4LzpEZf) - 2025-10-15 11:55:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV1iC4LzpEnk) - 2025-10-14 11:55:00
 - [手动解析DOM树【渡一教育】](https://www.bilibili.com/BV1dC4LzpEcN) - 2025-10-13 11:55:00
@@ -267,6 +268,5 @@
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1vtpxzzERD) - 2025-09-26 11:55:00
 - [base和publicPath【渡一教育】](https://www.bilibili.com/BV1LtpxzzESy) - 2025-09-25 11:55:00
 - [CSS原子化【渡一教育】](https://www.bilibili.com/BV1EWpxzVEzG) - 2025-09-24 11:55:00
-- [对等依赖报错问题【渡一教育】](https://www.bilibili.com/BV1qspxzrESS) - 2025-09-23 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
