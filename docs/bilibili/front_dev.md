@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-15 10:14:45</p>
+<p>更新时间：2025-10-15 14:50:25</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1hmxrzQEXp) - 2025-10-15 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1hSxrznET7) - 2025-10-15 09:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV18SxrznE9Q) - 2025-10-14 11:55:00
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18SxrznEyW) - 2025-10-14 09:00:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-15 10:14:45</p>
+<p>更新时间：2025-10-15 14:50:25</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1mT4nzpE4A) - 2025-10-15 12:00:00
 - [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1tT4nzpEGE) - 2025-10-15 06:00:00
 - [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1mT4nzpEYx) - 2025-10-14 12:00:00
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1tT4nzpE4L) - 2025-10-14 09:00:00
