@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1oqxrzbEpx) - 2025-10-16 09:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1oqxrzbE4b) - 2025-10-15 11:55:00
 - [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1iqxrzbEq3) - 2025-10-15 09:00:00
 - [瀑布流布局【渡一教育】](https://www.bilibili.com/BV1Yyxrz9EBQ) - 2025-10-14 11:55:00
@@ -142,7 +143,6 @@
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1kun1ziESz) - 2025-10-06 11:55:00
 - [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1pun1ziEhv) - 2025-10-06 09:00:00
 - [用TS构建长属性列表【渡一教育】](https://www.bilibili.com/BV1AGJXz9E9n) - 2025-10-04 11:55:00
-- [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1JnJXzEEZa) - 2025-10-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1K34nzDEBm) - 2025-10-16 09:00:00
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1mT4nzpE4A) - 2025-10-15 12:00:00
 - [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1tT4nzpEGE) - 2025-10-15 06:00:00
 - [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1mT4nzpEYx) - 2025-10-14 12:00:00
@@ -217,12 +218,12 @@
 - [纵向控制的横向滚动【渡一教育】](https://www.bilibili.com/BV11Dniz2Ebn) - 2025-10-06 12:00:00
 - [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV1pnHcz5ErS) - 2025-10-06 09:00:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1AnHcz5E5K) - 2025-10-04 12:00:00
-- [CSS下划线动画【渡一教育】](https://www.bilibili.com/BV1pnHcz5Egz) - 2025-10-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1QmxrzQEHQ) - 2025-10-16 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1hmxrzQEXp) - 2025-10-15 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1hSxrznET7) - 2025-10-15 09:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV18SxrznE9Q) - 2025-10-14 11:55:00
@@ -242,7 +243,6 @@
 - [sources选项卡【渡一教育】](https://www.bilibili.com/BV1C4nyzNEqj) - 2025-10-06 11:55:00
 - [绘图工具推荐【渡一教育】](https://www.bilibili.com/BV1P4nyzKEJu) - 2025-10-06 09:00:00
 - [如何通过断点学习源码【渡一教育】](https://www.bilibili.com/BV1bPJXzFEuM) - 2025-10-04 11:55:00
-- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1MPJXzFE8D) - 2025-10-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
