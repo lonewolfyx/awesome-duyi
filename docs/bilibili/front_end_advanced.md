@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-16 10:13:34</p>
+<p>更新时间：2025-10-16 14:50:39</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1e24LznEab) - 2025-10-16 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV1R24LznEwV) - 2025-10-15 11:55:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1hz4XzDEf8) - 2025-10-14 15:29:05
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1em4LzSEgg) - 2025-10-14 11:55:00
