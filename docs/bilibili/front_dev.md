@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-17 02:50:34</p>
+<p>更新时间：2025-10-17 10:12:17</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1UXxrzEEaQ) - 2025-10-17 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1hmxrzQEk7) - 2025-10-16 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1QmxrzQEHQ) - 2025-10-16 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1hmxrzQEXp) - 2025-10-15 11:55:00
