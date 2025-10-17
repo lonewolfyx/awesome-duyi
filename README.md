@@ -148,6 +148,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [打包结果分析工具【渡一教育】](https://www.bilibili.com/BV1T2WCz5Ewp) - 2025-10-17 15:32:14
 - [打包结果分析工具【渡一教育】](https://www.bilibili.com/BV1e24LznEF1) - 2025-10-17 11:55:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1e24LznEab) - 2025-10-16 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV1R24LznEwV) - 2025-10-15 11:55:00
@@ -167,7 +168,6 @@
 - [随机数的求整函数【渡一教育】](https://www.bilibili.com/BV1bHJQzZEz9) - 2025-09-30 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1bWJQz4EGj) - 2025-09-29 11:55:00
 - [统计字符频率的风骚写法【渡一教育】](https://www.bilibili.com/BV1eSpszvEdd) - 2025-09-27 11:55:00
-- [使用阴影画图【渡一教育】](https://www.bilibili.com/BV1eSpszvEWv) - 2025-09-26 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
