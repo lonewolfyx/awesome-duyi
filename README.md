@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1oixrzFE8g) - 2025-10-17 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1qqxrzbELF) - 2025-10-16 11:55:00
 - [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1oqxrzbEpx) - 2025-10-16 09:00:00
@@ -142,12 +143,12 @@
 - [调整文字方向【渡一教育】](https://www.bilibili.com/BV1fqnyztELp) - 2025-10-08 09:00:00
 - [包含块【渡一教育】](https://www.bilibili.com/BV1pun1ziEB3) - 2025-10-07 11:55:00
 - [零宽字符【渡一教育】](https://www.bilibili.com/BV1kun1ziERz) - 2025-10-07 09:00:00
-- [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1kun1ziESz) - 2025-10-06 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [打包结果分析工具【渡一教育】](https://www.bilibili.com/BV1e24LznEF1) - 2025-10-17 11:55:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1e24LznEab) - 2025-10-16 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV1R24LznEwV) - 2025-10-15 11:55:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1hz4XzDEf8) - 2025-10-14 15:29:05
@@ -167,12 +168,12 @@
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1bWJQz4EGj) - 2025-09-29 11:55:00
 - [统计字符频率的风骚写法【渡一教育】](https://www.bilibili.com/BV1eSpszvEdd) - 2025-09-27 11:55:00
 - [使用阴影画图【渡一教育】](https://www.bilibili.com/BV1eSpszvEWv) - 2025-09-26 11:55:00
-- [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1eQpszPE5B) - 2025-09-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [最近距离排序【渡一教育】](https://www.bilibili.com/BV1SdxrzjELL) - 2025-10-17 11:55:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1UdxrzjE47) - 2025-10-16 11:55:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1a44qzCEf7) - 2025-10-15 15:35:10
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1oBxrzZEp6) - 2025-10-15 11:55:00
@@ -192,12 +193,12 @@
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1zrn2zYEHB) - 2025-09-30 15:14:01
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dhJXz6EGr) - 2025-09-30 11:55:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1vhJXzzEED) - 2025-09-29 11:55:00
-- [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1mypxzZESU) - 2025-09-27 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [黏性定位【渡一教育】](https://www.bilibili.com/BV1x34nzSEBZ) - 2025-10-17 12:00:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1N34nzDEXv) - 2025-10-17 09:00:00
 - [合并排序【渡一教育】](https://www.bilibili.com/BV1s34nzSERK) - 2025-10-16 12:00:00
 - [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1K34nzDEBm) - 2025-10-16 09:00:00
@@ -217,12 +218,12 @@
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1nsHczrEPF) - 2025-10-08 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11Dniz2EGX) - 2025-10-07 12:00:00
 - [常用工具推荐【渡一教育】](https://www.bilibili.com/BV1NDnizmEmL) - 2025-10-07 09:00:00
-- [纵向控制的横向滚动【渡一教育】](https://www.bilibili.com/BV11Dniz2Ebn) - 2025-10-06 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [clip-path【渡一教育】](https://www.bilibili.com/BV1UXxrzEEYt) - 2025-10-17 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1UXxrzEEaQ) - 2025-10-17 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1hmxrzQEk7) - 2025-10-16 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1QmxrzQEHQ) - 2025-10-16 09:00:00
@@ -242,12 +243,12 @@
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EcU) - 2025-10-08 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1C4nyzNEyX) - 2025-10-07 11:55:00
 - [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1C4nyzNEUy) - 2025-10-07 09:00:00
-- [sources选项卡【渡一教育】](https://www.bilibili.com/BV1C4nyzNEqj) - 2025-10-06 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [最近距离排序【渡一教育】](https://www.bilibili.com/BV1dC4LzpEUN) - 2025-10-17 11:55:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1jC4LzWEG3) - 2025-10-16 11:55:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1Y44qzCEYH) - 2025-10-15 15:37:24
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1RC4LzpEZf) - 2025-10-15 11:55:00
@@ -267,6 +268,5 @@
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV14tJQz9Ejj) - 2025-09-29 11:55:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1LtpxzzEm5) - 2025-09-27 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1vtpxzzERD) - 2025-09-26 11:55:00
-- [base和publicPath【渡一教育】](https://www.bilibili.com/BV1LtpxzzESy) - 2025-09-25 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
