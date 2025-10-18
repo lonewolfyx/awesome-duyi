@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-18 10:07:22</p>
+<p>更新时间：2025-10-18 14:47:44</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1oixrzFEb8) - 2025-10-18 11:55:00
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1qixrzFE6C) - 2025-10-18 09:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1oixrzFE8g) - 2025-10-17 09:00:00
