@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [代码雨效果【渡一教育】](https://www.bilibili.com/BV1qixrzFE6C) - 2025-10-18 09:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1oixrzFE8g) - 2025-10-17 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1qqxrzbELF) - 2025-10-16 11:55:00
@@ -142,7 +143,6 @@
 - [你不知道的数组去重【渡一教育】](https://www.bilibili.com/BV1fqnyztEwt) - 2025-10-08 11:55:00
 - [调整文字方向【渡一教育】](https://www.bilibili.com/BV1fqnyztELp) - 2025-10-08 09:00:00
 - [包含块【渡一教育】](https://www.bilibili.com/BV1pun1ziEB3) - 2025-10-07 11:55:00
-- [零宽字符【渡一教育】](https://www.bilibili.com/BV1kun1ziERz) - 2025-10-07 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [Proxy比defineProperty到底好在哪【渡一教育】](https://www.bilibili.com/BV1x34nzSEj5) - 2025-10-18 09:00:00
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1x34nzSEBZ) - 2025-10-17 12:00:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1N34nzDEXv) - 2025-10-17 09:00:00
 - [合并排序【渡一教育】](https://www.bilibili.com/BV1s34nzSERK) - 2025-10-16 12:00:00
@@ -217,12 +218,12 @@
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1nsHczrE7b) - 2025-10-08 12:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1nsHczrEPF) - 2025-10-08 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11Dniz2EGX) - 2025-10-07 12:00:00
-- [常用工具推荐【渡一教育】](https://www.bilibili.com/BV1NDnizmEmL) - 2025-10-07 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1SDxrzSE1K) - 2025-10-18 09:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1UXxrzEEYt) - 2025-10-17 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1UXxrzEEaQ) - 2025-10-17 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1hmxrzQEk7) - 2025-10-16 11:55:00
@@ -242,7 +243,6 @@
 - [Performance选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EFw) - 2025-10-08 11:55:00
 - [network选项卡【渡一教育】](https://www.bilibili.com/BV1mEnyz6EcU) - 2025-10-08 09:00:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1C4nyzNEyX) - 2025-10-07 11:55:00
-- [vue3-5的effect优化【渡一教育】](https://www.bilibili.com/BV1C4nyzNEUy) - 2025-10-07 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
