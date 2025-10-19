@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-19 21:00:57</p>
+<p>更新时间：2025-10-20 02:46:09</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
 - [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
 - [Web性能指标](https://www.douyin.com/video/7559505198406765862) - 2025-10-10 16:21:06
 - [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00

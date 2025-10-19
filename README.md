@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [DTO和VO](https://www.douyin.com/video/7559940119872982287) - 2025-10-13 23:50:00
 - [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
 - [正则中的lastIndex](https://www.douyin.com/video/7559207287504571663) - 2025-10-10 23:50:00
 - [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
@@ -42,7 +43,6 @@
 - [展示组件和容器组件](https://www.douyin.com/video/7552833071360314665) - 2025-09-23 23:50:00
 - [CommonJS的本质](https://www.douyin.com/video/7552086402717076788) - 2025-09-22 23:50:00
 - [这个表达式是真“nb”](https://www.douyin.com/video/7551725823410179378) - 2025-09-20 23:50:00
-- [可以重试的请求](https://www.douyin.com/video/7550596248953179401) - 2025-09-17 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
 - [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
 - [Web性能指标](https://www.douyin.com/video/7559505198406765862) - 2025-10-10 16:21:06
 - [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00
@@ -117,7 +118,6 @@
 - [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
 - [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
-- [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

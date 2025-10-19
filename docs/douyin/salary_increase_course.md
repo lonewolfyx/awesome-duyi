@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-19 21:00:57</p>
+<p>更新时间：2025-10-20 02:46:09</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [DTO和VO](https://www.douyin.com/video/7559940119872982287) - 2025-10-13 23:50:00
 - [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
 - [正则中的lastIndex](https://www.douyin.com/video/7559207287504571663) - 2025-10-10 23:50:00
 - [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
