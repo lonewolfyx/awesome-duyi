@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqEvz) - 2025-10-21 15:26:23
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1La4XzxEAn) - 2025-10-21 11:55:00
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV15a4XzxEdK) - 2025-10-20 11:55:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1bdxrzjE1N) - 2025-10-18 11:55:00
@@ -192,7 +193,6 @@
 - [图片裁剪上传原理【渡一教育】](https://www.bilibili.com/BV1o8JXz3Eqy) - 2025-10-04 11:55:00
 - [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1o8JXz3E3F) - 2025-10-03 11:55:00
 - [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1o8JXz3E6d) - 2025-10-02 11:55:00
-- [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV178JXzGEEJ) - 2025-10-01 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -248,6 +248,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqE24) - 2025-10-21 15:28:46
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1Sn4bz1Ew6) - 2025-10-21 11:55:00
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV1tn4bz1EX2) - 2025-10-20 11:55:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1Ym4LzSE7D) - 2025-10-18 11:55:00
@@ -267,6 +268,5 @@
 - [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1sYJQzHEse) - 2025-10-03 11:55:00
 - [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1WYJQznEhh) - 2025-10-02 11:55:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV1yYJQznEKQ) - 2025-10-01 11:55:00
-- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1sYJQznEWQ) - 2025-09-30 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
