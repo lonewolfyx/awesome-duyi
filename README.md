@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1ox4Xz8E7M) - 2025-10-21 09:00:00
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1jx4Xz8Ehb) - 2025-10-20 11:55:00
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1jx4Xz8EAQ) - 2025-10-20 09:00:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1oixrzFEb8) - 2025-10-18 11:55:00
@@ -142,7 +143,6 @@
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1BqnyztEYd) - 2025-10-10 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV1BqnyztEUo) - 2025-10-10 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1BqnyztEx6) - 2025-10-09 11:55:00
-- [逐帧动画【渡一教育】](https://www.bilibili.com/BV1ZqnyztEQF) - 2025-10-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [好用的vscode插件【渡一教育】](https://www.bilibili.com/BV16fWCzNEBx) - 2025-10-21 09:00:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1cfWCzKEf4) - 2025-10-20 12:00:00
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1cfWCzKEMi) - 2025-10-20 09:00:00
 - [封装多边形组件【渡一教育】](https://www.bilibili.com/BV1x34nzSEw3) - 2025-10-18 12:00:00
@@ -217,12 +218,12 @@
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1K5HczEEAj) - 2025-10-10 12:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1N5HczEEUW) - 2025-10-10 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1wHHczCEmH) - 2025-10-09 12:00:00
-- [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1HWHczGEAy) - 2025-10-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1oF4bzFEfT) - 2025-10-21 09:00:00
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1BF4bzFEWx) - 2025-10-20 11:55:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1BF4bzFEGK) - 2025-10-20 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV18DxrzSEUY) - 2025-10-18 11:55:00
@@ -242,7 +243,6 @@
 - [JSON转换中的精度问题【渡一教育】](https://www.bilibili.com/BV12Enyz6Eo2) - 2025-10-10 11:55:00
 - [script setup到底做了什么【渡一教育】](https://www.bilibili.com/BV1mEnyz6EML) - 2025-10-10 09:00:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1mEnyz6EGV) - 2025-10-09 11:55:00
-- [生成随机图片【渡一教育】](https://www.bilibili.com/BV1mEnyz6Eu8) - 2025-10-09 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
