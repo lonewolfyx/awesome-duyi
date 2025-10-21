@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [深拷贝的循环引用问题](https://www.douyin.com/video/7561052870309743882) - 2025-10-15 23:50:00
 - [ConsoleImporter插件](https://www.douyin.com/video/7560631959882321198) - 2025-10-14 23:50:00
 - [DTO和VO](https://www.douyin.com/video/7559940119872982287) - 2025-10-13 23:50:00
 - [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
@@ -42,7 +43,6 @@
 - [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
 - [let和var的区别](https://www.douyin.com/video/7553260944541994275) - 2025-09-24 23:50:00
 - [展示组件和容器组件](https://www.douyin.com/video/7552833071360314665) - 2025-09-23 23:50:00
-- [CommonJS的本质](https://www.douyin.com/video/7552086402717076788) - 2025-09-22 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [LRU缓存算法](https://www.douyin.com/video/7561052065242418478) - 2025-10-15 15:30:00
 - [行为验证](https://www.douyin.com/video/7560630515041078579) - 2025-10-14 15:30:00
 - [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
 - [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
@@ -117,7 +118,6 @@
 - [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
 - [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
 - [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
-- [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
