@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-22 21:10:43</p>
+<p>更新时间：2025-10-23 02:52:12</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [node的模块查找策略](https://www.douyin.com/video/7561364896202460442) - 2025-10-16 15:30:00
 - [LRU缓存算法](https://www.douyin.com/video/7561052065242418478) - 2025-10-15 15:30:00
 - [行为验证](https://www.douyin.com/video/7560630515041078579) - 2025-10-14 15:30:00
 - [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
