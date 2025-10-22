@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-22 10:18:58</p>
+<p>更新时间：2025-10-22 14:52:46</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [实现私有字段【渡一教育】](https://www.bilibili.com/BV1La4XzxEMu) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqEvz) - 2025-10-21 15:26:23
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1La4XzxEAn) - 2025-10-21 11:55:00
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV15a4XzxEdK) - 2025-10-20 11:55:00
