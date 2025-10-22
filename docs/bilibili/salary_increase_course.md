@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-22 02:51:00</p>
+<p>更新时间：2025-10-22 10:18:58</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV16fWCzNEq3) - 2025-10-22 09:00:00
 - [使用canvas完成基本绘图【渡一教育】](https://www.bilibili.com/BV1rfWCzNEcS) - 2025-10-21 12:00:00
 - [好用的vscode插件【渡一教育】](https://www.bilibili.com/BV16fWCzNEBx) - 2025-10-21 09:00:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1cfWCzKEf4) - 2025-10-20 12:00:00
