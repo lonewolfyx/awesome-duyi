@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV15b4XztEdE) - 2025-10-23 09:00:00
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1qs4XzcEL5) - 2025-10-22 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV17s4XzcEKS) - 2025-10-22 09:00:00
 - [标签化模板【渡一教育】](https://www.bilibili.com/BV1qx4Xz8ELX) - 2025-10-21 11:55:00
@@ -142,7 +143,6 @@
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1Yyxrz9E7u) - 2025-10-13 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV19yxrz9Egx) - 2025-10-13 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV1BvnyzfEX4) - 2025-10-11 11:55:00
-- [手写bind函数【渡一教育】](https://www.bilibili.com/BV1fqnyztEAt) - 2025-10-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1koWCziEVv) - 2025-10-23 09:00:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1JfWCzPEDD) - 2025-10-22 12:00:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV16fWCzNEq3) - 2025-10-22 09:00:00
 - [使用canvas完成基本绘图【渡一教育】](https://www.bilibili.com/BV1rfWCzNEcS) - 2025-10-21 12:00:00
@@ -217,12 +218,12 @@
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV1tT4nzpE1Y) - 2025-10-13 12:00:00
 - [交通灯问题【渡一教育】](https://www.bilibili.com/BV14M4nzQE4U) - 2025-10-13 09:00:00
 - [行盒的截断样式【渡一教育】](https://www.bilibili.com/BV1WEHcz1EKj) - 2025-10-11 12:00:00
-- [调试上传接口【渡一教育】](https://www.bilibili.com/BV1CEHcz1ERz) - 2025-10-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [零宽字符【渡一教育】](https://www.bilibili.com/BV1dw4bzZEd5) - 2025-10-23 09:00:00
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1vP4bz4E7Z) - 2025-10-22 11:55:00
 - [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1vP4bz4E1F) - 2025-10-22 09:00:00
 - [用TS构建长属性列表【渡一教育】](https://www.bilibili.com/BV1dP4bz4Egt) - 2025-10-21 11:55:00
@@ -242,7 +243,6 @@
 - [class转function【渡一教育】](https://www.bilibili.com/BV18SxrznED4) - 2025-10-13 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1hSxrznEFA) - 2025-10-13 09:00:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1U7nyz3EbQ) - 2025-10-11 11:55:00
-- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV1TEnyzrEvf) - 2025-10-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
