@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [可以重试的请求【渡一教育】](https://www.bilibili.com/BV15b4XztES2) - 2025-10-23 11:55:00
 - [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV15b4XztEdE) - 2025-10-23 09:00:00
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1qs4XzcEL5) - 2025-10-22 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV17s4XzcEKS) - 2025-10-22 09:00:00
@@ -142,12 +143,12 @@
 - [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1ayxrz9EX4) - 2025-10-14 09:00:00
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1Yyxrz9E7u) - 2025-10-13 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV19yxrz9Egx) - 2025-10-13 09:00:00
-- [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV1BvnyzfEX4) - 2025-10-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1114tzzEH1) - 2025-10-23 11:55:00
 - [import-cost插件【渡一教育】](https://www.bilibili.com/BV1xas8zgE8g) - 2025-10-22 15:26:51
 - [import-cost插件【渡一教育】](https://www.bilibili.com/BV1K14tz6E6S) - 2025-10-22 11:55:00
 - [数据响应式的本质【渡一教育】](https://www.bilibili.com/BV1K14tz6ETc) - 2025-10-21 11:55:00
@@ -167,12 +168,12 @@
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1oFnyzXEzC) - 2025-10-07 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1ZFnyzXExh) - 2025-10-06 11:55:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1bHJQzZEfk) - 2025-10-04 11:55:00
-- [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1bHJQzZEYK) - 2025-10-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [Promise面试题【渡一教育】](https://www.bilibili.com/BV1i84XzoEaG) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1Kas8zgEGJ) - 2025-10-22 15:29:24
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1La4XzxEMu) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqEvz) - 2025-10-21 15:26:23
@@ -192,12 +193,12 @@
 - [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1P2nCzYEq4) - 2025-10-08 11:55:00
 - [无后效性【渡一教育】](https://www.bilibili.com/BV1PUnCzwEVC) - 2025-10-07 11:55:00
 - [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV1AUnCzwEpm) - 2025-10-06 11:55:00
-- [图片裁剪上传原理【渡一教育】](https://www.bilibili.com/BV1o8JXz3Eqy) - 2025-10-04 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1coWCzqEoo) - 2025-10-23 12:00:00
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1koWCziEVv) - 2025-10-23 09:00:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1JfWCzPEDD) - 2025-10-22 12:00:00
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV16fWCzNEq3) - 2025-10-22 09:00:00
@@ -217,12 +218,12 @@
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1tT4nzpE4L) - 2025-10-14 09:00:00
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV1tT4nzpE1Y) - 2025-10-13 12:00:00
 - [交通灯问题【渡一教育】](https://www.bilibili.com/BV14M4nzQE4U) - 2025-10-13 09:00:00
-- [行盒的截断样式【渡一教育】](https://www.bilibili.com/BV1WEHcz1EKj) - 2025-10-11 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [包含块【渡一教育】](https://www.bilibili.com/BV1dw4bzZEYd) - 2025-10-23 11:55:00
 - [零宽字符【渡一教育】](https://www.bilibili.com/BV1dw4bzZEd5) - 2025-10-23 09:00:00
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1vP4bz4E7Z) - 2025-10-22 11:55:00
 - [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1vP4bz4E1F) - 2025-10-22 09:00:00
@@ -242,12 +243,12 @@
 - [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18SxrznEyW) - 2025-10-14 09:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV18SxrznED4) - 2025-10-13 11:55:00
 - [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1hSxrznEFA) - 2025-10-13 09:00:00
-- [幻影依赖【渡一教育】](https://www.bilibili.com/BV1U7nyz3EbQ) - 2025-10-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [Promise面试题【渡一教育】](https://www.bilibili.com/BV1XV4bznEut) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1YV4bznEN8) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqE24) - 2025-10-21 15:28:46
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1Sn4bz1Ew6) - 2025-10-21 11:55:00
@@ -267,6 +268,5 @@
 - [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV111nCzPErn) - 2025-10-06 11:55:00
 - [图片裁剪上传原理【渡一教育】](https://www.bilibili.com/BV1shJQzQEj6) - 2025-10-04 11:55:00
 - [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1sYJQzHEse) - 2025-10-03 11:55:00
-- [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1WYJQznEhh) - 2025-10-02 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
