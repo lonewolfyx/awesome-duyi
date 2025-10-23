@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [使用代理实现单例](https://www.douyin.com/video/7561794111519460635) - 2025-10-17 23:50:00
 - [谢谢你发明了JS](https://www.douyin.com/video/7561365496424107310) - 2025-10-16 23:50:00
 - [深拷贝的循环引用问题](https://www.douyin.com/video/7561052870309743882) - 2025-10-15 23:50:00
 - [ConsoleImporter插件](https://www.douyin.com/video/7560631959882321198) - 2025-10-14 23:50:00
@@ -42,7 +43,6 @@
 - [打包结果分析工具](https://www.douyin.com/video/7554313068478614822) - 2025-09-27 23:50:00
 - [妙用CSS变量](https://www.douyin.com/video/7554002489838718254) - 2025-09-26 23:50:00
 - [无缝轮播](https://www.douyin.com/video/7553579714753924415) - 2025-09-25 23:50:00
-- [let和var的区别](https://www.douyin.com/video/7553260944541994275) - 2025-09-24 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [渐进式图片](https://www.douyin.com/video/7561794739197021478) - 2025-10-17 15:30:00
 - [node的模块查找策略](https://www.douyin.com/video/7561364896202460442) - 2025-10-16 15:30:00
 - [LRU缓存算法](https://www.douyin.com/video/7561052065242418478) - 2025-10-15 15:30:00
 - [行为验证](https://www.douyin.com/video/7560630515041078579) - 2025-10-14 15:30:00
@@ -117,7 +118,6 @@
 - [最近距离排序](https://www.douyin.com/video/7554692035094072603) - 2025-09-27 17:03:34
 - [动态执行JS](https://www.douyin.com/video/7554322444165582118) - 2025-09-26 17:09:20
 - [大文件分片](https://www.douyin.com/video/7553951574670757129) - 2025-09-25 17:10:12
-- [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
