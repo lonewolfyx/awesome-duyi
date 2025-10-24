@@ -1,5 +1,11 @@
 [
     {
+        "title": "自动检测更新",
+        "url": "https://www.douyin.com/video/7562102504549403938",
+        "time": "2025-10-18 23:50:00",
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/3be1f5a890114ec195935a03c48f501f?lk3s=138a59ce&x-expires=1762538400&x-signature=AFwjSbPb0hIcQZBO4qAxKx%2F2x2c%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510250248146AF7094D1E5526862B51"
+    },
+    {
         "title": "使用代理实现单例",
         "url": "https://www.douyin.com/video/7561794111519460635",
         "time": "2025-10-17 23:50:00",
