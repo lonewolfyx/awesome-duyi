@@ -148,6 +148,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [请求的取消【渡一教育】](https://www.bilibili.com/BV1MTsJz2EdR) - 2025-10-24 15:44:02
 - [请求的取消【渡一教育】](https://www.bilibili.com/BV12y4tzgEv8) - 2025-10-24 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1114tzzEH1) - 2025-10-23 11:55:00
 - [import-cost插件【渡一教育】](https://www.bilibili.com/BV1xas8zgE8g) - 2025-10-22 15:26:51
@@ -167,12 +168,12 @@
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1oFnyzXEQi) - 2025-10-09 11:55:00
 - [Vue中的类型问题【渡一教育】](https://www.bilibili.com/BV1oFnyzXEyz) - 2025-10-08 11:55:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1oFnyzXEzC) - 2025-10-07 11:55:00
-- [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1ZFnyzXExh) - 2025-10-06 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [系统级取色器【渡一教育】](https://www.bilibili.com/BV1gAsJzJEDs) - 2025-10-24 15:40:48
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1584XzoEoj) - 2025-10-24 11:55:00
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1i84XzoEaG) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1Kas8zgEGJ) - 2025-10-22 15:29:24
@@ -192,7 +193,6 @@
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1P2nCzYEGz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1y2nCzYEQD) - 2025-10-09 11:55:00
 - [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1P2nCzYEq4) - 2025-10-08 11:55:00
-- [无后效性【渡一教育】](https://www.bilibili.com/BV1PUnCzwEVC) - 2025-10-07 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
