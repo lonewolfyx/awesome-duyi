@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-25 10:12:12</p>
+<p>更新时间：2025-10-25 14:47:14</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1roWCziExm) - 2025-10-25 12:00:00
 - [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1roWCziExH) - 2025-10-25 09:00:00
 - [代码风格【渡一教育】](https://www.bilibili.com/BV1koWCzqEU6) - 2025-10-24 12:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1roWCziE1F) - 2025-10-24 09:00:00

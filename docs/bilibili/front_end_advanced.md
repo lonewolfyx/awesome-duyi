@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-25 10:12:12</p>
+<p>更新时间：2025-10-25 14:47:14</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [依赖倒置原则【渡一教育】](https://www.bilibili.com/BV1Ty4tz3ExU) - 2025-10-25 11:55:00
 - [请求的取消【渡一教育】](https://www.bilibili.com/BV1MTsJz2EdR) - 2025-10-24 15:44:02
 - [请求的取消【渡一教育】](https://www.bilibili.com/BV12y4tzgEv8) - 2025-10-24 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1114tzzEH1) - 2025-10-23 11:55:00

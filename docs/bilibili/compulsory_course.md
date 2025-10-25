@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-25 10:12:12</p>
+<p>更新时间：2025-10-25 14:47:14</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1hj4bzEEwk) - 2025-10-25 11:55:00
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1aV4bznESM) - 2025-10-24 11:55:00
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1XV4bznEut) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1YV4bznEN8) - 2025-10-22 11:55:00
