@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-25 02:48:47</p>
+<p>更新时间：2025-10-25 10:12:12</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1i44XzfEFE) - 2025-10-25 09:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1i44XzfE7i) - 2025-10-24 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1Lb4XztETS) - 2025-10-24 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV15b4XztES2) - 2025-10-23 11:55:00

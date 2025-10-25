@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1i44XzfEFE) - 2025-10-25 09:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1i44XzfE7i) - 2025-10-24 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1Lb4XztETS) - 2025-10-24 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV15b4XztES2) - 2025-10-23 11:55:00
@@ -142,7 +143,6 @@
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1oqxrzbE4b) - 2025-10-15 11:55:00
 - [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1iqxrzbEq3) - 2025-10-15 09:00:00
 - [瀑布流布局【渡一教育】](https://www.bilibili.com/BV1Yyxrz9EBQ) - 2025-10-14 11:55:00
-- [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1ayxrz9EX4) - 2025-10-14 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1roWCziExH) - 2025-10-25 09:00:00
 - [代码风格【渡一教育】](https://www.bilibili.com/BV1koWCzqEU6) - 2025-10-24 12:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1roWCziE1F) - 2025-10-24 09:00:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1coWCzqEoo) - 2025-10-23 12:00:00
@@ -217,12 +218,12 @@
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1mT4nzpE4A) - 2025-10-15 12:00:00
 - [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1tT4nzpEGE) - 2025-10-15 06:00:00
 - [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1mT4nzpEYx) - 2025-10-14 12:00:00
-- [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1tT4nzpE4L) - 2025-10-14 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [逐帧动画【渡一教育】](https://www.bilibili.com/BV1mJ4bzjE2M) - 2025-10-25 09:00:00
 - [你不知道的数组去重【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEx4) - 2025-10-24 11:55:00
 - [调整文字方向【渡一教育】](https://www.bilibili.com/BV1iw4bzZEqp) - 2025-10-24 09:00:00
 - [包含块【渡一教育】](https://www.bilibili.com/BV1dw4bzZEYd) - 2025-10-23 11:55:00
@@ -242,7 +243,6 @@
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1hmxrzQEXp) - 2025-10-15 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1hSxrznET7) - 2025-10-15 09:00:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV18SxrznE9Q) - 2025-10-14 11:55:00
-- [文字镂空效果【渡一教育】](https://www.bilibili.com/BV18SxrznEyW) - 2025-10-14 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
