@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-26 21:02:07</p>
+<p>更新时间：2025-10-27 02:47:56</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [3D渐变的轮播图](https://www.douyin.com/video/7563228905281309987) - 2025-10-20 17:11:04
 - [交错排列的文字](https://www.douyin.com/video/7562100943693647139) - 2025-10-18 15:30:00
 - [渐进式图片](https://www.douyin.com/video/7561794739197021478) - 2025-10-17 15:30:00
 - [node的模块查找策略](https://www.douyin.com/video/7561364896202460442) - 2025-10-16 15:30:00
