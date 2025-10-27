@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1yusbzKEi1) - 2025-10-27 09:00:00
 - [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1d44XzfEvs) - 2025-10-25 11:55:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1i44XzfEFE) - 2025-10-25 09:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1i44XzfE7i) - 2025-10-24 11:55:00
@@ -142,7 +143,6 @@
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1qqxrzbELF) - 2025-10-16 11:55:00
 - [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1oqxrzbEpx) - 2025-10-16 09:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1oqxrzbE4b) - 2025-10-15 11:55:00
-- [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1iqxrzbEq3) - 2025-10-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1hisBzzECY) - 2025-10-27 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1roWCziExm) - 2025-10-25 12:00:00
 - [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1roWCziExH) - 2025-10-25 09:00:00
 - [代码风格【渡一教育】](https://www.bilibili.com/BV1koWCzqEU6) - 2025-10-24 12:00:00
@@ -217,12 +218,12 @@
 - [合并排序【渡一教育】](https://www.bilibili.com/BV1s34nzSERK) - 2025-10-16 12:00:00
 - [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1K34nzDEBm) - 2025-10-16 09:00:00
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1mT4nzpE4A) - 2025-10-15 12:00:00
-- [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1tT4nzpEGE) - 2025-10-15 06:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [平滑滚动【渡一教育】](https://www.bilibili.com/BV18qs4zuEJD) - 2025-10-27 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEex) - 2025-10-25 11:55:00
 - [逐帧动画【渡一教育】](https://www.bilibili.com/BV1mJ4bzjE2M) - 2025-10-25 09:00:00
 - [你不知道的数组去重【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEx4) - 2025-10-24 11:55:00
@@ -242,7 +243,6 @@
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1hmxrzQEk7) - 2025-10-16 11:55:00
 - [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1QmxrzQEHQ) - 2025-10-16 09:00:00
 - [2048游戏核心逻辑【渡一教育】](https://www.bilibili.com/BV1hmxrzQEXp) - 2025-10-15 11:55:00
-- [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1hSxrznET7) - 2025-10-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
