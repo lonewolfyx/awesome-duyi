@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1AVsbzeE7c) - 2025-10-28 09:00:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1kVsbzYE9b) - 2025-10-27 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1yusbzKEi1) - 2025-10-27 09:00:00
 - [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1d44XzfEvs) - 2025-10-25 11:55:00
@@ -142,7 +143,6 @@
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1oixrzFE8g) - 2025-10-17 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1qqxrzbELF) - 2025-10-16 11:55:00
-- [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1oqxrzbEpx) - 2025-10-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV15bsBz5EhB) - 2025-10-28 06:00:00
 - [利用延迟实现复杂动画【渡一教育】](https://www.bilibili.com/BV13isBzzEkY) - 2025-10-27 12:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1hisBzzECY) - 2025-10-27 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1roWCziExm) - 2025-10-25 12:00:00
@@ -217,12 +218,12 @@
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1x34nzSEBZ) - 2025-10-17 12:00:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1N34nzDEXv) - 2025-10-17 09:00:00
 - [合并排序【渡一教育】](https://www.bilibili.com/BV1s34nzSERK) - 2025-10-16 12:00:00
-- [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1K34nzDEBm) - 2025-10-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [手写bind函数【渡一教育】](https://www.bilibili.com/BV14rs4ziEEF) - 2025-10-28 09:00:00
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1mrs4ziE5F) - 2025-10-27 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV18qs4zuEJD) - 2025-10-27 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEex) - 2025-10-25 11:55:00
@@ -242,7 +243,6 @@
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1UXxrzEEYt) - 2025-10-17 11:55:00
 - [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1UXxrzEEaQ) - 2025-10-17 09:00:00
 - [Web Animation API【渡一教育】](https://www.bilibili.com/BV1hmxrzQEk7) - 2025-10-16 11:55:00
-- [3d卡片的移入效果【渡一教育】](https://www.bilibili.com/BV1QmxrzQEHQ) - 2025-10-16 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
