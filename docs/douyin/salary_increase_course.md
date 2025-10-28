@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-28 21:08:16</p>
+<p>更新时间：2025-10-29 02:53:09</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [为什么需要虚拟DOM？](https://www.douyin.com/video/7563601043519524111) - 2025-10-22 23:50:00
 - [封装统计函数](https://www.douyin.com/video/7563295620224568614) - 2025-10-21 23:50:00
 - [用发布订阅模式解耦](https://www.douyin.com/video/7562112613455334708) - 2025-10-20 23:50:00
 - [自动检测更新](https://www.douyin.com/video/7562102504549403938) - 2025-10-18 23:50:00

@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [为什么需要虚拟DOM？](https://www.douyin.com/video/7563601043519524111) - 2025-10-22 23:50:00
 - [封装统计函数](https://www.douyin.com/video/7563295620224568614) - 2025-10-21 23:50:00
 - [用发布订阅模式解耦](https://www.douyin.com/video/7562112613455334708) - 2025-10-20 23:50:00
 - [自动检测更新](https://www.douyin.com/video/7562102504549403938) - 2025-10-18 23:50:00
@@ -42,7 +43,6 @@
 - [import-cost插件](https://www.douyin.com/video/7555421561478565160) - 2025-10-02 23:50:00
 - [数据响应式的本质](https://www.douyin.com/video/7555421152961711395) - 2025-10-01 23:50:00
 - [极简精妙的JS代码片段](https://www.douyin.com/video/7555418380845600035) - 2025-09-30 23:50:00
-- [弹性盒的异形布局](https://www.douyin.com/video/7555115500250991912) - 2025-09-29 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [状态仓库持久化](https://www.douyin.com/video/7563601613672172852) - 2025-10-22 15:30:00
 - [图片边框](https://www.douyin.com/video/7563295516889533742) - 2025-10-21 15:30:00
 - [3D渐变的轮播图](https://www.douyin.com/video/7563228905281309987) - 2025-10-20 17:11:04
 - [交错排列的文字](https://www.douyin.com/video/7562100943693647139) - 2025-10-18 15:30:00
@@ -117,7 +118,6 @@
 - [实现私有字段](https://www.douyin.com/video/7555428078525173032) - 2025-10-02 15:30:00
 - [阿里云的文件上传](https://www.douyin.com/video/7555427186593778978) - 2025-10-01 15:30:00
 - [判断稀疏数组](https://www.douyin.com/video/7555426720167955747) - 2025-09-30 15:30:00
-- [统一vite中的图片转换逻辑](https://www.douyin.com/video/7555422586646269210) - 2025-09-29 16:18:29
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
