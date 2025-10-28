@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-28 10:15:31</p>
+<p>更新时间：2025-10-28 14:53:09</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1LbsBz5ELP) - 2025-10-28 12:00:00
 - [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV15bsBz5EhB) - 2025-10-28 06:00:00
 - [利用延迟实现复杂动画【渡一教育】](https://www.bilibili.com/BV13isBzzEkY) - 2025-10-27 12:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1hisBzzECY) - 2025-10-27 09:00:00

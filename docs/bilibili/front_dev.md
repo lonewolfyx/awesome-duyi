@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-28 10:15:31</p>
+<p>更新时间：2025-10-28 14:53:09</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV14rs4ziEzJ) - 2025-10-28 11:55:00
 - [手写bind函数【渡一教育】](https://www.bilibili.com/BV14rs4ziEEF) - 2025-10-28 09:00:00
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1mrs4ziE5F) - 2025-10-27 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV18qs4zuEJD) - 2025-10-27 09:00:00

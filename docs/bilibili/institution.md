@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-28 10:15:31</p>
+<p>更新时间：2025-10-28 14:53:09</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1CGsbzPEmp) - 2025-10-28 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1AVsbzeE7c) - 2025-10-28 09:00:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1kVsbzYE9b) - 2025-10-27 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1yusbzKEi1) - 2025-10-27 09:00:00
