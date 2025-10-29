@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [vanilla.js【渡一教育】](https://www.bilibili.com/BV1kGsbzPEXG) - 2025-10-29 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1CGsbzPEtZ) - 2025-10-29 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1CGsbzPEmp) - 2025-10-28 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1AVsbzeE7c) - 2025-10-28 09:00:00
@@ -142,12 +143,12 @@
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1jx4Xz8EAQ) - 2025-10-20 09:00:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1oixrzFEb8) - 2025-10-18 11:55:00
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1qixrzFE6C) - 2025-10-18 09:00:00
-- [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1CBs8zKENY) - 2025-10-29 11:55:00
 - [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1Nvs8zME5L) - 2025-10-28 11:55:00
 - [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1Yms2zPErM) - 2025-10-27 15:14:52
 - [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1Wvs8zMEZf) - 2025-10-27 11:55:00
@@ -167,12 +168,12 @@
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1hz4XzDEf8) - 2025-10-14 15:29:05
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1em4LzSEgg) - 2025-10-14 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1Ym4LzSEmZ) - 2025-10-13 11:55:00
-- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1ZfnCzWEQ6) - 2025-10-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1aLstzVEUd) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV13LstzVE1b) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV17zs2zzEPf) - 2025-10-27 15:16:53
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1TxstziEka) - 2025-10-27 11:55:00
@@ -192,12 +193,12 @@
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1oBxrzZEp6) - 2025-10-15 11:55:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV13z4XzDEpV) - 2025-10-14 15:27:50
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV1oBxrzZEbP) - 2025-10-14 11:55:00
-- [手动解析DOM树【渡一教育】](https://www.bilibili.com/BV1oBxrzZE2n) - 2025-10-13 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [字典顺序和编码顺序【渡一教育】](https://www.bilibili.com/BV15bsBz5Ete) - 2025-10-29 12:00:00
 - [实现元素平滑上升【渡一教育】](https://www.bilibili.com/BV1LbsBzLE2z) - 2025-10-29 06:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1LbsBz5ELP) - 2025-10-28 12:00:00
 - [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV15bsBz5EhB) - 2025-10-28 06:00:00
@@ -217,12 +218,12 @@
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1cfWCzKEMi) - 2025-10-20 09:00:00
 - [封装多边形组件【渡一教育】](https://www.bilibili.com/BV1x34nzSEw3) - 2025-10-18 12:00:00
 - [Proxy比defineProperty到底好在哪【渡一教育】](https://www.bilibili.com/BV1x34nzSEj5) - 2025-10-18 09:00:00
-- [黏性定位【渡一教育】](https://www.bilibili.com/BV1x34nzSEBZ) - 2025-10-17 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1trs4ziEJ7) - 2025-10-29 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV14rs4ziEzm) - 2025-10-29 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV14rs4ziEzJ) - 2025-10-28 11:55:00
 - [手写bind函数【渡一教育】](https://www.bilibili.com/BV14rs4ziEEF) - 2025-10-28 09:00:00
@@ -242,12 +243,12 @@
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1BF4bzFEGK) - 2025-10-20 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV18DxrzSEUY) - 2025-10-18 11:55:00
 - [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1SDxrzSE1K) - 2025-10-18 09:00:00
-- [clip-path【渡一教育】](https://www.bilibili.com/BV1UXxrzEEYt) - 2025-10-17 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1JZs4zRE6q) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV16Zs4zREdd) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1nZs4zRE6y) - 2025-10-27 11:55:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1hj4bzEEwk) - 2025-10-25 11:55:00
@@ -267,6 +268,5 @@
 - [组件级权限控制的最佳实践【渡一教育】](https://www.bilibili.com/BV1P1nCzPE9D) - 2025-10-11 11:55:00
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1N1nCzPEzz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1s1nCzPEmN) - 2025-10-09 11:55:00
-- [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1N1nCzPEi8) - 2025-10-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)

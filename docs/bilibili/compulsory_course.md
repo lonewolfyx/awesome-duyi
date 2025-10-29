@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-29 10:22:56</p>
+<p>更新时间：2025-10-29 14:53:25</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1JZs4zRE6q) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV16Zs4zREdd) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1nZs4zRE6y) - 2025-10-27 11:55:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1hj4bzEEwk) - 2025-10-25 11:55:00
