@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1CGsbzPEtZ) - 2025-10-29 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1CGsbzPEmp) - 2025-10-28 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1AVsbzeE7c) - 2025-10-28 09:00:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1kVsbzYE9b) - 2025-10-27 11:55:00
@@ -142,7 +143,6 @@
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1oixrzFEb8) - 2025-10-18 11:55:00
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1qixrzFE6C) - 2025-10-18 09:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV1qixrzFEkx) - 2025-10-17 11:55:00
-- [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1oixrzFE8g) - 2025-10-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [实现元素平滑上升【渡一教育】](https://www.bilibili.com/BV1LbsBzLE2z) - 2025-10-29 06:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1LbsBz5ELP) - 2025-10-28 12:00:00
 - [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV15bsBz5EhB) - 2025-10-28 06:00:00
 - [利用延迟实现复杂动画【渡一教育】](https://www.bilibili.com/BV13isBzzEkY) - 2025-10-27 12:00:00
@@ -217,12 +218,12 @@
 - [封装多边形组件【渡一教育】](https://www.bilibili.com/BV1x34nzSEw3) - 2025-10-18 12:00:00
 - [Proxy比defineProperty到底好在哪【渡一教育】](https://www.bilibili.com/BV1x34nzSEj5) - 2025-10-18 09:00:00
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1x34nzSEBZ) - 2025-10-17 12:00:00
-- [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1N34nzDEXv) - 2025-10-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [元素的尺寸【渡一教育】](https://www.bilibili.com/BV14rs4ziEzm) - 2025-10-29 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV14rs4ziEzJ) - 2025-10-28 11:55:00
 - [手写bind函数【渡一教育】](https://www.bilibili.com/BV14rs4ziEEF) - 2025-10-28 09:00:00
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1mrs4ziE5F) - 2025-10-27 11:55:00
@@ -242,7 +243,6 @@
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV18DxrzSEUY) - 2025-10-18 11:55:00
 - [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1SDxrzSE1K) - 2025-10-18 09:00:00
 - [clip-path【渡一教育】](https://www.bilibili.com/BV1UXxrzEEYt) - 2025-10-17 11:55:00
-- [vue组件命名规范【渡一教育】](https://www.bilibili.com/BV1UXxrzEEaQ) - 2025-10-17 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
