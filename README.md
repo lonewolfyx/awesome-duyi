@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1VPymBwEFZ) - 2025-10-29 15:13:15
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1aLstzVEUd) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV13LstzVE1b) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV17zs2zzEPf) - 2025-10-27 15:16:53
@@ -192,7 +193,6 @@
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1a44qzCEf7) - 2025-10-15 15:35:10
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1oBxrzZEp6) - 2025-10-15 11:55:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV13z4XzDEpV) - 2025-10-14 15:27:50
-- [srcset和sizes【渡一教育】](https://www.bilibili.com/BV1oBxrzZEbP) - 2025-10-14 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
