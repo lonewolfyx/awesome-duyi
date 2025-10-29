@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-29 21:10:17</p>
+<p>更新时间：2025-10-30 02:51:31</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [任务执行的洋葱模型](https://www.douyin.com/video/7564017044652395815) - 2025-10-23 15:30:00
 - [状态仓库持久化](https://www.douyin.com/video/7563601613672172852) - 2025-10-22 15:30:00
 - [图片边框](https://www.douyin.com/video/7563295516889533742) - 2025-10-21 15:30:00
 - [3D渐变的轮播图](https://www.douyin.com/video/7563228905281309987) - 2025-10-20 17:11:04

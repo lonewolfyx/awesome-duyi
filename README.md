@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Clipboard API](https://www.douyin.com/video/7564016938297380115) - 2025-10-23 23:50:00
 - [为什么需要虚拟DOM？](https://www.douyin.com/video/7563601043519524111) - 2025-10-22 23:50:00
 - [封装统计函数](https://www.douyin.com/video/7563295620224568614) - 2025-10-21 23:50:00
 - [用发布订阅模式解耦](https://www.douyin.com/video/7562112613455334708) - 2025-10-20 23:50:00
@@ -42,7 +43,6 @@
 - [跨标签页的数据共享](https://www.douyin.com/video/7555422382895205647) - 2025-10-03 23:50:00
 - [import-cost插件](https://www.douyin.com/video/7555421561478565160) - 2025-10-02 23:50:00
 - [数据响应式的本质](https://www.douyin.com/video/7555421152961711395) - 2025-10-01 23:50:00
-- [极简精妙的JS代码片段](https://www.douyin.com/video/7555418380845600035) - 2025-09-30 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -73,6 +73,7 @@
 
 ### 抖音 - 渡一前端教科书
 
+- [组件的终极方案Web Components，让你的组件变成HTML标签](https://www.douyin.com/video/7564288520844545332) - 2025-10-23 13:42:57
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布](https://www.douyin.com/video/7554234265781783818) - 2025-09-28 12:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范](https://www.douyin.com/video/7554233625416355099) - 2025-09-27 12:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格](https://www.douyin.com/video/7549045220403449098) - 2025-09-14 12:00:00
@@ -92,12 +93,12 @@
 - [多行文本擦除效果](https://www.douyin.com/video/7267904415397465355) - 2023-08-17 11:50:00
 - [元素倒影](https://www.douyin.com/video/7265975773255716130) - 2023-08-12 11:50:00
 - [故障波纹动效](https://www.douyin.com/video/7265247379597675816) - 2023-08-10 11:50:00
-- [色彩的差值混合](https://www.douyin.com/video/7264878248880885027) - 2023-08-09 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/textbook.html)
 
 ### 抖音 - 渡一前端必修课
 
+- [任务执行的洋葱模型](https://www.douyin.com/video/7564017044652395815) - 2025-10-23 15:30:00
 - [状态仓库持久化](https://www.douyin.com/video/7563601613672172852) - 2025-10-22 15:30:00
 - [图片边框](https://www.douyin.com/video/7563295516889533742) - 2025-10-21 15:30:00
 - [3D渐变的轮播图](https://www.douyin.com/video/7563228905281309987) - 2025-10-20 17:11:04
@@ -117,7 +118,6 @@
 - [Promise面试题](https://www.douyin.com/video/7555428501763935488) - 2025-10-03 15:30:00
 - [实现私有字段](https://www.douyin.com/video/7555428078525173032) - 2025-10-02 15:30:00
 - [阿里云的文件上传](https://www.douyin.com/video/7555427186593778978) - 2025-10-01 15:30:00
-- [判断稀疏数组](https://www.douyin.com/video/7555426720167955747) - 2025-09-30 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
