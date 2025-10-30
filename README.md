@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [无缝轮播【渡一教育】](https://www.bilibili.com/BV1MPsbz6EPs) - 2025-10-30 09:00:00
 - [vanilla.js【渡一教育】](https://www.bilibili.com/BV1kGsbzPEXG) - 2025-10-29 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1CGsbzPEtZ) - 2025-10-29 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1CGsbzPEmp) - 2025-10-28 11:55:00
@@ -142,7 +143,6 @@
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1jx4Xz8Ehb) - 2025-10-20 11:55:00
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1jx4Xz8EAQ) - 2025-10-20 09:00:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1oixrzFEb8) - 2025-10-18 11:55:00
-- [代码雨效果【渡一教育】](https://www.bilibili.com/BV1qixrzFE6C) - 2025-10-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1RbsBz5Esz) - 2025-10-30 09:00:00
 - [字典顺序和编码顺序【渡一教育】](https://www.bilibili.com/BV15bsBz5Ete) - 2025-10-29 12:00:00
 - [实现元素平滑上升【渡一教育】](https://www.bilibili.com/BV1LbsBzLE2z) - 2025-10-29 06:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1LbsBz5ELP) - 2025-10-28 12:00:00
@@ -217,12 +218,12 @@
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1cfWCzKEf4) - 2025-10-20 12:00:00
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1cfWCzKEMi) - 2025-10-20 09:00:00
 - [封装多边形组件【渡一教育】](https://www.bilibili.com/BV1x34nzSEw3) - 2025-10-18 12:00:00
-- [Proxy比defineProperty到底好在哪【渡一教育】](https://www.bilibili.com/BV1x34nzSEj5) - 2025-10-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1mrs4ziEJC) - 2025-10-30 09:00:00
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1trs4ziEJ7) - 2025-10-29 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV14rs4ziEzm) - 2025-10-29 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV14rs4ziEzJ) - 2025-10-28 11:55:00
@@ -242,7 +243,6 @@
 - [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1BF4bzFEWx) - 2025-10-20 11:55:00
 - [JS真的有引用传递吗【渡一教育】](https://www.bilibili.com/BV1BF4bzFEGK) - 2025-10-20 09:00:00
 - [inspect插件【渡一教育】](https://www.bilibili.com/BV18DxrzSEUY) - 2025-10-18 11:55:00
-- [Sass实现星空效果【渡一教育】](https://www.bilibili.com/BV1SDxrzSE1K) - 2025-10-18 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
