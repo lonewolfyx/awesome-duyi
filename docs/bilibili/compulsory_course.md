@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-30 16:03:32</p>
+<p>更新时间：2025-10-30 16:05:18</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
@@ -754,10 +754,10 @@
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV1Cj41127mf) - 2023-09-03 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV11N411q7Zo) - 2023-09-02 11:55:00
 - [你不知道的数字字面量【渡一教育】](https://www.bilibili.com/BV1594y147DD) - 2023-09-01 16:55:00
-- [使用void  0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
-- [提问：call apply  bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
+- [使用void 0替代undefined【渡一教育】](https://www.bilibili.com/BV1sh4y1m7jX) - 2023-09-01 11:55:00
+- [提问：call apply bind你会封装吗【渡一教育】](https://www.bilibili.com/BV1Qw411S7BF) - 2023-08-31 19:55:00
 - [不懂面向对象的前端不是好前端【渡一教育】](https://www.bilibili.com/BV1Th4y1m7YA) - 2023-08-31 16:55:00
-- [传参数的时候可以设置“默认值”了，  你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
+- [传参数的时候可以设置“默认值”了， 你学会了吗【渡一教育】](https://www.bilibili.com/BV1Tp4y1N7iB) - 2023-08-31 11:55:00
 - [有了剩余参数，arguments以后可别再用了【渡一教育】](https://www.bilibili.com/BV1Eu411K7Pe) - 2023-08-30 19:55:00
 - [使用箭头函数是，你需要注意这些【渡一教育】](https://www.bilibili.com/BV1mu411A7vy) - 2023-08-30 16:55:00
 - [这款简便的声明方式我直接吹爆【渡一教育】](https://www.bilibili.com/BV1Dz4y1M7qF) - 2023-08-30 11:55:00

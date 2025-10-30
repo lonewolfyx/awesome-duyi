@@ -2,7 +2,7 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-30 16:03:32</p>
+<p>更新时间：2025-10-30 16:05:18</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
@@ -798,6 +798,6 @@
 - [经过一周的学习，原型链形成了！【渡一教育】](https://www.bilibili.com/BV1J14y1i71F) - 2023-08-18 16:55:00
 - [注意看，原型链的完整形态已经要呼之欲出了【渡一教育】](https://www.bilibili.com/BV18X4y1W7Su) - 2023-08-18 11:55:00
 - [使用原型链的知识，完成一道简单的笔试题吧【渡一教育】](https://www.bilibili.com/BV1X84y1f7EK) - 2023-08-17 16:55:00
-- [快速了解隐式原型，__proto__【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
-- [快速了解函数的原型对象  prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
+- [快速了解隐式原型，**proto**【渡一教育】](https://www.bilibili.com/BV1r8411X7qS) - 2023-08-17 11:55:00
+- [快速了解函数的原型对象 prototype【渡一教育】](https://www.bilibili.com/BV1v14y1v7Uq) - 2023-08-16 16:55:00
 - [揭秘前端大牛必会的原型链问题【渡一教育】](https://www.bilibili.com/BV1Km4y1W7Ht) - 2023-08-16 12:02:08
