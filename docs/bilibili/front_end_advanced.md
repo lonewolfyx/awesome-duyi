@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-30 10:20:58</p>
+<p>更新时间：2025-10-30 14:52:02</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [正则中的lastIndex【渡一教育】](https://www.bilibili.com/BV1CBs8zKEcq) - 2025-10-30 11:55:00
 - [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1CBs8zKENY) - 2025-10-29 11:55:00
 - [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1Nvs8zME5L) - 2025-10-28 11:55:00
 - [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1Yms2zPErM) - 2025-10-27 15:14:52
