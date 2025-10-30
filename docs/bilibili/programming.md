@@ -2,34 +2,27 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-30 14:52:02</p>
+<p>更新时间：2025-10-30 16:03:32</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
-- [Web性能指标【渡一教育】](https://www.bilibili.com/BV1VVstzyETw) - 2025-10-30 11:55:00
+- [Web性能指标【渡一教育】](https://www.bilibili.com/BV1GdyhBHEeD) - 2025-10-30 15:08:35
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1VPymBwEFZ) - 2025-10-29 15:13:15
-- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1aLstzVEUd) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV13LstzVE1b) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV17zs2zzEPf) - 2025-10-27 15:16:53
-- [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1TxstziEka) - 2025-10-27 11:55:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1584XzoEou) - 2025-10-25 11:55:00
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1gAsJzJEDs) - 2025-10-24 15:40:48
-- [系统级取色器【渡一教育】](https://www.bilibili.com/BV1584XzoEoj) - 2025-10-24 11:55:00
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1i84XzoEaG) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1Kas8zgEGJ) - 2025-10-22 15:29:24
-- [实现私有字段【渡一教育】](https://www.bilibili.com/BV1La4XzxEMu) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqEvz) - 2025-10-21 15:26:23
-- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1La4XzxEAn) - 2025-10-21 11:55:00
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV15a4XzxEdK) - 2025-10-20 11:55:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1bdxrzjE1N) - 2025-10-18 11:55:00
 - [最近距离排序【渡一教育】](https://www.bilibili.com/BV1SdxrzjELL) - 2025-10-17 11:55:00
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1UdxrzjE47) - 2025-10-16 11:55:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1a44qzCEf7) - 2025-10-15 15:35:10
-- [大文件分片【渡一教育】](https://www.bilibili.com/BV1oBxrzZEp6) - 2025-10-15 11:55:00
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV13z4XzDEpV) - 2025-10-14 15:27:50
-- [srcset和sizes【渡一教育】](https://www.bilibili.com/BV1oBxrzZEbP) - 2025-10-14 11:55:00
 - [手动解析DOM树【渡一教育】](https://www.bilibili.com/BV1oBxrzZE2n) - 2025-10-13 11:55:00
 - [组件级权限控制的最佳实践【渡一教育】](https://www.bilibili.com/BV1P2nCzYEeW) - 2025-10-11 11:55:00
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1P2nCzYEGz) - 2025-10-10 11:55:00
@@ -42,7 +35,6 @@
 - [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV1o8JXz3E6d) - 2025-10-02 11:55:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV178JXzGEEJ) - 2025-10-01 11:55:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1zrn2zYEHB) - 2025-09-30 15:14:01
-- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dhJXz6EGr) - 2025-09-30 11:55:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1vhJXzzEED) - 2025-09-29 11:55:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1mypxzZESU) - 2025-09-27 11:55:00
 - [数组新增的纯函数API【渡一教育】](https://www.bilibili.com/BV1typxzZEEu) - 2025-09-26 11:55:00
@@ -770,10 +762,10 @@
 - [数字格式化【渡一教育】](https://www.bilibili.com/BV1Ek4y1P7Sq) - 2023-07-15 11:55:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1Wk4y1P7s7) - 2023-07-14 11:55:00
 - [你不知道的数字字面量【渡一教育】](https://www.bilibili.com/BV1vM4y1j7YY) - 2023-07-13 11:55:00
-- [使用void 0替代undefined【渡一教育】](https://www.bilibili.com/BV14F411X7nJ) - 2023-07-12 11:55:00
-- [提问：call apply bind你会封装吗【渡一教育】](https://www.bilibili.com/BV16a4y1F777) - 2023-07-11 20:55:00
+- [使用void  0替代undefined【渡一教育】](https://www.bilibili.com/BV14F411X7nJ) - 2023-07-12 11:55:00
+- [提问：call apply  bind你会封装吗【渡一教育】](https://www.bilibili.com/BV16a4y1F777) - 2023-07-11 20:55:00
 - [不懂面向对象的前端不是好前端【渡一教育】](https://www.bilibili.com/BV1Gz4y1J7aT) - 2023-07-11 17:55:00
-- [传参数的时候可以设置“默认值”了， 你学会了吗【渡一教育】](https://www.bilibili.com/BV1jz4y1J7Vf) - 2023-07-11 11:55:00
+- [传参数的时候可以设置“默认值”了，  你学会了吗【渡一教育】](https://www.bilibili.com/BV1jz4y1J7Vf) - 2023-07-11 11:55:00
 - [有了剩余参数，arguments以后可别再用了【渡一教育】](https://www.bilibili.com/BV1eX4y1H7dc) - 2023-07-10 19:55:00
 - [使用箭头函数是，你需要注意这些【渡一教育】](https://www.bilibili.com/BV1a14y1R7Tg) - 2023-07-10 17:55:00
 - [这款简便的声明方式我直接吹爆【渡一教育】](https://www.bilibili.com/BV1rP411C7pk) - 2023-07-10 11:55:00
