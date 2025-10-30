@@ -1,116 +1,116 @@
 [
     {
+        "title": "利用模板字符串实现精准渲染更新，你敢信？",
+        "url": "https://www.douyin.com/video/7564289150090874164",
+        "time": "2025-10-24 12:00:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/798a9b571c3e42a7823a3635a0579fab?lk3s=138a59ce&x-expires=1763056800&x-signature=36CCzJI47KzTeMkNK5jnSScznNE%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
+    },
+    {
         "title": "组件的终极方案Web Components，让你的组件变成HTML标签",
         "url": "https://www.douyin.com/video/7564288520844545332",
         "time": "2025-10-23 13:42:57",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/3b98896d733642e0b6bfa415160a0be0?lk3s=138a59ce&x-expires=1763038800&x-signature=xgotR0qLSc%2FlY8u6ERBQEPH71fY%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/3b98896d733642e0b6bfa415160a0be0?lk3s=138a59ce&x-expires=1763056800&x-signature=TKSpoHx8aM8VIpA9ghelEgA7hxA%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布",
         "url": "https://www.douyin.com/video/7554234265781783818",
         "time": "2025-09-28 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/4ba9baf0ba794fcea64e8bb18dc4bda2?lk3s=138a59ce&x-expires=1763038800&x-signature=twIPAU%2FSSEfqkNgjrTenL5o51lI%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/4ba9baf0ba794fcea64e8bb18dc4bda2?lk3s=138a59ce&x-expires=1763056800&x-signature=qwl32qzzevNV35S1UwdL3Nv4Srw%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范",
         "url": "https://www.douyin.com/video/7554233625416355099",
         "time": "2025-09-27 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/061f22127099436eae8515018bc98c7d?lk3s=138a59ce&x-expires=1763038800&x-signature=JOZDpZu8kIGy9Vl9pvNd8mDBdwQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/061f22127099436eae8515018bc98c7d?lk3s=138a59ce&x-expires=1763056800&x-signature=mQXFvsUQwg5WqyoigbI7f2vcDbg%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "前端终极布局方案——网格布局，如何将子项放入网格",
         "url": "https://www.douyin.com/video/7549045220403449098",
         "time": "2025-09-14 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/2b8cb04c5e0340a3b23cbd5e3a30bdd7?lk3s=138a59ce&x-expires=1763038800&x-signature=RWMTdEOE%2BcA%2BqqoBhkJgrYUkJqA%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/2b8cb04c5e0340a3b23cbd5e3a30bdd7?lk3s=138a59ce&x-expires=1763056800&x-signature=7JA9EsGX3moOKvGyOFbeg6yp%2F5E%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "前端终极布局方案——网格布局，如何编排网格",
         "url": "https://www.douyin.com/video/7549044616083918131",
         "time": "2025-09-13 12:00:00",
-        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/807babd3ea204b24a505795096cd6346?lk3s=138a59ce&x-expires=1763038800&x-signature=VmcovYW%2Bc9p1ubRVynrwriOF1as%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/807babd3ea204b24a505795096cd6346?lk3s=138a59ce&x-expires=1763056800&x-signature=baYXwDx%2BpwpUhC1gq%2FCyRUKyVQM%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "实现Promise最复杂的then函数",
         "url": "https://www.douyin.com/video/7545378351192509735",
         "time": "2025-09-02 14:41:46",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/85f03b0642814471a384a6a88bfde00c?lk3s=138a59ce&x-expires=1763038800&x-signature=ZD7FDE%2BEeVV3zls0mWBRkML2vjw%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/85f03b0642814471a384a6a88bfde00c?lk3s=138a59ce&x-expires=1763056800&x-signature=ctmkyJ%2F27EDwzJKdk0pTfwadPZo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "Promise状态转换中你不知道的细节",
         "url": "https://www.douyin.com/video/7545036086813265215",
         "time": "2025-09-01 16:33:35",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d7932bc050bc401fa009d5f052d32609?lk3s=138a59ce&x-expires=1763038800&x-signature=TAu9KyiQ2saq1wqQVCjFWdeyBW4%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d7932bc050bc401fa009d5f052d32609?lk3s=138a59ce&x-expires=1763056800&x-signature=bfEScD3ao6QCI2hcENT6%2FYgCiR8%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "关于前端职业的未来-真正的问题",
         "url": "https://www.douyin.com/video/7540131529448525098",
         "time": "2025-08-25 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/f63afe775c034a1c91741132f91f80e2?lk3s=138a59ce&x-expires=1763038800&x-signature=2cZEQ61F%2FtRsLpm0JAwXSqAOk18%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/f63afe775c034a1c91741132f91f80e2?lk3s=138a59ce&x-expires=1763056800&x-signature=KB%2FO1t95%2BgqmwwM0FjN6YL7JTGQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "关于前端职业的未来-职业的选择",
         "url": "https://www.douyin.com/video/7540203667589287222",
         "time": "2025-08-22 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/3a61badef9ba4bc4af9c15933190e8fc?lk3s=138a59ce&x-expires=1763038800&x-signature=PT1zr69q4jlLxoi8Q33L%2FDisSWg%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/3a61badef9ba4bc4af9c15933190e8fc?lk3s=138a59ce&x-expires=1763056800&x-signature=V%2BgzdsgPWw%2B5gPCFeQjEUzfL%2B9Y%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "关于前端职业的未来-岗位的变化",
         "url": "https://www.douyin.com/video/7540129452949359913",
         "time": "2025-08-22 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b6bee63462b443348cd64b065d52323b?lk3s=138a59ce&x-expires=1763038800&x-signature=9QWwXPlQPwfTKLoc4U1Le8nvjeo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b6bee63462b443348cd64b065d52323b?lk3s=138a59ce&x-expires=1763056800&x-signature=NPsQYbOmH2MlESMXKIZgFzVeRns%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "关于前端职业的未来-市场的噪音",
         "url": "https://www.douyin.com/video/7540126249687993639",
         "time": "2025-08-21 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/1e81e6256bcc40d3a8fe410afd2aaa79?lk3s=138a59ce&x-expires=1763038800&x-signature=%2BoVZLytvQwrB6SiMusp7KejYR2A%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/1e81e6256bcc40d3a8fe410afd2aaa79?lk3s=138a59ce&x-expires=1763056800&x-signature=LV%2B0s5dz7kSdARrWuNQnShszkmg%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "火爆全网的MCP全解读，MCP项目助你就业涨薪",
         "url": "https://www.douyin.com/video/7540125372214480182",
         "time": "2025-08-20 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b042d957f293472c8b257fa900277851?lk3s=138a59ce&x-expires=1763038800&x-signature=wUa6wje%2BMOLbQsLtrXTqRgUzUTo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b042d957f293472c8b257fa900277851?lk3s=138a59ce&x-expires=1763056800&x-signature=N6%2BTEWTsHSmRcnksyCfdOwud6WM%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "火爆全网的MCP全解读，从开发到应用透彻理解",
         "url": "https://www.douyin.com/video/7539848929630883114",
         "time": "2025-08-19 12:00:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d8b66f04fcb4468fab433944e07dddd9?lk3s=138a59ce&x-expires=1763038800&x-signature=wL34xcJMPZVyM5ciLS5njdhpwzk%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d8b66f04fcb4468fab433944e07dddd9?lk3s=138a59ce&x-expires=1763056800&x-signature=XSGTsKRU9hB8DVctLXp5rLhjXXc%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "火爆全网的MCP全解读，前置知识先知道",
         "url": "https://www.douyin.com/video/7539770382912474409",
         "time": "2025-08-18 12:00:04",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/23f7aa411321489ea22bb43212936ed5?lk3s=138a59ce&x-expires=1763038800&x-signature=QEwvIu5kizKNCPmQ4g%2BJRBUUyhk%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/23f7aa411321489ea22bb43212936ed5?lk3s=138a59ce&x-expires=1763056800&x-signature=SoRPJSnkIk6qj2DxLu8Mdr4%2FObY%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "水波进度样式",
         "url": "https://www.douyin.com/video/7276419940410740027",
         "time": "2023-09-09 11:50:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b3c32b0298834f28a12d78d07822352d?lk3s=138a59ce&x-expires=1763038800&x-signature=71YdtxB5l8XOEeKahzeiz1ntEE0%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b3c32b0298834f28a12d78d07822352d?lk3s=138a59ce&x-expires=1763056800&x-signature=0t%2BrwBktLH2fO%2Fyf2dyb674q9Mo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "3D Hover Effect",
         "url": "https://www.douyin.com/video/7273833137283632395",
         "time": "2023-09-02 11:50:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/cf30f45c3cdb4106a84d49f15ebc13bf?lk3s=138a59ce&x-expires=1763038800&x-signature=cYUdA6ro%2BG4r2iXEXMLJNg%2B80ik%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/cf30f45c3cdb4106a84d49f15ebc13bf?lk3s=138a59ce&x-expires=1763056800&x-signature=EEnfyEKxWfmMe1nrAk03alWNP7g%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "mac docker效果",
         "url": "https://www.douyin.com/video/7269026898640899387",
         "time": "2023-08-21 11:50:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/20e0be3207324c6e9c0e68442d448670?lk3s=138a59ce&x-expires=1763038800&x-signature=biaYGstSUlajJ%2Bx1uu9y9iZklo0%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/20e0be3207324c6e9c0e68442d448670?lk3s=138a59ce&x-expires=1763056800&x-signature=M9yOWvngi9j4oSNrC3cUzKigxSo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     },
     {
         "title": "多行文本擦除效果",
         "url": "https://www.douyin.com/video/7267904415397465355",
         "time": "2023-08-17 11:50:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/33570929d93b42f28613520c8033bbba?lk3s=138a59ce&x-expires=1763038800&x-signature=YqG0parDdTCIo95MeZ2P25EgLKc%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
-    },
-    {
-        "title": "元素倒影",
-        "url": "https://www.douyin.com/video/7265975773255716130",
-        "time": "2023-08-12 11:50:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/4bbf9bdac7ca4403a4e18ed9c4afb91a?lk3s=138a59ce&x-expires=1763038800&x-signature=wzPG%2Bq89ETBYC2iCGukpmpYPBZU%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2025103021085208DF070F8A10A033A136"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/33570929d93b42f28613520c8033bbba?lk3s=138a59ce&x-expires=1763056800&x-signature=jwUwjn9QdumPQFbc%2FXFf5yU9PcU%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202510310251273A1D8383ED82102C65B6"
     }
 ]
