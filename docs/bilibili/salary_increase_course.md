@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-10-31 10:19:02</p>
+<p>更新时间：2025-10-31 14:52:26</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [从字段到函数的推导【渡一教育】](https://www.bilibili.com/BV1L4sBz1Eqc) - 2025-10-31 12:00:00
 - [模拟 material 文本框【渡一教育】](https://www.bilibili.com/BV1d4sBz1ELz) - 2025-10-31 09:00:00
 - [高亮关键字【渡一教育】](https://www.bilibili.com/BV1LbsBzLE7M) - 2025-10-30 12:00:00
 - [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1RbsBz5Esz) - 2025-10-30 09:00:00

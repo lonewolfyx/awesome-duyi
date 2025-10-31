@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV12PsbzzEQJ) - 2025-10-31 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV14Psbz6E9c) - 2025-10-31 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1mPsbzzEeH) - 2025-10-30 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV1MPsbz6EPs) - 2025-10-30 09:00:00
@@ -142,12 +143,12 @@
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV17s4XzcEKS) - 2025-10-22 09:00:00
 - [标签化模板【渡一教育】](https://www.bilibili.com/BV1qx4Xz8ELX) - 2025-10-21 11:55:00
 - [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1ox4Xz8E7M) - 2025-10-21 09:00:00
-- [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1jx4Xz8Ehb) - 2025-10-20 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [Promise.try【渡一教育】](https://www.bilibili.com/BV1ABs8zKETG) - 2025-10-31 11:55:00
 - [正则中的lastIndex【渡一教育】](https://www.bilibili.com/BV1CBs8zKEcq) - 2025-10-30 11:55:00
 - [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1CBs8zKENY) - 2025-10-29 11:55:00
 - [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1Nvs8zME5L) - 2025-10-28 11:55:00
@@ -167,12 +168,12 @@
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1ZfnCzWEQ6) - 2025-10-11 11:55:00
 - [这个表达式是真“nb”【渡一教育】](https://www.bilibili.com/BV1qFnyz9Erc) - 2025-10-10 11:55:00
 - [使用代理拦截动态属性【渡一教育】](https://www.bilibili.com/BV1oFnyzXEQi) - 2025-10-09 11:55:00
-- [Vue中的类型问题【渡一教育】](https://www.bilibili.com/BV1oFnyzXEyz) - 2025-10-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1GVstzyEBG) - 2025-10-31 11:55:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1GdyhBHEeD) - 2025-10-30 15:08:35
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1VPymBwEFZ) - 2025-10-29 15:13:15
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV13LstzVE1b) - 2025-10-28 11:55:00
@@ -192,12 +193,12 @@
 - [组件级权限控制的最佳实践【渡一教育】](https://www.bilibili.com/BV1P2nCzYEeW) - 2025-10-11 11:55:00
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1P2nCzYEGz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1y2nCzYEQD) - 2025-10-09 11:55:00
-- [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1P2nCzYEq4) - 2025-10-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [从字段到函数的推导【渡一教育】](https://www.bilibili.com/BV1L4sBz1Eqc) - 2025-10-31 12:00:00
 - [模拟 material 文本框【渡一教育】](https://www.bilibili.com/BV1d4sBz1ELz) - 2025-10-31 09:00:00
 - [高亮关键字【渡一教育】](https://www.bilibili.com/BV1LbsBzLE7M) - 2025-10-30 12:00:00
 - [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1RbsBz5Esz) - 2025-10-30 09:00:00
@@ -217,12 +218,12 @@
 - [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV16fWCzNEq3) - 2025-10-22 09:00:00
 - [使用canvas完成基本绘图【渡一教育】](https://www.bilibili.com/BV1rfWCzNEcS) - 2025-10-21 12:00:00
 - [好用的vscode插件【渡一教育】](https://www.bilibili.com/BV16fWCzNEBx) - 2025-10-21 09:00:00
-- [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1cfWCzKEf4) - 2025-10-20 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [属性读取方式【渡一教育】](https://www.bilibili.com/BV1t6s4zTEH1) - 2025-10-31 11:55:00
 - [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1b6s4zTENL) - 2025-10-31 09:00:00
 - [瀑布流布局【渡一教育】](https://www.bilibili.com/BV1U6s4zTEYk) - 2025-10-30 11:55:00
 - [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1mrs4ziEJC) - 2025-10-30 09:00:00
@@ -242,12 +243,12 @@
 - [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1vP4bz4E1F) - 2025-10-22 09:00:00
 - [用TS构建长属性列表【渡一教育】](https://www.bilibili.com/BV1dP4bz4Egt) - 2025-10-21 11:55:00
 - [watch的诸多疑点【渡一教育】](https://www.bilibili.com/BV1oF4bzFEfT) - 2025-10-21 09:00:00
-- [阿里面试题-连续赋值【渡一教育】](https://www.bilibili.com/BV1BF4bzFEWx) - 2025-10-20 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1JZs4zREzp) - 2025-10-31 11:55:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1nZs4zRELw) - 2025-10-30 11:55:00
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1JZs4zRE6q) - 2025-10-29 11:55:00
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV16Zs4zREdd) - 2025-10-28 11:55:00
@@ -267,6 +268,5 @@
 - [组件级权限控制的最佳实践【渡一教育】](https://www.bilibili.com/BV1P1nCzPE9D) - 2025-10-11 11:55:00
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV1N1nCzPEzz) - 2025-10-10 11:55:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1s1nCzPEmN) - 2025-10-09 11:55:00
-- [获取参数和返回值类型【渡一教育】](https://www.bilibili.com/BV1N1nCzPEi8) - 2025-10-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
