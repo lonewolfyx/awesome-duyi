@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-03 02:45:13</p>
+<p>更新时间：2025-11-03 10:24:25</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1ztymByEue) - 2025-11-03 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1TPsbz6EQA) - 2025-11-01 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV12PsbzzERu) - 2025-11-01 09:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV12PsbzzEQJ) - 2025-10-31 11:55:00

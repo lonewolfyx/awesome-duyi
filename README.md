@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1ztymByEue) - 2025-11-03 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1TPsbz6EQA) - 2025-11-01 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV12PsbzzERu) - 2025-11-01 09:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV12PsbzzEQJ) - 2025-10-31 11:55:00
@@ -142,7 +143,6 @@
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV15b4XztES2) - 2025-10-23 11:55:00
 - [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV15b4XztEdE) - 2025-10-23 09:00:00
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1qs4XzcEL5) - 2025-10-22 11:55:00
-- [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV17s4XzcEKS) - 2025-10-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [模特换装效果【渡一教育】](https://www.bilibili.com/BV166yhBaEEn) - 2025-11-03 09:00:00
 - [文字浮雕效果【渡一教育】](https://www.bilibili.com/BV1j4sBz1EgZ) - 2025-11-01 12:00:00
 - [动态规划代码实现【渡一教育】](https://www.bilibili.com/BV1v4sBz1E2Y) - 2025-11-01 09:00:00
 - [从字段到函数的推导【渡一教育】](https://www.bilibili.com/BV1L4sBz1Eqc) - 2025-10-31 12:00:00
@@ -217,12 +218,12 @@
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1coWCzqEoo) - 2025-10-23 12:00:00
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1koWCziEVv) - 2025-10-23 09:00:00
 - [妙用随机数【渡一教育】](https://www.bilibili.com/BV1JfWCzPEDD) - 2025-10-22 12:00:00
-- [用Sass简化媒介查询【渡一教育】](https://www.bilibili.com/BV16fWCzNEq3) - 2025-10-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1YyySBrEgB) - 2025-11-03 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1t6s4zTEvX) - 2025-11-01 11:55:00
 - [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1b6s4zTEwU) - 2025-11-01 09:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1t6s4zTEH1) - 2025-10-31 11:55:00
@@ -242,7 +243,6 @@
 - [包含块【渡一教育】](https://www.bilibili.com/BV1dw4bzZEYd) - 2025-10-23 11:55:00
 - [零宽字符【渡一教育】](https://www.bilibili.com/BV1dw4bzZEd5) - 2025-10-23 09:00:00
 - [等号运算符的运算和转换规则【渡一教育】](https://www.bilibili.com/BV1vP4bz4E7Z) - 2025-10-22 11:55:00
-- [属性到底存在不存在？【渡一教育】](https://www.bilibili.com/BV1vP4bz4E1F) - 2025-10-22 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
