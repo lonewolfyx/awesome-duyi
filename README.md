@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1dRy2BTETE) - 2025-11-04 09:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1JtymB1E7Q) - 2025-11-03 11:55:00
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1ztymByEue) - 2025-11-03 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1TPsbz6EQA) - 2025-11-01 11:55:00
@@ -142,7 +143,6 @@
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1i44XzfE7i) - 2025-10-24 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1Lb4XztETS) - 2025-10-24 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV15b4XztES2) - 2025-10-23 11:55:00
-- [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV15b4XztEdE) - 2025-10-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV166yhBaEJQ) - 2025-11-04 09:00:00
 - [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV166yhBaEic) - 2025-11-03 12:00:00
 - [模特换装效果【渡一教育】](https://www.bilibili.com/BV166yhBaEEn) - 2025-11-03 09:00:00
 - [文字浮雕效果【渡一教育】](https://www.bilibili.com/BV1j4sBz1EgZ) - 2025-11-01 12:00:00
@@ -217,12 +218,12 @@
 - [代码风格【渡一教育】](https://www.bilibili.com/BV1koWCzqEU6) - 2025-10-24 12:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1roWCziE1F) - 2025-10-24 09:00:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1coWCzqEoo) - 2025-10-23 12:00:00
-- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1koWCziEVv) - 2025-10-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [代码雨效果【渡一教育】](https://www.bilibili.com/BV1hSySBME1m) - 2025-11-04 09:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV19yySBrEC9) - 2025-11-03 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1YyySBrEgB) - 2025-11-03 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1t6s4zTEvX) - 2025-11-01 11:55:00
@@ -242,7 +243,6 @@
 - [你不知道的数组去重【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEx4) - 2025-10-24 11:55:00
 - [调整文字方向【渡一教育】](https://www.bilibili.com/BV1iw4bzZEqp) - 2025-10-24 09:00:00
 - [包含块【渡一教育】](https://www.bilibili.com/BV1dw4bzZEYd) - 2025-10-23 11:55:00
-- [零宽字符【渡一教育】](https://www.bilibili.com/BV1dw4bzZEd5) - 2025-10-23 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
