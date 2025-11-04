@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-04 10:19:27</p>
+<p>更新时间：2025-11-04 14:53:15</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [深拷贝的循环引用问题【渡一教育】](https://www.bilibili.com/BV11HySB4Eth) - 2025-11-04 11:55:00
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1bR1YB9ErX) - 2025-11-03 15:04:35
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1NHySBtEfG) - 2025-11-03 11:55:00
 - [DTO和VO【渡一教育】](https://www.bilibili.com/BV1WBs8zKEjw) - 2025-11-01 11:55:00

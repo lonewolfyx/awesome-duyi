@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-04 10:19:27</p>
+<p>更新时间：2025-11-04 14:53:15</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [箭头函数的意义【渡一教育】](https://www.bilibili.com/BV166yhBaEr2) - 2025-11-04 12:00:00
 - [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV166yhBaEJQ) - 2025-11-04 09:00:00
 - [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV166yhBaEic) - 2025-11-03 12:00:00
 - [模特换装效果【渡一教育】](https://www.bilibili.com/BV166yhBaEEn) - 2025-11-03 09:00:00
