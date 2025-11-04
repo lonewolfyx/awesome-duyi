@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1r2y2BCEvg) - 2025-11-04 11:55:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1r2y2BCEv2) - 2025-11-03 11:55:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1VVstzyEKV) - 2025-11-01 11:55:00
@@ -192,7 +193,6 @@
 - [动态执行JS【渡一教育】](https://www.bilibili.com/BV1UdxrzjE47) - 2025-10-16 11:55:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1a44qzCEf7) - 2025-10-15 15:35:10
 - [srcset和sizes【渡一教育】](https://www.bilibili.com/BV13z4XzDEpV) - 2025-10-14 15:27:50
-- [手动解析DOM树【渡一教育】](https://www.bilibili.com/BV1oBxrzZE2n) - 2025-10-13 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 

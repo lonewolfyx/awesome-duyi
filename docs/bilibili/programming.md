@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-04 14:53:15</p>
+<p>更新时间：2025-11-04 21:11:57</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1r2y2BCEvg) - 2025-11-04 11:55:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1r2y2BCEv2) - 2025-11-03 11:55:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1VVstzyEKV) - 2025-11-01 11:55:00
