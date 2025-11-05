@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
 - [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
 - [永远不要用inline-block布局](https://www.douyin.com/video/7565011464088587583) - 2025-10-27 23:50:00
@@ -42,7 +43,6 @@
 - [正则中的lastIndex](https://www.douyin.com/video/7559207287504571663) - 2025-10-10 23:50:00
 - [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
 - [数据的流式获取](https://www.douyin.com/video/7555425161739062562) - 2025-10-08 23:50:00
-- [数组的交集并集差集](https://www.douyin.com/video/7555424638797368610) - 2025-10-07 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 

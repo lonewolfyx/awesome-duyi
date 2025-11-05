@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-05 21:09:33</p>
+<p>更新时间：2025-11-06 02:51:44</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
 - [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
 - [永远不要用inline-block布局](https://www.douyin.com/video/7565011464088587583) - 2025-10-27 23:50:00
