@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [使用正则前瞻检查密码强度](https://www.douyin.com/video/7566944148801047860) - 2025-10-31 23:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
 - [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
@@ -42,7 +43,6 @@
 - [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
 - [正则中的lastIndex](https://www.douyin.com/video/7559207287504571663) - 2025-10-10 23:50:00
 - [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
-- [数据的流式获取](https://www.douyin.com/video/7555425161739062562) - 2025-10-08 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [脚本加载失败如何重试](https://www.douyin.com/video/7566944201623997711) - 2025-10-31 15:30:00
 - [判断奇偶数](https://www.douyin.com/video/7566561014989229355) - 2025-10-30 15:30:00
 - [拖拽上传](https://www.douyin.com/video/7566248165578493224) - 2025-10-29 15:30:00
 - [优化动态规划的空间复杂度](https://www.douyin.com/video/7565823696728886547) - 2025-10-28 15:30:00
@@ -117,7 +118,6 @@
 - [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
 - [Web性能指标](https://www.douyin.com/video/7559505198406765862) - 2025-10-10 16:21:06
 - [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00
-- [最优解问题的典型思路](https://www.douyin.com/video/7555430983391038772) - 2025-10-08 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

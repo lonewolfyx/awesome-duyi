@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-06 21:09:13</p>
+<p>更新时间：2025-11-07 02:53:20</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [使用正则前瞻检查密码强度](https://www.douyin.com/video/7566944148801047860) - 2025-10-31 23:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
 - [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
