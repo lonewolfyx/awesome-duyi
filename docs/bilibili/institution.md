@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-06 02:51:44</p>
+<p>更新时间：2025-11-06 10:21:15</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [模块自动导入【渡一教育】](https://www.bilibili.com/BV1jXy2BzEUN) - 2025-11-06 09:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1oXy2BBEkF) - 2025-11-05 11:55:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1qXy2BzEk3) - 2025-11-05 09:00:00
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1RRy2BTE9h) - 2025-11-04 11:55:00

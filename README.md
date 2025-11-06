@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [模块自动导入【渡一教育】](https://www.bilibili.com/BV1jXy2BzEUN) - 2025-11-06 09:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1oXy2BBEkF) - 2025-11-05 11:55:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1qXy2BzEk3) - 2025-11-05 09:00:00
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1RRy2BTE9h) - 2025-11-04 11:55:00
@@ -142,7 +143,6 @@
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1kVsbzYE9b) - 2025-10-27 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1yusbzKEi1) - 2025-10-27 09:00:00
 - [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1d44XzfEvs) - 2025-10-25 11:55:00
-- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1i44XzfEFE) - 2025-10-25 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [RTT最短时间【渡一教育】](https://www.bilibili.com/BV1nzyhBAEoJ) - 2025-11-06 09:00:00
 - [循环转递归【渡一教育】](https://www.bilibili.com/BV1czyhBPEtj) - 2025-11-05 12:00:00
 - [标签页间通信【渡一教育】](https://www.bilibili.com/BV1nzyhBAEYu) - 2025-11-05 09:00:00
 - [箭头函数的意义【渡一教育】](https://www.bilibili.com/BV166yhBaEr2) - 2025-11-04 12:00:00
@@ -217,12 +218,12 @@
 - [利用延迟实现复杂动画【渡一教育】](https://www.bilibili.com/BV13isBzzEkY) - 2025-10-27 12:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1hisBzzECY) - 2025-10-27 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1roWCziExm) - 2025-10-25 12:00:00
-- [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1roWCziExH) - 2025-10-25 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1aSySBMEKE) - 2025-11-06 09:00:00
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1vC1WB3E7Q) - 2025-11-05 12:01:23
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1hSySBMEAy) - 2025-11-05 09:00:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1hSySBMEEz) - 2025-11-04 11:55:00
@@ -242,7 +243,6 @@
 - [this 指向【渡一教育】](https://www.bilibili.com/BV1mrs4ziE5F) - 2025-10-27 11:55:00
 - [平滑滚动【渡一教育】](https://www.bilibili.com/BV18qs4zuEJD) - 2025-10-27 09:00:00
 - [使用CSS实现滚动吸附效果【渡一教育】](https://www.bilibili.com/BV1tJ4bzjEex) - 2025-10-25 11:55:00
-- [逐帧动画【渡一教育】](https://www.bilibili.com/BV1mJ4bzjE2M) - 2025-10-25 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
