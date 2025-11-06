@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [渐进式图片【渡一教育】](https://www.bilibili.com/BV1hr2cBTEcc) - 2025-11-06 15:06:14
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1fQy2BuEG1) - 2025-11-06 11:55:00
 - [node的模块查找策略【渡一教育】](https://www.bilibili.com/BV1c2y2ByEDj) - 2025-11-05 11:55:00
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
@@ -192,7 +193,6 @@
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV15a4XzxEdK) - 2025-10-20 11:55:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1bdxrzjE1N) - 2025-10-18 11:55:00
 - [最近距离排序【渡一教育】](https://www.bilibili.com/BV1SdxrzjELL) - 2025-10-17 11:55:00
-- [动态执行JS【渡一教育】](https://www.bilibili.com/BV1UdxrzjE47) - 2025-10-16 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
