@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [前置的不定量参数](https://www.douyin.com/video/7567298929977576738) - 2025-11-01 23:50:00
 - [使用正则前瞻检查密码强度](https://www.douyin.com/video/7566944148801047860) - 2025-10-31 23:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
@@ -42,7 +43,6 @@
 - [DTO和VO](https://www.douyin.com/video/7559940119872982287) - 2025-10-13 23:50:00
 - [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
 - [正则中的lastIndex](https://www.douyin.com/video/7559207287504571663) - 2025-10-10 23:50:00
-- [useTemplateRef](https://www.douyin.com/video/7555426028097735970) - 2025-10-09 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [通过小游戏学前端](https://www.douyin.com/video/7567298251435543823) - 2025-11-01 15:30:00
 - [脚本加载失败如何重试](https://www.douyin.com/video/7566944201623997711) - 2025-10-31 15:30:00
 - [判断奇偶数](https://www.douyin.com/video/7566561014989229355) - 2025-10-30 15:30:00
 - [拖拽上传](https://www.douyin.com/video/7566248165578493224) - 2025-10-29 15:30:00
@@ -117,12 +118,12 @@
 - [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
 - [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
 - [Web性能指标](https://www.douyin.com/video/7559505198406765862) - 2025-10-10 16:21:06
-- [打印对象的「BUG」](https://www.douyin.com/video/7555431759739997475) - 2025-10-09 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 哔哩哔哩 - 渡一机构
 
+- [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1RZy2BNEaV) - 2025-11-08 09:00:00
 - [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1vZy2BKEgQ) - 2025-11-07 11:55:00
 - [git大小写规则造成的问题【渡一教育】](https://www.bilibili.com/BV1RZy2BNEY4) - 2025-11-07 09:00:00
 - [多元素组合动画【渡一教育】](https://www.bilibili.com/BV1RZy2BNEu1) - 2025-11-06 11:55:00
@@ -142,7 +143,6 @@
 - [vanilla.js【渡一教育】](https://www.bilibili.com/BV1kGsbzPEXG) - 2025-10-29 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV1CGsbzPEtZ) - 2025-10-29 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1CGsbzPEmp) - 2025-10-28 11:55:00
-- [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1AVsbzeE7c) - 2025-10-28 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [对等依赖报错问题【渡一教育】](https://www.bilibili.com/BV1JkyhBcEP7) - 2025-11-08 09:00:00
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1ECyhB8Ece) - 2025-11-07 12:00:00
 - [文字视差背景【渡一教育】](https://www.bilibili.com/BV1fCyhB8EYd) - 2025-11-07 09:00:00
 - [监听元素的重叠度【渡一教育】](https://www.bilibili.com/BV1ECyhBhEDc) - 2025-11-06 12:00:00
@@ -217,12 +218,12 @@
 - [字典顺序和编码顺序【渡一教育】](https://www.bilibili.com/BV15bsBz5Ete) - 2025-10-29 12:00:00
 - [实现元素平滑上升【渡一教育】](https://www.bilibili.com/BV1LbsBzLE2z) - 2025-10-29 06:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1LbsBz5ELP) - 2025-10-28 12:00:00
-- [动画的暂停和恢复【渡一教育】](https://www.bilibili.com/BV15bsBz5EhB) - 2025-10-28 06:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV1QmySBzEjh) - 2025-11-08 09:00:00
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1hSySBMEkr) - 2025-11-07 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1hSySBME5y) - 2025-11-07 09:00:00
 - [标签化模板【渡一教育】](https://www.bilibili.com/BV1hSySBMEAM) - 2025-11-06 11:55:00
@@ -242,7 +243,6 @@
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1trs4ziEJ7) - 2025-10-29 11:55:00
 - [元素的尺寸【渡一教育】](https://www.bilibili.com/BV14rs4ziEzm) - 2025-10-29 09:00:00
 - [多次触发的动画结束事件【渡一教育】](https://www.bilibili.com/BV14rs4ziEzJ) - 2025-10-28 11:55:00
-- [手写bind函数【渡一教育】](https://www.bilibili.com/BV14rs4ziEEF) - 2025-10-28 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
