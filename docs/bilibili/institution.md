@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-08 10:12:29</p>
+<p>更新时间：2025-11-08 14:48:33</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV15dy2BqEdX) - 2025-11-08 11:55:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1RZy2BNEaV) - 2025-11-08 09:00:00
 - [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1vZy2BKEgQ) - 2025-11-07 11:55:00
 - [git大小写规则造成的问题【渡一教育】](https://www.bilibili.com/BV1RZy2BNEY4) - 2025-11-07 09:00:00
