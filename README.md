@@ -148,6 +148,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [封装统计函数【渡一教育】](https://www.bilibili.com/BV1ZFCFBvE36) - 2025-11-10 15:15:40
 - [封装统计函数【渡一教育】](https://www.bilibili.com/BV1uv1pBZEd6) - 2025-11-10 11:55:00
 - [用发布订阅模式解耦【渡一教育】](https://www.bilibili.com/BV1TJySBfEc6) - 2025-11-08 11:55:00
 - [自动检测更新【渡一教育】](https://www.bilibili.com/BV12JySBZES6) - 2025-11-07 11:55:00
@@ -167,7 +168,6 @@
 - [请求的取消【渡一教育】](https://www.bilibili.com/BV1MTsJz2EdR) - 2025-10-24 15:44:02
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1114tzzEH1) - 2025-10-23 11:55:00
 - [import-cost插件【渡一教育】](https://www.bilibili.com/BV1xas8zgE8g) - 2025-10-22 15:26:51
-- [数据响应式的本质【渡一教育】](https://www.bilibili.com/BV1K14tz6ETc) - 2025-10-21 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
