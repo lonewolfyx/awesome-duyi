@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [从视频文件提取画面帧](https://www.douyin.com/video/7568496117621591296) - 2025-11-04 23:50:00
 - [故障波纹动效](https://www.douyin.com/video/7567310435846868239) - 2025-11-03 23:50:00
 - [前置的不定量参数](https://www.douyin.com/video/7567298929977576738) - 2025-11-01 23:50:00
 - [使用正则前瞻检查密码强度](https://www.douyin.com/video/7566944148801047860) - 2025-10-31 23:50:00
@@ -42,7 +43,6 @@
 - [深拷贝的循环引用问题](https://www.douyin.com/video/7561052870309743882) - 2025-10-15 23:50:00
 - [ConsoleImporter插件](https://www.douyin.com/video/7560631959882321198) - 2025-10-14 23:50:00
 - [DTO和VO](https://www.douyin.com/video/7559940119872982287) - 2025-10-13 23:50:00
-- [Promise.try](https://www.douyin.com/video/7559514820341534003) - 2025-10-11 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [如何实现高度自动的过渡](https://www.douyin.com/video/7568495968052727055) - 2025-11-04 15:30:00
 - [文字转语音](https://www.douyin.com/video/7567310018517667106) - 2025-11-03 15:30:00
 - [通过小游戏学前端](https://www.douyin.com/video/7567298251435543823) - 2025-11-01 15:30:00
 - [脚本加载失败如何重试](https://www.douyin.com/video/7566944201623997711) - 2025-10-31 15:30:00
@@ -117,7 +118,6 @@
 - [LRU缓存算法](https://www.douyin.com/video/7561052065242418478) - 2025-10-15 15:30:00
 - [行为验证](https://www.douyin.com/video/7560630515041078579) - 2025-10-14 15:30:00
 - [单点登录的模式](https://www.douyin.com/video/7559940239066746146) - 2025-10-13 15:30:00
-- [可缓存的方法](https://www.douyin.com/video/7559514412361452850) - 2025-10-11 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
