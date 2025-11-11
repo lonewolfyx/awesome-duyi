@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [TS中的函数重载【渡一教育】](https://www.bilibili.com/BV14Y1nBnEmN) - 2025-11-11 09:00:00
 - [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1TY1nBnEbn) - 2025-11-10 11:55:00
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1KY1nBnEf8) - 2025-11-10 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV15dy2BqEdX) - 2025-11-08 11:55:00
@@ -142,7 +143,6 @@
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV12PsbzzEQJ) - 2025-10-31 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV14Psbz6E9c) - 2025-10-31 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1mPsbzzEeH) - 2025-10-30 11:55:00
-- [无缝轮播【渡一教育】](https://www.bilibili.com/BV1MPsbz6EPs) - 2025-10-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1ir1WBrE3R) - 2025-11-11 09:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1ir1WBrE4N) - 2025-11-10 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1dr1WBrEPo) - 2025-11-10 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1amySBzELC) - 2025-11-08 11:55:00
@@ -242,7 +243,6 @@
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1t6s4zTEH1) - 2025-10-31 11:55:00
 - [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1b6s4zTENL) - 2025-10-31 09:00:00
 - [瀑布流布局【渡一教育】](https://www.bilibili.com/BV1U6s4zTEYk) - 2025-10-30 11:55:00
-- [推荐一篇介绍SVG滤镜的博客【渡一教育】](https://www.bilibili.com/BV1mrs4ziEJC) - 2025-10-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
