@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1fS1nBBE6Y) - 2025-11-11 11:55:00
 - [TS中的函数重载【渡一教育】](https://www.bilibili.com/BV14Y1nBnEmN) - 2025-11-11 09:00:00
 - [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1TY1nBnEbn) - 2025-11-10 11:55:00
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1KY1nBnEf8) - 2025-11-10 09:00:00
@@ -142,12 +143,12 @@
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV12PsbzzERu) - 2025-11-01 09:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV12PsbzzEQJ) - 2025-10-31 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV14Psbz6E9c) - 2025-10-31 09:00:00
-- [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1mPsbzzEeH) - 2025-10-30 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [为什么需要虚拟DOM？【渡一教育】](https://www.bilibili.com/BV1Sv1pBoExQ) - 2025-11-11 11:55:00
 - [封装统计函数【渡一教育】](https://www.bilibili.com/BV1ZFCFBvE36) - 2025-11-10 15:15:40
 - [封装统计函数【渡一教育】](https://www.bilibili.com/BV1uv1pBZEd6) - 2025-11-10 11:55:00
 - [用发布订阅模式解耦【渡一教育】](https://www.bilibili.com/BV1TJySBfEc6) - 2025-11-08 11:55:00
@@ -167,12 +168,12 @@
 - [依赖倒置原则【渡一教育】](https://www.bilibili.com/BV1Ty4tz3ExU) - 2025-10-25 11:55:00
 - [请求的取消【渡一教育】](https://www.bilibili.com/BV1MTsJz2EdR) - 2025-10-24 15:44:02
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1114tzzEH1) - 2025-10-23 11:55:00
-- [import-cost插件【渡一教育】](https://www.bilibili.com/BV1xas8zgE8g) - 2025-10-22 15:26:51
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1sk1nB5Ewk) - 2025-11-11 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1Ak1nB5EQ4) - 2025-11-10 11:55:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1fQy2BuE87) - 2025-11-08 11:55:00
 - [交错排列的文字【渡一教育】](https://www.bilibili.com/BV1fQy2BuEP4) - 2025-11-07 11:55:00
@@ -192,7 +193,6 @@
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1gAsJzJEDs) - 2025-10-24 15:40:48
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1i84XzoEaG) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1Kas8zgEGJ) - 2025-10-22 15:29:24
-- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqEvz) - 2025-10-21 15:26:23
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1i61WBGEzT) - 2025-11-11 11:55:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1ir1WBrE3R) - 2025-11-11 09:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1ir1WBrE4N) - 2025-11-10 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1dr1WBrEPo) - 2025-11-10 09:00:00
@@ -242,12 +243,12 @@
 - [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1b6s4zTEwU) - 2025-11-01 09:00:00
 - [属性读取方式【渡一教育】](https://www.bilibili.com/BV1t6s4zTEH1) - 2025-10-31 11:55:00
 - [原型链的全貌图【渡一教育】](https://www.bilibili.com/BV1b6s4zTENL) - 2025-10-31 09:00:00
-- [瀑布流布局【渡一教育】](https://www.bilibili.com/BV1U6s4zTEYk) - 2025-10-30 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1ue1pBtEfw) - 2025-11-11 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1ge1pBtEMc) - 2025-11-10 11:55:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1udySBNEmm) - 2025-11-08 11:55:00
 - [交错排列的文字【渡一教育】](https://www.bilibili.com/BV18dySBPE51) - 2025-11-07 11:55:00
@@ -267,6 +268,5 @@
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1YV4bznEN8) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqE24) - 2025-10-21 15:28:46
 - [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV1tn4bz1EX2) - 2025-10-20 11:55:00
-- [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1Ym4LzSE7D) - 2025-10-18 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
