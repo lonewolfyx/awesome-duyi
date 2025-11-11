@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV13qk6BBEWi) - 2025-11-11 15:09:10
 - [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1sk1nB5Ewk) - 2025-11-11 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1Ak1nB5EQ4) - 2025-11-10 11:55:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1fQy2BuE87) - 2025-11-08 11:55:00
@@ -192,7 +193,6 @@
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1584XzoEou) - 2025-10-25 11:55:00
 - [系统级取色器【渡一教育】](https://www.bilibili.com/BV1gAsJzJEDs) - 2025-10-24 15:40:48
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1i84XzoEaG) - 2025-10-23 11:55:00
-- [实现私有字段【渡一教育】](https://www.bilibili.com/BV1Kas8zgEGJ) - 2025-10-22 15:29:24
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -248,6 +248,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1aik6BuEhK) - 2025-11-11 15:11:03
 - [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1ue1pBtEfw) - 2025-11-11 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1ge1pBtEMc) - 2025-11-10 11:55:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1udySBNEmm) - 2025-11-08 11:55:00
@@ -267,6 +268,5 @@
 - [Promise面试题【渡一教育】](https://www.bilibili.com/BV1XV4bznEut) - 2025-10-23 11:55:00
 - [实现私有字段【渡一教育】](https://www.bilibili.com/BV1YV4bznEN8) - 2025-10-22 11:55:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1uLWQzqE24) - 2025-10-21 15:28:46
-- [判断稀疏数组【渡一教育】](https://www.bilibili.com/BV1tn4bz1EX2) - 2025-10-20 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
