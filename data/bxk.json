@@ -1,5 +1,11 @@
 [
     {
+        "title": "使用CORS解决跨域问题",
+        "url": "https://www.douyin.com/video/7569230807433334068",
+        "time": "2025-11-06 15:30:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/00e8db65246c4d5bbbef225bca54916f?lk3s=138a59ce&x-expires=1764180000&x-signature=oHbuJmDexgJE8Da1Bh1wH7rL0oI%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
+    },
+    {
         "title": "静态资源的动态访问",
         "url": "https://www.douyin.com/video/7568792533048823083",
         "time": "2025-11-05 15:30:00",

@@ -1,122 +1,122 @@
 [
     {
+        "title": "使用CORS解决跨域问题",
+        "url": "https://www.douyin.com/video/7569230807433334068",
+        "time": "2025-11-06 15:30:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/00e8db65246c4d5bbbef225bca54916f?lk3s=138a59ce&x-expires=1764180000&x-signature=oHbuJmDexgJE8Da1Bh1wH7rL0oI%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
+    },
+    {
         "title": "静态资源的动态访问",
         "url": "https://www.douyin.com/video/7568792533048823083",
         "time": "2025-11-05 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/013e5ec1b0e748e49d53345ed32af61d?lk3s=138a59ce&x-expires=1764162000&x-signature=Xj9BxM7VdUxXmpMlzOI43NTDWCo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/013e5ec1b0e748e49d53345ed32af61d?lk3s=138a59ce&x-expires=1764180000&x-signature=IFPtOTp0YNC0O3wUY7QSamXoZEc%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "如何实现高度自动的过渡",
         "url": "https://www.douyin.com/video/7568495968052727055",
         "time": "2025-11-04 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/97baa1d88fff45b394f082878aff0fd7?lk3s=138a59ce&x-expires=1764162000&x-signature=URBjc%2FYPv4DSDOeWKJrEwWeCfNA%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/97baa1d88fff45b394f082878aff0fd7?lk3s=138a59ce&x-expires=1764180000&x-signature=KHwCyHRQiZcC2QIykAHJMl1%2BQuQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "文字转语音",
         "url": "https://www.douyin.com/video/7567310018517667106",
         "time": "2025-11-03 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/ed515d962dc9493580dcffb3dab50ad1?lk3s=138a59ce&x-expires=1764162000&x-signature=ZQwhAnfHFgAmg0MSwCvd5LOTtGE%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/ed515d962dc9493580dcffb3dab50ad1?lk3s=138a59ce&x-expires=1764180000&x-signature=wxoN3lvBg9Sr5B5NMhkujzBwDEQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "通过小游戏学前端",
         "url": "https://www.douyin.com/video/7567298251435543823",
         "time": "2025-11-01 15:30:00",
-        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/9e314d175d19464db75b5bde0d4a6bc2?lk3s=138a59ce&x-expires=1764162000&x-signature=deyZg4bT0X1gVJvPpt9w5tQoC7I%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/9e314d175d19464db75b5bde0d4a6bc2?lk3s=138a59ce&x-expires=1764180000&x-signature=r6ZtlUnTPk9NWrO6AXqhH90UA7E%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "脚本加载失败如何重试",
         "url": "https://www.douyin.com/video/7566944201623997711",
         "time": "2025-10-31 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/62478521c03a40d99dd04a78fc0785b6?lk3s=138a59ce&x-expires=1764162000&x-signature=qwJDyuQKI%2BsdCyQbsVEWioR%2B2ds%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/62478521c03a40d99dd04a78fc0785b6?lk3s=138a59ce&x-expires=1764180000&x-signature=gd%2BGdcaSL6ijtM%2BbwtprOhRmX9M%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "判断奇偶数",
         "url": "https://www.douyin.com/video/7566561014989229355",
         "time": "2025-10-30 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/4d50c8784c05495fb379150877f35411?lk3s=138a59ce&x-expires=1764162000&x-signature=Gpgljx3T1OVwP0bhMP7DzdI%2Bb3M%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/4d50c8784c05495fb379150877f35411?lk3s=138a59ce&x-expires=1764180000&x-signature=%2FFGUaJPmuNwPoe4GmiyL28sDKqU%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "拖拽上传",
         "url": "https://www.douyin.com/video/7566248165578493224",
         "time": "2025-10-29 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/225123383a1d44a4b71928b466662c91?lk3s=138a59ce&x-expires=1764162000&x-signature=yppDBBDGZc58LFzRWdc2I6wE3bQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/225123383a1d44a4b71928b466662c91?lk3s=138a59ce&x-expires=1764180000&x-signature=u%2BtTfiREne6qEEeDX%2BcAVUb%2FG%2FA%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "优化动态规划的空间复杂度",
         "url": "https://www.douyin.com/video/7565823696728886547",
         "time": "2025-10-28 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/82eae6fbe04e40b486e6e5229b1152fd?lk3s=138a59ce&x-expires=1764162000&x-signature=fY8CPuS4jdKJjvTy4TiNOr4xtz4%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/82eae6fbe04e40b486e6e5229b1152fd?lk3s=138a59ce&x-expires=1764180000&x-signature=cyw%2FBxiCTfejTb7nVEqk6uHssLo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "单向数据流",
         "url": "https://www.douyin.com/video/7565011627200810259",
         "time": "2025-10-27 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/642c6802813a4e9195892df77e21717c?lk3s=138a59ce&x-expires=1764162000&x-signature=Z8zDCHbU2YE0kj78xZ%2FEi7eY2Mw%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/642c6802813a4e9195892df77e21717c?lk3s=138a59ce&x-expires=1764180000&x-signature=Nvofh1Crajn65LxDVT7FZ2j0ABY%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "图片调色盘",
         "url": "https://www.douyin.com/video/7565088365729598761",
         "time": "2025-10-25 17:26:42",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/89d01b7117284910b2c59e64778d5015?lk3s=138a59ce&x-expires=1764162000&x-signature=t6qfYZEBrNqXgmhp9v5xK4Gapq0%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/89d01b7117284910b2c59e64778d5015?lk3s=138a59ce&x-expires=1764180000&x-signature=ozEpxzqJlKdrrhG5MsyaSk0GwDQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "你不知道的CSS选择器",
         "url": "https://www.douyin.com/video/7564335898783927592",
         "time": "2025-10-24 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/f2e5e989f0af46a5b12b6e601872c811?lk3s=138a59ce&x-expires=1764162000&x-signature=TFlxXUd4bwsgpSyevKt%2BZowseOA%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/f2e5e989f0af46a5b12b6e601872c811?lk3s=138a59ce&x-expires=1764180000&x-signature=ZnAC99X1GEy5vmZnS28oblw63M4%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "任务执行的洋葱模型",
         "url": "https://www.douyin.com/video/7564017044652395815",
         "time": "2025-10-23 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/83b098f2b62f4f3a9256638ece261a90?lk3s=138a59ce&x-expires=1764162000&x-signature=UknvAM4U4LXaPfFb1qtlwcboPtk%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/83b098f2b62f4f3a9256638ece261a90?lk3s=138a59ce&x-expires=1764180000&x-signature=yhP1tmRrS9sEkTbmxUkICyl1lLw%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "状态仓库持久化",
         "url": "https://www.douyin.com/video/7563601613672172852",
         "time": "2025-10-22 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/8ee74a398306464e9dc4c617672c0c66?lk3s=138a59ce&x-expires=1764162000&x-signature=k44PHdOTpyc7IFvuI7TQ0wrU5Ak%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/8ee74a398306464e9dc4c617672c0c66?lk3s=138a59ce&x-expires=1764180000&x-signature=%2Bb0AgoP8u3G66r9CtAAxr0Dabpo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "图片边框",
         "url": "https://www.douyin.com/video/7563295516889533742",
         "time": "2025-10-21 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/36cd7a280a1c48c2978b3a3f2ef75103?lk3s=138a59ce&x-expires=1764162000&x-signature=RF3yJr3RapY1OsNYpoM2K2LHZrQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/36cd7a280a1c48c2978b3a3f2ef75103?lk3s=138a59ce&x-expires=1764180000&x-signature=TG%2FAxFlaHLt4jAJs%2FRQL2UuAST8%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "3D渐变的轮播图",
         "url": "https://www.douyin.com/video/7563228905281309987",
         "time": "2025-10-20 17:11:04",
-        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/fe9d958a8d01421c86a3d337fdbecb13?lk3s=138a59ce&x-expires=1764162000&x-signature=vT2Au%2BpBNNDQnaKu9yHr6ryyPjE%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/fe9d958a8d01421c86a3d337fdbecb13?lk3s=138a59ce&x-expires=1764180000&x-signature=5f1RqVYBhmPTquXBc8lPkMP7eh4%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "交错排列的文字",
         "url": "https://www.douyin.com/video/7562100943693647139",
         "time": "2025-10-18 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/a3d7c3f3b1d6435699bd8c2992ab286d?lk3s=138a59ce&x-expires=1764162000&x-signature=jlVvj9T3pmR%2BYOLgaoCKi3MvsjI%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/a3d7c3f3b1d6435699bd8c2992ab286d?lk3s=138a59ce&x-expires=1764180000&x-signature=bYZKidFC1JasLQbF8RbH0kSFdyk%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "渐进式图片",
         "url": "https://www.douyin.com/video/7561794739197021478",
         "time": "2025-10-17 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/cae4b152d4c942a99b407e0772a5336e?lk3s=138a59ce&x-expires=1764162000&x-signature=HlYuckLp%2F%2Bb6NtZJfbrHX1j0soo%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/cae4b152d4c942a99b407e0772a5336e?lk3s=138a59ce&x-expires=1764180000&x-signature=pu9EYBgy2Mq%2BlZ2XCvEuZRUWrPc%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "node的模块查找策略",
         "url": "https://www.douyin.com/video/7561364896202460442",
         "time": "2025-10-16 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/25bc48de04b246148cc98f19d23edde1?lk3s=138a59ce&x-expires=1764162000&x-signature=q4el%2BmxBaAI2NFuWprruZzPA884%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/25bc48de04b246148cc98f19d23edde1?lk3s=138a59ce&x-expires=1764180000&x-signature=FNAK%2Fk%2FzzhwhJbwxedDdiwGbiC0%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     },
     {
         "title": "LRU缓存算法",
         "url": "https://www.douyin.com/video/7561052065242418478",
         "time": "2025-10-15 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d438738df20245dd96c0509cceba3b8d?lk3s=138a59ce&x-expires=1764162000&x-signature=0CYJdP1IHds%2FUFUxptGbMMjWiSE%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
-    },
-    {
-        "title": "行为验证",
-        "url": "https://www.douyin.com/video/7560630515041078579",
-        "time": "2025-10-14 15:30:00",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/16e06d7ab945455abd7d8380aeb789dd?lk3s=138a59ce&x-expires=1764162000&x-signature=FiRKAd%2BBjAXubqZdSPWAxMOzEPw%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251112211021F30958F2E1094AAE0EFD"
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/d438738df20245dd96c0509cceba3b8d?lk3s=138a59ce&x-expires=1764180000&x-signature=DS2bC4TdLJycEn1DWVOZlWSgqNY%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202511130249379A3EC00B24B8AD12295E"
     }
 ]

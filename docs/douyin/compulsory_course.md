@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-12 21:10:44</p>
+<p>更新时间：2025-11-13 02:49:58</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [使用CORS解决跨域问题](https://www.douyin.com/video/7569230807433334068) - 2025-11-06 15:30:00
 - [静态资源的动态访问](https://www.douyin.com/video/7568792533048823083) - 2025-11-05 15:30:00
 - [如何实现高度自动的过渡](https://www.douyin.com/video/7568495968052727055) - 2025-11-04 15:30:00
 - [文字转语音](https://www.douyin.com/video/7567310018517667106) - 2025-11-03 15:30:00
