@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [使用data url预览图片【渡一教育】](https://www.bilibili.com/BV1fS1nBBEsf) - 2025-11-13 09:00:00
 - [vue方法中属性丢失的问题【渡一教育】](https://www.bilibili.com/BV1JS1nBzEuc) - 2025-11-12 11:55:00
 - [圈复杂度【渡一教育】](https://www.bilibili.com/BV1ES1nBzEDc) - 2025-11-12 09:00:00
 - [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1fS1nBBE6Y) - 2025-11-11 11:55:00
@@ -142,7 +143,6 @@
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1JtymB1E7Q) - 2025-11-03 11:55:00
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1ztymByEue) - 2025-11-03 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1TPsbz6EQA) - 2025-11-01 11:55:00
-- [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV12PsbzzERu) - 2025-11-01 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1ey1WBzEvb) - 2025-11-13 09:00:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1i61WBGEyz) - 2025-11-12 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1i61WBGEqC) - 2025-11-12 09:00:00
 - [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1i61WBGEzT) - 2025-11-11 11:55:00
@@ -242,7 +243,6 @@
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV19yySBrEC9) - 2025-11-03 11:55:00
 - [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1YyySBrEgB) - 2025-11-03 09:00:00
 - [环形旋转效果【渡一教育】](https://www.bilibili.com/BV1t6s4zTEvX) - 2025-11-01 11:55:00
-- [倾斜按钮【渡一教育】](https://www.bilibili.com/BV1b6s4zTEwU) - 2025-11-01 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
