@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-13 21:10:18</p>
+<p>更新时间：2025-11-14 02:51:27</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [Proxy和DefineProperty](https://www.douyin.com/video/7569536390363483434) - 2025-11-07 23:50:00
 - [内存泄漏和闭包](https://www.douyin.com/video/7569231360959778100) - 2025-11-06 23:50:00
 - [五子棋的胜负判定逻辑](https://www.douyin.com/video/7568794257650224447) - 2025-11-05 23:50:00
 - [从视频文件提取画面帧](https://www.douyin.com/video/7568496117621591296) - 2025-11-04 23:50:00

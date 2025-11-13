@@ -1,5 +1,11 @@
 [
     {
+        "title": "Proxy和DefineProperty",
+        "url": "https://www.douyin.com/video/7569536390363483434",
+        "time": "2025-11-07 23:50:00",
+        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/e2548164cb0543deac0fbf21d07ff7d0?lk3s=138a59ce&x-expires=1764266400&x-signature=EKmUxa2hZxst%2FfUacpjK6fD11uQ%3D&from=327834062_large&s=PackSourceEnum_PUBLISH&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=20251114025056EDCD13ADD44EAB4EB4C8"
+    },
+    {
         "title": "内存泄漏和闭包",
         "url": "https://www.douyin.com/video/7569231360959778100",
         "time": "2025-11-06 23:50:00",

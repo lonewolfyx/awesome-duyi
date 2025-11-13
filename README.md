@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Proxy和DefineProperty](https://www.douyin.com/video/7569536390363483434) - 2025-11-07 23:50:00
 - [内存泄漏和闭包](https://www.douyin.com/video/7569231360959778100) - 2025-11-06 23:50:00
 - [五子棋的胜负判定逻辑](https://www.douyin.com/video/7568794257650224447) - 2025-11-05 23:50:00
 - [从视频文件提取画面帧](https://www.douyin.com/video/7568496117621591296) - 2025-11-04 23:50:00
@@ -42,7 +43,6 @@
 - [自动检测更新](https://www.douyin.com/video/7562102504549403938) - 2025-10-18 23:50:00
 - [使用代理实现单例](https://www.douyin.com/video/7561794111519460635) - 2025-10-17 23:50:00
 - [谢谢你发明了JS](https://www.douyin.com/video/7561365496424107310) - 2025-10-16 23:50:00
-- [深拷贝的循环引用问题](https://www.douyin.com/video/7561052870309743882) - 2025-10-15 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [watchEffect中的异步问题](https://www.douyin.com/video/7569535782252203270) - 2025-11-07 15:30:00
 - [使用CORS解决跨域问题](https://www.douyin.com/video/7569230807433334068) - 2025-11-06 15:30:00
 - [静态资源的动态访问](https://www.douyin.com/video/7568792533048823083) - 2025-11-05 15:30:00
 - [如何实现高度自动的过渡](https://www.douyin.com/video/7568495968052727055) - 2025-11-04 15:30:00
@@ -117,7 +118,6 @@
 - [交错排列的文字](https://www.douyin.com/video/7562100943693647139) - 2025-10-18 15:30:00
 - [渐进式图片](https://www.douyin.com/video/7561794739197021478) - 2025-10-17 15:30:00
 - [node的模块查找策略](https://www.douyin.com/video/7561364896202460442) - 2025-10-16 15:30:00
-- [LRU缓存算法](https://www.douyin.com/video/7561052065242418478) - 2025-10-15 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
