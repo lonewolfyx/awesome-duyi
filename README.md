@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV16U1nBgEAC) - 2025-11-14 09:00:00
 - [never类型的妙用【渡一教育】](https://www.bilibili.com/BV1ES1nBzEnP) - 2025-11-13 11:55:00
 - [使用data url预览图片【渡一教育】](https://www.bilibili.com/BV1fS1nBBEsf) - 2025-11-13 09:00:00
 - [vue方法中属性丢失的问题【渡一教育】](https://www.bilibili.com/BV1JS1nBzEuc) - 2025-11-12 11:55:00
@@ -142,7 +143,6 @@
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1RRy2BTE9h) - 2025-11-04 11:55:00
 - [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1dRy2BTETE) - 2025-11-04 09:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1JtymB1E7Q) - 2025-11-03 11:55:00
-- [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1ztymByEue) - 2025-11-03 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV15y1WB6EoX) - 2025-11-14 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1ey1WBzEbo) - 2025-11-13 11:55:00
 - [磨砂玻璃效果【渡一教育】](https://www.bilibili.com/BV1ey1WBzEvb) - 2025-11-13 09:00:00
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1i61WBGEyz) - 2025-11-12 11:55:00
@@ -242,7 +243,6 @@
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1hSySBMEEz) - 2025-11-04 11:55:00
 - [代码雨效果【渡一教育】](https://www.bilibili.com/BV1hSySBME1m) - 2025-11-04 09:00:00
 - [视频文字特效【渡一教育】](https://www.bilibili.com/BV19yySBrEC9) - 2025-11-03 11:55:00
-- [鼠标位置信息【渡一教育】](https://www.bilibili.com/BV1YyySBrEgB) - 2025-11-03 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
