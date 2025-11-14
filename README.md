@@ -148,6 +148,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [mermaid【渡一教育】](https://www.bilibili.com/BV1nMCMBwEQv) - 2025-11-14 15:18:46
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1cX1pBLEHp) - 2025-11-14 11:55:00
 - [使用defer优化白屏时间【渡一教育】](https://www.bilibili.com/BV1Mv1pBoE1i) - 2025-11-13 11:55:00
 - [Clipboard API【渡一教育】](https://www.bilibili.com/BV1Mv1pBoE2L) - 2025-11-12 11:55:00
@@ -167,7 +168,6 @@
 - [正则中的lastIndex【渡一教育】](https://www.bilibili.com/BV1CBs8zKEcq) - 2025-10-30 11:55:00
 - [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1CBs8zKENY) - 2025-10-29 11:55:00
 - [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1Nvs8zME5L) - 2025-10-28 11:55:00
-- [数组的交集并集差集【渡一教育】](https://www.bilibili.com/BV1Yms2zPErM) - 2025-10-27 15:14:52
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
