@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
 - [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV1FU1nBgEMN) - 2025-11-15 09:00:00
 - [值和引用的终极面试题【渡一教育】](https://www.bilibili.com/BV1FU1nBgENW) - 2025-11-14 11:55:00
 - [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV16U1nBgEAC) - 2025-11-14 09:00:00
@@ -142,12 +143,12 @@
 - [模块自动导入【渡一教育】](https://www.bilibili.com/BV1jXy2BzEUN) - 2025-11-06 09:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1oXy2BBEkF) - 2025-11-05 11:55:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1qXy2BzEk3) - 2025-11-05 09:00:00
-- [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1RRy2BTE9h) - 2025-11-04 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1nX1pBLESg) - 2025-11-15 11:55:00
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1nMCMBwEQv) - 2025-11-14 15:18:46
 - [mermaid【渡一教育】](https://www.bilibili.com/BV1cX1pBLEHp) - 2025-11-14 11:55:00
 - [使用defer优化白屏时间【渡一教育】](https://www.bilibili.com/BV1Mv1pBoE1i) - 2025-11-13 11:55:00
@@ -167,12 +168,12 @@
 - [Promise.try【渡一教育】](https://www.bilibili.com/BV1ABs8zKETG) - 2025-10-31 11:55:00
 - [正则中的lastIndex【渡一教育】](https://www.bilibili.com/BV1CBs8zKEcq) - 2025-10-30 11:55:00
 - [useTemplateRef【渡一教育】](https://www.bilibili.com/BV1CBs8zKENY) - 2025-10-29 11:55:00
-- [数据的流式获取【渡一教育】](https://www.bilibili.com/BV1Nvs8zME5L) - 2025-10-28 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [单向数据流【渡一教育】](https://www.bilibili.com/BV1w21nBrEbb) - 2025-11-15 11:55:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1sk1nB5EFF) - 2025-11-14 11:55:00
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1pBC4BWEJB) - 2025-11-13 15:07:58
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1Pk1nB5EvM) - 2025-11-13 11:55:00
@@ -192,7 +193,6 @@
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1GVstzyEBG) - 2025-10-31 11:55:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1GdyhBHEeD) - 2025-10-30 15:08:35
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1VPymBwEFZ) - 2025-10-29 15:13:15
-- [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV13LstzVE1b) - 2025-10-28 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1ey1WBzE13) - 2025-11-15 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV19y1WBzEqu) - 2025-11-15 09:00:00
 - [vanilla.js【渡一教育】](https://www.bilibili.com/BV1ey1WBzEcw) - 2025-11-14 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV15y1WB6EoX) - 2025-11-14 09:00:00
@@ -242,12 +243,12 @@
 - [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1aSySBMEKE) - 2025-11-06 09:00:00
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1vC1WB3E7Q) - 2025-11-05 12:01:23
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1hSySBMEAy) - 2025-11-05 09:00:00
-- [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1hSySBMEEz) - 2025-11-04 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [单向数据流【渡一教育】](https://www.bilibili.com/BV18a1pBfEez) - 2025-11-15 11:55:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV18e1pBtEea) - 2025-11-14 11:55:00
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1be1pBtEf3) - 2025-11-13 11:55:00
 - [任务执行的洋葱模型【渡一教育】](https://www.bilibili.com/BV1ge1pBtEKP) - 2025-11-12 11:55:00
@@ -267,6 +268,5 @@
 - [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV16Zs4zREdd) - 2025-10-28 11:55:00
 - [多行文本擦除效果【渡一教育】](https://www.bilibili.com/BV1nZs4zRE6y) - 2025-10-27 11:55:00
 - [读取文件原始内容【渡一教育】](https://www.bilibili.com/BV1hj4bzEEwk) - 2025-10-25 11:55:00
-- [系统级取色器【渡一教育】](https://www.bilibili.com/BV1aV4bznESM) - 2025-10-24 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)

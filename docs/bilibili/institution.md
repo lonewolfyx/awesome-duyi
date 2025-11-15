@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-15 10:16:50</p>
+<p>更新时间：2025-11-15 14:48:47</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
 - [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV1FU1nBgEMN) - 2025-11-15 09:00:00
 - [值和引用的终极面试题【渡一教育】](https://www.bilibili.com/BV1FU1nBgENW) - 2025-11-14 11:55:00
 - [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV16U1nBgEAC) - 2025-11-14 09:00:00
