@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV1FU1nBgEMN) - 2025-11-15 09:00:00
 - [值和引用的终极面试题【渡一教育】](https://www.bilibili.com/BV1FU1nBgENW) - 2025-11-14 11:55:00
 - [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV16U1nBgEAC) - 2025-11-14 09:00:00
 - [never类型的妙用【渡一教育】](https://www.bilibili.com/BV1ES1nBzEnP) - 2025-11-13 11:55:00
@@ -142,7 +143,6 @@
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1oXy2BBEkF) - 2025-11-05 11:55:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1qXy2BzEk3) - 2025-11-05 09:00:00
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1RRy2BTE9h) - 2025-11-04 11:55:00
-- [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV1dRy2BTETE) - 2025-11-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -223,6 +223,7 @@
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [无缝轮播【渡一教育】](https://www.bilibili.com/BV19y1WBzEqu) - 2025-11-15 09:00:00
 - [vanilla.js【渡一教育】](https://www.bilibili.com/BV1ey1WBzEcw) - 2025-11-14 11:55:00
 - [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV15y1WB6EoX) - 2025-11-14 09:00:00
 - [屏幕坐标和窗口通信【渡一教育】](https://www.bilibili.com/BV1ey1WBzEbo) - 2025-11-13 11:55:00
@@ -242,7 +243,6 @@
 - [再谈多行文本溢出【渡一教育】](https://www.bilibili.com/BV1vC1WB3E7Q) - 2025-11-05 12:01:23
 - [字符串比较【渡一教育】](https://www.bilibili.com/BV1hSySBMEAy) - 2025-11-05 09:00:00
 - [OPPO2024面试题【渡一教育】](https://www.bilibili.com/BV1hSySBMEEz) - 2025-11-04 11:55:00
-- [代码雨效果【渡一教育】](https://www.bilibili.com/BV1hSySBME1m) - 2025-11-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
