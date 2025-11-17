@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [3D Hover Effect](https://www.douyin.com/video/7571016213233503498) - 2025-11-11 23:50:00
 - [mac docker效果](https://www.douyin.com/video/7570309705411677486) - 2025-11-10 23:50:00
 - [水波进度样式](https://www.douyin.com/video/7569908951781756214) - 2025-11-08 23:50:00
 - [Proxy和DefineProperty](https://www.douyin.com/video/7569536390363483434) - 2025-11-07 23:50:00
@@ -42,7 +43,6 @@
 - [为什么需要虚拟DOM？](https://www.douyin.com/video/7563601043519524111) - 2025-10-22 23:50:00
 - [封装统计函数](https://www.douyin.com/video/7563295620224568614) - 2025-10-21 23:50:00
 - [用发布订阅模式解耦](https://www.douyin.com/video/7562112613455334708) - 2025-10-20 23:50:00
-- [自动检测更新](https://www.douyin.com/video/7562102504549403938) - 2025-10-18 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
 - [右键菜单的位置抉择](https://www.douyin.com/video/7570309335780232475) - 2025-11-10 15:30:00
 - [flex+margin](https://www.douyin.com/video/7569908558809042219) - 2025-11-08 15:30:00
 - [watchEffect中的异步问题](https://www.douyin.com/video/7569535782252203270) - 2025-11-07 15:30:00
@@ -117,7 +118,6 @@
 - [状态仓库持久化](https://www.douyin.com/video/7563601613672172852) - 2025-10-22 15:30:00
 - [图片边框](https://www.douyin.com/video/7563295516889533742) - 2025-10-21 15:30:00
 - [3D渐变的轮播图](https://www.douyin.com/video/7563228905281309987) - 2025-10-20 17:11:04
-- [交错排列的文字](https://www.douyin.com/video/7562100943693647139) - 2025-10-18 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
