@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-18 21:09:28</p>
+<p>更新时间：2025-11-19 02:53:04</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？](https://www.douyin.com/video/7571767756194958619) - 2025-11-12 17:26:06
 - [实现样式隔离、自定义内容、自定义事件](https://www.douyin.com/video/7563946966812609838) - 2025-10-25 12:00:00
 - [利用模板字符串实现精准渲染更新，你敢信？](https://www.douyin.com/video/7564289150090874164) - 2025-10-24 12:00:00
 - [组件的终极方案Web Components，让你的组件变成HTML标签](https://www.douyin.com/video/7564288520844545332) - 2025-10-23 13:42:57
