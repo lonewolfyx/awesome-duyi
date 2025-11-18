@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [拖拽上传【渡一教育】](https://www.bilibili.com/BV1aJygBxEVk) - 2025-11-18 15:32:44
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1r6CLBpEsp) - 2025-11-18 11:55:00
 - [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV1k6CLBpEWu) - 2025-11-17 11:55:00
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV1w21nBrEbb) - 2025-11-15 11:55:00
@@ -192,7 +193,6 @@
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1r2y2BCEvg) - 2025-11-04 11:55:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1r2y2BCEv2) - 2025-11-03 11:55:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1VVstzyEKV) - 2025-11-01 11:55:00
-- [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1GVstzyEBG) - 2025-10-31 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -248,6 +248,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [拖拽上传【渡一教育】](https://www.bilibili.com/BV1Q7ygBoErU) - 2025-11-18 15:36:35
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV14HCpBUE48) - 2025-11-18 11:55:00
 - [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV14HCpBUELH) - 2025-11-17 11:55:00
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV18a1pBfEez) - 2025-11-15 11:55:00
@@ -267,6 +268,5 @@
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1JZs4zREzp) - 2025-10-31 11:55:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1nZs4zRELw) - 2025-10-30 11:55:00
 - [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1JZs4zRE6q) - 2025-10-29 11:55:00
-- [最优解问题的典型思路【渡一教育】](https://www.bilibili.com/BV16Zs4zREdd) - 2025-10-28 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
