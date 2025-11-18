@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-18 02:50:57</p>
+<p>更新时间：2025-11-18 10:20:11</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1VrCEBJETU) - 2025-11-18 09:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1GrCEBJE24) - 2025-11-17 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV1YrCEBJEJP) - 2025-11-17 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1ey1WBzE13) - 2025-11-15 11:55:00

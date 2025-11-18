@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [gitignore的匹配规则【渡一教育】](https://www.bilibili.com/BV1kvCLBdEzY) - 2025-11-18 09:00:00
 - [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV1kvCLBdECq) - 2025-11-17 11:55:00
 - [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1CvCLBdETH) - 2025-11-17 09:00:00
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
@@ -142,7 +143,6 @@
 - [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1vZy2BKEgQ) - 2025-11-07 11:55:00
 - [git大小写规则造成的问题【渡一教育】](https://www.bilibili.com/BV1RZy2BNEY4) - 2025-11-07 09:00:00
 - [多元素组合动画【渡一教育】](https://www.bilibili.com/BV1RZy2BNEu1) - 2025-11-06 11:55:00
-- [模块自动导入【渡一教育】](https://www.bilibili.com/BV1jXy2BzEUN) - 2025-11-06 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1FSCMBPEf4) - 2025-11-18 09:00:00
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1FSCMBPE9C) - 2025-11-17 12:00:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1uaCMB1Eh6) - 2025-11-17 09:00:00
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1FkyhBwE5P) - 2025-11-08 12:00:00
@@ -217,12 +218,12 @@
 - [从字段到函数的推导【渡一教育】](https://www.bilibili.com/BV1L4sBz1Eqc) - 2025-10-31 12:00:00
 - [模拟 material 文本框【渡一教育】](https://www.bilibili.com/BV1d4sBz1ELz) - 2025-10-31 09:00:00
 - [高亮关键字【渡一教育】](https://www.bilibili.com/BV1LbsBzLE7M) - 2025-10-30 12:00:00
-- [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1RbsBz5Esz) - 2025-10-30 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1VrCEBJETU) - 2025-11-18 09:00:00
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1GrCEBJE24) - 2025-11-17 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV1YrCEBJEJP) - 2025-11-17 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1ey1WBzE13) - 2025-11-15 11:55:00
@@ -242,7 +243,6 @@
 - [锥形渐变【渡一教育】](https://www.bilibili.com/BV1hSySBMEkr) - 2025-11-07 11:55:00
 - [彻底搞懂时间函数【渡一教育】](https://www.bilibili.com/BV1hSySBME5y) - 2025-11-07 09:00:00
 - [标签化模板【渡一教育】](https://www.bilibili.com/BV1hSySBMEAM) - 2025-11-06 11:55:00
-- [文字连续光影特效【渡一教育】](https://www.bilibili.com/BV1aSySBMEKE) - 2025-11-06 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 

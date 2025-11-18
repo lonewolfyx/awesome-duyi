@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-18 02:50:57</p>
+<p>更新时间：2025-11-18 10:20:11</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [gitignore的匹配规则【渡一教育】](https://www.bilibili.com/BV1kvCLBdEzY) - 2025-11-18 09:00:00
 - [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV1kvCLBdECq) - 2025-11-17 11:55:00
 - [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1CvCLBdETH) - 2025-11-17 09:00:00
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
