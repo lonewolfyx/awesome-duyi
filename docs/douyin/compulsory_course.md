@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-19 21:09:39</p>
+<p>更新时间：2025-11-20 02:50:04</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
 - [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
 - [右键菜单的位置抉择](https://www.douyin.com/video/7570309335780232475) - 2025-11-10 15:30:00
