@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV1m4CLBwEEB) - 2025-11-19 11:55:00
 - [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1m4CLBwE8B) - 2025-11-19 09:00:00
 - [不规则的文字环绕【渡一教育】](https://www.bilibili.com/BV1T4CLBAE9v) - 2025-11-18 11:55:00
 - [gitignore的匹配规则【渡一教育】](https://www.bilibili.com/BV1kvCLBdEzY) - 2025-11-18 09:00:00
@@ -142,12 +143,12 @@
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1KY1nBnEf8) - 2025-11-10 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV15dy2BqEdX) - 2025-11-08 11:55:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1RZy2BNEaV) - 2025-11-08 09:00:00
-- [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1vZy2BKEgQ) - 2025-11-07 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [剪切板对象无法获取的问题【渡一教育】](https://www.bilibili.com/BV1VXCsBKEDB) - 2025-11-19 11:55:00
 - [一道高端的面试题【渡一教育】](https://www.bilibili.com/BV15XCsBKE59) - 2025-11-18 11:55:00
 - [interact.js【渡一教育】](https://www.bilibili.com/BV1eXCsBKEhz) - 2025-11-17 11:55:00
 - [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1nX1pBLESg) - 2025-11-15 11:55:00
@@ -167,12 +168,12 @@
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1NHySBtEfG) - 2025-11-03 11:55:00
 - [DTO和VO【渡一教育】](https://www.bilibili.com/BV1WBs8zKEjw) - 2025-11-01 11:55:00
 - [Promise.try【渡一教育】](https://www.bilibili.com/BV14D1KBkEvp) - 2025-10-31 15:06:36
-- [Promise.try【渡一教育】](https://www.bilibili.com/BV1ABs8zKETG) - 2025-10-31 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1k6CLBWEzf) - 2025-11-19 11:55:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1aJygBxEVk) - 2025-11-18 15:32:44
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1r6CLBpEsp) - 2025-11-18 11:55:00
 - [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV1k6CLBpEWu) - 2025-11-17 11:55:00
@@ -192,12 +193,12 @@
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1r2y2BCEvg) - 2025-11-04 11:55:00
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1r2y2BCEv2) - 2025-11-03 11:55:00
-- [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1VVstzyEKV) - 2025-11-01 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1cmCMBvEko) - 2025-11-19 12:00:00
 - [并发请求【渡一教育】](https://www.bilibili.com/BV1cSCMBPEtC) - 2025-11-19 09:00:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1cSCMBPEXq) - 2025-11-18 12:00:00
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1FSCMBPEf4) - 2025-11-18 09:00:00
@@ -217,12 +218,12 @@
 - [模特换装效果【渡一教育】](https://www.bilibili.com/BV166yhBaEEn) - 2025-11-03 09:00:00
 - [文字浮雕效果【渡一教育】](https://www.bilibili.com/BV1j4sBz1EgZ) - 2025-11-01 12:00:00
 - [动态规划代码实现【渡一教育】](https://www.bilibili.com/BV1v4sBz1E2Y) - 2025-11-01 09:00:00
-- [从字段到函数的推导【渡一教育】](https://www.bilibili.com/BV1L4sBz1Eqc) - 2025-10-31 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1VrCEBJEwr) - 2025-11-19 11:55:00
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1GrCEBJECS) - 2025-11-19 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1VrCEBJEPc) - 2025-11-18 11:55:00
 - [跨标签页的数据共享【渡一教育】](https://www.bilibili.com/BV1VrCEBJETU) - 2025-11-18 09:00:00
@@ -242,12 +243,12 @@
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1dr1WBrEPo) - 2025-11-10 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1amySBzELC) - 2025-11-08 11:55:00
 - [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV1QmySBzEjh) - 2025-11-08 09:00:00
-- [锥形渐变【渡一教育】](https://www.bilibili.com/BV1hSySBMEkr) - 2025-11-07 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1mnCpBJEqQ) - 2025-11-19 11:55:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1Q7ygBoErU) - 2025-11-18 15:36:35
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV14HCpBUE48) - 2025-11-18 11:55:00
 - [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV14HCpBUELH) - 2025-11-17 11:55:00
@@ -267,6 +268,5 @@
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1FZs4zdEfW) - 2025-11-01 11:55:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1JZs4zREzp) - 2025-10-31 11:55:00
 - [Web性能指标【渡一教育】](https://www.bilibili.com/BV1nZs4zRELw) - 2025-10-30 11:55:00
-- [打印对象的「BUG」【渡一教育】](https://www.bilibili.com/BV1JZs4zRE6q) - 2025-10-29 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
