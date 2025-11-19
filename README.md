@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1WuyEBNEWi) - 2025-11-19 15:33:18
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1k6CLBWEzf) - 2025-11-19 11:55:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1aJygBxEVk) - 2025-11-18 15:32:44
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1r6CLBpEsp) - 2025-11-18 11:55:00
@@ -192,7 +193,6 @@
 - [node的模块查找策略【渡一教育】](https://www.bilibili.com/BV1c2y2ByEDj) - 2025-11-05 11:55:00
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
 - [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1r2y2BCEvg) - 2025-11-04 11:55:00
-- [行为验证【渡一教育】](https://www.bilibili.com/BV1r2y2BCEv2) - 2025-11-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -248,6 +248,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1JjyEB8Evk) - 2025-11-19 16:02:17
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1mnCpBJEqQ) - 2025-11-19 11:55:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1Q7ygBoErU) - 2025-11-18 15:36:35
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV14HCpBUE48) - 2025-11-18 11:55:00
@@ -267,6 +268,5 @@
 - [行为验证【渡一教育】](https://www.bilibili.com/BV1hDySBqEDQ) - 2025-11-03 11:55:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1FZs4zdEfW) - 2025-11-01 11:55:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1JZs4zREzp) - 2025-10-31 11:55:00
-- [Web性能指标【渡一教育】](https://www.bilibili.com/BV1nZs4zRELw) - 2025-10-30 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
