@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
 - [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
 - [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
 - [3D Hover Effect](https://www.douyin.com/video/7571016213233503498) - 2025-11-11 23:50:00
@@ -42,7 +43,6 @@
 - [mermaid](https://www.douyin.com/video/7564715641798741300) - 2025-10-25 23:50:00
 - [使用defer优化白屏时间](https://www.douyin.com/video/7564336666777865472) - 2025-10-24 23:50:00
 - [Clipboard API](https://www.douyin.com/video/7564016938297380115) - 2025-10-23 23:50:00
-- [为什么需要虚拟DOM？](https://www.douyin.com/video/7563601043519524111) - 2025-10-22 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -73,6 +73,7 @@
 
 ### 抖音 - 渡一前端教科书
 
+- [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？](https://www.douyin.com/video/7572023828306464009) - 2025-11-14 12:00:00
 - [为什么需要对知识库建立索引？索引如何建立？](https://www.douyin.com/video/7571706209791659291) - 2025-11-13 12:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？](https://www.douyin.com/video/7571767756194958619) - 2025-11-12 17:26:06
 - [实现样式隔离、自定义内容、自定义事件](https://www.douyin.com/video/7563946966812609838) - 2025-10-25 12:00:00
@@ -92,12 +93,12 @@
 - [火爆全网的MCP全解读，从开发到应用透彻理解](https://www.douyin.com/video/7539848929630883114) - 2025-08-19 12:00:00
 - [火爆全网的MCP全解读，前置知识先知道](https://www.douyin.com/video/7539770382912474409) - 2025-08-18 12:00:04
 - [水波进度样式](https://www.douyin.com/video/7276419940410740027) - 2023-09-09 11:50:00
-- [3D Hover Effect](https://www.douyin.com/video/7273833137283632395) - 2023-09-02 11:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/textbook.html)
 
 ### 抖音 - 渡一前端必修课
 
+- [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
 - [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
 - [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
@@ -117,7 +118,6 @@
 - [图片调色盘](https://www.douyin.com/video/7565088365729598761) - 2025-10-25 17:26:42
 - [你不知道的CSS选择器](https://www.douyin.com/video/7564335898783927592) - 2025-10-24 15:30:00
 - [任务执行的洋葱模型](https://www.douyin.com/video/7564017044652395815) - 2025-10-23 15:30:00
-- [状态仓库持久化](https://www.douyin.com/video/7563601613672172852) - 2025-10-22 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

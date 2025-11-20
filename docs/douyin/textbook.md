@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-20 21:08:49</p>
+<p>更新时间：2025-11-21 02:52:30</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？](https://www.douyin.com/video/7572023828306464009) - 2025-11-14 12:00:00
 - [为什么需要对知识库建立索引？索引如何建立？](https://www.douyin.com/video/7571706209791659291) - 2025-11-13 12:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？](https://www.douyin.com/video/7571767756194958619) - 2025-11-12 17:26:06
 - [实现样式隔离、自定义内容、自定义事件](https://www.douyin.com/video/7563946966812609838) - 2025-10-25 12:00:00
