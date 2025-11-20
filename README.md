@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [访问文件夹【渡一教育】](https://www.bilibili.com/BV1NhCLB8EWq) - 2025-11-20 09:00:00
 - [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV1m4CLBwEEB) - 2025-11-19 11:55:00
 - [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1m4CLBwE8B) - 2025-11-19 09:00:00
 - [不规则的文字环绕【渡一教育】](https://www.bilibili.com/BV1T4CLBAE9v) - 2025-11-18 11:55:00
@@ -142,7 +143,6 @@
 - [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1TY1nBnEbn) - 2025-11-10 11:55:00
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1KY1nBnEf8) - 2025-11-10 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV15dy2BqEdX) - 2025-11-08 11:55:00
-- [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1RZy2BNEaV) - 2025-11-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1wmCMBvELW) - 2025-11-20 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1cmCMBvEko) - 2025-11-19 12:00:00
 - [并发请求【渡一教育】](https://www.bilibili.com/BV1cSCMBPEtC) - 2025-11-19 09:00:00
 - [单点登录的模式【渡一教育】](https://www.bilibili.com/BV1cSCMBPEXq) - 2025-11-18 12:00:00
@@ -217,12 +218,12 @@
 - [按钮边框的旋转动画【渡一教育】](https://www.bilibili.com/BV166yhBaEic) - 2025-11-03 12:00:00
 - [模特换装效果【渡一教育】](https://www.bilibili.com/BV166yhBaEEn) - 2025-11-03 09:00:00
 - [文字浮雕效果【渡一教育】](https://www.bilibili.com/BV1j4sBz1EgZ) - 2025-11-01 12:00:00
-- [动态规划代码实现【渡一教育】](https://www.bilibili.com/BV1v4sBz1E2Y) - 2025-11-01 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV19zCEBDEDx) - 2025-11-20 09:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1VrCEBJEwr) - 2025-11-19 11:55:00
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1GrCEBJECS) - 2025-11-19 09:00:00
 - [极简精妙的JS代码片段【渡一教育】](https://www.bilibili.com/BV1VrCEBJEPc) - 2025-11-18 11:55:00
@@ -242,7 +243,6 @@
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1ir1WBrE4N) - 2025-11-10 11:55:00
 - [滚动元素到可视区域【渡一教育】](https://www.bilibili.com/BV1dr1WBrEPo) - 2025-11-10 09:00:00
 - [可以重试的请求【渡一教育】](https://www.bilibili.com/BV1amySBzELC) - 2025-11-08 11:55:00
-- [数据响应式的bug【渡一教育】](https://www.bilibili.com/BV1QmySBzEjh) - 2025-11-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
