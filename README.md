@@ -148,6 +148,7 @@
 
 ### 哔哩哔哩 - 渡一教育-前端进阶课
 
+- [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1sVyFBSEZU) - 2025-11-20 15:12:05
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1vDCsBqEbs) - 2025-11-20 11:55:00
 - [剪切板对象无法获取的问题【渡一教育】](https://www.bilibili.com/BV1VXCsBKEDB) - 2025-11-19 11:55:00
 - [一道高端的面试题【渡一教育】](https://www.bilibili.com/BV15XCsBKE59) - 2025-11-18 11:55:00
@@ -167,12 +168,12 @@
 - [深拷贝的循环引用问题【渡一教育】](https://www.bilibili.com/BV11HySB4Eth) - 2025-11-04 11:55:00
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1bR1YB9ErX) - 2025-11-03 15:04:35
 - [ConsoleImporter插件【渡一教育】](https://www.bilibili.com/BV1NHySBtEfG) - 2025-11-03 11:55:00
-- [DTO和VO【渡一教育】](https://www.bilibili.com/BV1WBs8zKEjw) - 2025-11-01 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_advanced.html)
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1sVyFBSEJy) - 2025-11-20 15:14:22
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1kBCLB9E2s) - 2025-11-20 11:55:00
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1WuyEBNEWi) - 2025-11-19 15:33:18
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1k6CLBWEzf) - 2025-11-19 11:55:00
@@ -192,7 +193,6 @@
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1hr2cBTEcc) - 2025-11-06 15:06:14
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1fQy2BuEG1) - 2025-11-06 11:55:00
 - [node的模块查找策略【渡一教育】](https://www.bilibili.com/BV1c2y2ByEDj) - 2025-11-05 11:55:00
-- [LRU缓存算法【渡一教育】](https://www.bilibili.com/BV1ta1rBkE9G) - 2025-11-04 15:06:07
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
