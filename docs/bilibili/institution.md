@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-20 10:17:56</p>
+<p>更新时间：2025-11-20 14:52:26</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11hCLBbEV2) - 2025-11-20 11:55:00
 - [访问文件夹【渡一教育】](https://www.bilibili.com/BV1NhCLB8EWq) - 2025-11-20 09:00:00
 - [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV1m4CLBwEEB) - 2025-11-19 11:55:00
 - [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1m4CLBwE8B) - 2025-11-19 09:00:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-20 10:17:56</p>
+<p>更新时间：2025-11-20 14:52:26</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1VzCEBDEUX) - 2025-11-20 11:55:00
 - [使用泛型和keyof约束参数【渡一教育】](https://www.bilibili.com/BV19zCEBDEDx) - 2025-11-20 09:00:00
 - [使用冻结对象提升效率【渡一教育】](https://www.bilibili.com/BV1VrCEBJEwr) - 2025-11-19 11:55:00
 - [使用正则前瞻检查密码强度【渡一教育】](https://www.bilibili.com/BV1GrCEBJECS) - 2025-11-19 09:00:00

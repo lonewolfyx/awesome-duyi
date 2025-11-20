@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-20 10:17:56</p>
+<p>更新时间：2025-11-20 14:52:26</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1tnCpBJEZp) - 2025-11-20 11:55:00
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1JjyEB8Evk) - 2025-11-19 16:02:17
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1mnCpBJEqQ) - 2025-11-19 11:55:00
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1Q7ygBoErU) - 2025-11-18 15:36:35
