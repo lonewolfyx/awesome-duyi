@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
 - [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
 - [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
 - [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
@@ -42,7 +43,6 @@
 - [永远不要用inline-block布局](https://www.douyin.com/video/7565011464088587583) - 2025-10-27 23:50:00
 - [mermaid](https://www.douyin.com/video/7564715641798741300) - 2025-10-25 23:50:00
 - [使用defer优化白屏时间](https://www.douyin.com/video/7564336666777865472) - 2025-10-24 23:50:00
-- [Clipboard API](https://www.douyin.com/video/7564016938297380115) - 2025-10-23 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
 - [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
 - [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
@@ -117,7 +118,6 @@
 - [单向数据流](https://www.douyin.com/video/7565011627200810259) - 2025-10-27 15:30:00
 - [图片调色盘](https://www.douyin.com/video/7565088365729598761) - 2025-10-25 17:26:42
 - [你不知道的CSS选择器](https://www.douyin.com/video/7564335898783927592) - 2025-10-24 15:30:00
-- [任务执行的洋葱模型](https://www.douyin.com/video/7564017044652395815) - 2025-10-23 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
