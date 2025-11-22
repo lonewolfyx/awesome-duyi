@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [鼠标进入方向【渡一教育】](https://www.bilibili.com/BV11hCLB8EYQ) - 2025-11-22 09:00:00
 - [鼠标移动的高亮边框效果【渡一教育】](https://www.bilibili.com/BV1NhCLB8EUD) - 2025-11-21 11:55:00
 - [never类型的妙用2【渡一教育】](https://www.bilibili.com/BV11hCLBbETt) - 2025-11-21 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV11hCLBbEV2) - 2025-11-20 11:55:00
@@ -142,7 +143,6 @@
 - [vue方法中属性丢失的问题【渡一教育】](https://www.bilibili.com/BV1JS1nBzEuc) - 2025-11-12 11:55:00
 - [圈复杂度【渡一教育】](https://www.bilibili.com/BV1ES1nBzEDc) - 2025-11-12 09:00:00
 - [如何封装命令式组件【渡一教育】](https://www.bilibili.com/BV1fS1nBBE6Y) - 2025-11-11 11:55:00
-- [TS中的函数重载【渡一教育】](https://www.bilibili.com/BV14Y1nBnEmN) - 2025-11-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [图片裁剪上传原理【渡一教育】](https://www.bilibili.com/BV1JXCMBwEdd) - 2025-11-22 09:00:00
 - [闭包代码的提权漏洞【渡一教育】](https://www.bilibili.com/BV1FXCMBwENR) - 2025-11-21 12:00:00
 - [生成渐变背景小工具【渡一教育】](https://www.bilibili.com/BV1HmCMBvEGD) - 2025-11-21 09:00:00
 - [优化代码分支【渡一教育】](https://www.bilibili.com/BV1wmCMBvE4T) - 2025-11-20 12:00:00
@@ -217,12 +218,12 @@
 - [循环转递归【渡一教育】](https://www.bilibili.com/BV1czyhBPEtj) - 2025-11-05 12:00:00
 - [标签页间通信【渡一教育】](https://www.bilibili.com/BV1nzyhBAEYu) - 2025-11-05 09:00:00
 - [箭头函数的意义【渡一教育】](https://www.bilibili.com/BV166yhBaEr2) - 2025-11-04 12:00:00
-- [css新单位vmin和vmax【渡一教育】](https://www.bilibili.com/BV166yhBaEJQ) - 2025-11-04 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [模块自动导入【渡一教育】](https://www.bilibili.com/BV1VzCEBDEqg) - 2025-11-22 09:00:00
 - [JS中的文档注释【渡一教育】](https://www.bilibili.com/BV1VzCEBDEmx) - 2025-11-21 11:55:00
 - [给fetch添加超时功能【渡一教育】](https://www.bilibili.com/BV1VzCEBDEBx) - 2025-11-21 09:00:00
 - [JS实现函数重载【渡一教育】](https://www.bilibili.com/BV1VzCEBDEUX) - 2025-11-20 11:55:00
@@ -242,7 +243,6 @@
 - [let和var的区别【渡一教育】](https://www.bilibili.com/BV1i61WBGEyz) - 2025-11-12 11:55:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1i61WBGEqC) - 2025-11-12 09:00:00
 - [thenable的执行时机【渡一教育】](https://www.bilibili.com/BV1i61WBGEzT) - 2025-11-11 11:55:00
-- [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1ir1WBrE3R) - 2025-11-11 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
