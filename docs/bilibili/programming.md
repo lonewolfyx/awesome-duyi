@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-22 10:14:19</p>
+<p>更新时间：2025-11-22 14:48:59</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [文字转语音【渡一教育】](https://www.bilibili.com/BV1kBCLBREZC) - 2025-11-22 11:55:00
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1QEU5BjEyZ) - 2025-11-21 15:11:26
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1CBCLB9EuR) - 2025-11-21 11:55:00
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1sVyFBSEJy) - 2025-11-20 15:14:22
