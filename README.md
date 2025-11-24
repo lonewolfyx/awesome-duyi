@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1tFyEB3Erm) - 2025-11-24 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1kBCLBREZC) - 2025-11-22 11:55:00
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1QEU5BjEyZ) - 2025-11-21 15:11:26
@@ -192,7 +193,6 @@
 - [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV13qk6BBEWi) - 2025-11-11 15:09:10
 - [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1sk1nB5Ewk) - 2025-11-11 11:55:00
 - [图片边框【渡一教育】](https://www.bilibili.com/BV1Ak1nB5EQ4) - 2025-11-10 11:55:00
-- [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1fQy2BuE87) - 2025-11-08 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
