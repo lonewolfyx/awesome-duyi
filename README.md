@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1tFyEB3E6D) - 2025-11-25 11:55:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1tFyEB3Erm) - 2025-11-24 11:55:00
@@ -192,7 +193,6 @@
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1Pk1nB5EvM) - 2025-11-13 11:55:00
 - [任务执行的洋葱模型【渡一教育】](https://www.bilibili.com/BV1Pk1nB5Eh1) - 2025-11-12 11:55:00
 - [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV13qk6BBEWi) - 2025-11-11 15:09:10
-- [状态仓库持久化【渡一教育】](https://www.bilibili.com/BV1sk1nB5Ewk) - 2025-11-11 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
