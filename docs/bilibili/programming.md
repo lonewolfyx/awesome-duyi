@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-25 10:21:41</p>
+<p>更新时间：2025-11-25 14:55:36</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1tFyEB3E6D) - 2025-11-25 11:55:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1tFyEB3Erm) - 2025-11-24 11:55:00
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1kBCLBREZC) - 2025-11-22 11:55:00
