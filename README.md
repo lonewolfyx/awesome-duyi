@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [参数归一化](https://www.douyin.com/video/7574014960011955497) - 2025-11-19 23:50:00
 - [下载的流式传输](https://www.douyin.com/video/7573687647449648424) - 2025-11-18 23:50:00
 - [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
 - [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
@@ -42,7 +43,6 @@
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
 - [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
-- [永远不要用inline-block布局](https://www.douyin.com/video/7565011464088587583) - 2025-10-27 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
 - [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
 - [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
@@ -117,7 +118,6 @@
 - [判断奇偶数](https://www.douyin.com/video/7566561014989229355) - 2025-10-30 15:30:00
 - [拖拽上传](https://www.douyin.com/video/7566248165578493224) - 2025-10-29 15:30:00
 - [优化动态规划的空间复杂度](https://www.douyin.com/video/7565823696728886547) - 2025-10-28 15:30:00
-- [单向数据流](https://www.douyin.com/video/7565011627200810259) - 2025-10-27 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
