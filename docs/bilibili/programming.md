@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-26 10:22:15</p>
+<p>更新时间：2025-11-26 14:54:18</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1bZy7BkEEE) - 2025-11-26 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1tFyEB3E6D) - 2025-11-25 11:55:00
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
