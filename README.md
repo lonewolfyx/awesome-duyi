@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [文字视差背景【渡一教育】](https://www.bilibili.com/BV1MByEBLEmE) - 2025-11-26 09:00:00
 - [视差滚动【渡一教育】](https://www.bilibili.com/BV1MzyEB1EEd) - 2025-11-25 11:55:00
 - [实现拼音标注【渡一教育】](https://www.bilibili.com/BV1TzyEByEU9) - 2025-11-25 09:00:00
 - [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1tzyEByE91) - 2025-11-24 11:55:00
@@ -142,7 +143,6 @@
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
 - [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV1FU1nBgEMN) - 2025-11-15 09:00:00
 - [值和引用的终极面试题【渡一教育】](https://www.bilibili.com/BV1FU1nBgENW) - 2025-11-14 11:55:00
-- [手写Promise-微队列和PromiseLike【渡一教育】](https://www.bilibili.com/BV16U1nBgEAC) - 2025-11-14 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [拖拽排序【渡一教育】](https://www.bilibili.com/BV1mRywBbEGM) - 2025-11-26 09:00:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1KRywB8EQv) - 2025-11-25 12:00:00
 - [唤起本地应用【渡一教育】](https://www.bilibili.com/BV1kPyABpEdB) - 2025-11-25 09:00:00
 - [call和apply的链式调用【渡一教育】](https://www.bilibili.com/BV1SDywBwEnV) - 2025-11-24 12:00:00
@@ -217,12 +218,12 @@
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1FkyhBwE5P) - 2025-11-08 12:00:00
 - [对等依赖报错问题【渡一教育】](https://www.bilibili.com/BV1JkyhBcEP7) - 2025-11-08 09:00:00
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1ECyhB8Ece) - 2025-11-07 12:00:00
-- [文字视差背景【渡一教育】](https://www.bilibili.com/BV1fCyhB8EYd) - 2025-11-07 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1HZynBgE5N) - 2025-11-26 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1cZynBgE4K) - 2025-11-25 11:55:00
 - [CSS变量的妙用【渡一教育】](https://www.bilibili.com/BV1rVyEBaEN8) - 2025-11-25 09:00:00
 - [双向绑定造成的效率问题【渡一教育】](https://www.bilibili.com/BV1nVyEBaEcf) - 2025-11-24 11:55:00
@@ -242,7 +243,6 @@
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1ey1WBzE13) - 2025-11-15 11:55:00
 - [无缝轮播【渡一教育】](https://www.bilibili.com/BV19y1WBzEqu) - 2025-11-15 09:00:00
 - [vanilla.js【渡一教育】](https://www.bilibili.com/BV1ey1WBzEcw) - 2025-11-14 11:55:00
-- [基于CSS变量的主题切换【渡一教育】](https://www.bilibili.com/BV15y1WB6EoX) - 2025-11-14 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
