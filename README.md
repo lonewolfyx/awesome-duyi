@@ -23,6 +23,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [最长递增子序列](https://www.douyin.com/video/7574417260534648106) - 2025-11-20 23:50:00
 - [参数归一化](https://www.douyin.com/video/7574014960011955497) - 2025-11-19 23:50:00
 - [下载的流式传输](https://www.douyin.com/video/7573687647449648424) - 2025-11-18 23:50:00
 - [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
@@ -42,7 +43,6 @@
 - [使用正则前瞻检查密码强度](https://www.douyin.com/video/7566944148801047860) - 2025-10-31 23:50:00
 - [剪切板对象无法获取的问题](https://www.douyin.com/video/7566561466279562515) - 2025-10-30 23:50:00
 - [一道高端的面试题](https://www.douyin.com/video/7566247977073839400) - 2025-10-29 23:50:00
-- [interact.js](https://www.douyin.com/video/7565824409240374571) - 2025-10-28 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -98,6 +98,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [钉钉官网的滚动动画](https://www.douyin.com/video/7574417235104566547) - 2025-11-20 15:30:00
 - [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
 - [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
@@ -117,7 +118,6 @@
 - [脚本加载失败如何重试](https://www.douyin.com/video/7566944201623997711) - 2025-10-31 15:30:00
 - [判断奇偶数](https://www.douyin.com/video/7566561014989229355) - 2025-10-30 15:30:00
 - [拖拽上传](https://www.douyin.com/video/7566248165578493224) - 2025-10-29 15:30:00
-- [优化动态规划的空间复杂度](https://www.douyin.com/video/7565823696728886547) - 2025-10-28 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
