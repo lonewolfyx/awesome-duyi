@@ -173,6 +173,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1hgUhBoEKa) - 2025-11-26 15:08:28
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1bZy7BkEEE) - 2025-11-26 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1tFyEB3E6D) - 2025-11-25 11:55:00
@@ -192,7 +193,6 @@
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1sk1nB5EFF) - 2025-11-14 11:55:00
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1pBC4BWEJB) - 2025-11-13 15:07:58
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1Pk1nB5EvM) - 2025-11-13 11:55:00
-- [任务执行的洋葱模型【渡一教育】](https://www.bilibili.com/BV1Pk1nB5Eh1) - 2025-11-12 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
