@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-27 10:19:00</p>
+<p>更新时间：2025-11-27 14:55:02</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1bZy7BkE5T) - 2025-11-27 11:55:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1hgUhBoEKa) - 2025-11-26 15:08:28
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1bZy7BkEEE) - 2025-11-26 11:55:00
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14

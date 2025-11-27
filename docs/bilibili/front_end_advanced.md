@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-27 10:19:00</p>
+<p>更新时间：2025-11-27 14:55:02</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [Proxy和DefineProperty【渡一教育】](https://www.bilibili.com/BV1NQynB5E7r) - 2025-11-27 11:55:00
 - [内存泄漏和闭包【渡一教育】](https://www.bilibili.com/BV1cfynBzEZG) - 2025-11-26 11:55:00
 - [五子棋的胜负判定逻辑【渡一教育】](https://www.bilibili.com/BV1cfynBzEXh) - 2025-11-25 11:55:00
 - [从视频文件提取画面帧【渡一教育】](https://www.bilibili.com/BV1cfynBzEaL) - 2025-11-24 11:55:00
