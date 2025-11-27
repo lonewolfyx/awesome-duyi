@@ -123,6 +123,7 @@
 
 ### 哔哩哔哩 - 渡一机构
 
+- [文字智能适配背景【渡一教育】](https://www.bilibili.com/BV1bByEBLE3H) - 2025-11-27 09:00:00
 - [蜂巢布局【渡一教育】](https://www.bilibili.com/BV1uByEBLENN) - 2025-11-26 11:55:00
 - [文字视差背景【渡一教育】](https://www.bilibili.com/BV1MByEBLEmE) - 2025-11-26 09:00:00
 - [视差滚动【渡一教育】](https://www.bilibili.com/BV1MzyEB1EEd) - 2025-11-25 11:55:00
@@ -142,7 +143,6 @@
 - [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV1kvCLBdECq) - 2025-11-17 11:55:00
 - [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1CvCLBdETH) - 2025-11-17 09:00:00
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV1FU1nBgEGQ) - 2025-11-15 11:55:00
-- [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV1FU1nBgEMN) - 2025-11-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/institution.html)
 
@@ -198,6 +198,7 @@
 
 ### 哔哩哔哩 - 渡一前端提薪空间m
 
+- [渐进式图片【渡一教育】](https://www.bilibili.com/BV1T9ywBcEvR) - 2025-11-27 09:00:00
 - [NProgress插件【渡一教育】](https://www.bilibili.com/BV1TRywB8E8t) - 2025-11-26 12:00:00
 - [拖拽排序【渡一教育】](https://www.bilibili.com/BV1mRywBbEGM) - 2025-11-26 09:00:00
 - [统一vite中的图片转换逻辑【渡一教育】](https://www.bilibili.com/BV1KRywB8EQv) - 2025-11-25 12:00:00
@@ -217,12 +218,12 @@
 - [大文件分片【渡一教育】](https://www.bilibili.com/BV1FSCMBPE9C) - 2025-11-17 12:00:00
 - [可缓存的方法【渡一教育】](https://www.bilibili.com/BV1uaCMB1Eh6) - 2025-11-17 09:00:00
 - [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1FkyhBwE5P) - 2025-11-08 12:00:00
-- [对等依赖报错问题【渡一教育】](https://www.bilibili.com/BV1JkyhBcEP7) - 2025-11-08 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/salary_increase_course.html)
 
 ### 哔哩哔哩 - 渡一教育-Web前端开发
 
+- [TS中的函数重载【渡一教育】](https://www.bilibili.com/BV1cZynBgEeR) - 2025-11-27 09:00:00
 - [AJAX进度监控【渡一教育】](https://www.bilibili.com/BV1HZynBgEGJ) - 2025-11-26 11:55:00
 - [目录结构到对象结构【渡一教育】](https://www.bilibili.com/BV1HZynBgE5N) - 2025-11-26 09:00:00
 - [vscode的正则插件【渡一教育】](https://www.bilibili.com/BV1cZynBgE4K) - 2025-11-25 11:55:00
@@ -242,7 +243,6 @@
 - [妙用CSS变量【渡一教育】](https://www.bilibili.com/BV1GrCEBJE24) - 2025-11-17 11:55:00
 - [纯CSS实现瀑布流布局【渡一教育】](https://www.bilibili.com/BV1YrCEBJEJP) - 2025-11-17 09:00:00
 - [弹性盒的异形布局【渡一教育】](https://www.bilibili.com/BV1ey1WBzE13) - 2025-11-15 11:55:00
-- [无缝轮播【渡一教育】](https://www.bilibili.com/BV19y1WBzEqu) - 2025-11-15 09:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_dev.html)
 
