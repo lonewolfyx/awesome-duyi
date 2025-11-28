@@ -2,12 +2,18 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-27 14:55:02</p>
+<p>更新时间：2025-11-28 11:14:26</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [copy的监听和解禁](https://www.douyin.com/video/7576950585681923382) - 2025-11-27 15:30:00
+- [黏性定位](https://www.douyin.com/video/7576633656769301811) - 2025-11-26 15:30:00
+- [initial、unset、revert](https://www.douyin.com/video/7576215142829018404) - 2025-11-25 15:30:00
+- [用canvas玩转图片](https://www.douyin.com/video/7575475355868351807) - 2025-11-24 15:30:00
+- [Cookie中的SameSite](https://www.douyin.com/video/7575475971797667078) - 2025-11-22 17:15:54
+- [实现防篡改的水印](https://www.douyin.com/video/7574728224660360454) - 2025-11-21 15:30:00
 - [钉钉官网的滚动动画](https://www.douyin.com/video/7574417235104566547) - 2025-11-20 15:30:00
 - [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
@@ -52,7 +58,6 @@
 - [Promise面试题](https://www.douyin.com/video/7555428501763935488) - 2025-10-03 15:30:00
 - [实现私有字段](https://www.douyin.com/video/7555428078525173032) - 2025-10-02 15:30:00
 - [阿里云的文件上传](https://www.douyin.com/video/7555427186593778978) - 2025-10-01 15:30:00
-- [判断稀疏数组](https://www.douyin.com/video/7555426720167955747) - 2025-09-30 15:30:00
 - [统一vite中的图片转换逻辑](https://www.douyin.com/video/7555422586646269210) - 2025-09-29 16:18:29
 - [最近距离排序](https://www.douyin.com/video/7554692035094072603) - 2025-09-27 17:03:34
 - [动态执行JS](https://www.douyin.com/video/7554322444165582118) - 2025-09-26 17:09:20
@@ -60,18 +65,15 @@
 - [srcset和sizes](https://www.douyin.com/video/7553260616409025807) - 2025-09-24 15:30:00
 - [手动解析DOM树](https://www.douyin.com/video/7552832338447633707) - 2025-09-23 15:30:00
 - [组件级权限控制的最佳实践](https://www.douyin.com/video/7552086653322530082) - 2025-09-22 15:30:00
-- [实例成员和静态成员](https://www.douyin.com/video/7551725506085883187) - 2025-09-20 15:30:00
 - [token无感刷新](https://www.douyin.com/video/7551345893480451366) - 2025-09-19 15:30:00
 - [获取参数和返回值类型](https://www.douyin.com/video/7551028168291831079) - 2025-09-18 15:30:00
 - [无后效性](https://www.douyin.com/video/7550595684219587866) - 2025-09-17 15:30:00
-- [数组的forEach方法](https://www.douyin.com/video/7550299247854325031) - 2025-09-16 15:30:00
 - [图片裁剪上传原理](https://www.douyin.com/video/7549128431649279241) - 2025-09-15 15:30:00
 - [TS中字符串索引带来的类型问题](https://www.douyin.com/video/7549127683532246299) - 2025-09-13 15:30:00
 - [为什么组件库要加前缀](https://www.douyin.com/video/7548808935927549193) - 2025-09-12 15:30:00
 - [组件循环依赖问题](https://www.douyin.com/video/7548373499547553034) - 2025-09-11 15:30:00
 - [让文字适应纹理](https://www.douyin.com/video/7548067399396887854) - 2025-09-10 15:30:00
 - [解决组件库类型丢失的问题](https://www.douyin.com/video/7547639879920799012) - 2025-09-09 15:30:00
-- [3D Hover Effect](https://www.douyin.com/video/7546916276862504211) - 2025-09-08 15:30:00
 - [数组新增的纯函数API](https://www.douyin.com/video/7546529849981078827) - 2025-09-06 15:30:00
 - [base和publicPath](https://www.douyin.com/video/7546154307050048811) - 2025-09-05 15:30:00
 - [CSS原子化](https://www.douyin.com/video/7545839388467432742) - 2025-09-04 15:30:00
@@ -103,18 +105,11 @@
 - [动态表单的实现](https://www.douyin.com/video/7533541672282606890) - 2025-08-04 15:30:00
 - [SASS中的颜色函数](https://www.douyin.com/video/7533538860559519012) - 2025-08-02 15:30:00
 - [实现元素平滑上升](https://www.douyin.com/video/7533216693393411367) - 2025-08-01 15:30:00
-- [01背包问题](https://www.douyin.com/video/7532056636219821348) - 2025-07-29 15:30:00
 - [封装全屏功能](https://www.douyin.com/video/7530948448191909183) - 2025-07-26 15:30:00
 - [精妙的算法题](https://www.douyin.com/video/7530619103057415459) - 2025-07-25 15:30:00
-- [参数归一化](https://www.douyin.com/video/7530255759016348964) - 2025-07-24 15:30:00
 - [cspell](https://www.douyin.com/video/7529831019483057450) - 2025-07-23 15:30:00
-- [故障波纹动效](https://www.douyin.com/video/7528759801354915115) - 2025-07-21 15:30:00
 - [页面图标Badge如何实现](https://www.douyin.com/video/7528384472023108883) - 2025-07-19 15:30:00
 - [盛水最大的容器](https://www.douyin.com/video/7527923942351211818) - 2025-07-18 11:50:00
-- [大O表示法](https://www.douyin.com/video/7527648785279831296) - 2025-07-17 11:50:00
-- [最长递增子序列](https://www.douyin.com/video/7527238078243654975) - 2025-07-16 11:50:00
-- [Proxy和DefineProperty](https://www.douyin.com/video/7526914254352469282) - 2025-07-15 11:50:00
-- [mac docker效果](https://www.douyin.com/video/7526164035604368667) - 2025-07-14 11:50:00
 - [GSAP已全部免费](https://www.douyin.com/video/7525793452848631091) - 2025-07-12 11:50:00
 - [这是在考原型吗](https://www.douyin.com/video/7522404750176898330) - 2025-07-03 11:50:00
 - [React代码执行分析工具](https://www.douyin.com/video/7517947152140684598) - 2025-06-21 11:50:00
@@ -136,36 +131,21 @@
 - [在canvas中绘制和拖动](https://www.douyin.com/video/7509839847650020620) - 2025-05-30 11:50:00
 - [你不知道的数字字面量](https://www.douyin.com/video/7509415838022126884) - 2025-05-29 11:50:00
 - [页面可见度API](https://www.douyin.com/video/7509114867140267279) - 2025-05-28 11:50:00
-- [SASS中的模块化开发](https://www.douyin.com/video/7508675112980188467) - 2025-05-27 11:50:00
 - [rAF和rIC的先后问题](https://www.douyin.com/video/7506453027033812263) - 2025-05-21 11:50:00
 - [最小栈问题](https://www.douyin.com/video/7504966341149969727) - 2025-05-17 11:50:00
 - [将函数打印成原始类型?](https://www.douyin.com/video/7503859430216289548) - 2025-05-14 11:50:00
 - [代码片段工具](https://www.douyin.com/video/7502465135173307686) - 2025-05-10 11:50:00
-- [判断数组的准确方法](https://www.douyin.com/video/7501699994508987657) - 2025-05-08 11:50:00
-- [下载的流式传输](https://www.douyin.com/video/7501252277194231066) - 2025-05-07 11:50:00
-- [五子棋的胜负判定逻辑](https://www.douyin.com/video/7498986431285644555) - 2025-05-06 11:50:00
-- [内存泄漏和闭包](https://www.douyin.com/video/7497916097694289206) - 2025-04-28 11:50:00
 - [withResolvers语法糖](https://www.douyin.com/video/7497217817893195048) - 2025-04-26 11:50:00
 - [封装resize指令](https://www.douyin.com/video/7496516389537090851) - 2025-04-24 11:50:00
-- [CSS实现奥林匹克五环](https://www.douyin.com/video/7494577053388360997) - 2025-04-19 11:50:00
-- [从视频文件提取画面帧](https://www.douyin.com/video/7493876271668153651) - 2025-04-17 11:50:00
-- [小数运算不精确的根源](https://www.douyin.com/video/7492393499627703563) - 2025-04-14 11:50:00
-- [前置的不定量参数](https://www.douyin.com/video/7491320117532380454) - 2025-04-10 11:50:00
 - [你不知道的阴影](https://www.douyin.com/video/7490925662916660490) - 2025-04-09 11:50:00
 - [30万年薪需要具备那些前端技术？](https://www.douyin.com/video/7490379793691725065) - 2025-04-07 11:50:01
 - [SVG的描边动画](https://www.douyin.com/video/7489295596671618354) - 2025-04-05 11:50:00
 - [前端各种风骚操作](https://www.douyin.com/video/7489010673817521417) - 2025-04-04 11:50:00
-- [手写Promise.all](https://www.douyin.com/video/7488271063785278758) - 2025-04-02 11:50:00
 - [FLIP动画](https://www.douyin.com/video/7486085711561624859) - 2025-03-27 11:50:00
 - [打印三角形的面试题](https://www.douyin.com/video/7485360295511067954) - 2025-03-25 11:50:00
 - [JSLabel语法](https://www.douyin.com/video/7483875247620443442) - 2025-03-21 11:50:00
 - [跟随系统的主题切换](https://www.douyin.com/video/7483073742051003667) - 2025-03-19 11:50:00
 - [高阶函数应用-函数防抖](https://www.douyin.com/video/7482761318278139136) - 2025-03-18 11:50:00
-- [惰性函数](https://www.douyin.com/video/7481283496581909760) - 2025-03-14 11:50:00
-- [浏览器的自动播放策略](https://www.douyin.com/video/7480844633828871443) - 2025-03-13 11:50:00
-- [SASS中的数学函数](https://www.douyin.com/video/7480518504488258851) - 2025-03-12 11:50:00
-- [flex+margin](https://www.douyin.com/video/7480109631877041408) - 2025-03-11 11:50:00
-- [封装动画函数](https://www.douyin.com/video/7479366034948951348) - 2025-03-10 11:50:00
 - [文件上传的技术纲要](https://www.douyin.com/video/7479053219000339764) - 2025-03-08 11:50:00
 - [Headless CMS](https://www.douyin.com/video/7478622252984978724) - 2025-03-07 11:50:00
 - [粒子时钟](https://www.douyin.com/video/7478336459188063540) - 2025-03-06 11:50:00
@@ -174,26 +154,11 @@
 - [音频可视化](https://www.douyin.com/video/7476394988285283634) - 2025-03-03 11:50:00
 - [请求的乱序问题](https://www.douyin.com/video/7474966486109392168) - 2025-02-25 11:50:00
 - [vscode绘图插件](https://www.douyin.com/video/7469774119056231689) - 2025-02-11 11:50:00
-- [非严格相等](https://www.douyin.com/video/7463406799446756662) - 2025-02-03 11:50:00
 - [复合属性造成的样式问题](https://www.douyin.com/video/7459754115254504715) - 2025-01-15 11:50:00
 - [Application选项卡](https://www.douyin.com/video/7457912528857730358) - 2025-01-10 11:50:00
-- [Console调试面板](https://www.douyin.com/video/7454938799676640553) - 2025-01-02 11:50:00
-- [B站智能弹幕效果实现原理](https://www.douyin.com/video/7454504219769326874) - 2025-01-01 11:50:00
-- [重复渐变的边框](https://www.douyin.com/video/7454195372273995034) - 2024-12-31 11:50:00
-- [块级函数](https://www.douyin.com/video/7449362528108416306) - 2024-12-18 11:50:00
-- [多重变形的顺序问题](https://www.douyin.com/video/7449001125409246464) - 2024-12-17 11:50:00
-- [色彩空间](https://www.douyin.com/video/7447881651943722279) - 2024-12-16 11:50:00
-- [使用二进制散列值](https://www.douyin.com/video/7446767679077207330) - 2024-12-11 11:50:00
-- [立体文字特效](https://www.douyin.com/video/7446385244871085322) - 2024-12-10 11:50:00
-- [隐式转换和布尔判定](https://www.douyin.com/video/7442621187718384896) - 2024-12-02 11:50:00
-- [图片九宫格](https://www.douyin.com/video/7442323092313017609) - 2024-11-29 11:50:00
-- [函数签名](https://www.douyin.com/video/7441576730457935154) - 2024-11-27 11:50:00
-- [文字描边](https://www.douyin.com/video/7437491602748083496) - 2024-11-16 11:50:00
 - [手写call](https://www.douyin.com/video/7431178812035042600) - 2024-10-30 11:50:00
 - [函数防抖](https://www.douyin.com/video/7428537687461743910) - 2024-10-23 11:50:00
-- [Web Animation API](https://www.douyin.com/video/7411453465056021800) - 2024-09-07 11:50:00
 - [真随机和伪随机](https://www.douyin.com/video/7366911138828733708) - 2024-05-10 11:50:00
-- [钉钉官网的滚动动画](https://www.douyin.com/video/7356906044083244340) - 2024-04-13 11:50:00
 - [龙腾渡一 新春大吉。](https://www.douyin.com/video/7332367905813761315) - 2024-02-09 11:50:00
 - [模拟微队列](https://www.douyin.com/video/7304210000556133684) - 2023-11-23 11:50:00
 - [元素的绘制顺序](https://www.douyin.com/video/7293866184812891429) - 2023-10-26 11:50:00

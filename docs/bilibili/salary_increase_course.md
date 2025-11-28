@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-27 14:55:02</p>
+<p>更新时间：2025-11-28 11:14:26</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [Promise.try【渡一教育】](https://www.bilibili.com/BV1m9ywBFEWW) - 2025-11-28 09:00:00
 - [制作简易地图【渡一教育】](https://www.bilibili.com/BV1T9ywBcE4B) - 2025-11-27 12:00:00
 - [渐进式图片【渡一教育】](https://www.bilibili.com/BV1T9ywBcEvR) - 2025-11-27 09:00:00
 - [NProgress插件【渡一教育】](https://www.bilibili.com/BV1TRywB8E8t) - 2025-11-26 12:00:00
@@ -19,7 +20,7 @@
 - [让文字立起来【渡一教育】](https://www.bilibili.com/BV1fXCMBcEYi) - 2025-11-22 12:00:00
 - [图片裁剪上传原理【渡一教育】](https://www.bilibili.com/BV1JXCMBwEdd) - 2025-11-22 09:00:00
 - [闭包代码的提权漏洞【渡一教育】](https://www.bilibili.com/BV1FXCMBwENR) - 2025-11-21 12:00:00
-- [生成渐变背景小工具【渡一教育】](https://www.bilibili.com/BV1HmCMBvEGD) - 2025-11-21 09:00:00
+- [生成渐变背景小工具【渡一教育】](https://www.bilibili.com/BV1DzyuBXEM3) - 2025-11-21 10:28:10
 - [优化代码分支【渡一教育】](https://www.bilibili.com/BV1wmCMBvE4T) - 2025-11-20 12:00:00
 - [阿里云的文件上传【渡一教育】](https://www.bilibili.com/BV1wmCMBvELW) - 2025-11-20 09:00:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV1cmCMBvEko) - 2025-11-19 12:00:00

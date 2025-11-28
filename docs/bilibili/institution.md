@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-27 14:55:02</p>
+<p>更新时间：2025-11-28 11:14:26</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [宽度适应内容【渡一教育】](https://www.bilibili.com/BV1MByEBLERs) - 2025-11-28 09:00:00
 - [漩涡型二维数组【渡一教育】](https://www.bilibili.com/BV1MByEBLE6d) - 2025-11-27 11:55:00
 - [文字智能适配背景【渡一教育】](https://www.bilibili.com/BV1bByEBLE3H) - 2025-11-27 09:00:00
 - [蜂巢布局【渡一教育】](https://www.bilibili.com/BV1uByEBLENN) - 2025-11-26 11:55:00
