@@ -1,4 +1,4 @@
-export const getMsToken = () => {
+export function getMsToken() {
     const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
     let result = ''
     const charactersLength = characters.length

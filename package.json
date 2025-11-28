@@ -1,14 +1,20 @@
 {
     "name": "duyi",
-    "author": "lonewolfyx <OldDriver>",
+    "type": "module",
     "version": "0.0.3",
     "description": "",
-    "type": "module",
+    "author": "lonewolfyx <OldDriver>",
+    "license": "MIT",
+    "keywords": [
+        "awesome-duyi",
+        "duyi video",
+        "duyi"
+    ],
     "scripts": {
         "dev:pw:duyi": "tsx src/duyi.ts",
         "generate:README": "tsx src/generate/readme.ts",
         "docs:generate": "tsx src/generate/docs.ts",
-        "format": "prettier --write ./",
+        "format": "eslint --fix",
         "douyin:duyi": "tsx src/schedule/douyin.ts",
         "bilibili:duyi": "tsx src/schedule/bilibili.ts",
         "dev": "tsx src/douyin/index.ts",
@@ -18,13 +24,10 @@
         "docs:build": "vitepress build docs",
         "docs:preview": "vitepress preview docs",
         "correct:data": "tsx src/correct.ts",
+        "lint": "eslint",
+        "lint:fix": "eslint --fix",
         "gen:douyin:cookies": "npx playwright codegen https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT --save-storage=storageState.json"
     },
-    "keywords": [
-        "awesome-duyi",
-        "duyi video",
-        "duyi"
-    ],
     "dependencies": {
         "@lonewolfyx/utils": "^0.0.0",
         "axios": "^1.8.4",
@@ -33,10 +36,13 @@
         "playwright": "^1.51.1"
     },
     "devDependencies": {
+        "@antfu/eslint-config": "^6.2.0",
         "@lonewolfyx/tsconfig": "^0.0.5",
         "@types/fs-extra": "^11.0.4",
         "@types/node": "^22.14.0",
         "autoprefixer": "^10.4.21",
+        "eslint": "^9.39.1",
+        "eslint-plugin-yaml": "^1.1.3",
         "lint-staged": "^16.1.5",
         "postcss": "^8.5.3",
         "prettier": "^3.5.3",
@@ -46,7 +52,7 @@
         "tailwindcss": "^3.4.17",
         "tsx": "^4.19.3",
         "typescript": "^5.8.3",
-        "vitepress": "^1.6.3"
-    },
-    "license": "MIT"
+        "vitepress": "^1.6.3",
+        "yaml-eslint-parser": "^1.3.1"
+    }
 }

@@ -65,18 +65,18 @@ const mixinKeyEncTab: number[] = [
     20,
     34,
     44,
-    52
+    52,
 ]
 
-export const getImgFormatConfig = async (): Promise<{ imgKey: string; subKey: string }> => {
+export async function getImgFormatConfig(): Promise<{ imgKey: string, subKey: string }> {
     const result = await axios.get('https://api.bilibili.com/x/web-interface/nav', {
         headers: {
-            origin: 'https://space.bilibili.com',
-            referer: 'https://space.bilibili.com/3546866377558183/video',
+            'origin': 'https://space.bilibili.com',
+            'referer': 'https://space.bilibili.com/3546866377558183/video',
             'User-Agent':
                 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
-            Cookie: '__at_once=17312931139607680978;'
-        }
+            'Cookie': '__at_once=17312931139607680978;',
+        },
     })
 
     const { img_url, sub_url } = result.data?.data?.wbi_img
@@ -85,23 +85,24 @@ export const getImgFormatConfig = async (): Promise<{ imgKey: string; subKey: st
 
     return {
         imgKey: getKeyFromURL(img_url) || '',
-        subKey: getKeyFromURL(sub_url) || ''
+        subKey: getKeyFromURL(sub_url) || '',
     }
 }
-export const getPictureHashKey = (orig: string): string =>
-    mixinKeyEncTab
-        .map((n) => orig[n])
+export function getPictureHashKey(orig: string): string {
+    return mixinKeyEncTab
+        .map(n => orig[n])
         .join('')
         .slice(0, 32)
+}
 
-export const getBiliBiliRequestRid = async (params: Record<string, unknown>): Promise<string> => {
+export async function getBiliBiliRequestRid(params: Record<string, unknown>): Promise<string> {
     const wbiKeys = await getImgFormatConfig()
     const combinedKey = wbiKeys.imgKey + wbiKeys.subKey
     const hashKey = getPictureHashKey(combinedKey)
 
     // 处理并排序参数
     const sortedKeys = Object.keys(params).sort()
-    const specialCharRegex = /[!'\(\)*]/g
+    const specialCharRegex = /[!'()*]/g
 
     const encodedParams = sortedKeys
         .map((key) => {
@@ -113,7 +114,8 @@ export const getBiliBiliRequestRid = async (params: Record<string, unknown>): Pr
             }
 
             // 过滤无效值
-            if (value === null || value === undefined) return null
+            if (value === null || value === undefined)
+                return null
 
             // 编码键值对
             return `${encodeURIComponent(key)}=${encodeURIComponent(String(value))}`

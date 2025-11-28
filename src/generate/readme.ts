@@ -1,23 +1,23 @@
-import { cwd } from 'node:process'
-import { resolve } from 'node:path'
-import fs from 'node:fs'
-import { write } from '@/util.ts'
-import { biliBiliUser, douYinUser } from '@/user.ts'
 import type { BiliBiliChannel, DouYinChannel } from '#/types.ts'
+import fs from 'node:fs'
+import { resolve } from 'node:path'
+import { cwd } from 'node:process'
 import { platformType } from '@/constant.ts'
+import { biliBiliUser, douYinUser } from '@/user.ts'
+import { write } from '@/util.ts'
 
 const readmePath = resolve(cwd(), `./README.md`)
-const writeContent = (content: string) => {
+function writeContent(content: string) {
     write(readmePath, content)
 }
 
-const writeAccount = <T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: string) => {
+function writeAccount<T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: string) {
     account.forEach((item: T) => {
         writeContent(`- [${platform} - ${item.name}](${item.url})\n`)
     })
 }
 
-const writeVideos = <T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: keyof typeof platformType) => {
+function writeVideos<T extends DouYinChannel | BiliBiliChannel>(account: T[], platform: keyof typeof platformType) {
     account.forEach((item: T) => {
         writeContent(`### ${platformType[platform]} - ${item.name}\n`)
         writeContent(`\n`)
@@ -40,10 +40,10 @@ const content = [
     '## 📋 简介',
     '',
     '此集合目前涵盖以下账户内容：',
-    ''
+    '',
 ]
 
-const main = () => {
+function main() {
     // 初始化内容
     write(readmePath, '', true)
 

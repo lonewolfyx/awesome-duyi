@@ -1,23 +1,23 @@
 import type { BiliBiliChannel } from '#/types.ts'
-import axios from 'axios'
-import { getBiliBiliCookies } from '@/bilibili/cookie.ts'
-import { getBiliBiliRequestRid } from '@/bilibili/rid.ts'
 import fs from 'node:fs'
-import dayjs from 'dayjs'
 import { resolve } from 'node:path'
 import { cwd } from 'node:process'
+import axios from 'axios'
+import dayjs from 'dayjs'
+import { getBiliBiliCookies } from '@/bilibili/cookie.ts'
+import { getBiliBiliRequestRid } from '@/bilibili/rid.ts'
 
-export const getBiliBili = async (channel: BiliBiliChannel) => {
+export async function getBiliBili(channel: BiliBiliChannel) {
     const headers = {
         'User-Agent':
             'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
-        accept: '*/*',
+        'accept': '*/*',
         'accept-encoding': 'gzip, deflate, br, zstd',
-        origin: 'https://space.bilibili.com',
+        'origin': 'https://space.bilibili.com',
         'sec-fetch-site': 'same-site',
         'sec-fetch-mode': 'cors',
         'sec-fetch-dest': 'empty',
-        referer: `https://space.bilibili.com/${channel.mid}/video`
+        'referer': `https://space.bilibili.com/${channel.mid}/video`,
     }
 
     const cookies = await getBiliBiliCookies()
@@ -40,7 +40,7 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
             'QU5HTEUgKE5WSURJQSwgTlZJRElBIEdlRm9yY2UgR1RYIDE2NTAgKDB4MDAwMDFGOTEpIERpcmVjdDNEMTEgdnNfNV8wIHBzXzVfMCwgRDNEMTEpR29vZ2xlIEluYy4gKE5WSURJQS',
         dm_img_inter: '{"ds":[],"wh":[0,0,0],"of":[0,0,0]}',
         // w_webid: webId,
-        wts: now.toString()
+        wts: now.toString(),
     }
 
     const w_rid = await getBiliBiliRequestRid(queryParams)
@@ -48,17 +48,17 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
     const res = await axios.get('https://api.bilibili.com/x/space/wbi/arc/search', {
         headers: {
             ...headers,
-            cookie: `buvid3=${cookies.b_3};buvid4=${cookies.b_4}`
+            cookie: `buvid3=${cookies.b_3};buvid4=${cookies.b_4}`,
         },
         params: {
             ...queryParams,
-            w_rid
-        }
+            w_rid,
+        },
     })
 
     const videoList = res?.data?.data?.list?.vlist
     // videoList.map((row: any) => {
-    // 	console.log(row.title)
+    //     console.log(row.title)
     // })
     //     const vList = JSON.parse(text)['data']['list']['vlist']
 
@@ -74,13 +74,14 @@ export const getBiliBili = async (channel: BiliBiliChannel) => {
             title: row.title,
             url: `https://www.bilibili.com/${row.bvid}`,
             time: dayjs.unix(row.created).format('YYYY-MM-DD HH:mm:ss'),
-            cover: row.pic
+            cover: row.pic,
         })
         fs.writeFileSync(filePath, JSON.stringify(oldContent), {
             encoding: 'utf8',
-            flag: 'w'
+            flag: 'w',
         })
-    } else {
+    }
+    else {
         console.log('暂无最新视频')
     }
 }

@@ -1,13 +1,13 @@
-import { chromium } from 'playwright'
 import fs from 'node:fs'
 import { resolve } from 'node:path'
 import { cwd } from 'node:process'
 import dayjs from 'dayjs'
+import { chromium } from 'playwright'
 
-export const getBiliBiliDataList = async (fileName: string, url: string) => {
+export async function getBiliBiliDataList(fileName: string, url: string) {
     const browser = await chromium.launch({
         channel: 'chrome',
-        headless: false
+        headless: false,
     })
     const context = await browser.newContext()
     const page = await context.newPage()
@@ -15,7 +15,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
     const filePath = resolve(cwd(), `./data/${fileName}.json`)
     fs.writeFileSync(filePath, '[\n', {
         encoding: 'utf8',
-        flag: 'w'
+        flag: 'w',
     })
 
     // 监听请求数据
@@ -24,14 +24,14 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
             const text = await response.text()
             if (text && JSON.parse(text)?.data) {
                 // console.log('响应内容:', JSON.parse(text)['data']['list']['vlist'])
-                const vList = JSON.parse(text)['data']['list']['vlist']
+                const vList = JSON.parse(text).data.list.vlist
                 vList.forEach((item: any) => {
                     const item_title = item.title
                     const time = dayjs.unix(item.created).format('YYYY-MM-DD HH:mm:ss')
                     const content = `{"title":"${item_title}","url":"https://www.bilibili.com/${item.bvid}","time":"${time}","cover":"${item.pic}"},\n`
                     fs.writeFileSync(filePath, content, {
                         encoding: 'utf8',
-                        flag: 'a'
+                        flag: 'a',
                     })
                 })
             }
@@ -77,7 +77,7 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
 
     fs.writeFileSync(resolve(cwd(), `./data/${fileName}.json`), ']\n', {
         encoding: 'utf8',
-        flag: 'a'
+        flag: 'a',
     })
 
     // 等待 2 秒后关闭
@@ -87,14 +87,14 @@ export const getBiliBiliDataList = async (fileName: string, url: string) => {
     }, 2000)
 }
 
-export const getBiliBiliNewData = async (fileName: string, url: string) => {
+export async function getBiliBiliNewData(fileName: string, url: string) {
     const browser = await chromium.launch({
         channel: 'chrome',
-        headless: false
+        headless: false,
     })
     const context = await browser.newContext({
         userAgent:
-            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
     })
     const page = await context.newPage()
 
@@ -105,7 +105,7 @@ export const getBiliBiliNewData = async (fileName: string, url: string) => {
             const text = await response.text()
             if (text && JSON.parse(text)?.data) {
                 console.log(JSON.parse(text))
-                const vList = JSON.parse(text)['data']['list']['vlist']
+                const vList = JSON.parse(text).data.list.vlist
                 const row = vList[0]
                 const oldContent = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
                 const firstContent = oldContent[0]
@@ -116,11 +116,11 @@ export const getBiliBiliNewData = async (fileName: string, url: string) => {
                         title: row.title,
                         url: `https://www.bilibili.com/${row.bvid}`,
                         time: dayjs.unix(row.created).format('YYYY-MM-DD HH:mm:ss'),
-                        cover: row.pic
+                        cover: row.pic,
                     })
                     fs.writeFileSync(filePath, JSON.stringify(oldContent), {
                         encoding: 'utf8',
-                        flag: 'w'
+                        flag: 'w',
                     })
                 }
             }

@@ -1,13 +1,10 @@
+import { resolve } from 'node:path'
+import { cwd } from 'node:process'
+import dayjs from 'dayjs'
 import { biliBiliUser, douYinUser } from '@/user.ts'
 import { read, write } from '@/util.ts'
-import { cwd } from 'node:process'
-import { resolve } from 'node:path'
-import dayjs from 'dayjs'
 
-const processUserChannels = <T extends { alias: string; name: string; url: string; vpName: string }>(
-    users: T[],
-    folderName: string
-) => {
+function processUserChannels<T extends { alias: string, name: string, url: string, vpName: string }>(users: T[], folderName: string) {
     users.forEach((item: T) => {
         const dataFilePath = resolve(cwd(), `./data/${item.alias}.json`)
         const content = JSON.parse(read(dataFilePath))

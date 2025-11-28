@@ -1,24 +1,24 @@
-import { chromium } from 'playwright'
+import fs, { readFileSync, writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { cwd } from 'node:process'
-import fs, { readFileSync, writeFileSync } from 'node:fs'
 import dayjs from 'dayjs'
+import { chromium } from 'playwright'
 
-export const getDouYinNewData = async (fileName: string, url: string) => {
+export async function getDouYinNewData(fileName: string, url: string) {
     const browser = await chromium.launch({
-        headless: false
+        headless: false,
     })
     const cookiePath = resolve(cwd(), 'storageState.json')
     console.log(cookiePath)
     const context = await browser.newContext({
-        storageState: JSON.parse(readFileSync(cookiePath, 'utf-8'))
+        storageState: JSON.parse(readFileSync(cookiePath, 'utf-8')),
     })
     const page = await context.newPage()
 
     const filePath = resolve(cwd(), `./data/${fileName}.json`)
     fs.writeFileSync(filePath, '[\n', {
         encoding: 'utf8',
-        flag: 'w'
+        flag: 'w',
     })
 
     let status = true
@@ -27,7 +27,7 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
         if (response.url().includes('aweme/v1/web/aweme/post')) {
             const text = await response.text()
             if (text && JSON.parse(text)?.aweme_list.length) {
-                const video = JSON.parse(text)['aweme_list']
+                const video = JSON.parse(text).aweme_list
                 video.forEach((row: any) => {
                     if (row.is_top) {
                         return ''
@@ -39,10 +39,11 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
                     const content = `{"title":"${title}", "url":"${url}","time":"${time}","cover":"${cover}"},\n`
                     fs.writeFileSync(filePath, content, {
                         encoding: 'utf8',
-                        flag: 'a'
+                        flag: 'a',
                     })
                 })
-            } else {
+            }
+            else {
                 console.log('无数据')
                 status = false
             }
@@ -94,7 +95,7 @@ export const getDouYinNewData = async (fileName: string, url: string) => {
 
     fs.writeFileSync(filePath, ']\n', {
         encoding: 'utf8',
-        flag: 'a'
+        flag: 'a',
     })
 
     const newCookies = await context.storageState()

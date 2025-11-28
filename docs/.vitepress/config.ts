@@ -12,14 +12,14 @@ export default defineConfig({
             {
                 text: '抖音专辑',
                 link: '/douyin/salary_increase_course',
-                activeMatch: '/douyin/'
+                activeMatch: '/douyin/',
             },
             { text: '哔哩哔哩专辑', link: '/bilibili/institution' },
             {
                 text: '代码专辑',
                 link: '/code',
-                activeMatch: '/code/'
-            }
+                activeMatch: '/code/',
+            },
             // { text: '赞助', link: '/sponsor' }
         ],
 
@@ -33,9 +33,9 @@ export default defineConfig({
                         { text: '渡一前端教科书', link: '/douyin/textbook' },
                         { text: '渡一前端必修课', link: '/douyin/compulsory_course' },
                         { text: '渡一前端讲书频道', link: '/douyin/book_talk_channel' },
-                        { text: '渡一前端代码优化CodeReview', link: '/douyin/code_review' }
-                    ]
-                }
+                        { text: '渡一前端代码优化CodeReview', link: '/douyin/code_review' },
+                    ],
+                },
             ],
             '/bilibili/': [
                 {
@@ -46,20 +46,21 @@ export default defineConfig({
                         { text: '渡一教育编程课堂', link: '/bilibili/programming' },
                         { text: '渡一前端提薪空间', link: '/bilibili/salary_increase_course' },
                         { text: '渡一教育-Web前端开发', link: '/bilibili/front_dev' },
-                        { text: '渡一前端必修课', link: '/bilibili/compulsory_course' }
-                    ]
-                }
-            ]
+                        { text: '渡一前端必修课', link: '/bilibili/compulsory_course' },
+                    ],
+                },
+            ],
         },
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' }],
+            { icon: 'github', link: 'https://github.com/lonewolfyx/awesome-duyi' },
+        ],
         lastUpdated: {
             text: '最后更新于',
             formatOptions: {
                 dateStyle: 'short',
-                timeStyle: 'medium'
-            }
-        }
-    }
+                timeStyle: 'medium',
+            },
+        },
+    },
 })
