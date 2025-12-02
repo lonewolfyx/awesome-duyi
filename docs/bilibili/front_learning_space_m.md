@@ -2,12 +2,18 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-28 11:14:26</p>
+<p>更新时间：2025-12-02 09:16:31</p>
 
 地址 [https://space.bilibili.com/3546701449136645/video](https://space.bilibili.com/3546701449136645/video)
 
 </div>
 
+- [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1G5SuBBEyr) - 2025-12-02 09:00:00
+- [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1G5SuBBE2n) - 2025-12-01 12:00:00
+- [跨域方案的抉择【渡一教育】](https://www.bilibili.com/BV1EwSuB2EBX) - 2025-12-01 09:00:00
+- [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1FxywBJEPf) - 2025-11-29 12:00:00
+- [CSS属性值的计算过程【渡一教育】](https://www.bilibili.com/BV1RvywBGErR) - 2025-11-29 09:00:00
+- [全局注册和局部注册的区别【渡一教育】](https://www.bilibili.com/BV1jjSLBhEDt) - 2025-11-28 11:58:32
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1MYSLBSEfc) - 2025-11-28 10:20:09
 - [手写memoize【渡一教育】](https://www.bilibili.com/BV1oaywB5ETj) - 2025-11-27 12:00:00
 - [交通灯问题【渡一教育】](https://www.bilibili.com/BV17aywBLEcT) - 2025-11-27 09:00:00
@@ -453,7 +459,7 @@
 - [基础打牢才能轻松应对，试试这个值和引用的终极面试题！【渡一教育】](https://www.bilibili.com/BV1X9k9Y9EeD) - 2025-01-02 12:00:00
 - [前端开发中突然无从下手怎么办？拥有一般性思路才有方向解决！【渡一教育】](https://www.bilibili.com/BV1X9k9Y9Ee2) - 2025-01-01 12:00:00
 - [更高效的图片预览方案。dataUrl和base64你了解多少？【渡一教育】](https://www.bilibili.com/BV199k9Y9Ewt) - 2024-12-31 12:00:00
-- [你足够清楚Promise A+规范吗？那PromiseLike也不在话下咯！【渡一教育】](https://www.bilibili.com/BV199k9Y9Es4) - 2024-12-30 12:00:00
+- [你足够清楚Promise  A+规范吗？那PromiseLike也不在话下咯！【渡一教育】](https://www.bilibili.com/BV199k9Y9Es4) - 2024-12-30 12:00:00
 - [字节面试题：判断传入的函数是否标记了async【渡一教育】](https://www.bilibili.com/BV199k9Y9EJM) - 2024-12-29 12:00:00
 - [一个CSS属性，让你轻松实现任何形状的文字环绕！【渡一教育】](https://www.bilibili.com/BV15Xk9YxEgP) - 2024-12-28 12:00:00
 - [谷歌官方承认的内存泄露bug还可以解决吗？带你深入研究一下！【渡一教育】](https://www.bilibili.com/BV1BHqhYSE5g) - 2024-12-27 12:00:00
@@ -488,9 +494,9 @@
 - [实现页面自动检测更新的超简便方法，不动服务器就能轻松解决！【渡一教育】](https://www.bilibili.com/BV1zVUHYWEys) - 2024-11-29 12:00:00
 - [惊呆面试官的深度克隆方式，我不说你一定不知道【渡一教育】](https://www.bilibili.com/BV1zVUHYWEso) - 2024-11-28 12:00:00
 - [网页复制限制是怎么实现的，怎么破解？让copy与你零距离【渡一教育】](https://www.bilibili.com/BV1BVUHYWE9s) - 2024-11-27 12:00:00
-- [用particles.js轻松实现亮眼特效，让你拥有更出众的主页 【渡一教育】](https://www.bilibili.com/BV1zVUHYWEuG) - 2024-11-26 12:00:00
+- [用particles.js轻松实现亮眼特效，让你拥有更出众的主页       【渡一教育】](https://www.bilibili.com/BV1zVUHYWEuG) - 2024-11-26 12:00:00
 - [LocaleCompare带你轻松搞定编码顺序和字典顺序【渡一教育】](https://www.bilibili.com/BV1zVUHYWEPP) - 2024-11-25 12:00:00
-- [一个插件轻松搞定导入依赖，Console Importer你知道吗？【渡一教育】](https://www.bilibili.com/BV1BVUHYWERY) - 2024-11-24 12:00:00
+- [一个插件轻松搞定导入依赖，Console  Importer你知道吗？【渡一教育】](https://www.bilibili.com/BV1BVUHYWERY) - 2024-11-24 12:00:00
 - [如何使用depcheck检查依赖？【渡一教育】](https://www.bilibili.com/BV1zVUHYWEkF) - 2024-11-23 12:00:00
 - [这个非常奇怪的图片bug是怎么回事，看下这两个知识点你掌握嘛？【渡一教育】](https://www.bilibili.com/BV1fVUHYWEB2) - 2024-11-22 12:00:00
 - [这个隐藏极深的正则bug你发现了吗？检验一下正则基本功是否扎实【渡一教育】](https://www.bilibili.com/BV1W1UHYaEJm) - 2024-11-21 12:00:00
@@ -523,11 +529,11 @@
 - [前端面试题 call 和 apply 还能这样考？【渡一教育】](https://www.bilibili.com/BV1zP2UYtEQP) - 2024-10-24 12:00:00
 - [JS 中令人生气到想笑的相等比较【渡一教育】](https://www.bilibili.com/BV1JP2UYtEPU) - 2024-10-23 12:00:00
 - [如何使用 flex 弹性盒保持容器均分布局【渡一教育】](https://www.bilibili.com/BV1JN2UYoEPx) - 2024-10-22 12:00:00
-- [在学 JS 中for-in遍历可能会遇到的问题 【渡一教育】](https://www.bilibili.com/BV1zN2UYoENF) - 2024-10-21 12:00:00
+- [在学 JS  中for-in遍历可能会遇到的问题 【渡一教育】](https://www.bilibili.com/BV1zN2UYoENF) - 2024-10-21 12:00:00
 - [从一道面试题看闭包“漏洞”，闭包真的“闭”吗？【渡一教育】](https://www.bilibili.com/BV1EN2UYZE98) - 2024-10-20 12:00:00
-- [好消息！JS 已经支持在类里面创建私有字段啦【渡一教育】](https://www.bilibili.com/BV1EN2UYoEqD) - 2024-10-19 12:00:00
+- [好消息！JS  已经支持在类里面创建私有字段啦【渡一教育】](https://www.bilibili.com/BV1EN2UYoEqD) - 2024-10-19 12:00:00
 - [几行 CSS 让你的文字立起来【渡一教育】](https://www.bilibili.com/BV16P2UYtENM) - 2024-10-18 12:00:00
-- [喜大普奔！纯 CSS 实现瀑布流布局的方法终于来啦【渡一教育】](https://www.bilibili.com/BV1EN2UYoEXf) - 2024-10-17 12:00:00
+- [喜大普奔！纯 CSS  实现瀑布流布局的方法终于来啦【渡一教育】](https://www.bilibili.com/BV1EN2UYoEXf) - 2024-10-17 12:00:00
 - [前端开发中parseInt和Math.floor有什么不同？【渡一教育】](https://www.bilibili.com/BV1nc2UY8Eio) - 2024-10-16 12:00:00
 - [优化代码分支，让你的代码更优雅【渡一教育】](https://www.bilibili.com/BV1nc2UY8ERS) - 2024-10-15 12:00:00
 - [这个表达式是真“nb”【渡一教育】](https://www.bilibili.com/BV1cc2UYhEBB) - 2024-10-14 12:00:00

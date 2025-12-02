@@ -2,12 +2,14 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-28 11:14:26</p>
+<p>更新时间：2025-12-02 09:16:30</p>
 
 地址 [https://space.bilibili.com/3546702577404004/video](https://space.bilibili.com/3546702577404004/video)
 
 </div>
 
+- [前端终极布局方案——网格布局，如何编排网格【渡一教育】](https://www.bilibili.com/BV1tfSjBDEgm) - 2025-12-01 23:00:00
+- [实现Promise最复杂的then函数【渡一教育】](https://www.bilibili.com/BV1BHyuBNEjE) - 2025-11-28 23:00:00
 - [Promise状态转换中你不知道的细节【渡一教育】](https://www.bilibili.com/BV12PyuB2E7d) - 2025-11-26 23:00:00
 - [关于前端职业的未来-真正的问题【渡一教育】](https://www.bilibili.com/BV18ByuBWEff) - 2025-11-24 23:00:00
 - [关于前端职业的未来-新兴的机会【渡一教育】](https://www.bilibili.com/BV1SKCTBCE2u) - 2025-11-21 23:00:00

@@ -2,12 +2,14 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-28 11:14:26</p>
+<p>更新时间：2025-12-02 09:16:30</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [什么是工作流引擎？对前端开发会有哪些影响？](https://www.douyin.com/video/7577705163075439881) - 2025-11-29 12:00:00
+- [学习工作流最重要的是理解核心概念，概念不明，寸步难行](https://www.douyin.com/video/7577586431002987818) - 2025-11-28 12:00:00
 - [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？](https://www.douyin.com/video/7572023828306464009) - 2025-11-14 12:00:00
 - [为什么需要对知识库建立索引？索引如何建立？](https://www.douyin.com/video/7571706209791659291) - 2025-11-13 12:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？](https://www.douyin.com/video/7571767756194958619) - 2025-11-12 17:26:06

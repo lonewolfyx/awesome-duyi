@@ -2,12 +2,15 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-28 11:14:26</p>
+<p>更新时间：2025-12-02 09:16:30</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [鼠标和键盘事件的常见问题](https://www.douyin.com/video/7577690044861844745) - 2025-12-01 15:30:00
+- [如何防截屏防录制](https://www.douyin.com/video/7577689354382871818) - 2025-11-29 15:30:00
+- [Ajax中的各种常见概念](https://www.douyin.com/video/7577369688749935918) - 2025-11-28 15:30:00
 - [copy的监听和解禁](https://www.douyin.com/video/7576950585681923382) - 2025-11-27 15:30:00
 - [黏性定位](https://www.douyin.com/video/7576633656769301811) - 2025-11-26 15:30:00
 - [initial、unset、revert](https://www.douyin.com/video/7576215142829018404) - 2025-11-25 15:30:00

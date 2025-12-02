@@ -1,63 +1,63 @@
 name: Get the latest video collection
 
 on:
-    push:
-        branches: ['master']
-    pull_request:
-        branches: ['master']
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
 
-    schedule:
-        - cron: '30 */6 * * *'
+  schedule:
+    - cron: '30 */6 * * *'
 
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        strategy:
-            matrix:
-                node-version: [22.x]
+    strategy:
+      matrix:
+        node-version: [22.x]
 
-        steps:
-            - uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-            - name: Use Node.js ${{ matrix.node-version }}
-              uses: actions/setup-node@v4
-              with:
-                  node-version: ${{ matrix.node-version }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
 
-            - name: Set beijing TimeZone
-              uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区
-              with:
-                  timezoneLinux: 'Asia/Shanghai'
-                  timezoneMacos: 'Asia/Singapore'
+      - name: Set beijing TimeZone
+        uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区
+        with:
+          timezoneLinux: Asia/Shanghai
+          timezoneMacos: Asia/Singapore
 
-            - name: Install dependencies
-              run: npm install
+      - name: Install dependencies
+        run: npm install
 
-            #            - name: Install Playwright browsers
-            #              run: npx playwright install --with-deps
+        #            - name: Install Playwright browsers
+        #              run: npx playwright install --with-deps
 
-            - name: Run bilibili && douyin video
-              run: npm run dev:pw:duyi
+      - name: Run bilibili && douyin video
+        run: npm run dev:pw:duyi
 
-            - name: Generate README.md
-              run: npm run generate:README
+      - name: Generate README.md
+        run: npm run generate:README
 
-            - name: Update Docs
-              run: npm run docs:generate
+      - name: Update Docs
+        run: npm run docs:generate
 
-            - name: Format Code
-              run: npm run format
+      - name: Format Code
+        run: npm run format
 
-            - name: 'Commit'
-              uses: EndBug/add-and-commit@v4
-              with:
-                  author_name: lonewolfyx
-                  author_email: 877085893@qq.com
-                  message: 'Update the latest DuYi video collection'
-                  add: '.'
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: lonewolfyx
+          author_email: 877085893@qq.com
+          message: Update the latest DuYi video collection
+          add: .
 
-              env:
-                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}

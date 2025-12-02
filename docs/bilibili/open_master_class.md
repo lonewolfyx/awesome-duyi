@@ -2,12 +2,14 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-11-28 11:14:26</p>
+<p>更新时间：2025-12-02 09:16:31</p>
 
 地址 [https://space.bilibili.com/3494367331354766/video](https://space.bilibili.com/3494367331354766/video)
 
 </div>
 
+- [什么是工作流引擎？对前端开发会有哪些影响？【渡一教育】](https://www.bilibili.com/BV1EzSjBvE7F) - 2025-11-29 12:00:00
+- [学习工作流最重要的是理解核心概念，概念不明，寸步难行【渡一教育】](https://www.bilibili.com/BV1MXSGBgEWi) - 2025-11-28 12:00:00
 - [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？【渡一教育】](https://www.bilibili.com/BV1tHCpBUEVr) - 2025-11-14 12:00:00
 - [为什么需要对知识库建立索引？索引如何建立？【渡一教育】](https://www.bilibili.com/BV1iPCpBcEha) - 2025-11-13 12:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？【渡一教育】](https://www.bilibili.com/BV1DyCjBzE28) - 2025-11-12 11:59:21
