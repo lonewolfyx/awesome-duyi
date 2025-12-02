@@ -1,23 +1,24 @@
-export interface BiliBiliChannel {
-    mid: number
+export interface BaseChannel {
     alias: string
     name: string
     vpName: string
     url: string
 }
 
-export interface DouYinChannel {
+export type ChannelType = 'douyin' | 'bilibili'
+
+export interface BiliBiliChannel extends BaseChannel {
+    mid: number
+}
+
+export interface DouYinChannel extends BaseChannel {
     uid: string
-    alias: string
-    name: string
-    vpName: string
-    url: string
 }
 
 export interface UserList {
     id: string
     mid?: number
-    type: 'douyin' | 'bilibili'
+    type: ChannelType
     name: string
     url: string
 }
