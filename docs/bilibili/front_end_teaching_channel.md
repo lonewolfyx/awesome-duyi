@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-03 02:57:44</p>
+<p>更新时间：2025-12-03 10:24:54</p>
 
 地址 [https://space.bilibili.com/3494367333452734/video](https://space.bilibili.com/3494367333452734/video)
 
 </div>
 
+- [场景题：如何实现缓存数据同步？【渡一教育】](https://www.bilibili.com/BV1AiUqBPErC) - 2025-12-03 09:00:00
 - [为什么打印e.currentTarget为null？【渡一教育】](https://www.bilibili.com/BV1AiUqBPEYC) - 2025-12-02 11:55:00
 - [包体积过大怎么解决？【渡一教育】](https://www.bilibili.com/BV1AiUqBNERt) - 2025-12-02 09:00:00
 - [封装一个重复字符压缩算法【渡一教育】](https://www.bilibili.com/BV1AiUqBPEXY) - 2025-12-01 11:55:00

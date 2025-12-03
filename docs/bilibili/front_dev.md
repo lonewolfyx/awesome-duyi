@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-03 02:57:44</p>
+<p>更新时间：2025-12-03 10:24:54</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1ZdU8BTET7) - 2025-12-03 09:00:00
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV17dU8BTEER) - 2025-12-02 11:55:00
 - [使用IIFE提升性能【渡一教育】](https://www.bilibili.com/BV17dU8BTE3R) - 2025-12-02 09:00:00
 - [值和引用的终极面试题【渡一教育】](https://www.bilibili.com/BV17dU8BTEnn) - 2025-12-01 11:55:00
