@@ -208,6 +208,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [模板的本质【渡一教育】](https://www.bilibili.com/BV1MUSYBYEyZ) - 2025-12-03 15:15:47
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1HhUhBVEK2) - 2025-12-03 11:55:00
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV1ofSsBXEgj) - 2025-12-02 15:14:28
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV1whUhBVEFh) - 2025-12-02 11:55:00
@@ -227,7 +228,6 @@
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV1w21nBrEbb) - 2025-11-15 11:55:00
 - [图片调色盘【渡一教育】](https://www.bilibili.com/BV1sk1nB5EFF) - 2025-11-14 11:55:00
 - [你不知道的CSS选择器【渡一教育】](https://www.bilibili.com/BV1pBC4BWEJB) - 2025-11-13 15:07:58
-- [任务执行的洋葱模型【渡一教育】](https://www.bilibili.com/BV1Pk1nB5Eh1) - 2025-11-12 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
