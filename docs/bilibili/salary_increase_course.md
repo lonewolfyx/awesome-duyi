@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-03 10:24:54</p>
+<p>更新时间：2025-12-03 14:56:04</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [封装统计函数【渡一教育】](https://www.bilibili.com/BV1tzSLB1Etf) - 2025-12-03 12:00:00
 - [一道高端的面试题【渡一教育】](https://www.bilibili.com/BV1KzSLB1Eoq) - 2025-12-03 09:00:00
 - [永远不要用inline-block布局【渡一教育】](https://www.bilibili.com/BV1uvSLBEE4d) - 2025-12-02 12:00:00
 - [数据类型和typeof【渡一教育】](https://www.bilibili.com/BV1bXSGBuEEn) - 2025-12-02 09:00:00
