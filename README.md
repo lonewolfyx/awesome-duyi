@@ -358,6 +358,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [前端终极布局方案——网格布局，如何将子项放入网格【渡一教育】](https://www.bilibili.com/BV14fSjBDERE) - 2025-12-03 23:00:00
 - [前端终极布局方案——网格布局，如何编排网格【渡一教育】](https://www.bilibili.com/BV1tfSjBDEgm) - 2025-12-01 23:00:00
 - [实现Promise最复杂的then函数【渡一教育】](https://www.bilibili.com/BV1BHyuBNEjE) - 2025-11-28 23:00:00
 - [Promise状态转换中你不知道的细节【渡一教育】](https://www.bilibili.com/BV12PyuB2E7d) - 2025-11-26 23:00:00
@@ -377,7 +378,6 @@
 - [JS中的类【渡一教育】](https://www.bilibili.com/BV1nxsgzkETA) - 2025-10-22 23:00:00
 - [canvas入门【渡一教育】](https://www.bilibili.com/BV1PSWCzGEBr) - 2025-10-20 23:00:00
 - [文件上传精讲【渡一教育】](https://www.bilibili.com/BV1bt4czTEWo) - 2025-10-17 23:00:00
-- [前端算法动态规划【渡一教育】](https://www.bilibili.com/BV1tb4cziEq8) - 2025-10-15 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 
