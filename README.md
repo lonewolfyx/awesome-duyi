@@ -208,6 +208,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1XG2aB4EcQ) - 2025-12-04 15:17:51
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1khUhBVELp) - 2025-12-04 11:55:00
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1MUSYBYEyZ) - 2025-12-03 15:15:47
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1HhUhBVEK2) - 2025-12-03 11:55:00
@@ -227,7 +228,6 @@
 - [拖拽上传【渡一教育】](https://www.bilibili.com/BV1aJygBxEVk) - 2025-11-18 15:32:44
 - [优化动态规划的空间复杂度【渡一教育】](https://www.bilibili.com/BV1k6CLBpEWu) - 2025-11-17 11:55:00
 - [单向数据流【渡一教育】](https://www.bilibili.com/BV1w21nBrEbb) - 2025-11-15 11:55:00
-- [图片调色盘【渡一教育】](https://www.bilibili.com/BV1sk1nB5EFF) - 2025-11-14 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
