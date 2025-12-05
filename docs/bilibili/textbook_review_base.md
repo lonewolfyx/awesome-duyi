@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-05 21:10:37</p>
+<p>更新时间：2025-12-06 02:52:13</p>
 
 地址 [https://space.bilibili.com/3546702577404004/video](https://space.bilibili.com/3546702577404004/video)
 
 </div>
 
+- [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1tZSjBHEyc) - 2025-12-05 23:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格【渡一教育】](https://www.bilibili.com/BV14fSjBDERE) - 2025-12-03 23:00:00
 - [前端终极布局方案——网格布局，如何编排网格【渡一教育】](https://www.bilibili.com/BV1tfSjBDEgm) - 2025-12-01 23:00:00
 - [实现Promise最复杂的then函数【渡一教育】](https://www.bilibili.com/BV1BHyuBNEjE) - 2025-11-28 23:00:00
