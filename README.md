@@ -433,6 +433,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修空间m
 
+- [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1XP2jBmEWb) - 2025-12-05 15:12:39
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dpSLB4EFX) - 2025-12-05 12:00:00
 - [解决组件库类型丢失的问题【渡一教育】](https://www.bilibili.com/BV1LpSLBtEyZ) - 2025-12-04 12:00:00
 - [3D Hover Effect【渡一教育】](https://www.bilibili.com/BV1LpSLB4E2R) - 2025-12-03 12:00:00
@@ -452,7 +453,6 @@
 - [GSAP的滚动插件【渡一教育】](https://www.bilibili.com/BV1FDCMBYE7B) - 2025-11-17 12:00:00
 - [不可变类型【渡一教育】](https://www.bilibili.com/BV11y2MBEEXm) - 2025-11-15 12:00:00
 - [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV14y2MBEETV) - 2025-11-14 12:00:00
-- [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1wQ2MBCEYb) - 2025-11-13 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_end_required_space.html)
 
