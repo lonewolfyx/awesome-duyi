@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-05 10:25:51</p>
+<p>更新时间：2025-12-05 14:56:07</p>
 
 地址 [https://space.bilibili.com/174874061/video](https://space.bilibili.com/174874061/video)
 
 </div>
 
+- [数组的forEach方法【渡一教育】](https://www.bilibili.com/BV15dUqBnEYv) - 2025-12-05 11:55:00
 - [Reflect的本质【渡一教育】](https://www.bilibili.com/BV1LdUqBnE5Z) - 2025-12-04 11:55:00
 - [大O表示法【渡一教育】](https://www.bilibili.com/BV19oUqBUEqd) - 2025-12-03 11:55:00
 - [判断数组的准确方法【渡一教育】](https://www.bilibili.com/BV1VoUqBSEoi) - 2025-12-02 11:55:00
