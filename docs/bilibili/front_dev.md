@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-05 02:57:06</p>
+<p>更新时间：2025-12-05 10:25:51</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1LFUhBeEwd) - 2025-12-05 09:00:00
 - [不规则的文字环绕【渡一教育】](https://www.bilibili.com/BV1vFUhBeEhp) - 2025-12-04 11:55:00
 - [gitignore的匹配规则【渡一教育】](https://www.bilibili.com/BV1jdU8BTEym) - 2025-12-04 09:00:00
 - [在vite中自动生成路由【渡一教育】](https://www.bilibili.com/BV1jdU8BTE2Y) - 2025-12-03 11:55:00

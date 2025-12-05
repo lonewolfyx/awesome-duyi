@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-05 02:57:06</p>
+<p>更新时间：2025-12-05 10:25:51</p>
 
 地址 [https://space.bilibili.com/3546701449136645/video](https://space.bilibili.com/3546701449136645/video)
 
 </div>
 
+- [如何防截屏防录制【渡一教育】](https://www.bilibili.com/BV1Y5SuBBE5Y) - 2025-12-05 09:00:00
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1G5SuBBEao) - 2025-12-04 12:00:00
 - [动态规划问题的一般解题思路【渡一教育】](https://www.bilibili.com/BV1G5SuBBERD) - 2025-12-04 09:00:00
 - [二进制格式上传文件【渡一教育】](https://www.bilibili.com/BV1X5SuBBEjL) - 2025-12-03 12:00:00
