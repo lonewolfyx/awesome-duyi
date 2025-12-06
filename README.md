@@ -208,6 +208,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Sw2WBwERA) - 2025-12-06 17:21:30
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1wbUhByEye) - 2025-12-06 11:55:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1AbUhByEPU) - 2025-12-05 11:55:00
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1XG2aB4EcQ) - 2025-12-04 15:17:51
@@ -227,7 +228,6 @@
 - [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1QEU5BjEyZ) - 2025-11-21 15:11:26
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1sVyFBSEJy) - 2025-11-20 15:14:22
 - [判断奇偶数【渡一教育】](https://www.bilibili.com/BV1WuyEBNEWi) - 2025-11-19 15:33:18
-- [拖拽上传【渡一教育】](https://www.bilibili.com/BV1aJygBxEVk) - 2025-11-18 15:32:44
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
