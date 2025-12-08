@@ -308,6 +308,7 @@
 
 ### 哔哩哔哩 - 渡一前端学习空间
 
+- [重复渐变的边框【渡一教育】](https://www.bilibili.com/BV1CC26BMEDa) - 2025-12-08 15:07:06
 - [重复渐变的边框【渡一教育】](https://www.bilibili.com/BV1rt2jBwEKh) - 2025-12-08 12:00:00
 - [重复渐变的边框【渡一教育】](https://www.bilibili.com/BV1rnSyBnEg3) - 2025-12-06 12:00:00
 - [验证回文串【渡一教育】](https://www.bilibili.com/BV16HSyBSES4) - 2025-12-05 12:00:00
@@ -327,7 +328,6 @@
 - [循环转递归【渡一教育】](https://www.bilibili.com/BV1bBCvBxEni) - 2025-11-20 12:00:00
 - [隐式转换和布尔判定【渡一教育】](https://www.bilibili.com/BV1tZy7BkEDh) - 2025-11-19 15:45:04
 - [图片九宫格【渡一教育】](https://www.bilibili.com/BV16MCMBwENx) - 2025-11-18 12:00:00
-- [函数签名【渡一教育】](https://www.bilibili.com/BV1BuCMBhERN) - 2025-11-17 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_learning_space.html)
 
@@ -358,6 +358,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1xW2CBUEYU) - 2025-12-08 15:53:38
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1tZSjBHEyc) - 2025-12-05 23:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格【渡一教育】](https://www.bilibili.com/BV14fSjBDERE) - 2025-12-03 23:00:00
 - [前端终极布局方案——网格布局，如何编排网格【渡一教育】](https://www.bilibili.com/BV1tfSjBDEgm) - 2025-12-01 23:00:00
@@ -377,7 +378,6 @@
 - [现代CSS样式【渡一教育】](https://www.bilibili.com/BV18FsJzHEdE) - 2025-10-27 23:00:00
 - [高阶函数【渡一教育】](https://www.bilibili.com/BV1S6s7zLEcw) - 2025-10-24 23:00:00
 - [JS中的类【渡一教育】](https://www.bilibili.com/BV1nxsgzkETA) - 2025-10-22 23:00:00
-- [canvas入门【渡一教育】](https://www.bilibili.com/BV1PSWCzGEBr) - 2025-10-20 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 
