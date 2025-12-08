@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-08 10:26:42</p>
+<p>更新时间：2025-12-08 14:59:03</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [鼠标移动的高亮边框效果【渡一教育】](https://www.bilibili.com/BV1GzSYBzE8p) - 2025-12-08 11:55:00
 - [never类型的妙用2【渡一教育】](https://www.bilibili.com/BV1QzSYBBEWC) - 2025-12-08 09:00:00
 - [Promise的工具函数【渡一教育】](https://www.bilibili.com/BV1LFUhBeEEL) - 2025-12-06 11:55:00
 - [访问文件夹【渡一教育】](https://www.bilibili.com/BV1vFUhBeEtf) - 2025-12-06 09:00:00

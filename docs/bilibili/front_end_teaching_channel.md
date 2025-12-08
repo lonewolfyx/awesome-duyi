@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-08 10:26:42</p>
+<p>更新时间：2025-12-08 14:59:03</p>
 
 地址 [https://space.bilibili.com/3494367333452734/video](https://space.bilibili.com/3494367333452734/video)
 
 </div>
 
+- [有效的括号【渡一教育】](https://www.bilibili.com/BV1RvSYB3EwA) - 2025-12-08 11:55:00
 - [打家劫舍【渡一教育】](https://www.bilibili.com/BV15vSYBGEE8) - 2025-12-08 09:00:00
 - [面试题千万不要去背！【渡一教育】](https://www.bilibili.com/BV1czUqBwEdC) - 2025-12-06 11:55:00
 - [两数之和【渡一教育】](https://www.bilibili.com/BV1HzUqBwEky) - 2025-12-06 09:00:00

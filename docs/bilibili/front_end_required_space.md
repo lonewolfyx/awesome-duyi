@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-08 10:26:42</p>
+<p>更新时间：2025-12-08 14:59:03</p>
 
 地址 [https://space.bilibili.com/3494367524293389/video](https://space.bilibili.com/3494367524293389/video)
 
 </div>
 
+- [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV14h2VBaEHv) - 2025-12-08 12:00:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV1V4SLB9E2e) - 2025-12-06 12:00:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1XP2jBmEWb) - 2025-12-05 15:12:39
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1dpSLB4EFX) - 2025-12-05 12:00:00

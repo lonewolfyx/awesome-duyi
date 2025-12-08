@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-08 10:26:42</p>
+<p>更新时间：2025-12-08 14:59:03</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV1T9SYBFETM) - 2025-12-08 11:55:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1oyUYB3EUW) - 2025-12-06 11:55:00
 - [旋转中的视差效果【渡一教育】](https://www.bilibili.com/BV1jyUYBGEig) - 2025-12-05 11:55:00
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1dyUYB3E1Z) - 2025-12-04 11:55:00
