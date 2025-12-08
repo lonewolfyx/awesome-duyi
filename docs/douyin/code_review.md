@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-08 21:12:47</p>
+<p>更新时间：2025-12-09 02:53:55</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0](https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0)
 
 </div>
 
+- [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
 - [想成为架构师？那你一定要了解AST](https://www.douyin.com/video/7577680665681120575) - 2025-11-29 22:00:00
 - [闭包的概念和应用还不清晰？一个视频带你形象的理解闭包和其应用](https://www.douyin.com/video/7577680264785120548) - 2025-11-28 22:00:00
 - [React阻止冒泡](https://www.douyin.com/video/7576938393913806123) - 2025-11-26 22:00:00

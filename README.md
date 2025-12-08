@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [惰性函数](https://www.douyin.com/video/7578879656074448154) - 2025-12-02 23:50:00
 - [vue组件命名规范](https://www.douyin.com/video/7577691115470458162) - 2025-12-01 23:50:00
 - [01背包问题](https://www.douyin.com/video/7577690689069255945) - 2025-11-29 23:50:00
 - [Web Animation API](https://www.douyin.com/video/7577369232271314227) - 2025-11-28 23:50:00
@@ -53,7 +54,6 @@
 - [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
 - [3D Hover Effect](https://www.douyin.com/video/7571016213233503498) - 2025-11-11 23:50:00
 - [mac docker效果](https://www.douyin.com/video/7570309705411677486) - 2025-11-10 23:50:00
-- [水波进度样式](https://www.douyin.com/video/7569908951781756214) - 2025-11-08 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [无法取消的默认行为](https://www.douyin.com/video/7579198392413310251) - 2025-12-02 18:00:52
 - [鼠标和键盘事件的常见问题](https://www.douyin.com/video/7577690044861844745) - 2025-12-01 15:30:00
 - [如何防截屏防录制](https://www.douyin.com/video/7577689354382871818) - 2025-11-29 15:30:00
 - [Ajax中的各种常见概念](https://www.douyin.com/video/7577369688749935918) - 2025-11-28 15:30:00
@@ -128,12 +129,12 @@
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
 - [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
 - [右键菜单的位置抉择](https://www.douyin.com/video/7570309335780232475) - 2025-11-10 15:30:00
-- [flex+margin](https://www.douyin.com/video/7569908558809042219) - 2025-11-08 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 抖音 - 渡一前端鸵鸟课堂
 
+- [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
 - [想成为架构师？那你一定要了解AST](https://www.douyin.com/video/7577680665681120575) - 2025-11-29 22:00:00
 - [闭包的概念和应用还不清晰？一个视频带你形象的理解闭包和其应用](https://www.douyin.com/video/7577680264785120548) - 2025-11-28 22:00:00
 - [React阻止冒泡](https://www.douyin.com/video/7576938393913806123) - 2025-11-26 22:00:00
@@ -358,6 +359,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布【渡一教育】](https://www.bilibili.com/BV14T2vBtEMi) - 2025-12-08 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1xW2CBUEYU) - 2025-12-08 15:53:38
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1tZSjBHEyc) - 2025-12-05 23:00:00
 - [前端终极布局方案——网格布局，如何将子项放入网格【渡一教育】](https://www.bilibili.com/BV14fSjBDERE) - 2025-12-03 23:00:00
@@ -377,7 +379,6 @@
 - [现代Web API【渡一教育】](https://www.bilibili.com/BV1F3yzBsEJV) - 2025-10-29 23:00:00
 - [现代CSS样式【渡一教育】](https://www.bilibili.com/BV18FsJzHEdE) - 2025-10-27 23:00:00
 - [高阶函数【渡一教育】](https://www.bilibili.com/BV1S6s7zLEcw) - 2025-10-24 23:00:00
-- [JS中的类【渡一教育】](https://www.bilibili.com/BV1nxsgzkETA) - 2025-10-22 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 
