@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-09 10:25:55</p>
+<p>更新时间：2025-12-09 14:56:41</p>
 
 地址 [https://space.bilibili.com/3494367524293389/video](https://space.bilibili.com/3494367524293389/video)
 
 </div>
 
+- [TS中字符串索引带来的类型问题【渡一教育】](https://www.bilibili.com/BV1sv2VBfE5Y) - 2025-12-09 12:00:00
 - [为什么组件库要加前缀【渡一教育】](https://www.bilibili.com/BV14h2VBaEHv) - 2025-12-08 12:00:00
 - [组件循环依赖问题【渡一教育】](https://www.bilibili.com/BV1V4SLB9E2e) - 2025-12-06 12:00:00
 - [让文字适应纹理【渡一教育】](https://www.bilibili.com/BV1XP2jBmEWb) - 2025-12-05 15:12:39
