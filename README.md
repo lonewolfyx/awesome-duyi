@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [浏览器的自动播放策略](https://www.douyin.com/video/7579184017380068634) - 2025-12-03 23:50:00
 - [惰性函数](https://www.douyin.com/video/7578879656074448154) - 2025-12-02 23:50:00
 - [vue组件命名规范](https://www.douyin.com/video/7577691115470458162) - 2025-12-01 23:50:00
 - [01背包问题](https://www.douyin.com/video/7577690689069255945) - 2025-11-29 23:50:00
@@ -53,7 +54,6 @@
 - [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
 - [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
 - [3D Hover Effect](https://www.douyin.com/video/7571016213233503498) - 2025-11-11 23:50:00
-- [mac docker效果](https://www.douyin.com/video/7570309705411677486) - 2025-11-10 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [无法预测的大数运算](https://www.douyin.com/video/7579183143404457266) - 2025-12-03 15:30:00
 - [无法取消的默认行为](https://www.douyin.com/video/7579198392413310251) - 2025-12-02 18:00:52
 - [鼠标和键盘事件的常见问题](https://www.douyin.com/video/7577690044861844745) - 2025-12-01 15:30:00
 - [如何防截屏防录制](https://www.douyin.com/video/7577689354382871818) - 2025-11-29 15:30:00
@@ -128,7 +129,6 @@
 - [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
 - [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
-- [右键菜单的位置抉择](https://www.douyin.com/video/7570309335780232475) - 2025-11-10 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 

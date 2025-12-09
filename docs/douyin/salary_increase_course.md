@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-09 21:14:08</p>
+<p>更新时间：2025-12-10 02:53:20</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT](https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT)
 
 </div>
 
+- [浏览器的自动播放策略](https://www.douyin.com/video/7579184017380068634) - 2025-12-03 23:50:00
 - [惰性函数](https://www.douyin.com/video/7578879656074448154) - 2025-12-02 23:50:00
 - [vue组件命名规范](https://www.douyin.com/video/7577691115470458162) - 2025-12-01 23:50:00
 - [01背包问题](https://www.douyin.com/video/7577690689069255945) - 2025-11-29 23:50:00
