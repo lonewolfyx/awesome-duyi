@@ -209,6 +209,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [幻影依赖【渡一教育】](https://www.bilibili.com/BV1CK2QBwEjj) - 2025-12-09 15:59:33
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV134SeBqEKm) - 2025-12-09 11:55:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV184SeBiESC) - 2025-12-08 11:55:00
 - [toFixed的结果可能会欺骗你【渡一教育】](https://www.bilibili.com/BV1Sw2WBwERA) - 2025-12-06 17:21:30
@@ -228,7 +229,6 @@
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14
 - [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
 - [文字转语音【渡一教育】](https://www.bilibili.com/BV1kBCLBREZC) - 2025-11-22 11:55:00
-- [通过小游戏学前端【渡一教育】](https://www.bilibili.com/BV1QEU5BjEyZ) - 2025-11-21 15:11:26
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
