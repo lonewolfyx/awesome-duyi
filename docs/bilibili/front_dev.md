@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-10 10:28:05</p>
+<p>更新时间：2025-12-10 14:57:37</p>
 
 地址 [https://space.bilibili.com/384876532/video](https://space.bilibili.com/384876532/video)
 
 </div>
 
+- [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1SySYBNEnm) - 2025-12-10 11:55:00
 - [色彩的差值混合【渡一教育】](https://www.bilibili.com/BV1SySYBNEei) - 2025-12-10 09:00:00
 - [脚本加载失败如何重试【渡一教育】](https://www.bilibili.com/BV1SySYBNEhf) - 2025-12-09 11:55:00
 - [鼠标进入方向【渡一教育】](https://www.bilibili.com/BV18ySYBKEnP) - 2025-12-09 09:00:00
