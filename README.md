@@ -209,6 +209,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [钉钉官网的滚动动画【渡一教育】](https://www.bilibili.com/BV1rim4B8Eu8) - 2025-12-10 15:09:28
 - [钉钉官网的滚动动画【渡一教育】](https://www.bilibili.com/BV1D4SeBiE4M) - 2025-12-10 11:55:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV1CK2QBwEjj) - 2025-12-09 15:59:33
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV134SeBqEKm) - 2025-12-09 11:55:00
@@ -228,7 +229,6 @@
 - [watchEffect中的异步问题【渡一教育】](https://www.bilibili.com/BV1bZy7BkE5T) - 2025-11-27 11:55:00
 - [使用CORS解决跨域问题【渡一教育】](https://www.bilibili.com/BV1hgUhBoEKa) - 2025-11-26 15:08:28
 - [静态资源的动态访问【渡一教育】](https://www.bilibili.com/BV1qaUSBsEWu) - 2025-11-25 15:09:14
-- [如何实现高度自动的过渡【渡一教育】](https://www.bilibili.com/BV1cDUrBgEex) - 2025-11-24 15:17:50
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
