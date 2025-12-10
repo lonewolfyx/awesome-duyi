@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [SASS中的模块化开发](https://www.douyin.com/video/7579611165567831315) - 2025-12-04 23:50:00
 - [浏览器的自动播放策略](https://www.douyin.com/video/7579184017380068634) - 2025-12-03 23:50:00
 - [惰性函数](https://www.douyin.com/video/7578879656074448154) - 2025-12-02 23:50:00
 - [vue组件命名规范](https://www.douyin.com/video/7577691115470458162) - 2025-12-01 23:50:00
@@ -53,7 +54,6 @@
 - [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
 - [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
 - [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
-- [3D Hover Effect](https://www.douyin.com/video/7571016213233503498) - 2025-11-11 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [漂亮的文字阴影](https://www.douyin.com/video/7579611081631468843) - 2025-12-04 15:30:00
 - [无法预测的大数运算](https://www.douyin.com/video/7579183143404457266) - 2025-12-03 15:30:00
 - [无法取消的默认行为](https://www.douyin.com/video/7579198392413310251) - 2025-12-02 18:00:52
 - [鼠标和键盘事件的常见问题](https://www.douyin.com/video/7577690044861844745) - 2025-12-01 15:30:00
@@ -128,12 +129,12 @@
 - [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
 - [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 - [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
-- [代码风格](https://www.douyin.com/video/7571015329770376474) - 2025-11-11 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 抖音 - 渡一前端鸵鸟课堂
 
+- [对于别人写的代码中，可能会出现的错误异常怎么捕获？](https://www.douyin.com/video/7579880502350400802) - 2025-12-04 22:00:00
 - [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
 - [想成为架构师？那你一定要了解AST](https://www.douyin.com/video/7577680665681120575) - 2025-11-29 22:00:00
 - [闭包的概念和应用还不清晰？一个视频带你形象的理解闭包和其应用](https://www.douyin.com/video/7577680264785120548) - 2025-11-28 22:00:00
@@ -153,7 +154,6 @@
 - [为什么Hook要保证顺序一致性？](https://www.douyin.com/video/7568702340379790634) - 2025-11-04 22:00:00
 - [Fiber好在哪儿？](https://www.douyin.com/video/7568311594032123151) - 2025-11-03 22:00:00
 - [节流和防抖分不清？](https://www.douyin.com/video/7567275229861547273) - 2025-11-01 22:00:00
-- [面试中遇到"JSX是什么"怎么回答？](https://www.douyin.com/video/7567274817003556147) - 2025-10-31 22:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/code_review.html)
 
@@ -359,6 +359,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [组件的终极方案Web Components，让你的组件变成HTML标签【渡一教育】](https://www.bilibili.com/BV1EW2vB2EnZ) - 2025-12-10 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布【渡一教育】](https://www.bilibili.com/BV14T2vBtEMi) - 2025-12-08 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1xW2CBUEYU) - 2025-12-08 15:53:38
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1tZSjBHEyc) - 2025-12-05 23:00:00
@@ -378,7 +379,6 @@
 - [CSS预编译器【渡一教育】](https://www.bilibili.com/BV15D1NB9EJp) - 2025-10-31 22:00:00
 - [现代Web API【渡一教育】](https://www.bilibili.com/BV1F3yzBsEJV) - 2025-10-29 23:00:00
 - [现代CSS样式【渡一教育】](https://www.bilibili.com/BV18FsJzHEdE) - 2025-10-27 23:00:00
-- [高阶函数【渡一教育】](https://www.bilibili.com/BV1S6s7zLEcw) - 2025-10-24 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 
