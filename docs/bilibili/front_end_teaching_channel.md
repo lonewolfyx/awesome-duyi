@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-11 10:30:12</p>
+<p>更新时间：2025-12-11 14:58:39</p>
 
 地址 [https://space.bilibili.com/3494367333452734/video](https://space.bilibili.com/3494367333452734/video)
 
 </div>
 
+- [通过线下入门前端，如何提升？【渡一教育】](https://www.bilibili.com/BV15YSYBCEoB) - 2025-12-11 11:55:00
 - [求职之道难点案例：图像处理【渡一教育】](https://www.bilibili.com/BV1vYSYBCEn2) - 2025-12-11 09:00:00
 - [为什么大公司才有架构师?【渡一教育】](https://www.bilibili.com/BV1vYSYBCERb) - 2025-12-10 11:55:00
 - [大师课你全都看完了嘛?【渡一教育】](https://www.bilibili.com/BV1RYSYBkEbk) - 2025-12-10 09:00:00

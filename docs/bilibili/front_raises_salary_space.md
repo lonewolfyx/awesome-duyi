@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-11 10:30:12</p>
+<p>更新时间：2025-12-11 14:58:39</p>
 
 地址 [https://space.bilibili.com/3546701442844736/video](https://space.bilibili.com/3546701442844736/video)
 
 </div>
 
+- [无限递归一定会溢栈吗？【渡一教育】](https://www.bilibili.com/BV1TV2jBrEF8) - 2025-12-11 12:00:00
 - [ESM中的符号绑定【渡一教育】](https://www.bilibili.com/BV1KL2jBgE4Z) - 2025-12-10 12:00:00
 - [一道丧心病狂的面试题【渡一教育】](https://www.bilibili.com/BV1xL2jBgEfi) - 2025-12-09 12:00:00
 - [class转function【渡一教育】](https://www.bilibili.com/BV1bg2jBCEFZ) - 2025-12-08 12:00:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-11 10:30:12</p>
+<p>更新时间：2025-12-11 14:58:39</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [插槽的本质【渡一教育】](https://www.bilibili.com/BV1iVSeBLEG1) - 2025-12-11 11:55:00
 - [Promise的状态吸收【渡一教育】](https://www.bilibili.com/BV1iVSeBLEVC) - 2025-12-11 09:00:00
 - [彻底理解JWT【渡一教育】](https://www.bilibili.com/BV1iVSeBLENd) - 2025-12-10 11:55:00
 - [你不知道的HTML属性【渡一教育】](https://www.bilibili.com/BV1vVSeBLE9z) - 2025-12-10 09:00:00

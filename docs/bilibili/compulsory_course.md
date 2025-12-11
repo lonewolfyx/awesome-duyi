@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-11 10:30:12</p>
+<p>更新时间：2025-12-11 14:58:39</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1wnSYBQEwo) - 2025-12-11 11:55:00
 - [钉钉官网的滚动动画【渡一教育】](https://www.bilibili.com/BV11XSYBfEQh) - 2025-12-10 11:55:00
 - [幻影依赖【渡一教育】](https://www.bilibili.com/BV12XSYBfEoc) - 2025-12-09 11:55:00
 - [打包体积的分析和优化【渡一教育】](https://www.bilibili.com/BV1T9SYBFETM) - 2025-12-08 11:55:00
