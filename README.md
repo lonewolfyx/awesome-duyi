@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [Sass实现星空效果](https://www.douyin.com/video/7579927062677409024) - 2025-12-05 23:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7579611165567831315) - 2025-12-04 23:50:00
 - [浏览器的自动播放策略](https://www.douyin.com/video/7579184017380068634) - 2025-12-03 23:50:00
 - [惰性函数](https://www.douyin.com/video/7578879656074448154) - 2025-12-02 23:50:00
@@ -53,7 +54,6 @@
 - [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
 - [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
 - [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
-- [判断数组的准确方法](https://www.douyin.com/video/7571435547495910697) - 2025-11-12 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [无限视差滚动](https://www.douyin.com/video/7580297557851622708) - 2025-12-05 17:06:08
 - [漂亮的文字阴影](https://www.douyin.com/video/7579611081631468843) - 2025-12-04 15:30:00
 - [无法预测的大数运算](https://www.douyin.com/video/7579183143404457266) - 2025-12-03 15:30:00
 - [无法取消的默认行为](https://www.douyin.com/video/7579198392413310251) - 2025-12-02 18:00:52
@@ -128,12 +129,12 @@
 - [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
 - [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
 - [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
-- [拖拽API](https://www.douyin.com/video/7571436013827001636) - 2025-11-12 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 抖音 - 渡一前端鸵鸟课堂
 
+- [Worker Pool](https://www.douyin.com/video/7580260036639837474) - 2025-12-05 22:00:00
 - [对于别人写的代码中，可能会出现的错误异常怎么捕获？](https://www.douyin.com/video/7579880502350400802) - 2025-12-04 22:00:00
 - [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
 - [想成为架构师？那你一定要了解AST](https://www.douyin.com/video/7577680665681120575) - 2025-11-29 22:00:00
@@ -153,7 +154,6 @@
 - [元素居中的常见方案](https://www.douyin.com/video/7569084079786839350) - 2025-11-05 22:00:00
 - [为什么Hook要保证顺序一致性？](https://www.douyin.com/video/7568702340379790634) - 2025-11-04 22:00:00
 - [Fiber好在哪儿？](https://www.douyin.com/video/7568311594032123151) - 2025-11-03 22:00:00
-- [节流和防抖分不清？](https://www.douyin.com/video/7567275229861547273) - 2025-11-01 22:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/code_review.html)
 

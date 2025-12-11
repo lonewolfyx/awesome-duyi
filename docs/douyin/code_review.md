@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-11 21:23:13</p>
+<p>更新时间：2025-12-12 02:56:51</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0](https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0)
 
 </div>
 
+- [Worker Pool](https://www.douyin.com/video/7580260036639837474) - 2025-12-05 22:00:00
 - [对于别人写的代码中，可能会出现的错误异常怎么捕获？](https://www.douyin.com/video/7579880502350400802) - 2025-12-04 22:00:00
 - [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
 - [想成为架构师？那你一定要了解AST](https://www.douyin.com/video/7577680665681120575) - 2025-11-29 22:00:00
