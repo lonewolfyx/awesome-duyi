@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-12 10:29:28</p>
+<p>更新时间：2025-12-12 14:57:42</p>
 
 地址 [https://space.bilibili.com/3494367333452734/video](https://space.bilibili.com/3494367333452734/video)
 
 </div>
 
+- [前端如何转行?【渡一教育】](https://www.bilibili.com/BV1RYSYBkEVs) - 2025-12-12 11:55:00
 - [进大厂困难,该如何选择前端岗位?【渡一教育】](https://www.bilibili.com/BV15YSYBCEdA) - 2025-12-12 09:00:00
 - [通过线下入门前端，如何提升？【渡一教育】](https://www.bilibili.com/BV15YSYBCEoB) - 2025-12-11 11:55:00
 - [求职之道难点案例：图像处理【渡一教育】](https://www.bilibili.com/BV1vYSYBCEn2) - 2025-12-11 09:00:00
