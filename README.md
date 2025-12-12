@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [页面可见度API](https://www.douyin.com/video/7580300100317089064) - 2025-12-06 23:50:00
 - [Sass实现星空效果](https://www.douyin.com/video/7579927062677409024) - 2025-12-05 23:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7579611165567831315) - 2025-12-04 23:50:00
 - [浏览器的自动播放策略](https://www.douyin.com/video/7579184017380068634) - 2025-12-03 23:50:00
@@ -53,7 +54,6 @@
 - [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
 - [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
 - [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
-- [大O表示法](https://www.douyin.com/video/7571755689316470025) - 2025-11-13 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [使用SASS实现主题切换](https://www.douyin.com/video/7580300809468939560) - 2025-12-06 15:30:00
 - [无限视差滚动](https://www.douyin.com/video/7580297557851622708) - 2025-12-05 17:06:08
 - [漂亮的文字阴影](https://www.douyin.com/video/7579611081631468843) - 2025-12-04 15:30:00
 - [无法预测的大数运算](https://www.douyin.com/video/7579183143404457266) - 2025-12-03 15:30:00
@@ -128,7 +129,6 @@
 - [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
 - [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
 - [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
-- [模板的本质](https://www.douyin.com/video/7571754166314339634) - 2025-11-13 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
@@ -359,6 +359,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [利用模板字符串实现精准渲染更新，你敢信？【渡一教育】](https://www.bilibili.com/BV1EW2vB2En9) - 2025-12-12 23:00:00
 - [组件的终极方案Web Components，让你的组件变成HTML标签【渡一教育】](https://www.bilibili.com/BV1EW2vB2EnZ) - 2025-12-10 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布【渡一教育】](https://www.bilibili.com/BV14T2vBtEMi) - 2025-12-08 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1xW2CBUEYU) - 2025-12-08 15:53:38
@@ -378,7 +379,6 @@
 - [TS中的类型验算【渡一教育】](https://www.bilibili.com/BV1Hy1aBkEyn) - 2025-11-03 23:00:00
 - [CSS预编译器【渡一教育】](https://www.bilibili.com/BV15D1NB9EJp) - 2025-10-31 22:00:00
 - [现代Web API【渡一教育】](https://www.bilibili.com/BV1F3yzBsEJV) - 2025-10-29 23:00:00
-- [现代CSS样式【渡一教育】](https://www.bilibili.com/BV18FsJzHEdE) - 2025-10-27 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 

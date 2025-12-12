@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-12 21:12:45</p>
+<p>更新时间：2025-12-13 02:55:40</p>
 
 地址 [https://space.bilibili.com/3546702577404004/video](https://space.bilibili.com/3546702577404004/video)
 
 </div>
 
+- [利用模板字符串实现精准渲染更新，你敢信？【渡一教育】](https://www.bilibili.com/BV1EW2vB2En9) - 2025-12-12 23:00:00
 - [组件的终极方案Web Components，让你的组件变成HTML标签【渡一教育】](https://www.bilibili.com/BV1EW2vB2EnZ) - 2025-12-10 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布【渡一教育】](https://www.bilibili.com/BV14T2vBtEMi) - 2025-12-08 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何统一工程规范【渡一教育】](https://www.bilibili.com/BV1xW2CBUEYU) - 2025-12-08 15:53:38
