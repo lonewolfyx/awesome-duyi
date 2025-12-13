@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-13 10:22:17</p>
+<p>更新时间：2025-12-13 14:53:42</p>
 
 地址 [https://space.bilibili.com/3546701459622695/video](https://space.bilibili.com/3546701459622695/video)
 
 </div>
 
+- [前端部分常见笔面试题点评【渡一教育】](https://www.bilibili.com/BV1VG2aBtEsT) - 2025-12-13 12:00:00
 - [不规则的文字环绕【渡一教育】](https://www.bilibili.com/BV1GG2aBtEZU) - 2025-12-13 09:00:00
 - [自动注入Less全局变量【渡一教育】](https://www.bilibili.com/BV1YG2aBtEtG) - 2025-12-12 12:00:00
 - [使用data url预览图片【渡一教育】](https://www.bilibili.com/BV1QV2aBdEnE) - 2025-12-12 09:00:00

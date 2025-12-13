@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-13 10:22:17</p>
+<p>更新时间：2025-12-13 14:53:42</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1hxSeBTEw6) - 2025-12-13 11:55:00
 - [Cookie中的SameSite【渡一教育】](https://www.bilibili.com/BV1hxSeBTEjq) - 2025-12-12 11:55:00
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1D4SeBiE7y) - 2025-12-11 11:55:00
 - [钉钉官网的滚动动画【渡一教育】](https://www.bilibili.com/BV1rim4B8Eu8) - 2025-12-10 15:09:28
