@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [层叠规则](https://www.douyin.com/video/7580718034927635731) - 2025-12-08 23:50:00
 - [页面可见度API](https://www.douyin.com/video/7580300100317089064) - 2025-12-06 23:50:00
 - [Sass实现星空效果](https://www.douyin.com/video/7579927062677409024) - 2025-12-05 23:50:00
 - [SASS中的模块化开发](https://www.douyin.com/video/7579611165567831315) - 2025-12-04 23:50:00
@@ -53,7 +54,6 @@
 - [下载的流式传输](https://www.douyin.com/video/7573687647449648424) - 2025-11-18 23:50:00
 - [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
 - [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
-- [Reflect的本质](https://www.douyin.com/video/7572186272676990214) - 2025-11-14 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [俄罗斯方块实现思路](https://www.douyin.com/video/7580718176103681322) - 2025-12-08 15:30:00
 - [使用SASS实现主题切换](https://www.douyin.com/video/7580300809468939560) - 2025-12-06 15:30:00
 - [无限视差滚动](https://www.douyin.com/video/7580297557851622708) - 2025-12-05 17:06:08
 - [漂亮的文字阴影](https://www.douyin.com/video/7579611081631468843) - 2025-12-04 15:30:00
@@ -128,7 +129,6 @@
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
 - [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
 - [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
-- [声音的分析和处理](https://www.douyin.com/video/7572186207636000042) - 2025-11-14 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
