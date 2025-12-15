@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-15 02:51:02</p>
+<p>更新时间：2025-12-15 10:34:23</p>
 
 地址 [https://space.bilibili.com/3546701449136645/video](https://space.bilibili.com/3546701449136645/video)
 
 </div>
 
+- [实现抖音的“刚刚看过”功能【渡一教育】](https://www.bilibili.com/BV1a42QBUE11) - 2025-12-15 09:00:00
 - [Sass实现文字替换【渡一教育】](https://www.bilibili.com/BV1YS2aBwEZU) - 2025-12-13 12:00:00
 - [俄罗斯方块实现思路【渡一教育】](https://www.bilibili.com/BV1YD2aBhET9) - 2025-12-13 09:00:00
 - [跟随系统的主题切换【渡一教育】](https://www.bilibili.com/BV1XD2aBhEkA) - 2025-12-12 12:00:00
