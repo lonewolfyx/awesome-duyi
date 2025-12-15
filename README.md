@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [你不知道的数字字面量](https://www.douyin.com/video/7581411010066631951) - 2025-12-09 23:50:00
 - [层叠规则](https://www.douyin.com/video/7580718034927635731) - 2025-12-08 23:50:00
 - [页面可见度API](https://www.douyin.com/video/7580300100317089064) - 2025-12-06 23:50:00
 - [Sass实现星空效果](https://www.douyin.com/video/7579927062677409024) - 2025-12-05 23:50:00
@@ -53,7 +54,6 @@
 - [参数归一化](https://www.douyin.com/video/7574014960011955497) - 2025-11-19 23:50:00
 - [下载的流式传输](https://www.douyin.com/video/7573687647449648424) - 2025-11-18 23:50:00
 - [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
-- [数组的forEach方法](https://www.douyin.com/video/7572496836737486099) - 2025-11-15 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [Sass实现文字替换](https://www.douyin.com/video/7581410394434997544) - 2025-12-09 15:30:00
 - [俄罗斯方块实现思路](https://www.douyin.com/video/7580718176103681322) - 2025-12-08 15:30:00
 - [使用SASS实现主题切换](https://www.douyin.com/video/7580300809468939560) - 2025-12-06 15:30:00
 - [无限视差滚动](https://www.douyin.com/video/7580297557851622708) - 2025-12-05 17:06:08
@@ -128,12 +129,12 @@
 - [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
 - [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
-- [旋转中的视差效果](https://www.douyin.com/video/7572496113408806163) - 2025-11-15 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 抖音 - 渡一前端鸵鸟课堂
 
+- [对于性能问题束手无策？性能分析工具帮你快速定位问题](https://www.douyin.com/video/7581726555043417407) - 2025-12-09 22:00:00
 - [Worker Pool](https://www.douyin.com/video/7580260036639837474) - 2025-12-05 22:00:00
 - [对于别人写的代码中，可能会出现的错误异常怎么捕获？](https://www.douyin.com/video/7579880502350400802) - 2025-12-04 22:00:00
 - [JSON Schema](https://www.douyin.com/video/7579154877981625636) - 2025-12-02 22:00:00
@@ -153,7 +154,6 @@
 - [状态更新不及时，因为setstate异步？](https://www.douyin.com/video/7569433448012582187) - 2025-11-06 22:00:00
 - [元素居中的常见方案](https://www.douyin.com/video/7569084079786839350) - 2025-11-05 22:00:00
 - [为什么Hook要保证顺序一致性？](https://www.douyin.com/video/7568702340379790634) - 2025-11-04 22:00:00
-- [Fiber好在哪儿？](https://www.douyin.com/video/7568311594032123151) - 2025-11-03 22:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/code_review.html)
 
@@ -359,6 +359,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [实现样式隔离、自定义内容、自定义事件【渡一教育】](https://www.bilibili.com/BV12B26BrEK1) - 2025-12-15 23:00:00
 - [利用模板字符串实现精准渲染更新，你敢信？【渡一教育】](https://www.bilibili.com/BV1EW2vB2En9) - 2025-12-12 23:00:00
 - [组件的终极方案Web Components，让你的组件变成HTML标签【渡一教育】](https://www.bilibili.com/BV1EW2vB2EnZ) - 2025-12-10 23:00:00
 - [大中厂都在用monorepo工程管理你掌握了吗？monorepo如何对子包进行打包、依赖、测试、发布【渡一教育】](https://www.bilibili.com/BV14T2vBtEMi) - 2025-12-08 23:00:00
@@ -378,7 +379,6 @@
 - [CodePen上的神奇效果【渡一教育】](https://www.bilibili.com/BV15v16BDE3V) - 2025-11-05 23:00:00
 - [TS中的类型验算【渡一教育】](https://www.bilibili.com/BV1Hy1aBkEyn) - 2025-11-03 23:00:00
 - [CSS预编译器【渡一教育】](https://www.bilibili.com/BV15D1NB9EJp) - 2025-10-31 22:00:00
-- [现代Web API【渡一教育】](https://www.bilibili.com/BV1F3yzBsEJV) - 2025-10-29 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 

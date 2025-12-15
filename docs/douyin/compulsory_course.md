@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-15 21:24:25</p>
+<p>更新时间：2025-12-16 02:57:20</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [Sass实现文字替换](https://www.douyin.com/video/7581410394434997544) - 2025-12-09 15:30:00
 - [俄罗斯方块实现思路](https://www.douyin.com/video/7580718176103681322) - 2025-12-08 15:30:00
 - [使用SASS实现主题切换](https://www.douyin.com/video/7580300809468939560) - 2025-12-06 15:30:00
 - [无限视差滚动](https://www.douyin.com/video/7580297557851622708) - 2025-12-05 17:06:08
