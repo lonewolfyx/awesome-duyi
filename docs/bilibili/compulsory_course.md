@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-15 10:34:23</p>
+<p>更新时间：2025-12-15 14:59:24</p>
 
 地址 [https://space.bilibili.com/3494367522195464/video](https://space.bilibili.com/3494367522195464/video)
 
 </div>
 
+- [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1SomsBTEbs) - 2025-12-15 11:55:00
 - [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1HnSYBQE4K) - 2025-12-13 11:55:00
 - [Cookie中的SameSite【渡一教育】](https://www.bilibili.com/BV1wnSYBQEJi) - 2025-12-12 11:55:00
 - [实现防篡改的水印【渡一教育】](https://www.bilibili.com/BV1wnSYBQEwo) - 2025-12-11 11:55:00
