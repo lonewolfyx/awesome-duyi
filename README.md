@@ -209,6 +209,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [黏性定位【渡一教育】](https://www.bilibili.com/BV1VoqhBKEMk) - 2025-12-16 15:09:55
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV151msB1Egc) - 2025-12-16 11:55:00
 - [initial、unset、revert【渡一教育】](https://www.bilibili.com/BV1S9msBuEUm) - 2025-12-15 11:55:00
 - [用canvas玩转图片【渡一教育】](https://www.bilibili.com/BV1hxSeBTEw6) - 2025-12-13 11:55:00
@@ -228,7 +229,6 @@
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1HhUhBVEK2) - 2025-12-03 11:55:00
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV1ofSsBXEgj) - 2025-12-02 15:14:28
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV1whUhBVEFh) - 2025-12-02 11:55:00
-- [代码风格【渡一教育】](https://www.bilibili.com/BV1BkSrBqEgt) - 2025-12-01 15:07:59
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
