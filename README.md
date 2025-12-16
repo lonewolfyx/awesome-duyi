@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [等号运算符的运算和转换规则](https://www.douyin.com/video/7581837672986070314) - 2025-12-10 23:50:00
 - [你不知道的数字字面量](https://www.douyin.com/video/7581411010066631951) - 2025-12-09 23:50:00
 - [层叠规则](https://www.douyin.com/video/7580718034927635731) - 2025-12-08 23:50:00
 - [页面可见度API](https://www.douyin.com/video/7580300100317089064) - 2025-12-06 23:50:00
@@ -53,7 +54,6 @@
 - [最长递增子序列](https://www.douyin.com/video/7574417260534648106) - 2025-11-20 23:50:00
 - [参数归一化](https://www.douyin.com/video/7574014960011955497) - 2025-11-19 23:50:00
 - [下载的流式传输](https://www.douyin.com/video/7573687647449648424) - 2025-11-18 23:50:00
-- [SASS中的数学函数](https://www.douyin.com/video/7572499164794359081) - 2025-11-17 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [利用延迟实现复杂动画](https://www.douyin.com/video/7581837566610115894) - 2025-12-10 15:30:00
 - [Sass实现文字替换](https://www.douyin.com/video/7581410394434997544) - 2025-12-09 15:30:00
 - [俄罗斯方块实现思路](https://www.douyin.com/video/7580718176103681322) - 2025-12-08 15:30:00
 - [使用SASS实现主题切换](https://www.douyin.com/video/7580300809468939560) - 2025-12-06 15:30:00
@@ -128,7 +129,6 @@
 - [钉钉官网的滚动动画](https://www.douyin.com/video/7574417235104566547) - 2025-11-20 15:30:00
 - [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 - [打包体积的分析和优化](https://www.douyin.com/video/7573687493841751296) - 2025-11-18 15:30:00
-- [toFixed的结果可能会欺骗你](https://www.douyin.com/video/7572498604884069686) - 2025-11-17 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
