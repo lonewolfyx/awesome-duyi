@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-16 10:30:18</p>
+<p>更新时间：2025-12-16 14:58:18</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1Wam4BAEjZ) - 2025-12-16 12:00:00
 - [元素倒影【渡一教育】](https://www.bilibili.com/BV1HYm4BaEiU) - 2025-12-16 09:00:00
 - [协变和逆变【渡一教育】](https://www.bilibili.com/BV1AYm4BaE38) - 2025-12-15 12:00:00
 - [JS中的计时是否精确【渡一教育】](https://www.bilibili.com/BV1Wbm4BNEfz) - 2025-12-15 09:00:00

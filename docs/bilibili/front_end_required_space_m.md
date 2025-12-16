@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-16 10:30:18</p>
+<p>更新时间：2025-12-16 14:58:18</p>
 
 地址 [https://space.bilibili.com/3546701459622695/video](https://space.bilibili.com/3546701459622695/video)
 
 </div>
 
+- [链式调用和延迟执行【渡一教育】](https://www.bilibili.com/BV1yMmtBqEr5) - 2025-12-16 12:00:00
 - [什么是Promise【渡一教育】](https://www.bilibili.com/BV11MmtBqEpv) - 2025-12-16 09:00:00
 - [色彩的差值混合【渡一教育】](https://www.bilibili.com/BV1NMmtBBEuA) - 2025-12-15 12:00:00
 - [任务队列的中断和恢复【渡一教育】](https://www.bilibili.com/BV1sgmtBTEii) - 2025-12-15 09:00:00
