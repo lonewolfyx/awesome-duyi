@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-17 21:20:56</p>
+<p>更新时间：2025-12-18 02:57:13</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0](https://www.douyin.com/user/MS4wLjABAAAAcMcBLE02aSIo_-BuI9bhDxDIj4a8Fw1PASgGm7fwGa0)
 
 </div>
 
+- [想让一个方法获得最大的复用性？那一定离不开依赖注入](https://www.douyin.com/video/7582432299065593142) - 2025-12-11 22:00:00
 - [对于性能问题束手无策？性能分析工具帮你快速定位问题](https://www.douyin.com/video/7581726555043417407) - 2025-12-09 22:00:00
 - [Worker Pool](https://www.douyin.com/video/7580260036639837474) - 2025-12-05 22:00:00
 - [对于别人写的代码中，可能会出现的错误异常怎么捕获？](https://www.douyin.com/video/7579880502350400802) - 2025-12-04 22:00:00
