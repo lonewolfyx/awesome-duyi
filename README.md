@@ -309,6 +309,7 @@
 
 ### 哔哩哔哩 - 渡一前端学习空间
 
+- [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1yqqGBKEW4) - 2025-12-17 15:06:09
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1HpmCBVENf) - 2025-12-17 12:00:00
 - [制作简易地图【渡一教育】](https://www.bilibili.com/BV1nWmCBkEqo) - 2025-12-16 12:00:00
 - [好用的vscode插件【渡一教育】](https://www.bilibili.com/BV1dc2rBdENc) - 2025-12-15 12:00:00
@@ -328,7 +329,6 @@
 - [块级函数【渡一教育】](https://www.bilibili.com/BV1cKUrB3ER1) - 2025-11-29 12:00:00
 - [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1vxS7BAENZ) - 2025-11-28 15:06:58
 - [色彩空间【渡一教育】](https://www.bilibili.com/BV1HKUrBgEnq) - 2025-11-27 12:00:00
-- [立体文字特效【渡一教育】](https://www.bilibili.com/BV1nTUrBzEpL) - 2025-11-26 12:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_learning_space.html)
 
