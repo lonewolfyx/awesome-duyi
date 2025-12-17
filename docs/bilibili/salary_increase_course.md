@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-17 10:25:29</p>
+<p>更新时间：2025-12-17 14:57:56</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [剪切板对象无法获取的问题【渡一教育】](https://www.bilibili.com/BV1KWm4BBEr9) - 2025-12-17 12:00:00
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1Aam4BAENm) - 2025-12-17 09:00:00
 - [3D渐变的轮播图【渡一教育】](https://www.bilibili.com/BV1Wam4BAEjZ) - 2025-12-16 12:00:00
 - [元素倒影【渡一教育】](https://www.bilibili.com/BV1HYm4BaEiU) - 2025-12-16 09:00:00
