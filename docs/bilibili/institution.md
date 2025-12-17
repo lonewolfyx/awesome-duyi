@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-17 02:56:51</p>
+<p>更新时间：2025-12-17 10:25:28</p>
 
 地址 [https://space.bilibili.com/286614549/video](https://space.bilibili.com/286614549/video)
 
 </div>
 
+- [在vite中手动分包【渡一教育】](https://www.bilibili.com/BV1DDmsB3Efy) - 2025-12-17 09:00:00
 - [调试上传接口【渡一教育】](https://www.bilibili.com/BV1SQmsB6Eem) - 2025-12-16 11:55:00
 - [DNS解析和优化【渡一教育】](https://www.bilibili.com/BV1isq8BMEsu) - 2025-12-16 10:17:44
 - [标签页间通信【渡一教育】](https://www.bilibili.com/BV1DQmsB6ETE) - 2025-12-15 11:55:00
