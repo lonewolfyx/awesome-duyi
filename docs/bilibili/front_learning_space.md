@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-18 10:26:17</p>
+<p>更新时间：2025-12-18 14:57:13</p>
 
 地址 [https://space.bilibili.com/3546700759173216/video](https://space.bilibili.com/3546700759173216/video)
 
 </div>
 
+- [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1npmCBVEZV) - 2025-12-18 12:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1yqqGBKEW4) - 2025-12-17 15:06:09
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1HpmCBVENf) - 2025-12-17 12:00:00
 - [制作简易地图【渡一教育】](https://www.bilibili.com/BV1nWmCBkEqo) - 2025-12-16 12:00:00

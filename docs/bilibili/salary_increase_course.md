@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-18 10:26:17</p>
+<p>更新时间：2025-12-18 14:57:13</p>
 
 地址 [https://space.bilibili.com/3537111135291562/video](https://space.bilibili.com/3537111135291562/video)
 
 </div>
 
+- [用CSS自定义咖啡【渡一教育】](https://www.bilibili.com/BV1Tpm4BuEZj) - 2025-12-18 12:00:00
 - [对柯里化进行类型标注【渡一教育】](https://www.bilibili.com/BV122qEBWEqA) - 2025-12-18 10:07:29
 - [剪切板对象无法获取的问题【渡一教育】](https://www.bilibili.com/BV1KWm4BBEr9) - 2025-12-17 12:00:00
 - [使用infer封装通用类型工具【渡一教育】](https://www.bilibili.com/BV1Aam4BAENm) - 2025-12-17 09:00:00

@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-18 10:26:17</p>
+<p>更新时间：2025-12-18 14:57:13</p>
 
 地址 [https://space.bilibili.com/3494367524293389/video](https://space.bilibili.com/3494367524293389/video)
 
 </div>
 
+- [手动解析DOM树【渡一教育】](https://www.bilibili.com/BV1Zkm4BsEPv) - 2025-12-18 12:00:00
 - [组件级权限控制的最佳实践【渡一教育】](https://www.bilibili.com/BV1Zkm4BsEVy) - 2025-12-17 12:00:00
 - [实例成员和静态成员【渡一教育】](https://www.bilibili.com/BV17km4BxECo) - 2025-12-16 12:00:00
 - [token无感刷新【渡一教育】](https://www.bilibili.com/BV1Kxm4BTEzg) - 2025-12-15 12:00:00
