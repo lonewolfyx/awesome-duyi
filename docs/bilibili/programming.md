@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-18 14:57:13</p>
+<p>更新时间：2025-12-18 21:13:26</p>
 
 地址 [https://space.bilibili.com/383573378/video](https://space.bilibili.com/383573378/video)
 
 </div>
 
+- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1uwqnBwEUv) - 2025-12-18 15:44:02
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1e1msB1EW5) - 2025-12-18 11:55:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV151msB1Ecs) - 2025-12-17 11:55:00
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1VoqhBKEMk) - 2025-12-16 15:09:55

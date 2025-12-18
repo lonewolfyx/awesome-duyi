@@ -209,6 +209,7 @@
 
 ### 哔哩哔哩 - 渡一教育编程课堂
 
+- [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1uwqnBwEUv) - 2025-12-18 15:44:02
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV1e1msB1EW5) - 2025-12-18 11:55:00
 - [copy的监听和解禁【渡一教育】](https://www.bilibili.com/BV151msB1Ecs) - 2025-12-17 11:55:00
 - [黏性定位【渡一教育】](https://www.bilibili.com/BV1VoqhBKEMk) - 2025-12-16 15:09:55
@@ -228,7 +229,6 @@
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1XG2aB4EcQ) - 2025-12-04 15:17:51
 - [声音的分析和处理【渡一教育】](https://www.bilibili.com/BV1khUhBVELp) - 2025-12-04 11:55:00
 - [模板的本质【渡一教育】](https://www.bilibili.com/BV1MUSYBYEyZ) - 2025-12-03 15:15:47
-- [模板的本质【渡一教育】](https://www.bilibili.com/BV1HhUhBVEK2) - 2025-12-03 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/programming.html)
 
@@ -309,6 +309,7 @@
 
 ### 哔哩哔哩 - 渡一前端学习空间
 
+- [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1VeqnB3Eav) - 2025-12-18 15:38:39
 - [绝对路径和相对路径【渡一教育】](https://www.bilibili.com/BV1npmCBVEZV) - 2025-12-18 12:00:00
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1yqqGBKEW4) - 2025-12-17 15:06:09
 - [使用depcheck进行依赖检查【渡一教育】](https://www.bilibili.com/BV1HpmCBVENf) - 2025-12-17 12:00:00
@@ -328,7 +329,6 @@
 - [Promise的终极面试题【渡一教育】](https://www.bilibili.com/BV1FWSyBJELH) - 2025-12-02 12:00:00
 - [多重变形的顺序问题【渡一教育】](https://www.bilibili.com/BV1HKUrBgENo) - 2025-12-01 12:00:00
 - [块级函数【渡一教育】](https://www.bilibili.com/BV1cKUrB3ER1) - 2025-11-29 12:00:00
-- [解决canvas清晰度的问题【渡一教育】](https://www.bilibili.com/BV1vxS7BAENZ) - 2025-11-28 15:06:58
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/front_learning_space.html)
 
