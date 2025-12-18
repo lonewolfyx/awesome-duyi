@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [属性到底存在不存在？](https://www.douyin.com/video/7582619526236212523) - 2025-12-12 23:50:00
 - [JS真的有引用传递吗](https://www.douyin.com/video/7582142463847042310) - 2025-12-11 23:50:00
 - [等号运算符的运算和转换规则](https://www.douyin.com/video/7581837672986070314) - 2025-12-10 23:50:00
 - [你不知道的数字字面量](https://www.douyin.com/video/7581411010066631951) - 2025-12-09 23:50:00
@@ -53,7 +54,6 @@
 - [判断稀疏数组](https://www.douyin.com/video/7575103476317932819) - 2025-11-22 23:50:00
 - [实例成员和静态成员](https://www.douyin.com/video/7574728956625095990) - 2025-11-21 23:50:00
 - [最长递增子序列](https://www.douyin.com/video/7574417260534648106) - 2025-11-20 23:50:00
-- [参数归一化](https://www.douyin.com/video/7574014960011955497) - 2025-11-19 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [ESModule的工作原理](https://www.douyin.com/video/7582618753142197510) - 2025-12-12 15:30:00
 - [浏览器原生弹窗](https://www.douyin.com/video/7582141836622384438) - 2025-12-11 15:30:00
 - [利用延迟实现复杂动画](https://www.douyin.com/video/7581837566610115894) - 2025-12-10 15:30:00
 - [Sass实现文字替换](https://www.douyin.com/video/7581410394434997544) - 2025-12-09 15:30:00
@@ -128,12 +129,12 @@
 - [Cookie中的SameSite](https://www.douyin.com/video/7575475971797667078) - 2025-11-22 17:15:54
 - [实现防篡改的水印](https://www.douyin.com/video/7574728224660360454) - 2025-11-21 15:30:00
 - [钉钉官网的滚动动画](https://www.douyin.com/video/7574417235104566547) - 2025-11-20 15:30:00
-- [幻影依赖](https://www.douyin.com/video/7573993949443001636) - 2025-11-19 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
 ### 抖音 - 渡一前端鸵鸟课堂
 
+- [原型污染有多重要？React核弹级漏洞引发原因](https://www.douyin.com/video/7582862268191313215) - 2025-12-12 22:00:00
 - [想让一个方法获得最大的复用性？那一定离不开依赖注入](https://www.douyin.com/video/7582432299065593142) - 2025-12-11 22:00:00
 - [对于性能问题束手无策？性能分析工具帮你快速定位问题](https://www.douyin.com/video/7581726555043417407) - 2025-12-09 22:00:00
 - [Worker Pool](https://www.douyin.com/video/7580260036639837474) - 2025-12-05 22:00:00
@@ -153,7 +154,6 @@
 - [为什么setState是异步的？](https://www.douyin.com/video/7569824779105062207) - 2025-11-08 22:00:00
 - [什么时候用useEffect？](https://www.douyin.com/video/7569824430529039635) - 2025-11-07 22:00:00
 - [状态更新不及时，因为setstate异步？](https://www.douyin.com/video/7569433448012582187) - 2025-11-06 22:00:00
-- [元素居中的常见方案](https://www.douyin.com/video/7569084079786839350) - 2025-11-05 22:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/code_review.html)
 
