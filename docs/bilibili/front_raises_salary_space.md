@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-19 10:31:00</p>
+<p>更新时间：2025-12-19 14:56:06</p>
 
 地址 [https://space.bilibili.com/3546701442844736/video](https://space.bilibili.com/3546701442844736/video)
 
 </div>
 
+- [let和var的区别【渡一教育】](https://www.bilibili.com/BV1Eqm4BfE8v) - 2025-12-19 12:00:00
 - [展示组件和容器组件【渡一教育】](https://www.bilibili.com/BV1Ezm4BtEj6) - 2025-12-18 12:00:00
 - [CommonJS的本质【渡一教育】](https://www.bilibili.com/BV1Zzm4B4ErV) - 2025-12-17 12:00:00
 - [这个表达式是真“nb”【渡一教育】](https://www.bilibili.com/BV1Zzm4B4EYC) - 2025-12-16 12:00:00
