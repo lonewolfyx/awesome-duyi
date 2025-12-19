@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-19 21:11:40</p>
+<p>更新时间：2025-12-20 02:54:57</p>
 
 地址 [https://space.bilibili.com/3546702577404004/video](https://space.bilibili.com/3546702577404004/video)
 
 </div>
 
+- [为什么需要对知识库建立索引？索引如何建立？【渡一教育】](https://www.bilibili.com/BV11Pq8BQEkP) - 2025-12-19 23:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？【渡一教育】](https://www.bilibili.com/BV1KPq8BXEHP) - 2025-12-17 23:00:00
 - [实现样式隔离、自定义内容、自定义事件【渡一教育】](https://www.bilibili.com/BV12B26BrEK1) - 2025-12-15 23:00:00
 - [利用模板字符串实现精准渲染更新，你敢信？【渡一教育】](https://www.bilibili.com/BV1EW2vB2En9) - 2025-12-12 23:00:00

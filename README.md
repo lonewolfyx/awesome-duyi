@@ -34,6 +34,7 @@
 
 ### 抖音 - 渡一前端提薪课
 
+- [零宽字符](https://www.douyin.com/video/7582882193471589673) - 2025-12-13 23:50:00
 - [属性到底存在不存在？](https://www.douyin.com/video/7582619526236212523) - 2025-12-12 23:50:00
 - [JS真的有引用传递吗](https://www.douyin.com/video/7582142463847042310) - 2025-12-11 23:50:00
 - [等号运算符的运算和转换规则](https://www.douyin.com/video/7581837672986070314) - 2025-12-10 23:50:00
@@ -53,7 +54,6 @@
 - [inspect插件](https://www.douyin.com/video/7575478391776824619) - 2025-11-24 23:50:00
 - [判断稀疏数组](https://www.douyin.com/video/7575103476317932819) - 2025-11-22 23:50:00
 - [实例成员和静态成员](https://www.douyin.com/video/7574728956625095990) - 2025-11-21 23:50:00
-- [最长递增子序列](https://www.douyin.com/video/7574417260534648106) - 2025-11-20 23:50:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/salary_increase_course.html)
 
@@ -109,6 +109,7 @@
 
 ### 抖音 - 渡一前端必修课
 
+- [多次触发的动画结束事件](https://www.douyin.com/video/7582881566225976630) - 2025-12-13 15:30:00
 - [ESModule的工作原理](https://www.douyin.com/video/7582618753142197510) - 2025-12-12 15:30:00
 - [浏览器原生弹窗](https://www.douyin.com/video/7582141836622384438) - 2025-12-11 15:30:00
 - [利用延迟实现复杂动画](https://www.douyin.com/video/7581837566610115894) - 2025-12-10 15:30:00
@@ -128,7 +129,6 @@
 - [用canvas玩转图片](https://www.douyin.com/video/7575475355868351807) - 2025-11-24 15:30:00
 - [Cookie中的SameSite](https://www.douyin.com/video/7575475971797667078) - 2025-11-22 17:15:54
 - [实现防篡改的水印](https://www.douyin.com/video/7574728224660360454) - 2025-11-21 15:30:00
-- [钉钉官网的滚动动画](https://www.douyin.com/video/7574417235104566547) - 2025-11-20 15:30:00
 
 [查看更多](https://awesome-duyi.vercel.app/douyin/compulsory_course.html)
 
@@ -359,6 +359,7 @@
 
 ### 哔哩哔哩 - 渡一教科书复习基地
 
+- [为什么需要对知识库建立索引？索引如何建立？【渡一教育】](https://www.bilibili.com/BV11Pq8BQEkP) - 2025-12-19 23:00:00
 - [RAG为什么是重要的AI技术？什么是RAG？如何实现RAG？【渡一教育】](https://www.bilibili.com/BV1KPq8BXEHP) - 2025-12-17 23:00:00
 - [实现样式隔离、自定义内容、自定义事件【渡一教育】](https://www.bilibili.com/BV12B26BrEK1) - 2025-12-15 23:00:00
 - [利用模板字符串实现精准渲染更新，你敢信？【渡一教育】](https://www.bilibili.com/BV1EW2vB2En9) - 2025-12-12 23:00:00
@@ -378,7 +379,6 @@
 - [火爆全网的MCP全解读，从开发到应用透彻理解【渡一教育】](https://www.bilibili.com/BV1Wp2TBCEon) - 2025-11-12 22:00:00
 - [火爆全网的MCP全解读，前置知识先知道【渡一教育】](https://www.bilibili.com/BV1Cs2TBGECL) - 2025-11-07 23:00:00
 - [CodePen上的神奇效果【渡一教育】](https://www.bilibili.com/BV15v16BDE3V) - 2025-11-05 23:00:00
-- [TS中的类型验算【渡一教育】](https://www.bilibili.com/BV1Hy1aBkEyn) - 2025-11-03 23:00:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/textbook_review_base.html)
 

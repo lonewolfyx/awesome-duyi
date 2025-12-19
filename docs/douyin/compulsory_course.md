@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-19 21:11:40</p>
+<p>更新时间：2025-12-20 02:54:57</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk](https://www.douyin.com/user/MS4wLjABAAAAy68qgQPB-aGWv7MKIRB544hLgzY18xgXhywYjnN-XKk)
 
 </div>
 
+- [多次触发的动画结束事件](https://www.douyin.com/video/7582881566225976630) - 2025-12-13 15:30:00
 - [ESModule的工作原理](https://www.douyin.com/video/7582618753142197510) - 2025-12-12 15:30:00
 - [浏览器原生弹窗](https://www.douyin.com/video/7582141836622384438) - 2025-12-11 15:30:00
 - [利用延迟实现复杂动画](https://www.douyin.com/video/7581837566610115894) - 2025-12-10 15:30:00
