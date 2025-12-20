@@ -284,6 +284,7 @@
 
 ### 哔哩哔哩 - 渡一前端必修课
 
+- [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV1wQqzBrEXR) - 2025-12-20 15:42:57
 - [鼠标和键盘事件的常见问题【渡一教育】](https://www.bilibili.com/BV12cmxBeEBv) - 2025-12-20 11:55:00
 - [如何防截屏防录制【渡一教育】](https://www.bilibili.com/BV1mcmxBeE3k) - 2025-12-19 11:55:00
 - [Ajax中的各种常见概念【渡一教育】](https://www.bilibili.com/BV12cmxBeECm) - 2025-12-18 11:55:00
@@ -303,7 +304,6 @@
 - [拖拽API【渡一教育】](https://www.bilibili.com/BV17yUYBGEgE) - 2025-12-02 11:55:00
 - [代码风格【渡一教育】](https://www.bilibili.com/BV17yUYBGEHK) - 2025-12-01 11:55:00
 - [右键菜单的位置抉择【渡一教育】](https://www.bilibili.com/BV1pGyEBAEva) - 2025-11-29 11:55:00
-- [flex+margin【渡一教育】](https://www.bilibili.com/BV1pGyEBAEG5) - 2025-11-28 11:55:00
 
 [查看更多](https://awesome-duyi.vercel.app/bilibili/compulsory_course.html)
 
