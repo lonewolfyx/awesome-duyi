@@ -2,12 +2,13 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-20 10:22:03</p>
+<p>更新时间：2025-12-20 14:53:07</p>
 
 地址 [https://space.bilibili.com/3494367333452734/video](https://space.bilibili.com/3494367333452734/video)
 
 </div>
 
+- [目前前端岗位分布【渡一教育】](https://www.bilibili.com/BV1PpmsBhE5N) - 2025-12-20 11:55:00
 - [难点亮点：实现简单的渲染引擎【渡一教育】](https://www.bilibili.com/BV1WsmsBFEJr) - 2025-12-20 09:00:00
 - [代码差异对比【渡一教育】](https://www.bilibili.com/BV1AsmsBFEtK) - 2025-12-19 11:55:00
 - [什么是求职之道？【渡一教育】](https://www.bilibili.com/BV1AsmsBFEm8) - 2025-12-19 09:00:00
