@@ -2,12 +2,18 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-20 21:06:35</p>
+<p>更新时间：2026-01-21 01:38:12</p>
 
 地址 [https://space.bilibili.com/3494367331354766/video](https://space.bilibili.com/3494367331354766/video)
 
 </div>
 
+- [关于前端职业的未来-真正的问题【渡一教育】](https://www.bilibili.com/BV1DkroBLEwB) - 2026-01-19 12:00:00
+- [关于前端职业的未来-AI的危与机【渡一教育】](https://www.bilibili.com/BV1DkroBLEcj) - 2026-01-18 12:00:00
+- [关于前端职业的未来-岗位的变化【渡一教育】](https://www.bilibili.com/BV1ZsroBoEQM) - 2026-01-17 12:00:00
+- [关于前端职业的未来-就业的现状【渡一教育】](https://www.bilibili.com/BV1BsroBoEwc) - 2026-01-16 12:00:00
+- [关于前端职业的未来-市场的噪音【渡一教育】](https://www.bilibili.com/BV1znrpBYEdo) - 2026-01-15 12:00:00
+- [使用启发式算法解决NP难问题。场景题+算法+难点亮点，一题三吃【渡一教育】](https://www.bilibili.com/BV1u1BSBJE8Z) - 2025-12-26 12:00:00
 - [什么是工作流引擎？对前端开发会有哪些影响？【渡一教育】](https://www.bilibili.com/BV1EzSjBvE7F) - 2025-11-29 12:00:00
 - [学习工作流最重要的是理解核心概念，概念不明，寸步难行【渡一教育】](https://www.bilibili.com/BV1MXSGBgEWi) - 2025-11-28 12:00:00
 - [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？【渡一教育】](https://www.bilibili.com/BV1tHCpBUEVr) - 2025-11-14 12:00:00
@@ -22,10 +28,6 @@
 - [前端终极布局方案——网格布局，如何编排网格【渡一教育】](https://www.bilibili.com/BV1k7Hkz4EwH) - 2025-09-13 12:00:00
 - [实现Promise最复杂的then函数【渡一教育】](https://www.bilibili.com/BV11LaHzeEgA) - 2025-09-02 12:00:00
 - [Promise状态转换中你不知道的细节【渡一教育】](https://www.bilibili.com/BV11LaHzeEbB) - 2025-09-01 15:51:23
-- [关于前端职业的未来-真正的问题【渡一教育】](https://www.bilibili.com/BV17beFzAEqN) - 2025-08-25 12:00:00
-- [关于前端职业的未来-职业的选择【渡一教育】](https://www.bilibili.com/BV1ZbeFzAEBY) - 2025-08-22 12:00:00
-- [关于前端职业的未来-岗位的变化【渡一教育】](https://www.bilibili.com/BV17beFzAERN) - 2025-08-22 12:00:00
-- [关于前端职业的未来-市场的噪音【渡一教育】](https://www.bilibili.com/BV16WeFziEg6) - 2025-08-21 12:00:00
 - [火爆全网的MCP全解读，MCP项目助你就业涨薪【渡一教育】](https://www.bilibili.com/BV1GbYhz6EHs) - 2025-08-20 12:00:00
 - [火爆全网的MCP全解读，从开发到应用透彻理解【渡一教育】](https://www.bilibili.com/BV17PYszYEdU) - 2025-08-19 12:00:00
 - [火爆全网的MCP全解读，前置知识先知道【渡一教育】](https://www.bilibili.com/BV1qkYpzZEQ8) - 2025-08-18 12:00:42

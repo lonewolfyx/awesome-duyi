@@ -2,12 +2,18 @@
 
 <div class="tip custom-block">
 
-<p>更新时间：2025-12-20 21:06:35</p>
+<p>更新时间：2026-01-21 01:38:12</p>
 
 地址 [https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi](https://www.douyin.com/user/MS4wLjABAAAAKuAIiftuTMsdnH-9MyU8VZla5fmjhdY2Gd7tHueV25vzFnKs3lqLSV7xoPE7FTxi)
 
 </div>
 
+- [关于前端职业的未来-真正的问题](https://www.douyin.com/video/7595401761502874934) - 2026-01-19 12:00:00
+- [关于前端职业的未来-AI的危与机](https://www.douyin.com/video/7595400990887529734) - 2026-01-18 12:00:00
+- [关于前端职业的未来-岗位的变化](https://www.douyin.com/video/7595399468690771219) - 2026-01-17 12:00:00
+- [关于前端职业的未来-就业的现状](https://www.douyin.com/video/7595398317027183878) - 2026-01-16 12:00:00
+- [关于前端职业的未来-市场的噪音](https://www.douyin.com/video/7595146453006306603) - 2026-01-15 12:00:00
+- [使用启发式算法解决NP难问题。场景题+算法+难点亮点，一题三吃](https://www.douyin.com/video/7587703603847056666) - 2025-12-26 12:00:00
 - [什么是工作流引擎？对前端开发会有哪些影响？](https://www.douyin.com/video/7577705163075439881) - 2025-11-29 12:00:00
 - [学习工作流最重要的是理解核心概念，概念不明，寸步难行](https://www.douyin.com/video/7577586431002987818) - 2025-11-28 12:00:00
 - [如何通过向量相似度算法匹配知识？如何结合用户问题生成答案？](https://www.douyin.com/video/7572023828306464009) - 2025-11-14 12:00:00
@@ -22,10 +28,6 @@
 - [前端终极布局方案——网格布局，如何编排网格](https://www.douyin.com/video/7549044616083918131) - 2025-09-13 12:00:00
 - [实现Promise最复杂的then函数](https://www.douyin.com/video/7545378351192509735) - 2025-09-02 14:41:46
 - [Promise状态转换中你不知道的细节](https://www.douyin.com/video/7545036086813265215) - 2025-09-01 16:33:35
-- [关于前端职业的未来-真正的问题](https://www.douyin.com/video/7540131529448525098) - 2025-08-25 12:00:00
-- [关于前端职业的未来-职业的选择](https://www.douyin.com/video/7540203667589287222) - 2025-08-22 12:00:00
-- [关于前端职业的未来-岗位的变化](https://www.douyin.com/video/7540129452949359913) - 2025-08-22 12:00:00
-- [关于前端职业的未来-市场的噪音](https://www.douyin.com/video/7540126249687993639) - 2025-08-21 12:00:00
 - [火爆全网的MCP全解读，MCP项目助你就业涨薪](https://www.douyin.com/video/7540125372214480182) - 2025-08-20 12:00:00
 - [火爆全网的MCP全解读，从开发到应用透彻理解](https://www.douyin.com/video/7539848929630883114) - 2025-08-19 12:00:00
 - [火爆全网的MCP全解读，前置知识先知道](https://www.douyin.com/video/7539770382912474409) - 2025-08-18 12:00:04
