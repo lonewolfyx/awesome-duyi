@@ -37,7 +37,7 @@
     },
     "devDependencies": {
         "@antfu/eslint-config": "^6.2.0",
-        "@lonewolfyx/tsconfig": "^0.0.5",
+        "@lonewolfyx/tsconfig": "^0.0.6",
         "@types/fs-extra": "^11.0.4",
         "@types/node": "^24.0.0",
         "autoprefixer": "^10.4.21",
