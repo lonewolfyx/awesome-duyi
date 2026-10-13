@@ -29,7 +29,7 @@
         "gen:douyin:cookies": "npx playwright codegen https://www.douyin.com/user/MS4wLjABAAAAeIIkCgELXG6XdUxuE9nQ6W4AfS-aoPFbtmnBL8ytcYtBSyurgePBYZXJpB0LJBCT --save-storage=storageState.json"
     },
     "dependencies": {
-        "@lonewolfyx/utils": "^0.0.0",
+        "@lonewolfyx/utils": "^0.0.6",
         "axios": "^1.8.4",
         "dayjs": "^1.11.13",
         "fs-extra": "^11.3.0",
